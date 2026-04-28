@@ -1,0 +1,12 @@
+{
+  "databaseVersion": 1,
+  "baseUrl": "https://the-codex-data.pages.dev",
+  "sets": [
+    {
+      "setCode": "ECL",
+      "version": 1,
+      "jsonPath": "CardData/ECL.json",
+      "artPath": "CardArt/ECL/"
+    }
+  ]
+}
