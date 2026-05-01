@@ -58,7 +58,7 @@
             "cardID": "ECL-007",
             "setCode": "ECL",
             "cardNumber": 7,
-            "cardName": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
+            "cardName": "Brigid, Clachan's Heart",
             "cardText": "Whenever this creature enters or transforms into Brigid, Clachan's Heart, create a 1/1 green and white Kithkin creature token.\nAt the beginning of your first main phase, you may pay {G}. If you do, transform Brigid.",
             "artFileName": "ECL_007",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_007.jpg"
@@ -112,7 +112,7 @@
             "cardID": "ECL-013",
             "setCode": "ECL",
             "cardNumber": 13,
-            "cardName": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
+            "cardName": "Eirdu, Carrier of Dawn",
             "cardText": "Flying, lifelink\nCreature spells you cast have convoke.\nAt the beginning of your first main phase, you may pay {B}. If you do, transform Eirdu.",
             "artFileName": "ECL_013",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_013.jpg"
@@ -544,7 +544,7 @@
             "cardID": "ECL-061",
             "setCode": "ECL",
             "cardNumber": 61,
-            "cardName": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
+            "cardName": "Oko, Lorwyn Liege",
             "cardText": "At the beginning of your first main phase, you may pay {G}. If you do, transform Oko.\n+2: Up to one target creature gains all creature types.\n+1: Target creature gets -2/-0 until your next turn.",
             "artFileName": "ECL_061",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_061.jpg"
@@ -679,7 +679,7 @@
             "cardID": "ECL-076",
             "setCode": "ECL",
             "cardNumber": 76,
-            "cardName": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
+            "cardName": "Sygg, Wanderwine Wisdom",
             "cardText": "Sygg can't be blocked.\nWhenever this creature enters or transforms into Sygg, Wanderwine Wisdom, target creature gains \"Whenever this creature deals combat damage to a player or planeswalker, draw a card\" until end of turn.\nAt the beginning of your first main phase, you may pay {W}. If you do, transform Sygg.",
             "artFileName": "ECL_076",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_076.jpg"
@@ -940,7 +940,7 @@
             "cardID": "ECL-105",
             "setCode": "ECL",
             "cardNumber": 105,
-            "cardName": "Grub, Storied Matriarch // Grub, Notorious Auntie",
+            "cardName": "Grub, Storied Matriarch",
             "cardText": "Menace\nWhenever this creature enters or transforms into Grub, Storied Matriarch, return up to one target Goblin card from your graveyard to your hand.\nAt the beginning of your first main phase, you may pay {R}. If you do, transform Grub.",
             "artFileName": "ECL_105",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_105.jpg"
@@ -1111,7 +1111,7 @@
             "cardID": "ECL-124",
             "setCode": "ECL",
             "cardNumber": 124,
-            "cardName": "Ashling, Rekindled // Ashling, Rimebound",
+            "cardName": "Ashling, Rekindled",
             "cardText": "Whenever this creature enters or transforms into Ashling, Rekindled, you may discard a card. If you do, draw a card.\nAt the beginning of your first main phase, you may pay {U}. If you do, transform Ashling.",
             "artFileName": "ECL_124",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_124.jpg"
@@ -1786,7 +1786,7 @@
             "cardID": "ECL-199",
             "setCode": "ECL",
             "cardNumber": 199,
-            "cardName": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
+            "cardName": "Trystan, Callous Cultivator",
             "cardText": "Deathtouch\nWhenever this creature enters or transforms into Trystan, Callous Cultivator, mill three cards. Then if there is an Elf card in your graveyard, you gain 2 life.\nAt the beginning of your first main phase, you may pay {B}. If you do, transform Trystan.",
             "artFileName": "ECL_199",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_199.jpg"
@@ -2417,7 +2417,7 @@
             "setCode": "ECL",
             "cardNumber": 269,
             "cardName": "Plains",
-            "cardText": "",
+            "cardText": "({T}: Add {W}.)",
             "artFileName": "ECL_269",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_269.jpg"
         },
@@ -2426,7 +2426,7 @@
             "setCode": "ECL",
             "cardNumber": 270,
             "cardName": "Island",
-            "cardText": "",
+            "cardText": "({T}: Add {U}.)",
             "artFileName": "ECL_270",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_270.jpg"
         },
@@ -2435,7 +2435,7 @@
             "setCode": "ECL",
             "cardNumber": 271,
             "cardName": "Swamp",
-            "cardText": "",
+            "cardText": "({T}: Add {S.)",
             "artFileName": "ECL_271",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_271.jpg"
         },
@@ -2444,7 +2444,7 @@
             "setCode": "ECL",
             "cardNumber": 272,
             "cardName": "Mountain",
-            "cardText": "",
+            "cardText": "({T}: Add {M}.)",
             "artFileName": "ECL_272",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_272.jpg"
         },
@@ -2453,7 +2453,7 @@
             "setCode": "ECL",
             "cardNumber": 273,
             "cardName": "Forest",
-            "cardText": "",
+            "cardText": "({T}: Add {F}.)",
             "artFileName": "ECL_273",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_273.jpg"
         }
