@@ -2570,7 +2570,7 @@
             "setCode": "TLA",
             "cardNumber": 286,
             "cardName": "Forest",
-            "cardText": "({T}: Add {U}.)",
+            "cardText": "({T}: Add {F}.)",
             "artFileName": "TLA_286",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_286.jpg"
         },
