@@ -2435,7 +2435,7 @@
             "setCode": "ECL",
             "cardNumber": 271,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "ECL_271",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_271.jpg"
         },
@@ -2444,7 +2444,7 @@
             "setCode": "ECL",
             "cardNumber": 272,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "ECL_272",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_272.jpg"
         },
@@ -2453,7 +2453,7 @@
             "setCode": "ECL",
             "cardNumber": 273,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "ECL_273",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_273.jpg"
         }

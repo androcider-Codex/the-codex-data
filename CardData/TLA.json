@@ -238,7 +238,7 @@
             "cardID": "TLA-027",
             "setCode": "TLA",
             "cardNumber": 27,
-            "cardName": "The Legend of Yangchen // Avatar Yangchen",
+            "cardName": "The Legend of Yangchen",
             "cardText": "I — Starting with you, each player chooses up to one permanent with mana value 3 or greater from among permanents your opponents control. Exile those permanents.\nII — You may have target opponent draw three cards. If you do, draw three cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_027",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_027.jpg"
@@ -544,7 +544,7 @@
             "cardID": "TLA-061",
             "setCode": "TLA",
             "cardNumber": 61,
-            "cardName": "The Legend of Kuruk // Avatar Kuruk",
+            "cardName": "The Legend of Kuruk",
             "cardText": "I, II — Scry 2, then draw a card.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_061",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_061.jpg"
@@ -1048,7 +1048,7 @@
             "cardID": "TLA-117",
             "setCode": "TLA",
             "cardNumber": 117,
-            "cardName": "The Rise of Sozin // Fire Lord Sozin",
+            "cardName": "The Rise of Sozin",
             "cardText": "I — Destroy all creatures.\nII — Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_117",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_117.jpg"
@@ -1300,7 +1300,7 @@
             "cardID": "TLA-145",
             "setCode": "TLA",
             "cardNumber": 145,
-            "cardName": "The Legend of Roku // Avatar Roku",
+            "cardName": "The Legend of Roku",
             "cardText": "I — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nII — Add one mana of any color.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_145",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_145.jpg"
@@ -1669,7 +1669,7 @@
             "cardID": "TLA-186",
             "setCode": "TLA",
             "cardNumber": 186,
-            "cardName": "The Legend of Kyoshi // Avatar Kyoshi",
+            "cardName": "The Legend of Kyoshi",
             "cardText": "I — Draw cards equal to the greatest power among creatures you control.\nII — Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_186",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_186.jpg"
@@ -1822,7 +1822,7 @@
             "cardID": "TLA-203",
             "setCode": "TLA",
             "cardNumber": 203,
-            "cardName": "Aang, at the Crossroads // Aang, Destined Savior",
+            "cardName": "Aang, at the Crossroads",
             "cardText": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
             "artFileName": "TLA_203",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_203.jpg"
@@ -1831,7 +1831,7 @@
             "cardID": "TLA-204",
             "setCode": "TLA",
             "cardNumber": 204,
-            "cardName": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+            "cardName": "Aang, Swift Savior",
             "cardText": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell.\nWaterbend {8}: Transform Aang.",
             "artFileName": "TLA_204",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_204.jpg"
@@ -1858,7 +1858,7 @@
             "cardID": "TLA-207",
             "setCode": "TLA",
             "cardNumber": 207,
-            "cardName": "Avatar Aang // Aang, Master of Elements",
+            "cardName": "Avatar Aang",
             "cardText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
             "artFileName": "TLA_207",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_207.jpg"
@@ -2552,7 +2552,7 @@
             "setCode": "TLA",
             "cardNumber": 284,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S}.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "TLA_284",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_284.jpg"
         },
@@ -2561,7 +2561,7 @@
             "setCode": "TLA",
             "cardNumber": 285,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "TLA_285",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_285.jpg"
         },
@@ -2570,7 +2570,7 @@
             "setCode": "TLA",
             "cardNumber": 286,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "TLA_286",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_286.jpg"
         },
@@ -2588,7 +2588,7 @@
             "setCode": "TLA",
             "cardNumber": 288,
             "cardName": "Island",
-            "cardText": "({T}: Add {I}.)",
+            "cardText": "({T}: Add {U}.)",
             "artFileName": "TLA_288",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_288.jpg"
         },
@@ -2597,7 +2597,7 @@
             "setCode": "TLA",
             "cardNumber": 289,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S}.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "TLA_289",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_289.jpg"
         },
@@ -2606,7 +2606,7 @@
             "setCode": "TLA",
             "cardNumber": 290,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "TLA_290",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_290.jpg"
         },
@@ -2615,7 +2615,7 @@
             "setCode": "TLA",
             "cardNumber": 291,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "TLA_291",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_291.jpg"
         }

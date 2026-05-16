@@ -1733,7 +1733,7 @@
             "setCode": "TMT",
             "cardNumber": 193,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S}.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "TMT_193",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_193.jpg"
         },
@@ -1742,7 +1742,7 @@
             "setCode": "TMT",
             "cardNumber": 194,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "TMT_194",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_194.jpg"
         },
@@ -1751,7 +1751,7 @@
             "setCode": "TMT",
             "cardNumber": 195,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "TMT_195",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_195.jpg"
         }

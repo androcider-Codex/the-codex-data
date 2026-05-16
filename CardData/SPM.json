@@ -85,7 +85,7 @@
             "cardID": "SPM-010",
             "setCode": "SPM",
             "cardNumber": 10,
-            "cardName": "Peter Parker // Amazing Spider-Man",
+            "cardName": "Peter Parker",
             "cardText": "When Peter Parker enters, create a 2/1 green Spider creature token with reach.\n{1}{G}{W}{U}: Transform Peter Parker. Activate only as a sorcery.",
             "artFileName": "SPM_010",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_010.jpg"
@@ -346,7 +346,7 @@
             "cardID": "SPM-039",
             "setCode": "SPM",
             "cardNumber": 39,
-            "cardName": "Norman Osborn // Green Goblin",
+            "cardName": "Norman Osborn",
             "cardText": "Norman Osborn can't be blocked.\nWhenever Norman Osborn deals combat damage to a player, he connives.\n{1}{U}{B}{R}: Transform Norman Osborn. Activate only as a sorcery.",
             "artFileName": "SPM_039",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_039.jpg"
@@ -490,7 +490,7 @@
             "cardID": "SPM-055",
             "setCode": "SPM",
             "cardNumber": 55,
-            "cardName": "Eddie Brock // Venom, Lethal Protector",
+            "cardName": "Eddie Brock",
             "cardText": "When Eddie Brock enters, return target creature card with mana value 1 or less from your graveyard to the battlefield.\n{3}{B}{R}{G}: Transform Eddie Brock. Activate only as a sorcery.",
             "artFileName": "SPM_055",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_055.jpg"
@@ -697,7 +697,7 @@
             "cardID": "SPM-078",
             "setCode": "SPM",
             "cardNumber": 78,
-            "cardName": "Gwen Stacy // Ghost-Spider",
+            "cardName": "Gwen Stacy",
             "cardText": "When Gwen Stacy enters, exile the top card of your library. You may play that card for as long as you control this creature.\n{2}{U}{R}{W}: Transform Gwen Stacy. Activate only as a sorcery.",
             "artFileName": "SPM_078",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_078.jpg"
@@ -967,7 +967,7 @@
             "cardID": "SPM-108",
             "setCode": "SPM",
             "cardNumber": 108,
-            "cardName": "Miles Morales // Ultimate Spider-Man",
+            "cardName": "Miles Morales",
             "cardText": "When Miles Morales enters, put a +1/+1 counter on each of up to two target creatures.\n{3}{R}{G}{W}: Transform Miles Morales. Activate only as a sorcery.",
             "artFileName": "SPM_108",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_108.jpg"
@@ -1715,7 +1715,7 @@
             "setCode": "SPM",
             "cardNumber": 191,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S}.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "SPM_191",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_191.jpg"
         },
@@ -1724,7 +1724,7 @@
             "setCode": "SPM",
             "cardNumber": 192,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "SPM_192",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_192.jpg"
         },
@@ -1733,7 +1733,7 @@
             "setCode": "SPM",
             "cardNumber": 193,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "SPM_193",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_193.jpg"
         },
@@ -1760,7 +1760,7 @@
             "setCode": "SPM",
             "cardNumber": 196,
             "cardName": "Swamp",
-            "cardText": "({T}: Add {S}.)",
+            "cardText": "({T}: Add {B}.)",
             "artFileName": "SPM_196",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_196.jpg"
         },
@@ -1769,7 +1769,7 @@
             "setCode": "SPM",
             "cardNumber": 197,
             "cardName": "Mountain",
-            "cardText": "({T}: Add {M}.)",
+            "cardText": "({T}: Add {R}.)",
             "artFileName": "SPM_197",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_197.jpg"
         },
@@ -1778,7 +1778,7 @@
             "setCode": "SPM",
             "cardNumber": 198,
             "cardName": "Forest",
-            "cardText": "({T}: Add {F}.)",
+            "cardText": "({T}: Add {G}.)",
             "artFileName": "SPM_198",
             "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_198.jpg"
         }
