@@ -7,7 +7,8 @@
             "cardName": "Changeling Wayfinder",
             "cardText": "Changeling\nWhen this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
             "artFileName": "ECL_001",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_001.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_001.jpg"
         },
         {
             "cardID": "ECL-002",
@@ -16,7 +17,8 @@
             "cardName": "Rooftop Percher",
             "cardText": "Changeling\nFlying\nWhen this creature enters, exile up to two target cards from graveyards. You gain 3 life.",
             "artFileName": "ECL_002",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_002.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_002.jpg"
         },
         {
             "cardID": "ECL-003",
@@ -25,7 +27,8 @@
             "cardName": "Adept Watershaper",
             "cardText": "Other tapped creatures you control have indestructible.",
             "artFileName": "ECL_003",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_003.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_003.jpg"
         },
         {
             "cardID": "ECL-004",
@@ -34,7 +37,8 @@
             "cardName": "Ajani, Outland Chaperone",
             "cardText": "+1: Create a 1/1 green and white Kithkin creature token.\n−2: Ajani deals 4 damage to target tapped creature.\n−8: Look at the top X cards of your library, where X is your life total. You may put any number of nonland permanent cards with mana value 3 or less from among them onto the battlefield. Then shuffle.",
             "artFileName": "ECL_004",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_004.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_004.jpg"
         },
         {
             "cardID": "ECL-005",
@@ -43,7 +47,8 @@
             "cardName": "Appeal to Eirdu",
             "cardText": "Convoke\nOne or two target creatures each get +2/+1 until end of turn.",
             "artFileName": "ECL_005",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_005.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_005.jpg"
         },
         {
             "cardID": "ECL-006",
@@ -52,16 +57,18 @@
             "cardName": "Bark of Doran",
             "cardText": "Equipped creature gets +0/+1.\nAs long as equipped creature's toughness is greater than its power, it assigns combat damage equal to its toughness rather than its power.\nEquip {1}",
             "artFileName": "ECL_006",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_006.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_006.jpg"
         },
         {
             "cardID": "ECL-007",
             "setCode": "ECL",
             "cardNumber": 7,
-            "cardName": "Brigid, Clachan's Heart",
+            "cardName": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
             "cardText": "Whenever this creature enters or transforms into Brigid, Clachan's Heart, create a 1/1 green and white Kithkin creature token.\nAt the beginning of your first main phase, you may pay {G}. If you do, transform Brigid.",
             "artFileName": "ECL_007",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_007.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_007.jpg"
         },
         {
             "cardID": "ECL-008",
@@ -70,7 +77,8 @@
             "cardName": "Burdened Stoneback",
             "cardText": "This creature enters with two -1/-1 counters on it.\n{1}{W}, Remove a counter from this creature: Target creature gains indestructible until end of turn. Activate only as a sorcery.",
             "artFileName": "ECL_008",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_008.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_008.jpg"
         },
         {
             "cardID": "ECL-009",
@@ -79,7 +87,8 @@
             "cardName": "Champion of the Clachan",
             "cardText": "Flash\nAs an additional cost to cast this spell, behold a Kithkin and exile it.\nOther Kithkin you control get +1/+1.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
             "artFileName": "ECL_009",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_009.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_009.jpg"
         },
         {
             "cardID": "ECL-010",
@@ -88,7 +97,8 @@
             "cardName": "Clachan Festival",
             "cardText": "When this enchantment enters, create two 1/1 green and white Kithkin creature tokens.\n{4}{W}: Create a 1/1 green and white Kithkin creature token.",
             "artFileName": "ECL_010",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_010.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_010.jpg"
         },
         {
             "cardID": "ECL-011",
@@ -97,7 +107,8 @@
             "cardName": "Crib Swap",
             "cardText": "Changeling\nExile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.",
             "artFileName": "ECL_011",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_011.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_011.jpg"
         },
         {
             "cardID": "ECL-012",
@@ -106,16 +117,18 @@
             "cardName": "Curious Colossus",
             "cardText": "When this creature enters, each creature target opponent controls loses all abilities, becomes a Coward in addition to its other types, and has base power and toughness 1/1.",
             "artFileName": "ECL_012",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_012.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_012.jpg"
         },
         {
             "cardID": "ECL-013",
             "setCode": "ECL",
             "cardNumber": 13,
-            "cardName": "Eirdu, Carrier of Dawn",
+            "cardName": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
             "cardText": "Flying, lifelink\nCreature spells you cast have convoke.\nAt the beginning of your first main phase, you may pay {B}. If you do, transform Eirdu.",
             "artFileName": "ECL_013",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_013.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_013.jpg"
         },
         {
             "cardID": "ECL-014",
@@ -124,7 +137,8 @@
             "cardName": "Encumbered Reejerey",
             "cardText": "This creature enters with three -1/-1 counters on it.\nWhenever this creature becomes tapped while it has a -1/-1 counter on it, remove a -1/-1 counter from it.",
             "artFileName": "ECL_014",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_014.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_014.jpg"
         },
         {
             "cardID": "ECL-015",
@@ -133,7 +147,8 @@
             "cardName": "Evershrike's Gift",
             "cardText": "Enchant creature\nEnchanted creature gets +1/+0 and has flying.\n{1}{W}, Blight 2: Return this card from your graveyard to your hand. Activate only as a sorcery.",
             "artFileName": "ECL_015",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_015.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_015.jpg"
         },
         {
             "cardID": "ECL-016",
@@ -142,7 +157,8 @@
             "cardName": "Flock Impostor",
             "cardText": "Changeling\nFlash\nFlying\nWhen this creature enters, return up to one other target creature you control to its owner's hand.",
             "artFileName": "ECL_016",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_016.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_016.jpg"
         },
         {
             "cardID": "ECL-017",
@@ -151,7 +167,8 @@
             "cardName": "Gallant Fowlknight",
             "cardText": "When this creature enters, creatures you control get +1/+0 until end of turn. Kithkin creatures you control also gain first strike until end of turn.",
             "artFileName": "ECL_017",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_017.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_017.jpg"
         },
         {
             "cardID": "ECL-018",
@@ -160,7 +177,8 @@
             "cardName": "Goldmeadow Nomad",
             "cardText": "{W}, Exile this card from your graveyard: Create a 1/1 green and white Kithkin creature token. Activate only as a sorcery.",
             "artFileName": "ECL_018",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_018.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_018.jpg"
         },
         {
             "cardID": "ECL-019",
@@ -169,7 +187,8 @@
             "cardName": "Keep Out",
             "cardText": "Choose one —\n• Keep Out deals 4 damage to target tapped creature.\n• Destroy target enchantment.",
             "artFileName": "ECL_019",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_019.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_019.jpg"
         },
         {
             "cardID": "ECL-020",
@@ -178,7 +197,8 @@
             "cardName": "Kinbinding",
             "cardText": "Creatures you control get +X/+X, where X is the number of creatures that entered the battlefield under your control this turn.\nAt the beginning of combat on your turn, create a 1/1 green and white Kithkin creature token.",
             "artFileName": "ECL_020",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_020.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_020.jpg"
         },
         {
             "cardID": "ECL-021",
@@ -187,7 +207,8 @@
             "cardName": "Kinsbaile Aspirant",
             "cardText": "As an additional cost to cast this spell, behold a Kithkin or pay {2}.\nWhenever another creature you control enters, this creature gets +1/+1 until end of turn.",
             "artFileName": "ECL_021",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_021.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_021.jpg"
         },
         {
             "cardID": "ECL-022",
@@ -196,7 +217,8 @@
             "cardName": "Kinscaer Sentry",
             "cardText": "First strike, lifelink\nWhenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.",
             "artFileName": "ECL_022",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_022.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_022.jpg"
         },
         {
             "cardID": "ECL-023",
@@ -205,7 +227,8 @@
             "cardName": "Kithkeeper",
             "cardText": "Vivid — When this creature enters, create X 1/1 green and white Kithkin creature tokens, where X is the number of colors among permanents you control.\nTap three untapped creatures you control: This creature gets +3/+0 and gains flying until end of turn.",
             "artFileName": "ECL_023",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_023.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_023.jpg"
         },
         {
             "cardID": "ECL-024",
@@ -214,7 +237,8 @@
             "cardName": "Liminal Hold",
             "cardText": "When this enchantment enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield. You gain 2 life.",
             "artFileName": "ECL_024",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_024.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_024.jpg"
         },
         {
             "cardID": "ECL-025",
@@ -223,7 +247,8 @@
             "cardName": "Meanders Guide",
             "cardText": "Whenever this creature attacks, you may tap another untapped Merfolk you control. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
             "artFileName": "ECL_025",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_025.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_025.jpg"
         },
         {
             "cardID": "ECL-026",
@@ -232,7 +257,8 @@
             "cardName": "Moonlit Lamenter",
             "cardText": "This creature enters with a -1/-1 counter on it.\n{1}{W}, Remove a counter from this creature: Draw a card. Activate only as a sorcery.",
             "artFileName": "ECL_026",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_026.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_026.jpg"
         },
         {
             "cardID": "ECL-027",
@@ -241,7 +267,8 @@
             "cardName": "Morningtide's Light",
             "cardText": "Exile any number of target creatures. At the beginning of the next end step, return those cards to the battlefield tapped under their owners' control.\nUntil your next turn, prevent all damage that would be dealt to you.\nExile Morningtide's Light.",
             "artFileName": "ECL_027",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_027.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_027.jpg"
         },
         {
             "cardID": "ECL-028",
@@ -250,7 +277,8 @@
             "cardName": "Personify",
             "cardText": "Exile target creature you control, then return that card to the battlefield under its owner's control. Create a 1/1 colorless Shapeshifter creature token with changeling.",
             "artFileName": "ECL_028",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_028.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_028.jpg"
         },
         {
             "cardID": "ECL-029",
@@ -259,7 +287,8 @@
             "cardName": "Protective Response",
             "cardText": "Convoke\nDestroy target attacking or blocking creature.",
             "artFileName": "ECL_029",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_029.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_029.jpg"
         },
         {
             "cardID": "ECL-030",
@@ -268,7 +297,8 @@
             "cardName": "Pyrrhic Strike",
             "cardText": "As an additional cost to cast this spell, you may blight 2.\nChoose one. If this spell's additional cost was paid, choose both instead.\n• Destroy target artifact or enchantment.\n• Destroy target creature with mana value 3 or greater.",
             "artFileName": "ECL_030",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_030.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_030.jpg"
         },
         {
             "cardID": "ECL-031",
@@ -277,7 +307,8 @@
             "cardName": "Reluctant Dounguard",
             "cardText": "This creature enters with two -1/-1 counters on it.\nWhenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",
             "artFileName": "ECL_031",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_031.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_031.jpg"
         },
         {
             "cardID": "ECL-032",
@@ -286,7 +317,8 @@
             "cardName": "Rhys, the Evermore",
             "cardText": "Flash\nWhen Rhys enters, another target creature you control gains persist until end of turn.\n{W}, {T}: Remove any number of counters from target creature you control. Activate only as a sorcery.",
             "artFileName": "ECL_032",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_032.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_032.jpg"
         },
         {
             "cardID": "ECL-033",
@@ -295,7 +327,8 @@
             "cardName": "Riverguard's Reflexes",
             "cardText": "Target creature gets +2/+2 and gains first strike until end of turn. Untap it.",
             "artFileName": "ECL_033",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_033.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_033.jpg"
         },
         {
             "cardID": "ECL-034",
@@ -304,7 +337,8 @@
             "cardName": "Shore Lurker",
             "cardText": "Flying\nWhen this creature enters, surveil 1.",
             "artFileName": "ECL_034",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_034.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_034.jpg"
         },
         {
             "cardID": "ECL-035",
@@ -313,7 +347,8 @@
             "cardName": "Slumbering Walker",
             "cardText": "This creature enters with two -1/-1 counters on it.\nAt the beginning of your end step, you may remove a counter from this creature. When you do, return target creature card with power 2 or less from your graveyard to the battlefield.",
             "artFileName": "ECL_035",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_035.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_035.jpg"
         },
         {
             "cardID": "ECL-036",
@@ -322,7 +357,8 @@
             "cardName": "Spiral into Solitude",
             "cardText": "Enchant creature\nEnchanted creature can't attack or block.\n{1}{W}, Blight 1, Sacrifice this Aura: Exile enchanted creature.",
             "artFileName": "ECL_036",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_036.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_036.jpg"
         },
         {
             "cardID": "ECL-037",
@@ -331,7 +367,8 @@
             "cardName": "Sun-Dappled Celebrant",
             "cardText": "Convoke\nVigilance",
             "artFileName": "ECL_037",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_037.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_037.jpg"
         },
         {
             "cardID": "ECL-038",
@@ -340,7 +377,8 @@
             "cardName": "Thoughtweft Imbuer",
             "cardText": "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of Kithkin you control.",
             "artFileName": "ECL_038",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_038.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_038.jpg"
         },
         {
             "cardID": "ECL-039",
@@ -349,7 +387,8 @@
             "cardName": "Timid Shieldbearer",
             "cardText": "{4}{W}: Creatures you control get +1/+1 until end of turn.",
             "artFileName": "ECL_039",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_039.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_039.jpg"
         },
         {
             "cardID": "ECL-040",
@@ -358,7 +397,8 @@
             "cardName": "Tributary Vaulter",
             "cardText": "Flying\nWhenever this creature becomes tapped, another target Merfolk you control gets +2/+0 until end of turn.",
             "artFileName": "ECL_040",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_040.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_040.jpg"
         },
         {
             "cardID": "ECL-041",
@@ -367,7 +407,8 @@
             "cardName": "Wanderbrine Preacher",
             "cardText": "Whenever this creature becomes tapped, you gain 2 life.",
             "artFileName": "ECL_041",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_041.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_041.jpg"
         },
         {
             "cardID": "ECL-042",
@@ -376,7 +417,8 @@
             "cardName": "Wanderbrine Trapper",
             "cardText": "{1}, {T}, Tap another untapped creature you control: Tap target creature an opponent controls.",
             "artFileName": "ECL_042",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_042.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_042.jpg"
         },
         {
             "cardID": "ECL-043",
@@ -385,7 +427,8 @@
             "cardName": "Winnowing",
             "cardText": "Convoke\nFor each player, you choose a creature that player controls. Then each player sacrifices all other creatures they control that don't share a creature type with the chosen creature they control.",
             "artFileName": "ECL_043",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_043.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_043.jpg"
         },
         {
             "cardID": "ECL-044",
@@ -394,7 +437,8 @@
             "cardName": "Aquitect's Defenses",
             "cardText": "Flash\nEnchant creature you control\nWhen this Aura enters, enchanted creature gains hexproof until end of turn.\nEnchanted creature gets +1/+2.",
             "artFileName": "ECL_044",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_044.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_044.jpg"
         },
         {
             "cardID": "ECL-045",
@@ -403,7 +447,8 @@
             "cardName": "Blossombind",
             "cardText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature can't become untapped and can't have counters put on it.",
             "artFileName": "ECL_045",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_045.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_045.jpg"
         },
         {
             "cardID": "ECL-046",
@@ -412,7 +457,8 @@
             "cardName": "Champions of the Shoal",
             "cardText": "As an additional cost to cast this spell, behold a Merfolk and exile it.\nWhenever this creature enters or becomes tapped, tap up to one target creature and put a stun counter on it.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
             "artFileName": "ECL_046",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_046.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_046.jpg"
         },
         {
             "cardID": "ECL-047",
@@ -421,7 +467,8 @@
             "cardName": "Disruptor of Currents",
             "cardText": "Flash\nConvoke\nWhen this creature enters, return up to one other target nonland permanent to its owner's hand.",
             "artFileName": "ECL_047",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_047.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_047.jpg"
         },
         {
             "cardID": "ECL-048",
@@ -430,7 +477,8 @@
             "cardName": "Flitterwing Nuisance",
             "cardText": "Flying\nThis creature enters with a -1/-1 counter on it.\n{2}{U}, Remove a counter from this creature: Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.",
             "artFileName": "ECL_048",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_048.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_048.jpg"
         },
         {
             "cardID": "ECL-049",
@@ -439,7 +487,8 @@
             "cardName": "Glamer Gifter",
             "cardText": "Flash\nFlying\nWhen this creature enters, choose up to one other target creature. Until end of turn, that creature has base power and toughness 4/4 and gains all creature types.",
             "artFileName": "ECL_049",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_049.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_049.jpg"
         },
         {
             "cardID": "ECL-050",
@@ -448,7 +497,8 @@
             "cardName": "Glamermite",
             "cardText": "Flash\nFlying\nWhen this creature enters, choose one —\n• Tap target creature.\n• Untap target creature.",
             "artFileName": "ECL_050",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_050.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_050.jpg"
         },
         {
             "cardID": "ECL-051",
@@ -457,7 +507,8 @@
             "cardName": "Glen Elendra Guardian",
             "cardText": "Flash\nFlying\nThis creature enters with a -1/-1 counter on it.\n{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",
             "artFileName": "ECL_051",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_051.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_051.jpg"
         },
         {
             "cardID": "ECL-052",
@@ -466,7 +517,8 @@
             "cardName": "Glen Elendra's Answer",
             "cardText": "This spell can't be countered.\nCounter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",
             "artFileName": "ECL_052",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_052.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_052.jpg"
         },
         {
             "cardID": "ECL-053",
@@ -475,7 +527,8 @@
             "cardName": "Gravelgill Scoundrel",
             "cardText": "Vigilance\nWhenever this creature attacks, you may tap another untapped creature you control. If you do, this creature can't be blocked this turn.",
             "artFileName": "ECL_053",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_053.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_053.jpg"
         },
         {
             "cardID": "ECL-054",
@@ -484,7 +537,8 @@
             "cardName": "Harmonized Crescendo",
             "cardText": "Convoke\nChoose a creature type. Draw a card for each permanent you control of that type.",
             "artFileName": "ECL_054",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_054.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_054.jpg"
         },
         {
             "cardID": "ECL-055",
@@ -493,7 +547,8 @@
             "cardName": "Illusion Spinners",
             "cardText": "You may cast this spell as though it had flash if you control a Faerie.\nFlying\nThis creature has hexproof as long as it's untapped.",
             "artFileName": "ECL_055",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_055.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_055.jpg"
         },
         {
             "cardID": "ECL-056",
@@ -502,7 +557,8 @@
             "cardName": "Kulrath Mystic",
             "cardText": "Whenever you cast a spell with mana value 4 or greater, this creature gets +2/+0 and gains vigilance until end of turn.",
             "artFileName": "ECL_056",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_056.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_056.jpg"
         },
         {
             "cardID": "ECL-057",
@@ -511,7 +567,8 @@
             "cardName": "Loch Mare",
             "cardText": "This creature enters with three -1/-1 counters on it.\n{1}{U}, Remove a counter from this creature: Draw a card.\n{2}{U}, Remove two counters from this creature: Tap target creature. Put a stun counter on it.",
             "artFileName": "ECL_057",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_057.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_057.jpg"
         },
         {
             "cardID": "ECL-058",
@@ -520,7 +577,8 @@
             "cardName": "Lofty Dreams",
             "cardText": "Convoke\nEnchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +2/+2 and has flying.",
             "artFileName": "ECL_058",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_058.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_058.jpg"
         },
         {
             "cardID": "ECL-059",
@@ -529,7 +587,8 @@
             "cardName": "Mirrorform",
             "cardText": "Each nonland permanent you control becomes a copy of target non-Aura permanent.",
             "artFileName": "ECL_059",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_059.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_059.jpg"
         },
         {
             "cardID": "ECL-060",
@@ -538,16 +597,18 @@
             "cardName": "Noggle the Mind",
             "cardText": "Flash\nEnchant creature\nEnchanted creature loses all abilities and is a colorless Noggle with base power and toughness 1/1.",
             "artFileName": "ECL_060",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_060.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_060.jpg"
         },
         {
             "cardID": "ECL-061",
             "setCode": "ECL",
             "cardNumber": 61,
-            "cardName": "Oko, Lorwyn Liege",
+            "cardName": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
             "cardText": "At the beginning of your first main phase, you may pay {G}. If you do, transform Oko.\n+2: Up to one target creature gains all creature types.\n+1: Target creature gets -2/-0 until your next turn.",
             "artFileName": "ECL_061",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_061.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_061.jpg"
         },
         {
             "cardID": "ECL-062",
@@ -556,7 +617,8 @@
             "cardName": "Omni-Changeling",
             "cardText": "Changeling\nConvoke\nYou may have this creature enter as a copy of any creature on the battlefield, except it has changeling.",
             "artFileName": "ECL_062",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_062.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_062.jpg"
         },
         {
             "cardID": "ECL-063",
@@ -565,7 +627,8 @@
             "cardName": "Pestered Wellguard",
             "cardText": "Whenever this creature becomes tapped, create a 1/1 blue and black Faerie creature token with flying.",
             "artFileName": "ECL_063",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_063.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_063.jpg"
         },
         {
             "cardID": "ECL-064",
@@ -574,7 +637,8 @@
             "cardName": "Rime Chill",
             "cardText": "Vivid — This spell costs {1} less to cast for each color among permanents you control.\nTap up to two target creatures. Put a stun counter on each of them.\nDraw a card.",
             "artFileName": "ECL_064",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_064.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_064.jpg"
         },
         {
             "cardID": "ECL-065",
@@ -583,7 +647,8 @@
             "cardName": "Rimefire Torque",
             "cardText": "As this artifact enters, choose a creature type.\nWhenever a permanent you control of the chosen type enters, put a charge counter on this artifact.\n{T}, Remove three charge counters from this artifact: When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.",
             "artFileName": "ECL_065",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_065.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_065.jpg"
         },
         {
             "cardID": "ECL-066",
@@ -592,7 +657,8 @@
             "cardName": "Rimekin Recluse",
             "cardText": "When this creature enters, return up to one other target creature to its owner's hand.",
             "artFileName": "ECL_066",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_066.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_066.jpg"
         },
         {
             "cardID": "ECL-067",
@@ -601,7 +667,8 @@
             "cardName": "Run Away Together",
             "cardText": "Choose two target creatures controlled by different players. Return those creatures to their owners' hands.",
             "artFileName": "ECL_067",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_067.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_067.jpg"
         },
         {
             "cardID": "ECL-068",
@@ -610,7 +677,8 @@
             "cardName": "Shinestriker",
             "cardText": "Flying\nVivid — When this creature enters, draw cards equal to the number of colors among permanents you control.",
             "artFileName": "ECL_068",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_068.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_068.jpg"
         },
         {
             "cardID": "ECL-069",
@@ -619,7 +687,8 @@
             "cardName": "Silvergill Mentor",
             "cardText": "As an additional cost to cast this spell, behold a Merfolk or pay {2}.\nWhen this creature enters, create a 1/1 white and blue Merfolk creature token.",
             "artFileName": "ECL_069",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_069.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_069.jpg"
         },
         {
             "cardID": "ECL-070",
@@ -628,7 +697,8 @@
             "cardName": "Silvergill Peddler",
             "cardText": "Whenever this creature becomes tapped, draw a card, then discard a card.",
             "artFileName": "ECL_070",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_070.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_070.jpg"
         },
         {
             "cardID": "ECL-071",
@@ -637,7 +707,8 @@
             "cardName": "Spell Snare",
             "cardText": "Counter target spell with mana value 2.",
             "artFileName": "ECL_071",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_071.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_071.jpg"
         },
         {
             "cardID": "ECL-072",
@@ -646,7 +717,8 @@
             "cardName": "Stratosoarer",
             "cardText": "Flying\nWhen this creature enters, target creature gains flying until end of turn.\nBasic landcycling {1}{U}",
             "artFileName": "ECL_072",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_072.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_072.jpg"
         },
         {
             "cardID": "ECL-073",
@@ -655,7 +727,8 @@
             "cardName": "Summit Sentinel",
             "cardText": "When this creature dies, draw a card.",
             "artFileName": "ECL_073",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_073.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_073.jpg"
         },
         {
             "cardID": "ECL-074",
@@ -664,7 +737,8 @@
             "cardName": "Sunderflock",
             "cardText": "This spell costs {X} less to cast, where X is the greatest mana value among Elementals you control.\nFlying\nWhen this creature enters, if you cast it, return all non-Elemental creatures to their owners' hands.",
             "artFileName": "ECL_074",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_074.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_074.jpg"
         },
         {
             "cardID": "ECL-075",
@@ -673,16 +747,18 @@
             "cardName": "Swat Away",
             "cardText": "This spell costs {2} less to cast if a creature is attacking you.\nThe owner of target spell or creature puts it on their choice of the top or bottom of their library.",
             "artFileName": "ECL_075",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_075.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_075.jpg"
         },
         {
             "cardID": "ECL-076",
             "setCode": "ECL",
             "cardNumber": 76,
-            "cardName": "Sygg, Wanderwine Wisdom",
+            "cardName": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
             "cardText": "Sygg can't be blocked.\nWhenever this creature enters or transforms into Sygg, Wanderwine Wisdom, target creature gains \"Whenever this creature deals combat damage to a player or planeswalker, draw a card\" until end of turn.\nAt the beginning of your first main phase, you may pay {W}. If you do, transform Sygg.",
             "artFileName": "ECL_076",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_076.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_076.jpg"
         },
         {
             "cardID": "ECL-077",
@@ -691,7 +767,8 @@
             "cardName": "Tanufel Rimespeaker",
             "cardText": "Whenever you cast a spell with mana value 4 or greater, draw a card.",
             "artFileName": "ECL_077",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_077.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_077.jpg"
         },
         {
             "cardID": "ECL-078",
@@ -700,7 +777,8 @@
             "cardName": "Temporal Cleansing",
             "cardText": "Convoke\nThe owner of target nonland permanent puts it into their library second from the top or on the bottom.",
             "artFileName": "ECL_078",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_078.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_078.jpg"
         },
         {
             "cardID": "ECL-079",
@@ -709,7 +787,8 @@
             "cardName": "Thirst for Identity",
             "cardText": "Draw three cards. Then discard two cards unless you discard a creature card.",
             "artFileName": "ECL_079",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_079.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_079.jpg"
         },
         {
             "cardID": "ECL-080",
@@ -718,7 +797,8 @@
             "cardName": "Unexpected Assistance",
             "cardText": "Convoke\nDraw three cards, then discard a card.",
             "artFileName": "ECL_080",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_080.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_080.jpg"
         },
         {
             "cardID": "ECL-081",
@@ -727,7 +807,8 @@
             "cardName": "Unwelcome Sprite",
             "cardText": "Flying\nWhenever you cast a spell during an opponent's turn, surveil 2.",
             "artFileName": "ECL_081",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_081.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_081.jpg"
         },
         {
             "cardID": "ECL-082",
@@ -736,7 +817,8 @@
             "cardName": "Wanderwine Distracter",
             "cardText": "Whenever this creature becomes tapped, target creature an opponent controls gets -3/-0 until end of turn.",
             "artFileName": "ECL_082",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_082.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_082.jpg"
         },
         {
             "cardID": "ECL-083",
@@ -745,7 +827,8 @@
             "cardName": "Wanderwine Farewell",
             "cardText": "Convoke\nReturn one or two target nonland permanents to their owners' hands. Then if you control a Merfolk, create a 1/1 white and blue Merfolk creature token for each permanent returned to its owner's hand this way.",
             "artFileName": "ECL_083",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_083.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_083.jpg"
         },
         {
             "cardID": "ECL-084",
@@ -754,7 +837,8 @@
             "cardName": "Wild Unraveling",
             "cardText": "As an additional cost to cast this spell, blight 2 or pay {1}.\nCounter target spell.",
             "artFileName": "ECL_084",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_084.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_084.jpg"
         },
         {
             "cardID": "ECL-085",
@@ -763,7 +847,8 @@
             "cardName": "Auntie's Sentence",
             "cardText": "Choose one —\n• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.\n• Target creature gets -2/-2 until end of turn.",
             "artFileName": "ECL_085",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_085.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_085.jpg"
         },
         {
             "cardID": "ECL-086",
@@ -772,7 +857,8 @@
             "cardName": "Barbed Bloodletter",
             "cardText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains wither until end of turn.\nEquipped creature gets +1/+2.\nEquip {2}",
             "artFileName": "ECL_086",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_086.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_086.jpg"
         },
         {
             "cardID": "ECL-087",
@@ -781,7 +867,8 @@
             "cardName": "Bile-Vial Boggart",
             "cardText": "When this creature dies, put a -1/-1 counter on up to one target creature.",
             "artFileName": "ECL_087",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_087.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_087.jpg"
         },
         {
             "cardID": "ECL-088",
@@ -790,7 +877,8 @@
             "cardName": "Bitterbloom Bearer",
             "cardText": "Flash\nFlying\nAt the beginning of your upkeep, you lose 1 life and create a 1/1 blue and black Faerie creature token with flying.",
             "artFileName": "ECL_088",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_088.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_088.jpg"
         },
         {
             "cardID": "ECL-089",
@@ -799,7 +887,8 @@
             "cardName": "Blight Rot",
             "cardText": "Put four -1/-1 counters on target creature.",
             "artFileName": "ECL_089",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_089.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_089.jpg"
         },
         {
             "cardID": "ECL-090",
@@ -808,7 +897,8 @@
             "cardName": "Blighted Blackthorn",
             "cardText": "Whenever this creature enters or attacks, you may blight 2. If you do, you draw a card and lose 1 life.",
             "artFileName": "ECL_090",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_090.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_090.jpg"
         },
         {
             "cardID": "ECL-091",
@@ -817,7 +907,8 @@
             "cardName": "Bloodline Bidding",
             "cardText": "Convoke\nChoose a creature type. Return all creature cards of the chosen type from your graveyard to the battlefield.",
             "artFileName": "ECL_091",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_091.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_091.jpg"
         },
         {
             "cardID": "ECL-092",
@@ -826,7 +917,8 @@
             "cardName": "Boggart Mischief",
             "cardText": "When this enchantment enters, you may blight 1. If you do, create two 1/1 black and red Goblin creature tokens.\nWhenever a Goblin creature you control dies, each opponent loses 1 life and you gain 1 life.",
             "artFileName": "ECL_092",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_092.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_092.jpg"
         },
         {
             "cardID": "ECL-093",
@@ -835,7 +927,8 @@
             "cardName": "Boggart Prankster",
             "cardText": "Whenever you attack, target attacking Goblin you control gets +1/+0 until end of turn.",
             "artFileName": "ECL_093",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_093.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_093.jpg"
         },
         {
             "cardID": "ECL-094",
@@ -844,7 +937,8 @@
             "cardName": "Bogslither's Embrace",
             "cardText": "As an additional cost to cast this spell, blight 1 or pay {3}.\nExile target creature.",
             "artFileName": "ECL_094",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_094.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_094.jpg"
         },
         {
             "cardID": "ECL-095",
@@ -853,7 +947,8 @@
             "cardName": "Champion of the Weird",
             "cardText": "As an additional cost to cast this spell, behold a Goblin and exile it.\nPay 1 life, Blight 2: Target opponent blights 2. Activate only as a sorcery.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
             "artFileName": "ECL_095",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_095.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_095.jpg"
         },
         {
             "cardID": "ECL-096",
@@ -862,7 +957,8 @@
             "cardName": "Creakwood Safewright",
             "cardText": "This creature enters with three -1/-1 counters on it.\nAt the beginning of your end step, if there is an Elf card in your graveyard and this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",
             "artFileName": "ECL_096",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_096.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_096.jpg"
         },
         {
             "cardID": "ECL-097",
@@ -871,7 +967,8 @@
             "cardName": "Darkness Descends",
             "cardText": "Put two -1/-1 counters on each creature.",
             "artFileName": "ECL_097",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_097.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_097.jpg"
         },
         {
             "cardID": "ECL-098",
@@ -880,7 +977,8 @@
             "cardName": "Dawnhand Dissident",
             "cardText": "{T}, Blight 1: Surveil 1.\n{T}, Blight 2: Exile target card from a graveyard.\nDuring your turn, you may cast creature spells from among cards you own exiled with this creature by removing three counters from among creatures you control in addition to paying their other costs.",
             "artFileName": "ECL_098",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_098.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_098.jpg"
         },
         {
             "cardID": "ECL-099",
@@ -889,7 +987,8 @@
             "cardName": "Dawnhand Eulogist",
             "cardText": "Menace\nWhen this creature enters, mill three cards. Then if there is an Elf card in your graveyard, each opponent loses 2 life and you gain 2 life.",
             "artFileName": "ECL_099",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_099.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_099.jpg"
         },
         {
             "cardID": "ECL-100",
@@ -898,7 +997,8 @@
             "cardName": "Dose of Dawnglow",
             "cardText": "Return target creature card from your graveyard to the battlefield. Then if it isn't your main phase, blight 2.",
             "artFileName": "ECL_100",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_100.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_100.jpg"
         },
         {
             "cardID": "ECL-101",
@@ -907,7 +1007,8 @@
             "cardName": "Dream Seizer",
             "cardText": "Flying\nWhen this creature enters, you may blight 1. If you do, each opponent discards a card.",
             "artFileName": "ECL_101",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_101.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_101.jpg"
         },
         {
             "cardID": "ECL-102",
@@ -916,7 +1017,8 @@
             "cardName": "Gloom Ripper",
             "cardText": "When this creature enters, target creature you control gets +X/+0 until end of turn and up to one target creature an opponent controls gets -0/-X until end of turn, where X is the number of Elves you control plus the number of Elf cards in your graveyard.",
             "artFileName": "ECL_102",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_102.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_102.jpg"
         },
         {
             "cardID": "ECL-103",
@@ -925,7 +1027,8 @@
             "cardName": "Gnarlbark Elm",
             "cardText": "This creature enters with two -1/-1 counters on it.\n{2}{B}, Remove two counters from this creature: Target creature gets -2/-2 until end of turn. Activate only as a sorcery.",
             "artFileName": "ECL_103",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_103.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_103.jpg"
         },
         {
             "cardID": "ECL-104",
@@ -934,16 +1037,18 @@
             "cardName": "Graveshifter",
             "cardText": "Changeling\nWhen this creature enters, you may return target creature card from your graveyard to your hand.",
             "artFileName": "ECL_104",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_104.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_104.jpg"
         },
         {
             "cardID": "ECL-105",
             "setCode": "ECL",
             "cardNumber": 105,
-            "cardName": "Grub, Storied Matriarch",
+            "cardName": "Grub, Storied Matriarch // Grub, Notorious Auntie",
             "cardText": "Menace\nWhenever this creature enters or transforms into Grub, Storied Matriarch, return up to one target Goblin card from your graveyard to your hand.\nAt the beginning of your first main phase, you may pay {R}. If you do, transform Grub.",
             "artFileName": "ECL_105",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_105.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_105.jpg"
         },
         {
             "cardID": "ECL-106",
@@ -952,7 +1057,8 @@
             "cardName": "Gutsplitter Gang",
             "cardText": "At the beginning of your first main phase, you may blight 2. If you don't, you lose 3 life.",
             "artFileName": "ECL_106",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_106.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_106.jpg"
         },
         {
             "cardID": "ECL-107",
@@ -961,7 +1067,8 @@
             "cardName": "Heirloom Auntie",
             "cardText": "This creature enters with two -1/-1 counters on it.\nWhenever another creature you control dies, surveil 1, then remove a -1/-1 counter from this creature.",
             "artFileName": "ECL_107",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_107.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_107.jpg"
         },
         {
             "cardID": "ECL-108",
@@ -970,7 +1077,8 @@
             "cardName": "Iron-Shield Elf",
             "cardText": "Discard a card: This creature gains indestructible until end of turn. Tap it.",
             "artFileName": "ECL_108",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_108.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_108.jpg"
         },
         {
             "cardID": "ECL-109",
@@ -979,7 +1087,8 @@
             "cardName": "Moonglove Extractor",
             "cardText": "Whenever this creature attacks, you draw a card and lose 1 life.",
             "artFileName": "ECL_109",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_109.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_109.jpg"
         },
         {
             "cardID": "ECL-110",
@@ -988,7 +1097,8 @@
             "cardName": "Moonshadow",
             "cardText": "Menace\nThis creature enters with six -1/-1 counters on it.\nWhenever one or more permanent cards are put into your graveyard from anywhere while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",
             "artFileName": "ECL_110",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_110.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_110.jpg"
         },
         {
             "cardID": "ECL-111",
@@ -997,7 +1107,8 @@
             "cardName": "Mornsong Aria",
             "cardText": "Players can't draw cards or gain life.\nAt the beginning of each player's draw step, that player loses 3 life, searches their library for a card, puts it into their hand, then shuffles.",
             "artFileName": "ECL_111",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_111.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_111.jpg"
         },
         {
             "cardID": "ECL-112",
@@ -1006,7 +1117,8 @@
             "cardName": "Mudbutton Cursetosser",
             "cardText": "As an additional cost to cast this spell, behold a Goblin or pay {2}.\nThis creature can't block.\nWhen this creature dies, destroy target creature an opponent controls with power 2 or less.",
             "artFileName": "ECL_112",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_112.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_112.jpg"
         },
         {
             "cardID": "ECL-113",
@@ -1015,7 +1127,8 @@
             "cardName": "Nameless Inversion",
             "cardText": "Changeling\nTarget creature gets +3/-3 and loses all creature types until end of turn.",
             "artFileName": "ECL_113",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_113.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_113.jpg"
         },
         {
             "cardID": "ECL-114",
@@ -1024,7 +1137,8 @@
             "cardName": "Nightmare Sower",
             "cardText": "Flying, lifelink\nWhenever you cast a spell during an opponent's turn, put a -1/-1 counter on up to one target creature.",
             "artFileName": "ECL_114",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_114.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_114.jpg"
         },
         {
             "cardID": "ECL-115",
@@ -1033,7 +1147,8 @@
             "cardName": "Perfect Intimidation",
             "cardText": "Choose one or both —\n• Target opponent exiles two cards from their hand.\n• Remove all counters from target creature.",
             "artFileName": "ECL_115",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_115.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_115.jpg"
         },
         {
             "cardID": "ECL-116",
@@ -1042,7 +1157,8 @@
             "cardName": "Requiting Hex",
             "cardText": "As an additional cost to cast this spell, you may blight 1.\nDestroy target creature with mana value 2 or less. If this spell's additional cost was paid, you gain 2 life.",
             "artFileName": "ECL_116",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_116.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_116.jpg"
         },
         {
             "cardID": "ECL-117",
@@ -1051,7 +1167,8 @@
             "cardName": "Retched Wretch",
             "cardText": "When this creature dies, if it had a -1/-1 counter on it, return it to the battlefield under its owner's control and it loses all abilities.",
             "artFileName": "ECL_117",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_117.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_117.jpg"
         },
         {
             "cardID": "ECL-118",
@@ -1060,7 +1177,8 @@
             "cardName": "Scarblade Scout",
             "cardText": "Lifelink\nWhen this creature enters, mill two cards.",
             "artFileName": "ECL_118",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_118.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_118.jpg"
         },
         {
             "cardID": "ECL-119",
@@ -1069,7 +1187,8 @@
             "cardName": "Scarblade's Malice",
             "cardText": "Target creature you control gains deathtouch and lifelink until end of turn. When that creature dies this turn, create a 2/2 black and green Elf creature token.",
             "artFileName": "ECL_119",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_119.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_119.jpg"
         },
         {
             "cardID": "ECL-120",
@@ -1078,7 +1197,8 @@
             "cardName": "Shimmercreep",
             "cardText": "Menace\nVivid — When this creature enters, each opponent loses X life and you gain X life, where X is the number of colors among permanents you control.",
             "artFileName": "ECL_120",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_120.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_120.jpg"
         },
         {
             "cardID": "ECL-121",
@@ -1087,7 +1207,8 @@
             "cardName": "Taster of Wares",
             "cardText": "When this creature enters, target opponent reveals X cards from their hand, where X is the number of Goblins you control. You choose one of those cards. That player exiles it. If an instant or sorcery card is exiled this way, you may cast it for as long as you control this creature, and mana of any type can be spent to cast that spell.",
             "artFileName": "ECL_121",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_121.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_121.jpg"
         },
         {
             "cardID": "ECL-122",
@@ -1096,7 +1217,8 @@
             "cardName": "Twilight Diviner",
             "cardText": "When this creature enters, surveil 2.\nWhenever one or more other creatures you control enter, if they entered or were cast from a graveyard, create a token that's a copy of one of them. This ability triggers only once each turn.",
             "artFileName": "ECL_122",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_122.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_122.jpg"
         },
         {
             "cardID": "ECL-123",
@@ -1105,16 +1227,18 @@
             "cardName": "Unbury",
             "cardText": "Choose one —\n• Return target creature card from your graveyard to your hand.\n• Return two target creature cards that share a creature type from your graveyard to your hand.",
             "artFileName": "ECL_123",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_123.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_123.jpg"
         },
         {
             "cardID": "ECL-124",
             "setCode": "ECL",
             "cardNumber": 124,
-            "cardName": "Ashling, Rekindled",
+            "cardName": "Ashling, Rekindled // Ashling, Rimebound",
             "cardText": "Whenever this creature enters or transforms into Ashling, Rekindled, you may discard a card. If you do, draw a card.\nAt the beginning of your first main phase, you may pay {U}. If you do, transform Ashling.",
             "artFileName": "ECL_124",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_124.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_124.jpg"
         },
         {
             "cardID": "ECL-125",
@@ -1123,7 +1247,8 @@
             "cardName": "Boldwyr Aggressor",
             "cardText": "Double strike\nOther Giants you control have double strike.",
             "artFileName": "ECL_125",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_125.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_125.jpg"
         },
         {
             "cardID": "ECL-126",
@@ -1132,7 +1257,8 @@
             "cardName": "Boneclub Berserker",
             "cardText": "This creature gets +2/+0 for each other Goblin you control.",
             "artFileName": "ECL_126",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_126.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_126.jpg"
         },
         {
             "cardID": "ECL-127",
@@ -1141,7 +1267,8 @@
             "cardName": "Boulder Dash",
             "cardText": "Boulder Dash deals 2 damage to any target and 1 damage to any other target.",
             "artFileName": "ECL_127",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_127.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_127.jpg"
         },
         {
             "cardID": "ECL-128",
@@ -1150,7 +1277,8 @@
             "cardName": "Brambleback Brute",
             "cardText": "This creature enters with two -1/-1 counters on it.\n{1}{R}, Remove a counter from this creature: Target creature can't block this turn. Activate only as a sorcery.",
             "artFileName": "ECL_128",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_128.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_128.jpg"
         },
         {
             "cardID": "ECL-129",
@@ -1159,7 +1287,8 @@
             "cardName": "Burning Curiosity",
             "cardText": "As an additional cost to cast this spell, you may blight 1.\nExile the top two cards of your library. If this spell's additional cost was paid, exile the top three cards instead. Until the end of your next turn, you may play those cards.",
             "artFileName": "ECL_129",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_129.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_129.jpg"
         },
         {
             "cardID": "ECL-130",
@@ -1168,7 +1297,8 @@
             "cardName": "Champion of the Path",
             "cardText": "As an additional cost to cast this spell, behold an Elemental and exile it.\nWhenever another Elemental you control enters, it deals damage equal to its power to each opponent.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
             "artFileName": "ECL_130",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_130.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_130.jpg"
         },
         {
             "cardID": "ECL-131",
@@ -1177,7 +1307,8 @@
             "cardName": "Cinder Strike",
             "cardText": "As an additional cost to cast this spell, you may blight 1.\nCinder Strike deals 2 damage to target creature. It deals 4 damage to that creature instead if this spell's additional cost was paid.",
             "artFileName": "ECL_131",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_131.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_131.jpg"
         },
         {
             "cardID": "ECL-132",
@@ -1186,7 +1317,8 @@
             "cardName": "Collective Inferno",
             "cardText": "Convoke\nAs this enchantment enters, choose a creature type.\nDouble all damage that sources you control of the chosen type would deal.",
             "artFileName": "ECL_132",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_132.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_132.jpg"
         },
         {
             "cardID": "ECL-133",
@@ -1195,7 +1327,8 @@
             "cardName": "Elder Auntie",
             "cardText": "When this creature enters, create a 1/1 black and red Goblin creature token.",
             "artFileName": "ECL_133",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_133.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_133.jpg"
         },
         {
             "cardID": "ECL-134",
@@ -1204,7 +1337,8 @@
             "cardName": "End-Blaze Epiphany",
             "cardText": "End-Blaze Epiphany deals X damage to target creature. When that creature dies this turn, exile a number of cards from the top of your library equal to its power, then choose a card exiled this way. Until the end of your next turn, you may play that card.",
             "artFileName": "ECL_134",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_134.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_134.jpg"
         },
         {
             "cardID": "ECL-135",
@@ -1213,7 +1347,8 @@
             "cardName": "Enraged Flamecaster",
             "cardText": "Reach\nWhenever you cast a spell with mana value 4 or greater, this creature deals 2 damage to each opponent.",
             "artFileName": "ECL_135",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_135.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_135.jpg"
         },
         {
             "cardID": "ECL-136",
@@ -1222,7 +1357,8 @@
             "cardName": "Explosive Prodigy",
             "cardText": "Vivid — When this creature enters, it deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.",
             "artFileName": "ECL_136",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_136.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_136.jpg"
         },
         {
             "cardID": "ECL-137",
@@ -1231,7 +1367,8 @@
             "cardName": "Feed the Flames",
             "cardText": "Feed the Flames deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
             "artFileName": "ECL_137",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_137.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_137.jpg"
         },
         {
             "cardID": "ECL-138",
@@ -1240,7 +1377,8 @@
             "cardName": "Flame-Chain Mauler",
             "cardText": "{1}{R}: This creature gets +1/+0 and gains menace until end of turn.",
             "artFileName": "ECL_138",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_138.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_138.jpg"
         },
         {
             "cardID": "ECL-139",
@@ -1249,7 +1387,8 @@
             "cardName": "Flamebraider",
             "cardText": "{T}: Add two mana in any combination of colors. Spend this mana only to cast Elemental spells or activate abilities of Elemental sources.",
             "artFileName": "ECL_139",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_139.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_139.jpg"
         },
         {
             "cardID": "ECL-140",
@@ -1258,7 +1397,8 @@
             "cardName": "Flamekin Gildweaver",
             "cardText": "Trample\nWhen this creature enters, create a Treasure token.",
             "artFileName": "ECL_140",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_140.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_140.jpg"
         },
         {
             "cardID": "ECL-141",
@@ -1267,7 +1407,8 @@
             "cardName": "Giantfall",
             "cardText": "Choose one —\n• Target creature you control deals damage equal to its power to target creature an opponent controls.\n• Destroy target artifact.",
             "artFileName": "ECL_141",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_141.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_141.jpg"
         },
         {
             "cardID": "ECL-142",
@@ -1276,7 +1417,8 @@
             "cardName": "Goatnap",
             "cardText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If that creature is a Goat, it also gets +3/+0 until end of turn.",
             "artFileName": "ECL_142",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_142.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_142.jpg"
         },
         {
             "cardID": "ECL-143",
@@ -1285,7 +1427,8 @@
             "cardName": "Goliath Daydreamer",
             "cardText": "Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves.\nWhenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost.",
             "artFileName": "ECL_143",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_143.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_143.jpg"
         },
         {
             "cardID": "ECL-144",
@@ -1294,7 +1437,8 @@
             "cardName": "Gristle Glutton",
             "cardText": "{T}, Blight 1: Discard a card. If you do, draw a card.",
             "artFileName": "ECL_144",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_144.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_144.jpg"
         },
         {
             "cardID": "ECL-145",
@@ -1303,7 +1447,8 @@
             "cardName": "Hexing Squelcher",
             "cardText": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\"",
             "artFileName": "ECL_145",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_145.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_145.jpg"
         },
         {
             "cardID": "ECL-146",
@@ -1312,7 +1457,8 @@
             "cardName": "Impolite Entrance",
             "cardText": "Target creature gains trample and haste until end of turn.\nDraw a card.",
             "artFileName": "ECL_146",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_146.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_146.jpg"
         },
         {
             "cardID": "ECL-147",
@@ -1321,7 +1467,8 @@
             "cardName": "Kindle the Inner Flame",
             "cardText": "Create a token that's a copy of target creature you control, except it has haste and \"At the beginning of the end step, sacrifice this token.\"\nFlashback—{1}{R}, Behold three Elementals.",
             "artFileName": "ECL_147",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_147.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_147.jpg"
         },
         {
             "cardID": "ECL-148",
@@ -1330,7 +1477,8 @@
             "cardName": "Kulrath Zealot",
             "cardText": "When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.\nBasic landcycling {1}{R}",
             "artFileName": "ECL_148",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_148.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_148.jpg"
         },
         {
             "cardID": "ECL-149",
@@ -1339,7 +1487,8 @@
             "cardName": "Lasting Tarfire",
             "cardText": "At the beginning of each end step, if you put a counter on a creature this turn, this enchantment deals 2 damage to each opponent.",
             "artFileName": "ECL_149",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_149.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_149.jpg"
         },
         {
             "cardID": "ECL-150",
@@ -1348,7 +1497,8 @@
             "cardName": "Lavaleaper",
             "cardText": "All creatures have haste.\nWhenever a player taps a basic land for mana, that player adds one mana of any type that land produced.",
             "artFileName": "ECL_150",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_150.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_150.jpg"
         },
         {
             "cardID": "ECL-151",
@@ -1357,7 +1507,8 @@
             "cardName": "Meek Attack",
             "cardText": "{1}{R}: You may put a creature card with total power and toughness 5 or less from your hand onto the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice that creature.",
             "artFileName": "ECL_151",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_151.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_151.jpg"
         },
         {
             "cardID": "ECL-152",
@@ -1366,7 +1517,8 @@
             "cardName": "Reckless Ransacking",
             "cardText": "Target creature gets +3/+2 until end of turn. Create a Treasure token.",
             "artFileName": "ECL_152",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_152.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_152.jpg"
         },
         {
             "cardID": "ECL-153",
@@ -1375,7 +1527,8 @@
             "cardName": "Scuzzback Scrounger",
             "cardText": "At the beginning of your first main phase, you may blight 1. If you do, create a Treasure token.",
             "artFileName": "ECL_153",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_153.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_153.jpg"
         },
         {
             "cardID": "ECL-154",
@@ -1384,7 +1537,8 @@
             "cardName": "Sear",
             "cardText": "Sear deals 4 damage to target creature or planeswalker.",
             "artFileName": "ECL_154",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_154.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_154.jpg"
         },
         {
             "cardID": "ECL-155",
@@ -1393,7 +1547,8 @@
             "cardName": "Sizzling Changeling",
             "cardText": "Changeling\nWhen this creature dies, exile the top card of your library. Until the end of your next turn, you may play that card.",
             "artFileName": "ECL_155",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_155.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_155.jpg"
         },
         {
             "cardID": "ECL-156",
@@ -1402,7 +1557,8 @@
             "cardName": "Soul Immolation",
             "cardText": "As an additional cost to cast this spell, blight X. X can't be greater than the greatest toughness among creatures you control.\nSoul Immolation deals X damage to each opponent and each creature they control.",
             "artFileName": "ECL_156",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_156.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_156.jpg"
         },
         {
             "cardID": "ECL-157",
@@ -1411,7 +1567,8 @@
             "cardName": "Soulbright Seeker",
             "cardText": "As an additional cost to cast this spell, behold an Elemental or pay {2}.\n{R}: Target creature you control gains trample until end of turn. If this is the third time this ability has resolved this turn, add {R}{R}{R}{R}.",
             "artFileName": "ECL_157",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_157.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_157.jpg"
         },
         {
             "cardID": "ECL-158",
@@ -1420,7 +1577,8 @@
             "cardName": "Sourbread Auntie",
             "cardText": "When this creature enters, you may blight 2. If you do, create two 1/1 black and red Goblin creature tokens.",
             "artFileName": "ECL_158",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_158.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_158.jpg"
         },
         {
             "cardID": "ECL-159",
@@ -1429,7 +1587,8 @@
             "cardName": "Spinerock Tyrant",
             "cardText": "Flying\nWither\nWhenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.",
             "artFileName": "ECL_159",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_159.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_159.jpg"
         },
         {
             "cardID": "ECL-160",
@@ -1438,7 +1597,8 @@
             "cardName": "Squawkroaster",
             "cardText": "Double strike\nVivid — Squawkroaster's power is equal to the number of colors among permanents you control.",
             "artFileName": "ECL_160",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_160.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_160.jpg"
         },
         {
             "cardID": "ECL-161",
@@ -1447,7 +1607,8 @@
             "cardName": "Sting-Slinger",
             "cardText": "{1}{R}, {T}, Blight 1: This creature deals 2 damage to each opponent.",
             "artFileName": "ECL_161",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_161.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_161.jpg"
         },
         {
             "cardID": "ECL-162",
@@ -1456,7 +1617,8 @@
             "cardName": "Tweeze",
             "cardText": "Tweeze deals 3 damage to any target. You may discard a card. If you do, draw a card.",
             "artFileName": "ECL_162",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_162.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_162.jpg"
         },
         {
             "cardID": "ECL-163",
@@ -1465,7 +1627,8 @@
             "cardName": "Warren Torchmaster",
             "cardText": "At the beginning of combat on your turn, you may blight 1. When you do, target creature gains haste until end of turn.",
             "artFileName": "ECL_163",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_163.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_163.jpg"
         },
         {
             "cardID": "ECL-164",
@@ -1474,7 +1637,8 @@
             "cardName": "Assert Perfection",
             "cardText": "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to up to one target creature an opponent controls.",
             "artFileName": "ECL_164",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_164.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_164.jpg"
         },
         {
             "cardID": "ECL-165",
@@ -1483,7 +1647,8 @@
             "cardName": "Aurora Awakener",
             "cardText": "Trample\nVivid — When this creature enters, reveal cards from the top of your library until you reveal X permanent cards, where X is the number of colors among permanents you control. Put any number of those permanent cards onto the battlefield, then put the rest of the revealed cards on the bottom of your library in a random order.",
             "artFileName": "ECL_165",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_165.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_165.jpg"
         },
         {
             "cardID": "ECL-166",
@@ -1492,7 +1657,8 @@
             "cardName": "Bloom Tender",
             "cardText": "Vivid — {T}: For each color among permanents you control, add one mana of that color.",
             "artFileName": "ECL_166",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_166.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_166.jpg"
         },
         {
             "cardID": "ECL-167",
@@ -1501,7 +1667,8 @@
             "cardName": "Blossoming Defense",
             "cardText": "Target creature you control gets +2/+2 and gains hexproof until end of turn.",
             "artFileName": "ECL_167",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_167.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_167.jpg"
         },
         {
             "cardID": "ECL-168",
@@ -1510,7 +1677,8 @@
             "cardName": "Bristlebane Battler",
             "cardText": "Trample, ward {2}\nThis creature enters with five -1/-1 counters on it.\nWhenever another creature you control enters while this creature has a -1/-1 counter on it, remove a -1/-1 counter from this creature.",
             "artFileName": "ECL_168",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_168.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_168.jpg"
         },
         {
             "cardID": "ECL-169",
@@ -1519,7 +1687,8 @@
             "cardName": "Bristlebane Outrider",
             "cardText": "This creature can't be blocked by creatures with power 2 or less.\nAs long as another creature entered the battlefield under your control this turn, this creature gets +2/+0.",
             "artFileName": "ECL_169",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_169.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_169.jpg"
         },
         {
             "cardID": "ECL-170",
@@ -1528,7 +1697,8 @@
             "cardName": "Celestial Reunion",
             "cardText": "As an additional cost to cast this spell, you may choose a creature type and behold two creatures of that type.\nSearch your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle. If this spell's additional cost was paid and the revealed card is the chosen type, put that card onto the battlefield instead of putting it into your hand.",
             "artFileName": "ECL_170",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_170.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_170.jpg"
         },
         {
             "cardID": "ECL-171",
@@ -1537,7 +1707,8 @@
             "cardName": "Champions of the Perfect",
             "cardText": "As an additional cost to cast this spell, behold an Elf and exile it.\nWhenever you cast a creature spell, draw a card.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
             "artFileName": "ECL_171",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_171.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_171.jpg"
         },
         {
             "cardID": "ECL-172",
@@ -1546,7 +1717,8 @@
             "cardName": "Chomping Changeling",
             "cardText": "Changeling\nWhen this creature enters, destroy up to one target artifact or enchantment.",
             "artFileName": "ECL_172",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_172.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_172.jpg"
         },
         {
             "cardID": "ECL-173",
@@ -1555,7 +1727,8 @@
             "cardName": "Crossroads Watcher",
             "cardText": "Trample\nWhenever another creature you control enters, this creature gets +1/+0 until end of turn.",
             "artFileName": "ECL_173",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_173.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_173.jpg"
         },
         {
             "cardID": "ECL-174",
@@ -1564,7 +1737,8 @@
             "cardName": "Dawn's Light Archer",
             "cardText": "Flash\nReach",
             "artFileName": "ECL_174",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_174.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_174.jpg"
         },
         {
             "cardID": "ECL-175",
@@ -1573,7 +1747,8 @@
             "cardName": "Dundoolin Weaver",
             "cardText": "When this creature enters, if you control three or more creatures, return target permanent card from your graveyard to your hand.",
             "artFileName": "ECL_175",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_175.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_175.jpg"
         },
         {
             "cardID": "ECL-176",
@@ -1582,7 +1757,8 @@
             "cardName": "Formidable Speaker",
             "cardText": "When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n{1}, {T}: Untap another target permanent.",
             "artFileName": "ECL_176",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_176.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_176.jpg"
         },
         {
             "cardID": "ECL-177",
@@ -1591,7 +1767,8 @@
             "cardName": "Gilt-Leaf's Embrace",
             "cardText": "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gains trample and indestructible until end of turn.\nEnchanted creature gets +2/+0.",
             "artFileName": "ECL_177",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_177.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_177.jpg"
         },
         {
             "cardID": "ECL-178",
@@ -1600,7 +1777,8 @@
             "cardName": "Great Forest Druid",
             "cardText": "{T}: Add one mana of any color.",
             "artFileName": "ECL_178",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_178.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_178.jpg"
         },
         {
             "cardID": "ECL-179",
@@ -1609,7 +1787,8 @@
             "cardName": "Luminollusk",
             "cardText": "Deathtouch\nVivid — When this creature enters, you gain life equal to the number of colors among permanents you control.",
             "artFileName": "ECL_179",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_179.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_179.jpg"
         },
         {
             "cardID": "ECL-180",
@@ -1618,7 +1797,8 @@
             "cardName": "Lys Alana Dignitary",
             "cardText": "As an additional cost to cast this spell, behold an Elf or pay {2}.\n{T}: Add {G}{G}. Activate only if there is an Elf card in your graveyard.",
             "artFileName": "ECL_180",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_180.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_180.jpg"
         },
         {
             "cardID": "ECL-181",
@@ -1627,7 +1807,8 @@
             "cardName": "Lys Alana Informant",
             "cardText": "When this creature enters or dies, surveil 1.",
             "artFileName": "ECL_181",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_181.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_181.jpg"
         },
         {
             "cardID": "ECL-182",
@@ -1636,7 +1817,8 @@
             "cardName": "Midnight Tilling",
             "cardText": "Mill four cards, then you may return a permanent card from among them to your hand.",
             "artFileName": "ECL_182",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_182.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_182.jpg"
         },
         {
             "cardID": "ECL-183",
@@ -1645,7 +1827,8 @@
             "cardName": "Mistmeadow Council",
             "cardText": "This spell costs {1} less to cast if you control a Kithkin.\nWhen this creature enters, draw a card.",
             "artFileName": "ECL_183",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_183.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_183.jpg"
         },
         {
             "cardID": "ECL-184",
@@ -1654,7 +1837,8 @@
             "cardName": "Moon-Vigil Adherents",
             "cardText": "Trample\nThis creature gets +1/+1 for each creature you control and each creature card in your graveyard.",
             "artFileName": "ECL_184",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_184.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_184.jpg"
         },
         {
             "cardID": "ECL-185",
@@ -1663,7 +1847,8 @@
             "cardName": "Morcant's Eyes",
             "cardText": "At the beginning of your upkeep, surveil 1.\n{4}{G}{G}, Sacrifice this enchantment: Create X 2/2 black and green Elf creature tokens, where X is the number of Elf cards in your graveyard. Activate only as a sorcery.",
             "artFileName": "ECL_185",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_185.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_185.jpg"
         },
         {
             "cardID": "ECL-186",
@@ -1672,7 +1857,8 @@
             "cardName": "Mutable Explorer",
             "cardText": "Changeling\nWhen this creature enters, create a tapped Mutavault token.",
             "artFileName": "ECL_186",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_186.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_186.jpg"
         },
         {
             "cardID": "ECL-187",
@@ -1681,7 +1867,8 @@
             "cardName": "Pitiless Fists",
             "cardText": "Enchant creature you control\nWhen this Aura enters, enchanted creature fights up to one target creature an opponent controls.\nEnchanted creature gets +2/+2.",
             "artFileName": "ECL_187",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_187.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_187.jpg"
         },
         {
             "cardID": "ECL-188",
@@ -1690,7 +1877,8 @@
             "cardName": "Prismabasher",
             "cardText": "Trample\nVivid — When this creature enters, up to X target creatures you control get +X/+X until end of turn, where X is the number of colors among permanents you control.",
             "artFileName": "ECL_188",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_188.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_188.jpg"
         },
         {
             "cardID": "ECL-189",
@@ -1699,7 +1887,8 @@
             "cardName": "Prismatic Undercurrents",
             "cardText": "Vivid — When this enchantment enters, search your library for up to X basic land cards, where X is the number of colors among permanents you control. Reveal those cards, put them into your hand, then shuffle.\nYou may play an additional land on each of your turns.",
             "artFileName": "ECL_189",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_189.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_189.jpg"
         },
         {
             "cardID": "ECL-190",
@@ -1708,7 +1897,8 @@
             "cardName": "Pummeler for Hire",
             "cardText": "Vigilance, reach\nWard {2}\nWhen this creature enters, you gain X life, where X is the greatest power among Giants you control.",
             "artFileName": "ECL_190",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_190.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_190.jpg"
         },
         {
             "cardID": "ECL-191",
@@ -1717,7 +1907,8 @@
             "cardName": "Safewright Cavalry",
             "cardText": "This creature can't be blocked by more than one creature.\n{5}: Target Elf you control gets +2/+2 until end of turn.",
             "artFileName": "ECL_191",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_191.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_191.jpg"
         },
         {
             "cardID": "ECL-192",
@@ -1726,7 +1917,8 @@
             "cardName": "Sapling Nursery",
             "cardText": "Affinity for Forests\nLandfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.\n{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",
             "artFileName": "ECL_192",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_192.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_192.jpg"
         },
         {
             "cardID": "ECL-193",
@@ -1735,7 +1927,8 @@
             "cardName": "Selfless Safewright",
             "cardText": "Flash\nConvoke\nWhen this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",
             "artFileName": "ECL_193",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_193.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_193.jpg"
         },
         {
             "cardID": "ECL-194",
@@ -1744,7 +1937,8 @@
             "cardName": "Shimmerwilds Growth",
             "cardText": "Enchant land\nAs this Aura enters, choose a color.\nEnchanted land is the chosen color.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of the chosen color.",
             "artFileName": "ECL_194",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_194.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_194.jpg"
         },
         {
             "cardID": "ECL-195",
@@ -1753,7 +1947,8 @@
             "cardName": "Spry and Mighty",
             "cardText": "Choose exactly two creatures you control. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' powers.",
             "artFileName": "ECL_195",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_195.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_195.jpg"
         },
         {
             "cardID": "ECL-196",
@@ -1762,7 +1957,8 @@
             "cardName": "Surly Farrier",
             "cardText": "{T}: Target creature you control gets +1/+1 and gains vigilance until end of turn. Activate only as a sorcery.",
             "artFileName": "ECL_196",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_196.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_196.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_196.jpg"
         },
         {
             "cardID": "ECL-197",
@@ -1771,7 +1967,8 @@
             "cardName": "Tend the Sprigs",
             "cardText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control seven or more lands and/or Treefolk, create a 3/4 green Treefolk creature token with reach.",
             "artFileName": "ECL_197",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_197.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_197.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_197.jpg"
         },
         {
             "cardID": "ECL-198",
@@ -1780,16 +1977,18 @@
             "cardName": "Thoughtweft Charge",
             "cardText": "Target creature gets +3/+3 until end of turn. If a creature entered the battlefield under your control this turn, draw a card.",
             "artFileName": "ECL_198",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_198.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_198.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_198.jpg"
         },
         {
             "cardID": "ECL-199",
             "setCode": "ECL",
             "cardNumber": 199,
-            "cardName": "Trystan, Callous Cultivator",
+            "cardName": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
             "cardText": "Deathtouch\nWhenever this creature enters or transforms into Trystan, Callous Cultivator, mill three cards. Then if there is an Elf card in your graveyard, you gain 2 life.\nAt the beginning of your first main phase, you may pay {B}. If you do, transform Trystan.",
             "artFileName": "ECL_199",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_199.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_199.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_199.jpg"
         },
         {
             "cardID": "ECL-200",
@@ -1798,7 +1997,8 @@
             "cardName": "Unforgiving Aim",
             "cardText": "Choose one —\n• Destroy target creature with flying.\n• Destroy target enchantment.\n• Create a 2/2 black and green Elf creature token.",
             "artFileName": "ECL_200",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_200.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_200.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_200.jpg"
         },
         {
             "cardID": "ECL-201",
@@ -1807,7 +2007,8 @@
             "cardName": "Vinebred Brawler",
             "cardText": "This creature must be blocked if able.\nWhenever this creature attacks, another target Elf you control gets +2/+1 until end of turn.",
             "artFileName": "ECL_201",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_201.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_201.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_201.jpg"
         },
         {
             "cardID": "ECL-202",
@@ -1816,7 +2017,8 @@
             "cardName": "Virulent Emissary",
             "cardText": "Deathtouch\nWhenever another creature you control enters, you gain 1 life.",
             "artFileName": "ECL_202",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_202.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_202.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_202.jpg"
         },
         {
             "cardID": "ECL-203",
@@ -1825,7 +2027,8 @@
             "cardName": "Wildvine Pummeler",
             "cardText": "Vivid — This spell costs {1} less to cast for each color among permanents you control.\nReach, trample",
             "artFileName": "ECL_203",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_203.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_203.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_203.jpg"
         },
         {
             "cardID": "ECL-204",
@@ -1834,7 +2037,8 @@
             "cardName": "Abigale, Eloquent First-Year",
             "cardText": "Flying, first strike, lifelink\nWhen Abigale enters, up to one other target creature loses all abilities. Put a flying counter, a first strike counter, and a lifelink counter on that creature.",
             "artFileName": "ECL_204",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_204.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_204.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_204.jpg"
         },
         {
             "cardID": "ECL-205",
@@ -1843,7 +2047,8 @@
             "cardName": "Ashling's Command",
             "cardText": "Choose two —\n• Create a token that's a copy of target Elemental you control.\n• Target player draws two cards.\n• Ashling's Command deals 2 damage to each creature target player controls.\n• Target player creates two Treasure tokens.",
             "artFileName": "ECL_205",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_205.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_205.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_205.jpg"
         },
         {
             "cardID": "ECL-206",
@@ -1852,7 +2057,8 @@
             "cardName": "Boggart Cursecrafter",
             "cardText": "Deathtouch\nWhenever another Goblin you control dies, this creature deals 1 damage to each opponent.",
             "artFileName": "ECL_206",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_206.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_206.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_206.jpg"
         },
         {
             "cardID": "ECL-207",
@@ -1861,7 +2067,8 @@
             "cardName": "Bre of Clan Stoutarm",
             "cardText": "{1}{W}, {T}: Another target creature you control gains flying and lifelink until end of turn.\nAt the beginning of your end step, if you gained life this turn, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than or equal to the amount of life you gained this turn. Otherwise, put it into your hand.",
             "artFileName": "ECL_207",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_207.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_207.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_207.jpg"
         },
         {
             "cardID": "ECL-208",
@@ -1870,7 +2077,8 @@
             "cardName": "Brigid's Command",
             "cardText": "Choose two —\n• Create a token that's a copy of target Kithkin you control.\n• Target player creates a 1/1 green and white Kithkin creature token.\n• Target creature you control gets +3/+3 until end of turn.\n• Target creature you control fights target creature an opponent controls.",
             "artFileName": "ECL_208",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_208.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_208.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_208.jpg"
         },
         {
             "cardID": "ECL-209",
@@ -1879,7 +2087,8 @@
             "cardName": "Catharsis",
             "cardText": "When this creature enters, if {W}{W} was spent to cast it, create two 1/1 green and white Kithkin creature tokens.\nWhen this creature enters, if {R}{R} was spent to cast it, creatures you control get +1/+1 and gain haste until end of turn.\nEvoke {R/W}{R/W}",
             "artFileName": "ECL_209",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_209.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_209.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_209.jpg"
         },
         {
             "cardID": "ECL-210",
@@ -1888,7 +2097,8 @@
             "cardName": "Chaos Spewer",
             "cardText": "When this creature enters, you may pay {2}. If you don't, blight 2.",
             "artFileName": "ECL_210",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_210.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_210.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_210.jpg"
         },
         {
             "cardID": "ECL-211",
@@ -1897,7 +2107,8 @@
             "cardName": "Chitinous Graspling",
             "cardText": "Changeling\nReach",
             "artFileName": "ECL_211",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_211.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_211.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_211.jpg"
         },
         {
             "cardID": "ECL-212",
@@ -1906,7 +2117,8 @@
             "cardName": "Deceit",
             "cardText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
             "artFileName": "ECL_212",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_212.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_212.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_212.jpg"
         },
         {
             "cardID": "ECL-213",
@@ -1915,7 +2127,8 @@
             "cardName": "Deepchannel Duelist",
             "cardText": "At the beginning of your end step, untap target Merfolk you control.\nOther Merfolk you control get +1/+1.",
             "artFileName": "ECL_213",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_213.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_213.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_213.jpg"
         },
         {
             "cardID": "ECL-214",
@@ -1924,7 +2137,8 @@
             "cardName": "Deepway Navigator",
             "cardText": "Flash\nWhen this creature enters, untap each other Merfolk you control.\nAs long as you attacked with three or more Merfolk this turn, Merfolk you control get +1/+0.",
             "artFileName": "ECL_214",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_214.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_214.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_214.jpg"
         },
         {
             "cardID": "ECL-215",
@@ -1933,7 +2147,8 @@
             "cardName": "Doran, Besieged by Time",
             "cardText": "Each creature spell you cast with toughness greater than its power costs {1} less to cast.\nWhenever a creature you control attacks or blocks, it gets +X/+X until end of turn, where X is the difference between its power and toughness.",
             "artFileName": "ECL_215",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_215.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_215.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_215.jpg"
         },
         {
             "cardID": "ECL-216",
@@ -1942,7 +2157,8 @@
             "cardName": "Dream Harvest",
             "cardText": "Each opponent exiles cards from the top of their library until they have exiled cards with total mana value 5 or greater this way. Until end of turn, you may cast cards exiled this way without paying their mana costs.",
             "artFileName": "ECL_216",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_216.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_216.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_216.jpg"
         },
         {
             "cardID": "ECL-217",
@@ -1951,7 +2167,8 @@
             "cardName": "Eclipsed Boggart",
             "cardText": "When this creature enters, look at the top four cards of your library. You may reveal a Goblin, Swamp, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "ECL_217",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_217.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_217.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_217.jpg"
         },
         {
             "cardID": "ECL-218",
@@ -1960,7 +2177,8 @@
             "cardName": "Eclipsed Elf",
             "cardText": "When this creature enters, look at the top four cards of your library. You may reveal an Elf, Swamp, or Forest card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "ECL_218",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_218.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_218.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_218.jpg"
         },
         {
             "cardID": "ECL-219",
@@ -1969,7 +2187,8 @@
             "cardName": "Eclipsed Flamekin",
             "cardText": "When this creature enters, look at the top four cards of your library. You may reveal an Elemental, Island, or Mountain card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "ECL_219",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_219.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_219.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_219.jpg"
         },
         {
             "cardID": "ECL-220",
@@ -1978,7 +2197,8 @@
             "cardName": "Eclipsed Kithkin",
             "cardText": "When this creature enters, look at the top four cards of your library. You may reveal a Kithkin, Forest, or Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "ECL_220",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_220.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_220.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_220.jpg"
         },
         {
             "cardID": "ECL-221",
@@ -1987,7 +2207,8 @@
             "cardName": "Eclipsed Merrow",
             "cardText": "When this creature enters, look at the top four cards of your library. You may reveal a Merfolk, Plains, or Island card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "ECL_221",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_221.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_221.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_221.jpg"
         },
         {
             "cardID": "ECL-222",
@@ -1996,7 +2217,8 @@
             "cardName": "Emptiness",
             "cardText": "When this creature enters, if {W}{W} was spent to cast it, return target creature card with mana value 3 or less from your graveyard to the battlefield.\nWhen this creature enters, if {B}{B} was spent to cast it, put three -1/-1 counters on up to one target creature.\nEvoke {W/B}{W/B}",
             "artFileName": "ECL_222",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_222.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_222.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_222.jpg"
         },
         {
             "cardID": "ECL-223",
@@ -2005,7 +2227,8 @@
             "cardName": "Feisty Spikeling",
             "cardText": "Changeling\nDuring your turn, this creature has first strike.",
             "artFileName": "ECL_223",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_223.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_223.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_223.jpg"
         },
         {
             "cardID": "ECL-224",
@@ -2014,7 +2237,8 @@
             "cardName": "Figure of Fable",
             "cardText": "{G/W}: This creature becomes a Kithkin Scout with base power and toughness 2/3.\n{1}{G/W}{G/W}: If this creature is a Scout, it becomes a Kithkin Soldier with base power and toughness 4/5.\n{3}{G/W}{G/W}{G/W}: If this creature is a Soldier, it becomes a Kithkin Avatar with base power and toughness 7/8 and protection from each of your opponents.",
             "artFileName": "ECL_224",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_224.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_224.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_224.jpg"
         },
         {
             "cardID": "ECL-225",
@@ -2023,7 +2247,8 @@
             "cardName": "Flaring Cinder",
             "cardText": "When this creature enters and whenever you cast a spell with mana value 4 or greater, you may discard a card. If you do, draw a card.",
             "artFileName": "ECL_225",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_225.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_225.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_225.jpg"
         },
         {
             "cardID": "ECL-226",
@@ -2032,7 +2257,8 @@
             "cardName": "Gangly Stompling",
             "cardText": "Changeling\nTrample",
             "artFileName": "ECL_226",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_226.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_226.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_226.jpg"
         },
         {
             "cardID": "ECL-227",
@@ -2041,7 +2267,8 @@
             "cardName": "Glister Bairn",
             "cardText": "Vivid — At the beginning of combat on your turn, another target creature you control gets +X/+X until end of turn, where X is the number of colors among permanents you control.",
             "artFileName": "ECL_227",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_227.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_227.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_227.jpg"
         },
         {
             "cardID": "ECL-228",
@@ -2050,7 +2277,8 @@
             "cardName": "Grub's Command",
             "cardText": "Choose two —\n• Create a token that's a copy of target Goblin you control.\n• Creatures target player controls get +1/+1 and gain haste until end of turn.\n• Destroy target artifact or creature.\n• Target player mills five cards, then puts each Goblin card milled this way into their hand.",
             "artFileName": "ECL_228",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_228.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_228.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_228.jpg"
         },
         {
             "cardID": "ECL-229",
@@ -2059,7 +2287,8 @@
             "cardName": "High Perfect Morcant",
             "cardText": "Whenever High Perfect Morcant or another Elf you control enters, each opponent blights 1.\nTap three untapped Elves you control: Proliferate. Activate only as a sorcery.",
             "artFileName": "ECL_229",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_229.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_229.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_229.jpg"
         },
         {
             "cardID": "ECL-230",
@@ -2068,7 +2297,8 @@
             "cardName": "Hovel Hurler",
             "cardText": "This creature enters with two -1/-1 counters on it.\n{R/W}{R/W}, Remove a counter from this creature: Another target creature you control gets +1/+0 and gains flying until end of turn. Activate only as a sorcery.",
             "artFileName": "ECL_230",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_230.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_230.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_230.jpg"
         },
         {
             "cardID": "ECL-231",
@@ -2077,7 +2307,8 @@
             "cardName": "Kirol, Attentive First-Year",
             "cardText": "Tap two untapped creatures you control: Copy target triggered ability you control. You may choose new targets for the copy. Activate only once each turn.",
             "artFileName": "ECL_231",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_231.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_231.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_231.jpg"
         },
         {
             "cardID": "ECL-232",
@@ -2086,7 +2317,8 @@
             "cardName": "Lluwen, Imperfect Naturalist",
             "cardText": "When Lluwen enters, mill four cards, then you may put a creature or land card from among the milled cards on top of your library.\n{2}{B/G}{B/G}{B/G}, {T}, Discard a land card: Create a 1/1 black and green Worm creature token for each land card in your graveyard.",
             "artFileName": "ECL_232",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_232.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_232.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_232.jpg"
         },
         {
             "cardID": "ECL-233",
@@ -2095,7 +2327,8 @@
             "cardName": "Maralen, Fae Ascendant",
             "cardText": "Flying\nWhenever Maralen or another Elf or Faerie you control enters, exile the top two cards of target opponent's library.\nOnce each turn, you may cast a spell with mana value less than or equal to the number of Elves and Faeries you control from among cards exiled with Maralen this turn without paying its mana cost.",
             "artFileName": "ECL_233",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_233.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_233.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_233.jpg"
         },
         {
             "cardID": "ECL-234",
@@ -2104,7 +2337,8 @@
             "cardName": "Merrow Skyswimmer",
             "cardText": "Convoke\nFlying, vigilance\nWhen this creature enters, create a 1/1 white and blue Merfolk creature token.",
             "artFileName": "ECL_234",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_234.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_234.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_234.jpg"
         },
         {
             "cardID": "ECL-235",
@@ -2113,7 +2347,8 @@
             "cardName": "Mischievous Sneakling",
             "cardText": "Changeling\nFlash",
             "artFileName": "ECL_235",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_235.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_235.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_235.jpg"
         },
         {
             "cardID": "ECL-236",
@@ -2122,7 +2357,8 @@
             "cardName": "Morcant's Loyalist",
             "cardText": "Other Elves you control get +1/+1.\nWhen this creature dies, return another target Elf card from your graveyard to your hand.",
             "artFileName": "ECL_236",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_236.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_236.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_236.jpg"
         },
         {
             "cardID": "ECL-237",
@@ -2131,7 +2367,8 @@
             "cardName": "Noggle Robber",
             "cardText": "When this creature enters or dies, create a Treasure token.",
             "artFileName": "ECL_237",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_237.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_237.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_237.jpg"
         },
         {
             "cardID": "ECL-238",
@@ -2140,7 +2377,8 @@
             "cardName": "Prideful Feastling",
             "cardText": "Changeling\nLifelink",
             "artFileName": "ECL_238",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_238.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_238.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_238.jpg"
         },
         {
             "cardID": "ECL-239",
@@ -2149,7 +2387,8 @@
             "cardName": "Raiding Schemes",
             "cardText": "Each noncreature spell you cast has conspire.",
             "artFileName": "ECL_239",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_239.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_239.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_239.jpg"
         },
         {
             "cardID": "ECL-240",
@@ -2158,7 +2397,8 @@
             "cardName": "Reaping Willow",
             "cardText": "Lifelink\nThis creature enters with two -1/-1 counters on it.\n{1}{W/B}, Remove two counters from this creature: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.",
             "artFileName": "ECL_240",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_240.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_240.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_240.jpg"
         },
         {
             "cardID": "ECL-241",
@@ -2167,7 +2407,8 @@
             "cardName": "Sanar, Innovative First-Year",
             "cardText": "Vivid — At the beginning of your first main phase, reveal cards from the top of your library until you reveal X nonland cards, where X is the number of colors among permanents you control. For each of those colors, you may exile a card of that color from among the revealed cards. Then shuffle. You may cast the exiled cards this turn.",
             "artFileName": "ECL_241",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_241.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_241.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_241.jpg"
         },
         {
             "cardID": "ECL-242",
@@ -2176,7 +2417,8 @@
             "cardName": "Shadow Urchin",
             "cardText": "Whenever this creature attacks, blight 1.\nWhenever a creature you control with one or more counters on it dies, exile that many cards from the top of your library. Until your next end step, you may play those cards.",
             "artFileName": "ECL_242",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_242.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_242.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_242.jpg"
         },
         {
             "cardID": "ECL-243",
@@ -2185,7 +2427,8 @@
             "cardName": "Stoic Grove-Guide",
             "cardText": "{1}{B/G}, Exile this card from your graveyard: Create a 2/2 black and green Elf creature token. Activate only as a sorcery.",
             "artFileName": "ECL_243",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_243.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_243.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_243.jpg"
         },
         {
             "cardID": "ECL-244",
@@ -2194,7 +2437,8 @@
             "cardName": "Sygg's Command",
             "cardText": "Choose two —\n• Create a token that's a copy of target Merfolk you control.\n• Creatures target player controls gain lifelink until end of turn.\n• Target player draws a card.\n• Tap target creature. Put a stun counter on it.",
             "artFileName": "ECL_244",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_244.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_244.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_244.jpg"
         },
         {
             "cardID": "ECL-245",
@@ -2203,7 +2447,8 @@
             "cardName": "Tam, Mindful First-Year",
             "cardText": "Each other creature you control has hexproof from each of its colors.\n{T}: Target creature you control becomes all colors until end of turn.",
             "artFileName": "ECL_245",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_245.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_245.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_245.jpg"
         },
         {
             "cardID": "ECL-246",
@@ -2212,7 +2457,8 @@
             "cardName": "Thoughtweft Lieutenant",
             "cardText": "Whenever this creature or another Kithkin you control enters, target creature you control gets +1/+1 and gains trample until end of turn.",
             "artFileName": "ECL_246",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_246.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_246.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_246.jpg"
         },
         {
             "cardID": "ECL-247",
@@ -2221,7 +2467,8 @@
             "cardName": "Trystan's Command",
             "cardText": "Choose two —\n• Create a token that's a copy of target Elf you control.\n• Return one or two target permanent cards from your graveyard to your hand.\n• Destroy target creature or enchantment.\n• Creatures target player controls get +3/+3 until end of turn. Untap them.",
             "artFileName": "ECL_247",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_247.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_247.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_247.jpg"
         },
         {
             "cardID": "ECL-248",
@@ -2230,7 +2477,8 @@
             "cardName": "Twinflame Travelers",
             "cardText": "Flying\nIf a triggered ability of another Elemental you control triggers, it triggers an additional time.",
             "artFileName": "ECL_248",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_248.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_248.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_248.jpg"
         },
         {
             "cardID": "ECL-249",
@@ -2239,7 +2487,8 @@
             "cardName": "Vibrance",
             "cardText": "When this creature enters, if {R}{R} was spent to cast it, this creature deals 3 damage to any target.\nWhen this creature enters, if {G}{G} was spent to cast it, search your library for a land card, reveal it, put it into your hand, then shuffle. You gain 2 life.\nEvoke {R/G}{R/G}",
             "artFileName": "ECL_249",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_249.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_249.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_249.jpg"
         },
         {
             "cardID": "ECL-250",
@@ -2248,7 +2497,8 @@
             "cardName": "Voracious Tome-Skimmer",
             "cardText": "Flying\nWhenever you cast a spell during an opponent's turn, you may pay 1 life. If you do, draw a card.",
             "artFileName": "ECL_250",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_250.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_250.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_250.jpg"
         },
         {
             "cardID": "ECL-251",
@@ -2257,7 +2507,8 @@
             "cardName": "Wary Farmer",
             "cardText": "At the beginning of your end step, if another creature entered the battlefield under your control this turn, surveil 1.",
             "artFileName": "ECL_251",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_251.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_251.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_251.jpg"
         },
         {
             "cardID": "ECL-252",
@@ -2266,7 +2517,8 @@
             "cardName": "Wistfulness",
             "cardText": "When this creature enters, if {G}{G} was spent to cast it, exile target artifact or enchantment an opponent controls.\nWhen this creature enters, if {U}{U} was spent to cast it, draw two cards, then discard a card.\nEvoke {G/U}{G/U}",
             "artFileName": "ECL_252",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_252.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_252.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_252.jpg"
         },
         {
             "cardID": "ECL-253",
@@ -2275,7 +2527,8 @@
             "cardName": "Chronicle of Victory",
             "cardText": "As Chronicle of Victory enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2 and have first strike and trample.\nWhenever you cast a spell of the chosen type, draw a card.",
             "artFileName": "ECL_253",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_253.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_253.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_253.jpg"
         },
         {
             "cardID": "ECL-254",
@@ -2284,7 +2537,8 @@
             "cardName": "Dawn-Blessed Pennant",
             "cardText": "As this artifact enters, choose Elemental, Elf, Faerie, Giant, Goblin, Kithkin, Merfolk, or Treefolk.\nWhenever a permanent you control of the chosen type enters, you gain 1 life.\n{2}, {T}, Sacrifice this artifact: Return target card of the chosen type from your graveyard to your hand.",
             "artFileName": "ECL_254",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_254.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_254.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_254.jpg"
         },
         {
             "cardID": "ECL-255",
@@ -2293,7 +2547,8 @@
             "cardName": "Firdoch Core",
             "cardText": "Changeling\n{T}: Add one mana of any color.\n{4}: This artifact becomes a 4/4 artifact creature until end of turn.",
             "artFileName": "ECL_255",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_255.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_255.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_255.jpg"
         },
         {
             "cardID": "ECL-256",
@@ -2302,7 +2557,8 @@
             "cardName": "Foraging Wickermaw",
             "cardText": "When this creature enters, surveil 1.\n{1}: Add one mana of any color. This creature becomes that color until end of turn. Activate only once each turn.",
             "artFileName": "ECL_256",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_256.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_256.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_256.jpg"
         },
         {
             "cardID": "ECL-257",
@@ -2311,7 +2567,8 @@
             "cardName": "Gathering Stone",
             "cardText": "As this artifact enters, choose a creature type.\nSpells you cast of the chosen type cost {1} less to cast.\nWhen this artifact enters and at the beginning of your upkeep, look at the top card of your library. If it's a card of the chosen type, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.",
             "artFileName": "ECL_257",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_257.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_257.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_257.jpg"
         },
         {
             "cardID": "ECL-258",
@@ -2320,7 +2577,8 @@
             "cardName": "Mirrormind Crown",
             "cardText": "As long as this Equipment is attached to a creature, the first time you would create one or more tokens each turn, you may instead create that many tokens that are copies of equipped creature.\nEquip {2}",
             "artFileName": "ECL_258",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_258.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_258.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_258.jpg"
         },
         {
             "cardID": "ECL-259",
@@ -2329,7 +2587,8 @@
             "cardName": "Puca's Eye",
             "cardText": "When this artifact enters, draw a card, then choose a color. This artifact becomes the chosen color.\n{3}, {T}: Draw a card. Activate only if there are five colors among permanents you control.",
             "artFileName": "ECL_259",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_259.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_259.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_259.jpg"
         },
         {
             "cardID": "ECL-260",
@@ -2338,7 +2597,8 @@
             "cardName": "Springleaf Drum",
             "cardText": "{T}, Tap an untapped creature you control: Add one mana of any color.",
             "artFileName": "ECL_260",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_260.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_260.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_260.jpg"
         },
         {
             "cardID": "ECL-261",
@@ -2347,7 +2607,8 @@
             "cardName": "Stalactite Dagger",
             "cardText": "When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling.\nEquipped creature gets +1/+1 and is all creature types.\nEquip {2}",
             "artFileName": "ECL_261",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_261.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_261.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_261.jpg"
         },
         {
             "cardID": "ECL-262",
@@ -2356,7 +2617,8 @@
             "cardName": "Blood Crypt",
             "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "artFileName": "ECL_262",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_262.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_262.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_262.jpg"
         },
         {
             "cardID": "ECL-263",
@@ -2365,7 +2627,8 @@
             "cardName": "Eclipsed Realms",
             "cardText": "As this land enters, choose Elemental, Elf, Faerie, Giant, Goblin, Kithkin, Merfolk, or Treefolk.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a spell of the chosen type or activate an ability of a source of the chosen type.",
             "artFileName": "ECL_263",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_263.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_263.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_263.jpg"
         },
         {
             "cardID": "ECL-264",
@@ -2374,7 +2637,8 @@
             "cardName": "Evolving Wilds",
             "cardText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "artFileName": "ECL_264",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_264.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_264.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_264.jpg"
         },
         {
             "cardID": "ECL-265",
@@ -2383,7 +2647,8 @@
             "cardName": "Hallowed Fountain",
             "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "artFileName": "ECL_265",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_265.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_265.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_265.jpg"
         },
         {
             "cardID": "ECL-266",
@@ -2392,7 +2657,8 @@
             "cardName": "Overgrown Tomb",
             "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "artFileName": "ECL_266",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_266.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_266.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_266.jpg"
         },
         {
             "cardID": "ECL-267",
@@ -2401,7 +2667,8 @@
             "cardName": "Steam Vents",
             "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "artFileName": "ECL_267",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_267.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_267.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_267.jpg"
         },
         {
             "cardID": "ECL-268",
@@ -2410,7 +2677,8 @@
             "cardName": "Temple Garden",
             "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
             "artFileName": "ECL_268",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_268.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_268.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_268.jpg"
         },
         {
             "cardID": "ECL-269",
@@ -2419,7 +2687,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "ECL_269",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_269.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_269.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_269.jpg"
         },
         {
             "cardID": "ECL-270",
@@ -2428,7 +2697,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "ECL_270",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_270.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_270.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_270.jpg"
         },
         {
             "cardID": "ECL-271",
@@ -2437,7 +2707,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "ECL_271",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_271.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_271.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_271.jpg"
         },
         {
             "cardID": "ECL-272",
@@ -2446,7 +2717,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "ECL_272",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_272.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_272.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_272.jpg"
         },
         {
             "cardID": "ECL-273",
@@ -2455,7 +2727,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "ECL_273",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_273.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/ECL/ECL_273.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/ECL/ECL_273.jpg"
         }
     ]
 }

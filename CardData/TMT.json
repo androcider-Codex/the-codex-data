@@ -7,7 +7,8 @@
             "cardName": "Action News Crew",
             "cardText": "Vigilance\nChannel — {6}, Discard this card: Put a +1/+1 counter on each creature you control. Draw a card.",
             "artFileName": "TMT_001",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_001.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_001.jpg"
         },
         {
             "cardID": "TMT-002",
@@ -16,7 +17,8 @@
             "cardName": "Agent Bishop, Man in Black",
             "cardText": "At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures.",
             "artFileName": "TMT_002",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_002.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_002.jpg"
         },
         {
             "cardID": "TMT-003",
@@ -25,7 +27,8 @@
             "cardName": "April O'Neil, Kunoichi Trainee",
             "cardText": "When April O'Neil enters, scry 2.\nApril O'Neil can't be blocked by creatures with power 3 or greater.",
             "artFileName": "TMT_003",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_003.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_003.jpg"
         },
         {
             "cardID": "TMT-004",
@@ -34,7 +37,8 @@
             "cardName": "Dimensional Exile",
             "cardText": "Enchant basic land you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.",
             "artFileName": "TMT_004",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_004.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_004.jpg"
         },
         {
             "cardID": "TMT-005",
@@ -43,7 +47,8 @@
             "cardName": "East Wind Avatar",
             "cardText": "Flying, vigilance\nAlliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",
             "artFileName": "TMT_005",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_005.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_005.jpg"
         },
         {
             "cardID": "TMT-006",
@@ -52,7 +57,8 @@
             "cardName": "Featherbrained Filcher",
             "cardText": "Flying\nWhen this creature leaves the battlefield, create a Food token.",
             "artFileName": "TMT_006",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_006.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_006.jpg"
         },
         {
             "cardID": "TMT-007",
@@ -61,7 +67,8 @@
             "cardName": "Grounded for Life",
             "cardText": "This spell costs {3} less to cast if it targets a tapped creature.\nDestroy target creature.",
             "artFileName": "TMT_007",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_007.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_007.jpg"
         },
         {
             "cardID": "TMT-008",
@@ -70,7 +77,8 @@
             "cardName": "Hamato Guardian Stance",
             "cardText": "Target creature gets +1/+3 and gains flying until end of turn. Scry 1.",
             "artFileName": "TMT_008",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_008.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_008.jpg"
         },
         {
             "cardID": "TMT-009",
@@ -79,7 +87,8 @@
             "cardName": "High-Flying Ace",
             "cardText": "Flying\n{3}{W}: Target creature without flying gains flying until end of turn. Activate only as a sorcery.",
             "artFileName": "TMT_009",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_009.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_009.jpg"
         },
         {
             "cardID": "TMT-010",
@@ -88,7 +97,8 @@
             "cardName": "Jennika, Bad Apple Big Sister",
             "cardText": "When Jennika enters, create a 2/2 red Mutant creature token.\nPlainscycling {2}",
             "artFileName": "TMT_010",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_010.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_010.jpg"
         },
         {
             "cardID": "TMT-011",
@@ -97,7 +107,8 @@
             "cardName": "Koya, Death from Above",
             "cardText": "Flying\nWhen Koya enters, exile up to one other target creature. At the beginning of the next end step, you may pay {3}{B}. If you don't, return that card to the battlefield under its owner's control.",
             "artFileName": "TMT_011",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_011.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_011.jpg"
         },
         {
             "cardID": "TMT-012",
@@ -106,7 +117,8 @@
             "cardName": "The Last Ronin's Technique",
             "cardText": "Sneak {1}{W}\nCreate three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's sneak cost was paid, they enter tapped and attacking.",
             "artFileName": "TMT_012",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_012.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_012.jpg"
         },
         {
             "cardID": "TMT-013",
@@ -115,7 +127,8 @@
             "cardName": "Leader's Talent",
             "cardText": "Whenever you attack, put a +1/+1 counter on target attacking creature.\n{2}{W}: Level 2\nWhenever a creature you control leaves the battlefield, if it had a counter on it, you gain 2 life.\n{3}{W}: Level 3\nWhenever you cast a spell, put a +1/+1 counter on each creature you control.",
             "artFileName": "TMT_013",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_013.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_013.jpg"
         },
         {
             "cardID": "TMT-014",
@@ -124,7 +137,8 @@
             "cardName": "Leonardo, Big Brother",
             "cardText": "Sneak {W}\nLeonardo gets +1/+0 for each other creature you control.",
             "artFileName": "TMT_014",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_014.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_014.jpg"
         },
         {
             "cardID": "TMT-015",
@@ -133,7 +147,8 @@
             "cardName": "Leonardo, Cutting Edge",
             "cardText": "Sneak {W}\nLifelink\nWhenever you gain life, put a +1/+1 counter on Leonardo.",
             "artFileName": "TMT_015",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_015.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_015.jpg"
         },
         {
             "cardID": "TMT-016",
@@ -142,7 +157,8 @@
             "cardName": "Leonardo, Leader in Blue",
             "cardText": "Sneak {3}{W}{W}\nWhen Leonardo enters, if his sneak cost was paid, creatures you control get +2/+0 until end of turn.\n{1}{W}: Leonardo gains first strike until end of turn.",
             "artFileName": "TMT_016",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_016.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_016.jpg"
         },
         {
             "cardID": "TMT-017",
@@ -151,7 +167,8 @@
             "cardName": "Leonardo, Sewer Samurai",
             "cardText": "Sneak {2}{W}{W}\nDouble strike\nDuring your turn, you may cast creature spells with power or toughness 1 or less from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it.",
             "artFileName": "TMT_017",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_017.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_017.jpg"
         },
         {
             "cardID": "TMT-018",
@@ -160,7 +177,8 @@
             "cardName": "Leonardo's Technique",
             "cardText": "Sneak {1}{W}\nReturn one or two target creature cards each with mana value 3 or less from your graveyard to the battlefield.",
             "artFileName": "TMT_018",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_018.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_018.jpg"
         },
         {
             "cardID": "TMT-019",
@@ -169,7 +187,8 @@
             "cardName": "Lita, Little Orphan Amphibian",
             "cardText": "Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn.\n• Put a +1/+1 counter on Lita.\n• Create a Food token.\n• Scry 1.",
             "artFileName": "TMT_019",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_019.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_019.jpg"
         },
         {
             "cardID": "TMT-020",
@@ -178,7 +197,8 @@
             "cardName": "Make Your Move",
             "cardText": "Destroy target artifact, enchantment, or creature with power 4 or greater.",
             "artFileName": "TMT_020",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_020.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_020.jpg"
         },
         {
             "cardID": "TMT-021",
@@ -187,7 +207,8 @@
             "cardName": "Mighty Mutanimals",
             "cardText": "When this creature enters, create a 2/2 red Mutant creature token.\nAlliance — Whenever another creature you control enters, put a +1/+1 counter on target creature you control.",
             "artFileName": "TMT_021",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_021.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_021.jpg"
         },
         {
             "cardID": "TMT-022",
@@ -196,7 +217,8 @@
             "cardName": "Prehistoric Pet",
             "cardText": "This creature can't be blocked by creatures with greater power.\n{1}{W}, {T}: Return another target creature you control to its owner's hand. Activate only during your turn.",
             "artFileName": "TMT_022",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_022.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_022.jpg"
         },
         {
             "cardID": "TMT-023",
@@ -205,7 +227,8 @@
             "cardName": "Quintessential Katana",
             "cardText": "Equipped creature gets +1/+1 and has \"Whenever this creature deals combat damage, untap it and you gain 2 life.\"\nWhenever a Ninja you control enters, you may attach this Equipment to it.\nEquip {2}",
             "artFileName": "TMT_023",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_023.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_023.jpg"
         },
         {
             "cardID": "TMT-024",
@@ -214,7 +237,8 @@
             "cardName": "Sally Pride, Lioness Leader",
             "cardText": "When Sally Pride enters, create X 2/2 red Mutant creature tokens, where X is the number of nontoken creatures you control.\nWhenever Sally Pride attacks, put a +1/+1 counter on each creature you control.",
             "artFileName": "TMT_024",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_024.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_024.jpg"
         },
         {
             "cardID": "TMT-025",
@@ -223,7 +247,8 @@
             "cardName": "Triceraton Commander",
             "cardText": "Flying\nWhenever this creature attacks, Dinosaurs you control other than this creature get +1/+1 and gain flying until end of turn.\nWhen this creature enters, create X 2/2 white Dinosaur Soldier creature tokens.",
             "artFileName": "TMT_025",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_025.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_025.jpg"
         },
         {
             "cardID": "TMT-026",
@@ -232,7 +257,8 @@
             "cardName": "Turncoat Kunoichi",
             "cardText": "Sneak {2}{W}{B}\nWhen this creature enters, choose target creature an opponent controls. Exile that creature until this creature leaves the battlefield. If this creature's sneak cost was paid, instead exile the chosen creature.",
             "artFileName": "TMT_026",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_026.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_026.jpg"
         },
         {
             "cardID": "TMT-027",
@@ -241,7 +267,8 @@
             "cardName": "Turtles Forever",
             "cardText": "Search your library and/or outside the game for exactly four legendary creature cards you own with different names, then reveal those cards. An opponent chooses two of them. Put the chosen cards into your hand and shuffle the rest into your library.",
             "artFileName": "TMT_027",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_027.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_027.jpg"
         },
         {
             "cardID": "TMT-028",
@@ -250,7 +277,8 @@
             "cardName": "Uneasy Alliance",
             "cardText": "Enchant creature\nEnchanted creature can't attack or block.\n{5}, Sacrifice this Aura: Exile enchanted creature. You create a 1/1 black Ninja creature token. Activate only as a sorcery.",
             "artFileName": "TMT_028",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_028.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_028.jpg"
         },
         {
             "cardID": "TMT-029",
@@ -259,7 +287,8 @@
             "cardName": "April O'Neil, Hacktivist",
             "cardText": "At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",
             "artFileName": "TMT_029",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_029.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_029.jpg"
         },
         {
             "cardID": "TMT-030",
@@ -268,7 +297,8 @@
             "cardName": "April, Reporter of the Weird",
             "cardText": "Whenever April deals combat damage to a player, draw that many cards, then discard a card.",
             "artFileName": "TMT_030",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_030.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_030.jpg"
         },
         {
             "cardID": "TMT-031",
@@ -277,7 +307,8 @@
             "cardName": "Bespoke Bō",
             "cardText": "When this Equipment enters, return up to one other target nonland permanent to its owner's hand.\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3}",
             "artFileName": "TMT_031",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_031.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_031.jpg"
         },
         {
             "cardID": "TMT-032",
@@ -286,7 +317,8 @@
             "cardName": "Buzz Bots",
             "cardText": "Flying, vigilance\nWhen this creature dies, draw a card.",
             "artFileName": "TMT_032",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_032.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_032.jpg"
         },
         {
             "cardID": "TMT-033",
@@ -295,7 +327,8 @@
             "cardName": "Crustacean Commando",
             "cardText": "When this creature enters, create a Mutagen token.",
             "artFileName": "TMT_033",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_033.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_033.jpg"
         },
         {
             "cardID": "TMT-034",
@@ -304,7 +337,8 @@
             "cardName": "Does Machines",
             "cardText": "When this Class enters, mill two cards, draw two cards, then discard two cards.\n{1}{U}: Level 2\nWhen this Class becomes level 2, return up to two target artifact cards from your graveyard to your hand.\n{4}{U}: Level 3\nAt the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types.",
             "artFileName": "TMT_034",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_034.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_034.jpg"
         },
         {
             "cardID": "TMT-035",
@@ -313,7 +347,8 @@
             "cardName": "Donatello, Gadget Master",
             "cardText": "Sneak {1}{U}\nWhenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",
             "artFileName": "TMT_035",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_035.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_035.jpg"
         },
         {
             "cardID": "TMT-036",
@@ -322,7 +357,8 @@
             "cardName": "Donatello, Mutant Mechanic",
             "cardText": "{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.\nWhenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.",
             "artFileName": "TMT_036",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_036.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_036.jpg"
         },
         {
             "cardID": "TMT-037",
@@ -331,7 +367,8 @@
             "cardName": "Donatello, Turtle Techie",
             "cardText": "When Donatello enters, if you control an artifact, draw a card.",
             "artFileName": "TMT_037",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_037.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_037.jpg"
         },
         {
             "cardID": "TMT-038",
@@ -340,7 +377,8 @@
             "cardName": "Donatello, Way with Machines",
             "cardText": "Flying\nWhenever an artifact you control enters, put a +1/+1 counter on Donatello.",
             "artFileName": "TMT_038",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_038.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_038.jpg"
         },
         {
             "cardID": "TMT-039",
@@ -349,7 +387,8 @@
             "cardName": "Donatello's Technique",
             "cardText": "Sneak {U}\nDraw two cards.",
             "artFileName": "TMT_039",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_039.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_039.jpg"
         },
         {
             "cardID": "TMT-040",
@@ -358,7 +397,8 @@
             "cardName": "Fugitive Droid",
             "cardText": "This creature can't be blocked if an artifact entered the battlefield under your control this turn.\n{U}, Sacrifice this creature: Counter target spell that targets an artifact or creature you control.",
             "artFileName": "TMT_040",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_040.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_040.jpg"
         },
         {
             "cardID": "TMT-041",
@@ -367,7 +407,8 @@
             "cardName": "Kitsune, Dragon's Daughter",
             "cardText": "Vigilance\nWhenever Kitsune enters or deals combat damage to a player, you may exchange control of two other target creatures controlled by different players.",
             "artFileName": "TMT_041",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_041.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_041.jpg"
         },
         {
             "cardID": "TMT-042",
@@ -376,7 +417,8 @@
             "cardName": "Kitsune's Technique",
             "cardText": "Sneak {1}{U}\nTarget opponent mills half their library, rounded up.",
             "artFileName": "TMT_042",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_042.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_042.jpg"
         },
         {
             "cardID": "TMT-043",
@@ -385,7 +427,8 @@
             "cardName": "Krang, Master Mind",
             "cardText": "Affinity for artifacts\nWhen Krang enters, if you have fewer than four cards in hand, draw cards equal to the difference.\nKrang gets +1/+0 for each other artifact you control.",
             "artFileName": "TMT_043",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_043.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_043.jpg"
         },
         {
             "cardID": "TMT-044",
@@ -394,7 +437,8 @@
             "cardName": "Metalhead",
             "cardText": "When Metalhead enters, return up to one other target artifact or creature to its owner's hand.\n{R}, Sacrifice another artifact: Put a +1/+1 counter on Metalhead. He gains menace and haste until end of turn.",
             "artFileName": "TMT_044",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_044.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_044.jpg"
         },
         {
             "cardID": "TMT-045",
@@ -403,7 +447,8 @@
             "cardName": "Mind Transfer Protocol",
             "cardText": "Until end of turn, target artifact or creature becomes an artifact creature with base power and toughness 4/5.\nDraw a card.",
             "artFileName": "TMT_045",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_045.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_045.jpg"
         },
         {
             "cardID": "TMT-046",
@@ -412,7 +457,8 @@
             "cardName": "Mondo Gecko",
             "cardText": "{1}, Discard a card: Until end of turn, Mondo Gecko becomes the color of your choice and gains hexproof from that color.\nWhenever Mondo Gecko deals combat damage to a player, draw a card for each color among permanents you control.",
             "artFileName": "TMT_046",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_046.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_046.jpg"
         },
         {
             "cardID": "TMT-047",
@@ -421,7 +467,8 @@
             "cardName": "Negate",
             "cardText": "Counter target noncreature spell.",
             "artFileName": "TMT_047",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_047.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_047.jpg"
         },
         {
             "cardID": "TMT-048",
@@ -430,7 +477,8 @@
             "cardName": "Ooze Spill",
             "cardText": "Counter target spell. Create a Mutagen token.",
             "artFileName": "TMT_048",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_048.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_048.jpg"
         },
         {
             "cardID": "TMT-049",
@@ -439,7 +487,8 @@
             "cardName": "Ray Fillet, Man Ray",
             "cardText": "Flying\nWhen Ray Fillet enters, create a Mutagen token.\n{2}, Remove a +1/+1 counter from a creature you control: Draw a card.",
             "artFileName": "TMT_049",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_049.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_049.jpg"
         },
         {
             "cardID": "TMT-050",
@@ -448,7 +497,8 @@
             "cardName": "Renet, Temporal Apprentice",
             "cardText": "Flash\nWhen Renet enters, return each other nonland permanent that entered this turn to its owner's hand.",
             "artFileName": "TMT_050",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_050.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_050.jpg"
         },
         {
             "cardID": "TMT-051",
@@ -457,7 +507,8 @@
             "cardName": "Retro-Mutation",
             "cardText": "Flash\nEnchant creature\nEnchanted creature is a Turtle with base power and toughness 0/1. It can't attack and loses all abilities.",
             "artFileName": "TMT_051",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_051.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_051.jpg"
         },
         {
             "cardID": "TMT-052",
@@ -466,7 +517,8 @@
             "cardName": "Return to the Sewers",
             "cardText": "Target creature's owner puts it on their choice of the top or bottom of their library. You create a Mutagen token.",
             "artFileName": "TMT_052",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_052.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_052.jpg"
         },
         {
             "cardID": "TMT-053",
@@ -475,7 +527,8 @@
             "cardName": "Sewer-veillance Cam",
             "cardText": "Flash\nWhen this artifact enters or leaves the battlefield, you may tap or untap target creature.\n{3}{U}, Sacrifice this artifact: Draw two cards.",
             "artFileName": "TMT_053",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_053.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_053.jpg"
         },
         {
             "cardID": "TMT-054",
@@ -484,7 +537,8 @@
             "cardName": "Stockman, Mad Fly-entist",
             "cardText": "Flying\nWhen Stockman enters, draw a card, then discard a card.\nIslandcycling {2}",
             "artFileName": "TMT_054",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_054.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_054.jpg"
         },
         {
             "cardID": "TMT-055",
@@ -493,7 +547,8 @@
             "cardName": "Turtles in Time",
             "cardText": "Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.\nExile Turtles in Time.",
             "artFileName": "TMT_055",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_055.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_055.jpg"
         },
         {
             "cardID": "TMT-056",
@@ -502,7 +557,8 @@
             "cardName": "Utrom Scientists",
             "cardText": "When this creature enters, tap up to one target creature and put a stun counter on it.",
             "artFileName": "TMT_056",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_056.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_056.jpg"
         },
         {
             "cardID": "TMT-057",
@@ -511,7 +567,8 @@
             "cardName": "Anchovy & Banana Pizza",
             "cardText": "When this artifact enters, destroy target creature.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
             "artFileName": "TMT_057",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_057.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_057.jpg"
         },
         {
             "cardID": "TMT-058",
@@ -520,7 +577,8 @@
             "cardName": "Armaggon, Future Shark",
             "cardText": "Flash\nWhen Armaggon enters, destroy up to three target creatures.",
             "artFileName": "TMT_058",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_058.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_058.jpg"
         },
         {
             "cardID": "TMT-059",
@@ -529,7 +587,8 @@
             "cardName": "Bebop, Warthog Warrior",
             "cardText": "Menace\nRhinos you control have menace.\nSwampcycling {2}",
             "artFileName": "TMT_059",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_059.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_059.jpg"
         },
         {
             "cardID": "TMT-060",
@@ -538,7 +597,8 @@
             "cardName": "The Cloning of Shredder",
             "cardText": "I — Exile target creature card from your graveyard. Create a token that's a copy of it, except it isn't legendary and is a Mutant in addition to its other types.\nII, III — Create a token that's a copy of a card exiled with this Saga, except it isn't legendary and is a Mutant in addition to its other types.",
             "artFileName": "TMT_060",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_060.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_060.jpg"
         },
         {
             "cardID": "TMT-061",
@@ -547,7 +607,8 @@
             "cardName": "Death in the Family",
             "cardText": "Exile target creature with mana value 3 or less.",
             "artFileName": "TMT_061",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_061.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_061.jpg"
         },
         {
             "cardID": "TMT-062",
@@ -556,7 +617,8 @@
             "cardName": "Dream Beavers",
             "cardText": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1.",
             "artFileName": "TMT_062",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_062.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_062.jpg"
         },
         {
             "cardID": "TMT-063",
@@ -565,7 +627,8 @@
             "cardName": "Foot Mystic",
             "cardText": "Lifelink\nDisappear — When this creature enters, if a permanent left the battlefield under your control this turn, create a 1/1 black Ninja creature token.",
             "artFileName": "TMT_063",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_063.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_063.jpg"
         },
         {
             "cardID": "TMT-064",
@@ -574,7 +637,8 @@
             "cardName": "Insectoid Exterminator",
             "cardText": "Flying\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, scry 1.",
             "artFileName": "TMT_064",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_064.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_064.jpg"
         },
         {
             "cardID": "TMT-065",
@@ -583,7 +647,8 @@
             "cardName": "Lord Dregg, Insect Invader",
             "cardText": "Flying\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Insect Warrior creature token with flying.\n{3}{G}, Sacrifice a token: Draw a card.",
             "artFileName": "TMT_065",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_065.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_065.jpg"
         },
         {
             "cardID": "TMT-066",
@@ -592,7 +657,8 @@
             "cardName": "Madame Null, Power Broker",
             "cardText": "Deathtouch\nWhenever another creature you control enters, you may pay life equal to its power. If you do, put that many +1/+1 counters on it.",
             "artFileName": "TMT_066",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_066.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_066.jpg"
         },
         {
             "cardID": "TMT-067",
@@ -601,7 +667,8 @@
             "cardName": "Ninja Teen",
             "cardText": "Whenever a creature you control leaves the battlefield, each opponent loses 1 life.\n{1}{B}: Level 2\nCreatures you control get +1/+0 and have menace.\n{B}: Level 3\nCreature cards in your graveyard have sneak {3}{B}.\nYou may cast creature spells from your graveyard using their sneak abilities.",
             "artFileName": "TMT_067",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_067.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_067.jpg"
         },
         {
             "cardID": "TMT-068",
@@ -610,7 +677,8 @@
             "cardName": "Oroku Saki, Shredder Rising",
             "cardText": "Sneak {1}{B}\nWhenever Oroku Saki deals combat damage to a player, you draw a card and lose 1 life.",
             "artFileName": "TMT_068",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_068.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_068.jpg"
         },
         {
             "cardID": "TMT-069",
@@ -619,7 +687,8 @@
             "cardName": "Pain 101",
             "cardText": "Until end of turn, target creature gains deathtouch and \"When this creature dies, return it to the battlefield tapped under its owner's control.\"",
             "artFileName": "TMT_069",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_069.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_069.jpg"
         },
         {
             "cardID": "TMT-070",
@@ -628,7 +697,8 @@
             "cardName": "Paramecia Coloniex",
             "cardText": "When this creature enters, mill three cards.\nWhen this creature dies, you may exile it. When you do, put target creature card from your graveyard on top of your library.",
             "artFileName": "TMT_070",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_070.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_070.jpg"
         },
         {
             "cardID": "TMT-071",
@@ -637,7 +707,8 @@
             "cardName": "Rat King, Verminister",
             "cardText": "Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Rat creature token and put a +1/+1 counter on Rat King.\n{T}, Sacrifice three Rats: Return target creature card and all other cards with the same name as that card from your graveyard to the battlefield tapped.",
             "artFileName": "TMT_071",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_071.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_071.jpg"
         },
         {
             "cardID": "TMT-072",
@@ -646,7 +717,8 @@
             "cardName": "Savanti Romero, Time's Exile",
             "cardText": "Trample\nAt the beginning of combat on your turn, put a +1/+1 counter on Savanti Romero. Then you draw X cards and lose X life, where X is the number of counters on Savanti Romero.",
             "artFileName": "TMT_072",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_072.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_072.jpg"
         },
         {
             "cardID": "TMT-073",
@@ -655,7 +727,8 @@
             "cardName": "Shark Shredder, Killer Clone",
             "cardText": "Sneak {3}{B}{B}\nFirst strike\nWhenever Shark Shredder deals combat damage to a player, put up to one target creature card from that player's graveyard onto the battlefield under your control. It enters tapped and attacking that player.",
             "artFileName": "TMT_073",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_073.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_073.jpg"
         },
         {
             "cardID": "TMT-074",
@@ -664,7 +737,8 @@
             "cardName": "Shredder, Unrelenting",
             "cardText": "Sneak {3}{B}\nDeathtouch\nWhenever Shredder enters or attacks, another target creature you control gains deathtouch until end of turn.",
             "artFileName": "TMT_074",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_074.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_074.jpg"
         },
         {
             "cardID": "TMT-075",
@@ -673,7 +747,8 @@
             "cardName": "Shredder's Armor",
             "cardText": "Equipped creature gets +2/+1.\nWhen this Equipment enters, attach it to target creature you control.\nEquip—Sacrifice another nonland permanent. Activate only once each turn.",
             "artFileName": "TMT_075",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_075.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_075.jpg"
         },
         {
             "cardID": "TMT-076",
@@ -682,7 +757,8 @@
             "cardName": "Shredder's Revenge",
             "cardText": "Choose one —\n• Target player discards two cards.\n• Target player draws two cards and loses 2 life.",
             "artFileName": "TMT_076",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_076.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_076.jpg"
         },
         {
             "cardID": "TMT-077",
@@ -691,7 +767,8 @@
             "cardName": "Shredder's Technique",
             "cardText": "Sneak {B}\nDestroy target creature or enchantment. If an enchantment was destroyed this way, you lose 2 life.",
             "artFileName": "TMT_077",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_077.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_077.jpg"
         },
         {
             "cardID": "TMT-078",
@@ -700,7 +777,8 @@
             "cardName": "South Wind Avatar",
             "cardText": "Deathtouch\nWhenever another creature you control dies, you gain life equal to its toughness.\nWhenever you gain life, each opponent loses 1 life.",
             "artFileName": "TMT_078",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_078.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_078.jpg"
         },
         {
             "cardID": "TMT-079",
@@ -709,7 +787,8 @@
             "cardName": "Splinter, Hamato Yoshi",
             "cardText": "Sneak {B}\nMenace\nOther Ninjas you control get +1/+1.",
             "artFileName": "TMT_079",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_079.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_079.jpg"
         },
         {
             "cardID": "TMT-080",
@@ -718,7 +797,8 @@
             "cardName": "Splinter's Technique",
             "cardText": "Sneak {1}{B}\nSearch your library for a card, put that card into your hand, then shuffle.",
             "artFileName": "TMT_080",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_080.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_080.jpg"
         },
         {
             "cardID": "TMT-081",
@@ -727,7 +807,8 @@
             "cardName": "Squirrelanoids",
             "cardText": "Deathtouch",
             "artFileName": "TMT_081",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_081.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_081.jpg"
         },
         {
             "cardID": "TMT-082",
@@ -736,7 +817,8 @@
             "cardName": "Stomped by the Foot",
             "cardText": "Kicker—Sacrifice an artifact or creature.\nTarget creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",
             "artFileName": "TMT_082",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_082.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_082.jpg"
         },
         {
             "cardID": "TMT-083",
@@ -745,7 +827,8 @@
             "cardName": "Super Shredder",
             "cardText": "Menace\nWhenever another permanent leaves the battlefield, put a +1/+1 counter on Super Shredder.",
             "artFileName": "TMT_083",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_083.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_083.jpg"
         },
         {
             "cardID": "TMT-084",
@@ -754,7 +837,8 @@
             "cardName": "Tunnel Rats",
             "cardText": "{4}{B}: Return this card from your graveyard to the battlefield tapped.",
             "artFileName": "TMT_084",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_084.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_084.jpg"
         },
         {
             "cardID": "TMT-085",
@@ -763,7 +847,8 @@
             "cardName": "Bot Bashing Time",
             "cardText": "Bot Bashing Time deals 6 damage to target creature. If that creature would die this turn, exile it instead.",
             "artFileName": "TMT_085",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_085.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_085.jpg"
         },
         {
             "cardID": "TMT-086",
@@ -772,7 +857,8 @@
             "cardName": "Broadcast Takeover",
             "cardText": "Gain control of all artifacts your opponents control until end of turn. Untap them. They gain haste until end of turn.",
             "artFileName": "TMT_086",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_086.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_086.jpg"
         },
         {
             "cardID": "TMT-087",
@@ -781,7 +867,8 @@
             "cardName": "Casey Jones, Jury-Rig Justiciar",
             "cardText": "Haste\nWhen Casey Jones enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "TMT_087",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_087.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_087.jpg"
         },
         {
             "cardID": "TMT-088",
@@ -790,7 +877,8 @@
             "cardName": "Casey Jones, Vigilante",
             "cardText": "When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",
             "artFileName": "TMT_088",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_088.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_088.jpg"
         },
         {
             "cardID": "TMT-089",
@@ -799,7 +887,8 @@
             "cardName": "Cool but Rude",
             "cardText": "Whenever you attack, you may discard a card. If you do, draw a card.\n{1}{R}: Level 2\nWhenever you discard a card, this Class deals 2 damage to each opponent.\n{1}{R}: Level 3\nWhen this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",
             "artFileName": "TMT_089",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_089.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_089.jpg"
         },
         {
             "cardID": "TMT-090",
@@ -808,7 +897,8 @@
             "cardName": "General Traag, Heart of Stone",
             "cardText": "Trample\nWhen General Traag enters, you may sacrifice another artifact. When you do, General Traag deals 4 damage to target creature.",
             "artFileName": "TMT_090",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_090.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_090.jpg"
         },
         {
             "cardID": "TMT-091",
@@ -817,7 +907,8 @@
             "cardName": "Hard-Won Jitte",
             "cardText": "Equipped creature has double strike.\nEquip {2}",
             "artFileName": "TMT_091",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_091.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_091.jpg"
         },
         {
             "cardID": "TMT-092",
@@ -826,7 +917,8 @@
             "cardName": "Improvised Arsenal",
             "cardText": "Equipped creature gets +1/+0 for each artifact you control.\n{4}{R}: Create a token that's a copy of this Equipment.\nEquip {R}",
             "artFileName": "TMT_092",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_092.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_092.jpg"
         },
         {
             "cardID": "TMT-093",
@@ -835,7 +927,8 @@
             "cardName": "Jennika's Technique",
             "cardText": "Sneak {R}\nJennika's Technique deals 2 damage to each creature.",
             "artFileName": "TMT_093",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_093.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_093.jpg"
         },
         {
             "cardID": "TMT-094",
@@ -844,7 +937,8 @@
             "cardName": "Manhole Missile",
             "cardText": "Manhole Missile deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.",
             "artFileName": "TMT_094",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_094.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_094.jpg"
         },
         {
             "cardID": "TMT-095",
@@ -853,7 +947,8 @@
             "cardName": "Mouser Attack!",
             "cardText": "Choose one —\n• Create a 1/1 colorless Robot artifact creature token.\n• Target creature gets +3/+0 and gains first strike until end of turn.",
             "artFileName": "TMT_095",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_095.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_095.jpg"
         },
         {
             "cardID": "TMT-096",
@@ -862,7 +957,8 @@
             "cardName": "Mouser Foundry",
             "cardText": "When this artifact enters or leaves the battlefield, create a 1/1 colorless Robot artifact creature token.\n{4}{R}, Sacrifice this artifact: It deals 3 damage to target creature.",
             "artFileName": "TMT_096",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_096.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_096.jpg"
         },
         {
             "cardID": "TMT-097",
@@ -871,7 +967,8 @@
             "cardName": "Mutant Town Musicians",
             "cardText": "Trample\nAlliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",
             "artFileName": "TMT_097",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_097.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_097.jpg"
         },
         {
             "cardID": "TMT-098",
@@ -880,7 +977,8 @@
             "cardName": "Null Group Biological Assets",
             "cardText": "During your turn, this creature has first strike.\nWhenever this creature attacks, you may discard a card. If you do, draw a card.",
             "artFileName": "TMT_098",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_098.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_098.jpg"
         },
         {
             "cardID": "TMT-099",
@@ -889,7 +987,8 @@
             "cardName": "Old Hob, Alleycat Blues",
             "cardText": "At the beginning of combat on your turn, create a 2/2 red Mutant creature token. It gains haste until end of turn. Destroy it at the beginning of the next end step.\n{1}{W}: Target attacking creature token gains indestructible until end of turn.",
             "artFileName": "TMT_099",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_099.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_099.jpg"
         },
         {
             "cardID": "TMT-100",
@@ -898,7 +997,8 @@
             "cardName": "Purple Dragon Punks",
             "cardText": "{T}: Add {R}. Spend this mana only to cast an artifact spell or to activate an ability.",
             "artFileName": "TMT_100",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_100.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_100.jpg"
         },
         {
             "cardID": "TMT-101",
@@ -907,7 +1007,8 @@
             "cardName": "Raphael, Most Attitude",
             "cardText": "Menace\nAlliance — Whenever another creature you control enters, you may exile the top card of your library.\nWhenever Raphael attacks, until end of turn, you may play a card exiled with Raphael.",
             "artFileName": "TMT_101",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_101.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_101.jpg"
         },
         {
             "cardID": "TMT-102",
@@ -916,7 +1017,8 @@
             "cardName": "Raphael, Ninja Destroyer",
             "cardText": "Raphael must be blocked if able.\nEnrage — Whenever Raphael is dealt damage, add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",
             "artFileName": "TMT_102",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_102.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_102.jpg"
         },
         {
             "cardID": "TMT-103",
@@ -925,7 +1027,8 @@
             "cardName": "Raphael, the Nightwatcher",
             "cardText": "Sneak {1}{R}{R}\nAttacking creatures you control have double strike.",
             "artFileName": "TMT_103",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_103.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_103.jpg"
         },
         {
             "cardID": "TMT-104",
@@ -934,7 +1037,8 @@
             "cardName": "Raphael, Tough Turtle",
             "cardText": "Alliance — Whenever another creature you control enters, Raphael deals 1 damage to target opponent.",
             "artFileName": "TMT_104",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_104.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_104.jpg"
         },
         {
             "cardID": "TMT-105",
@@ -943,7 +1047,8 @@
             "cardName": "Raphael's Technique",
             "cardText": "Sneak {2}{R}\nEach player may discard their hand and draw seven cards.",
             "artFileName": "TMT_105",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_105.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_105.jpg"
         },
         {
             "cardID": "TMT-106",
@@ -952,7 +1057,8 @@
             "cardName": "Ravenous Robots",
             "cardText": "Whenever you cast an artifact spell, create a 1/1 colorless Robot artifact creature token.\n{R}, {T}: Creature tokens you control gain haste until end of turn.",
             "artFileName": "TMT_106",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_106.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_106.jpg"
         },
         {
             "cardID": "TMT-107",
@@ -961,7 +1067,8 @@
             "cardName": "Rock Soldiers",
             "cardText": "When this creature enters, destroy up to one target noncreature artifact.",
             "artFileName": "TMT_107",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_107.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_107.jpg"
         },
         {
             "cardID": "TMT-108",
@@ -970,7 +1077,8 @@
             "cardName": "Slash, Reptile Rampager",
             "cardText": "Alliance — Whenever another creature you control enters, Slash deals 2 damage to each opponent.\nWhenever Slash attacks, create a 2/2 red Mutant creature token.",
             "artFileName": "TMT_108",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_108.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_108.jpg"
         },
         {
             "cardID": "TMT-109",
@@ -979,7 +1087,8 @@
             "cardName": "Spicy Oatmeal Pizza",
             "cardText": "When this artifact enters, it deals 4 damage to any target and 3 damage to you.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
             "artFileName": "TMT_109",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_109.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_109.jpg"
         },
         {
             "cardID": "TMT-110",
@@ -988,7 +1097,8 @@
             "cardName": "Wingnut, Bat on the Belfry",
             "cardText": "Alliance — Whenever another creature you control enters, Wingnut gains your choice of flying, menace, or haste until end of turn.\nWhenever Wingnut attacks, each other attacking creature gets +1/+0 until end of turn.",
             "artFileName": "TMT_110",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_110.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_110.jpg"
         },
         {
             "cardID": "TMT-111",
@@ -997,7 +1107,8 @@
             "cardName": "Zog, Triceraton Castaway",
             "cardText": "Reach, trample\nWhen Zog enters, target creature can't block this turn.\nMountaincycling {2}",
             "artFileName": "TMT_111",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_111.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_111.jpg"
         },
         {
             "cardID": "TMT-112",
@@ -1006,7 +1117,8 @@
             "cardName": "Courier of Comestibles",
             "cardText": "When this creature enters, you may search your library for a Food card, reveal it, put it into your hand, then shuffle. If you don't put a card into your hand this way, create a Food token.",
             "artFileName": "TMT_112",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_112.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_112.jpg"
         },
         {
             "cardID": "TMT-113",
@@ -1015,7 +1127,8 @@
             "cardName": "Cowabunga!",
             "cardText": "Look at the top four cards of your library. You may reveal a Mutant, Ninja, Turtle, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "TMT_113",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_113.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_113.jpg"
         },
         {
             "cardID": "TMT-114",
@@ -1024,7 +1137,8 @@
             "cardName": "Frog Butler",
             "cardText": "Deathtouch\n{T}: Add one mana of any color.\n{2}: This creature gains reach until end of turn.",
             "artFileName": "TMT_114",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_114.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_114.jpg"
         },
         {
             "cardID": "TMT-115",
@@ -1033,7 +1147,8 @@
             "cardName": "Groundchuck & Dirtbag",
             "cardText": "Trample\nWhenever you tap a land for mana, add {G}.",
             "artFileName": "TMT_115",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_115.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_115.jpg"
         },
         {
             "cardID": "TMT-116",
@@ -1042,7 +1157,8 @@
             "cardName": "Guac & Marshmallow Pizza",
             "cardText": "Flash\nWhen this artifact enters, target creature gets +2/+2 until end of turn. Untap it.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
             "artFileName": "TMT_116",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_116.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_116.jpg"
         },
         {
             "cardID": "TMT-117",
@@ -1051,7 +1167,8 @@
             "cardName": "Leatherhead, Swamp Stalker",
             "cardText": "Trample\nLeatherhead enters with a hexproof counter on her.\nWhenever Leatherhead deals combat damage to a player, you may remove a counter from her. When you do, destroy target artifact or enchantment that player controls.",
             "artFileName": "TMT_117",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_117.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_117.jpg"
         },
         {
             "cardID": "TMT-118",
@@ -1060,7 +1177,8 @@
             "cardName": "Michelangelo, Game Master",
             "cardText": "Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put a +1/+1 counter on Michelangelo.",
             "artFileName": "TMT_118",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_118.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_118.jpg"
         },
         {
             "cardID": "TMT-119",
@@ -1069,7 +1187,8 @@
             "cardName": "Michelangelo, Improviser",
             "cardText": "Sneak {2}{G}{G}\nWhenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",
             "artFileName": "TMT_119",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_119.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_119.jpg"
         },
         {
             "cardID": "TMT-120",
@@ -1078,7 +1197,8 @@
             "cardName": "Michelangelo, Mutant BFF",
             "cardText": "Each creature you control with a counter on it can't be blocked by more than one creature.\nWhenever Michelangelo enters or attacks, create a Mutagen token.",
             "artFileName": "TMT_120",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_120.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_120.jpg"
         },
         {
             "cardID": "TMT-121",
@@ -1087,7 +1207,8 @@
             "cardName": "Michelangelo, Weirdness to 11",
             "cardText": "When Michelangelo enters, create a Mutagen token.\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",
             "artFileName": "TMT_121",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_121.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_121.jpg"
         },
         {
             "cardID": "TMT-122",
@@ -1096,7 +1217,8 @@
             "cardName": "Michelangelo's Technique",
             "cardText": "Sneak {3}{G}\nLook at the top eight cards of your library. Put up to two creature cards with total mana value 6 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.",
             "artFileName": "TMT_122",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_122.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_122.jpg"
         },
         {
             "cardID": "TMT-123",
@@ -1105,7 +1227,8 @@
             "cardName": "Mona Lisa, Science Geek",
             "cardText": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power.",
             "artFileName": "TMT_123",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_123.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_123.jpg"
         },
         {
             "cardID": "TMT-124",
@@ -1114,7 +1237,8 @@
             "cardName": "Mutagen Man, Living Ooze",
             "cardText": "Trample\nActivated abilities of artifact tokens you control cost {1} less to activate.\nWhen Mutagen Man enters, create X Mutagen tokens.",
             "artFileName": "TMT_124",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_124.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_124.jpg"
         },
         {
             "cardID": "TMT-125",
@@ -1123,7 +1247,8 @@
             "cardName": "Mutant Chain Reaction",
             "cardText": "Destroy up to one target artifact, enchantment, or creature with flying. Create a Mutagen token.",
             "artFileName": "TMT_125",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_125.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_125.jpg"
         },
         {
             "cardID": "TMT-126",
@@ -1132,7 +1257,8 @@
             "cardName": "New Generation's Technique",
             "cardText": "Sneak {2}{G}\nSearch your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
             "artFileName": "TMT_126",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_126.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_126.jpg"
         },
         {
             "cardID": "TMT-127",
@@ -1141,7 +1267,8 @@
             "cardName": "Novel Nunchaku",
             "cardText": "When this Equipment enters, attach it to target creature you control. When you do, equipped creature fights up to one target creature an opponent controls.\nEquipped creature gets +1/+1 and has trample.\nEquip {3}",
             "artFileName": "TMT_127",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_127.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_127.jpg"
         },
         {
             "cardID": "TMT-128",
@@ -1150,7 +1277,8 @@
             "cardName": "Party Dude",
             "cardText": "When this Class enters, each player creates a Food token.\n{1}{G}: Level 2\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, draw a card.\n{4}{G}: Level 3\nWhenever one or more of your opponents are attacked, up to one target attacking creature gets +X/+X until end of turn, where X is the number of cards in your hand.",
             "artFileName": "TMT_128",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_128.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_128.jpg"
         },
         {
             "cardID": "TMT-129",
@@ -1159,7 +1287,8 @@
             "cardName": "Primordial Pachyderm",
             "cardText": "Reach, trample\nWhen this creature enters, you gain 2 life.",
             "artFileName": "TMT_129",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_129.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_129.jpg"
         },
         {
             "cardID": "TMT-130",
@@ -1168,7 +1297,8 @@
             "cardName": "Ragamuffin Raptor",
             "cardText": "When this creature enters, return up to one target creature or Food card from your graveyard to your hand.",
             "artFileName": "TMT_130",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_130.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_130.jpg"
         },
         {
             "cardID": "TMT-131",
@@ -1177,7 +1307,8 @@
             "cardName": "Rocksteady, Crash Courser",
             "cardText": "Rocksteady can't be blocked by more than one creature.\nBoars you control can't be blocked by more than one creature.\nForestcycling {2}",
             "artFileName": "TMT_131",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_131.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_131.jpg"
         },
         {
             "cardID": "TMT-132",
@@ -1186,7 +1317,8 @@
             "cardName": "Saved by the Shell",
             "cardText": "This spell costs {1} less to cast if you control a Turtle.\nPut a +1/+1 counter on target creature you control. It gains trample, hexproof, and indestructible until end of turn.",
             "artFileName": "TMT_132",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_132.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_132.jpg"
         },
         {
             "cardID": "TMT-133",
@@ -1195,7 +1327,8 @@
             "cardName": "Tenderize",
             "cardText": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
             "artFileName": "TMT_133",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_133.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_133.jpg"
         },
         {
             "cardID": "TMT-134",
@@ -1204,7 +1337,8 @@
             "cardName": "Transdimensional Bovine",
             "cardText": "Flying\n{T}: Add two mana of any one color.",
             "artFileName": "TMT_134",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_134.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_134.jpg"
         },
         {
             "cardID": "TMT-135",
@@ -1213,7 +1347,8 @@
             "cardName": "Turtle Power!",
             "cardText": "Flash\nTurtles you control get +2/+2.",
             "artFileName": "TMT_135",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_135.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_135.jpg"
         },
         {
             "cardID": "TMT-136",
@@ -1222,7 +1357,8 @@
             "cardName": "Venus, Torn Between Worlds",
             "cardText": "Whenever Venus is dealt damage, put that many +1/+1 counters on her.\nWhenever a creature you control with a counter on it deals combat damage to a player, you may pay {U}. If you do, draw a card.",
             "artFileName": "TMT_136",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_136.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_136.jpg"
         },
         {
             "cardID": "TMT-137",
@@ -1231,7 +1367,8 @@
             "cardName": "West Wind Avatar",
             "cardText": "Trample\nWhenever this creature enters or attacks, you may sacrifice a token or a land. If you do, you gain 3 life.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, draw a card.",
             "artFileName": "TMT_137",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_137.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_137.jpg"
         },
         {
             "cardID": "TMT-138",
@@ -1240,7 +1377,8 @@
             "cardName": "Zoo Escapees",
             "cardText": "When this creature leaves the battlefield, create a Mutagen token.",
             "artFileName": "TMT_138",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_138.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_138.jpg"
         },
         {
             "cardID": "TMT-139",
@@ -1249,7 +1387,8 @@
             "cardName": "Baxter Stockman",
             "cardText": "When Baxter Stockman enters, create a 1/1 colorless Robot artifact creature token.\nAt the beginning of combat on your turn, target artifact creature you control gets +3/+0 and gains first strike and vigilance until end of turn.",
             "artFileName": "TMT_139",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_139.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_139.jpg"
         },
         {
             "cardID": "TMT-140",
@@ -1258,7 +1397,8 @@
             "cardName": "Bebop & Rocksteady",
             "cardText": "Whenever Bebop & Rocksteady attack or block, sacrifice a permanent unless you discard a card.",
             "artFileName": "TMT_140",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_140.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_140.jpg"
         },
         {
             "cardID": "TMT-141",
@@ -1267,7 +1407,8 @@
             "cardName": "Brilliance Unleashed",
             "cardText": "Choose one or both —\n• Brilliance Unleashed deals 5 damage to target creature.\n• Choose target artifact card in your graveyard. Return it to the battlefield if it's an artifact creature card. Otherwise, return it to the battlefield and it's a 3/3 Robot artifact creature with flying.",
             "artFileName": "TMT_141",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_141.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_141.jpg"
         },
         {
             "cardID": "TMT-142",
@@ -1276,7 +1417,8 @@
             "cardName": "Dark Leo & Shredder",
             "cardText": "Sneak {W}{B}\nAttacking Ninjas you control have deathtouch.\nWhenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.",
             "artFileName": "TMT_142",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_142.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_142.jpg"
         },
         {
             "cardID": "TMT-143",
@@ -1285,7 +1427,8 @@
             "cardName": "Don & Leo, Problem Solvers",
             "cardText": "Vigilance\nAt the beginning of your end step, exile up to one target artifact you control and up to one target creature you control. Then return them to the battlefield under their owners' control.",
             "artFileName": "TMT_143",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_143.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_143.jpg"
         },
         {
             "cardID": "TMT-144",
@@ -1294,7 +1437,8 @@
             "cardName": "Don & Raph, Hard Science",
             "cardText": "Menace\nWhenever Don & Raph attack, the next noncreature spell you cast this turn has affinity for artifacts.",
             "artFileName": "TMT_144",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_144.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_144.jpg"
         },
         {
             "cardID": "TMT-145",
@@ -1303,7 +1447,8 @@
             "cardName": "EPF Point Squad",
             "cardText": "Alliance — Whenever another creature you control enters, put a +1/+1 counter on this creature.",
             "artFileName": "TMT_145",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_145.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_145.jpg"
         },
         {
             "cardID": "TMT-146",
@@ -1312,7 +1457,8 @@
             "cardName": "Foot Elite",
             "cardText": "Whenever this creature attacks, another target creature you control gets +1/+0 and gains indestructible until end of turn.",
             "artFileName": "TMT_146",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_146.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_146.jpg"
         },
         {
             "cardID": "TMT-147",
@@ -1321,7 +1467,8 @@
             "cardName": "Foot Ninjas",
             "cardText": "Sneak {3}{W/B}\nWhen this creature enters, you gain 3 life.",
             "artFileName": "TMT_147",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_147.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_147.jpg"
         },
         {
             "cardID": "TMT-148",
@@ -1330,7 +1477,8 @@
             "cardName": "Genghis Frog",
             "cardText": "Trample\nWhenever Genghis Frog or another Mutant you control enters, create a Mutagen token.",
             "artFileName": "TMT_148",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_148.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_148.jpg"
         },
         {
             "cardID": "TMT-149",
@@ -1339,7 +1487,8 @@
             "cardName": "Go Ninja Go",
             "cardText": "Choose one or both —\n• Exile target creature you control, then return it to the battlefield under its owner's control.\n• Go Ninja Go deals damage equal to the greatest power among creatures you control to target creature an opponent controls.",
             "artFileName": "TMT_149",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_149.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_149.jpg"
         },
         {
             "cardID": "TMT-150",
@@ -1348,7 +1497,8 @@
             "cardName": "Ice Cream Kitty",
             "cardText": "{2}, Sacrifice another creature or token: Draw a card. Activate only as a sorcery.\n{2}, {T}, Sacrifice this creature: You gain 3 life.",
             "artFileName": "TMT_150",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_150.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_150.jpg"
         },
         {
             "cardID": "TMT-151",
@@ -1357,7 +1507,8 @@
             "cardName": "Karai, Future of the Foot",
             "cardText": "Sneak {2}{W}{B}\nWhenever Karai deals combat damage to a player, return target creature card from your graveyard to your hand. If her sneak cost was paid this turn, instead return that card to the battlefield.",
             "artFileName": "TMT_151",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_151.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_151.jpg"
         },
         {
             "cardID": "TMT-152",
@@ -1366,7 +1517,8 @@
             "cardName": "Karai's Technique",
             "cardText": "Sneak {W}{B}\nChoose one or both —\n• Target creature gets +3/+3 until end of turn.\n• Target creature gets -3/-3 until end of turn.",
             "artFileName": "TMT_152",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_152.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_152.jpg"
         },
         {
             "cardID": "TMT-153",
@@ -1375,7 +1527,8 @@
             "cardName": "Krang & Shredder",
             "cardText": "Whenever Krang & Shredder enter or attack, each opponent exiles cards from the top of their library until they exile a nonland card.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may cast a card exiled with Krang & Shredder without paying its mana cost.",
             "artFileName": "TMT_153",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_153.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_153.jpg"
         },
         {
             "cardID": "TMT-154",
@@ -1384,7 +1537,8 @@
             "cardName": "The Last Ronin",
             "cardText": "I — Destroy all creatures.\nII — Mill four cards. When you do, return target creature card from your graveyard to your hand.\nIII — Whenever a creature you control attacks alone this turn, put three +1/+1 counters on it. It gains trample, lifelink, and indestructible until end of turn.",
             "artFileName": "TMT_154",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_154.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_154.jpg"
         },
         {
             "cardID": "TMT-155",
@@ -1393,7 +1547,8 @@
             "cardName": "Lessons from Life",
             "cardText": "Draw three cards. You may put a land card from your hand onto the battlefield tapped.",
             "artFileName": "TMT_155",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_155.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_155.jpg"
         },
         {
             "cardID": "TMT-156",
@@ -1402,7 +1557,8 @@
             "cardName": "Mechanized Ninja Cavalry",
             "cardText": "When this creature enters, create a 1/1 colorless Robot artifact creature token.",
             "artFileName": "TMT_156",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_156.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_156.jpg"
         },
         {
             "cardID": "TMT-157",
@@ -1411,7 +1567,8 @@
             "cardName": "Mikey & Don, Party Planners",
             "cardText": "Ward {2}\nYou may look at the top card of your library any time.\nYou may play lands and cast Mutant, Ninja, or Turtle spells from the top of your library. If you cast a creature spell this way, that creature enters with an additional +1/+1 counter on it.",
             "artFileName": "TMT_157",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_157.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_157.jpg"
         },
         {
             "cardID": "TMT-158",
@@ -1420,7 +1577,8 @@
             "cardName": "Mikey & Leo, Chaos & Order",
             "cardText": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.",
             "artFileName": "TMT_158",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_158.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_158.jpg"
         },
         {
             "cardID": "TMT-159",
@@ -1429,7 +1587,8 @@
             "cardName": "Mouser Mark III",
             "cardText": "This creature can't attack unless you control another artifact.",
             "artFileName": "TMT_159",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_159.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_159.jpg"
         },
         {
             "cardID": "TMT-160",
@@ -1438,7 +1597,8 @@
             "cardName": "The Neutrinos",
             "cardText": "Flying\nAlliance — Whenever another creature you control enters, The Neutrinos get +1/+0 until end of turn.\nWhenever The Neutrinos attack, exile up to one target creature you own, then return it to the battlefield under your control tapped and attacking.",
             "artFileName": "TMT_160",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_160.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_160.jpg"
         },
         {
             "cardID": "TMT-161",
@@ -1447,7 +1607,8 @@
             "cardName": "Nobody",
             "cardText": "When this creature enters, return up to one other target artifact you control to its owner's hand. Scry 1.",
             "artFileName": "TMT_161",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_161.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_161.jpg"
         },
         {
             "cardID": "TMT-162",
@@ -1456,7 +1617,8 @@
             "cardName": "North Wind Avatar",
             "cardText": "Flying\nWhen this creature enters, if you cast it, you may put a card you own from outside the game into your hand.",
             "artFileName": "TMT_162",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_162.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_162.jpg"
         },
         {
             "cardID": "TMT-163",
@@ -1465,7 +1627,8 @@
             "cardName": "Pizza Face, Gastromancer",
             "cardText": "When Pizza Face enters, create a Food token.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put three +1/+1 counters on up to one other target artifact or creature. If it isn't a creature, it becomes a 0/0 Mutant creature in addition to its other types.\n{10}, {T}, Sacrifice Pizza Face: You gain 15 life.",
             "artFileName": "TMT_163",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_163.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_163.jpg"
         },
         {
             "cardID": "TMT-164",
@@ -1474,7 +1637,8 @@
             "cardName": "Punk Frogs",
             "cardText": "Ward {3}",
             "artFileName": "TMT_164",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_164.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_164.jpg"
         },
         {
             "cardID": "TMT-165",
@@ -1483,7 +1647,8 @@
             "cardName": "Putrid Pals",
             "cardText": "Deathtouch\nDisappear — This creature enters with two +1/+1 counters on it if a permanent left the battlefield under your control this turn.",
             "artFileName": "TMT_165",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_165.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_165.jpg"
         },
         {
             "cardID": "TMT-166",
@@ -1492,7 +1657,8 @@
             "cardName": "Raph & Leo, Sibling Rivals",
             "cardText": "Whenever Raph & Leo attack, if it's the first combat phase of the turn, untap one or two target attacking creatures. After this phase, there is an additional combat phase.",
             "artFileName": "TMT_166",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_166.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_166.jpg"
         },
         {
             "cardID": "TMT-167",
@@ -1501,7 +1667,8 @@
             "cardName": "Raph & Mikey, Troublemakers",
             "cardText": "Trample, haste\nWhenever Raph & Mikey attack, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield tapped and attacking and the rest on the bottom of your library in a random order.",
             "artFileName": "TMT_167",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_167.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_167.jpg"
         },
         {
             "cardID": "TMT-168",
@@ -1510,7 +1677,8 @@
             "cardName": "Slithering Cryptid",
             "cardText": "When this creature enters, create a Mutagen token.",
             "artFileName": "TMT_168",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_168.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_168.jpg"
         },
         {
             "cardID": "TMT-169",
@@ -1519,7 +1687,8 @@
             "cardName": "Splinter, Radical Rat",
             "cardText": "If a triggered ability of a Ninja creature you control triggers, that ability triggers an additional time.\n{1}{U}: Target Ninja can't be blocked this turn.",
             "artFileName": "TMT_169",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_169.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_169.jpg"
         },
         {
             "cardID": "TMT-170",
@@ -1528,7 +1697,8 @@
             "cardName": "Tainted Treats",
             "cardText": "Destroy target artifact or creature. If its mana value was 4 or less, create a Food token.",
             "artFileName": "TMT_170",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_170.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_170.jpg"
         },
         {
             "cardID": "TMT-171",
@@ -1537,7 +1707,8 @@
             "cardName": "Tokka & Rahzar, Terrible Twos",
             "cardText": "This spell can't be countered.\nMenace\nWhenever a player casts a spell, if the amount of mana spent to cast it was less than its mana value, Tokka & Rahzar deal 3 damage to that player.",
             "artFileName": "TMT_171",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_171.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_171.jpg"
         },
         {
             "cardID": "TMT-172",
@@ -1546,7 +1717,8 @@
             "cardName": "Chrome Dome",
             "cardText": "Other artifact creatures you control get +1/+0.\n{5}: Create a token that's a copy of another target artifact you control. That token gains haste. Sacrifice it at the beginning of the next end step.",
             "artFileName": "TMT_172",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_172.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_172.jpg"
         },
         {
             "cardID": "TMT-173",
@@ -1555,7 +1727,8 @@
             "cardName": "Everything Pizza",
             "cardText": "When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{2}{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: Target player gains 3 life and draws a card. Each of your opponents discards a card. This artifact deals 3 damage to any target. Put three +1/+1 counters on up to one target creature.",
             "artFileName": "TMT_173",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_173.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_173.jpg"
         },
         {
             "cardID": "TMT-174",
@@ -1564,7 +1737,8 @@
             "cardName": "Henchbots",
             "cardText": "When this creature enters, exile target tapped creature an opponent controls until this creature leaves the battlefield.",
             "artFileName": "TMT_174",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_174.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_174.jpg"
         },
         {
             "cardID": "TMT-175",
@@ -1573,7 +1747,8 @@
             "cardName": "Krang, Utrom Warlord",
             "cardText": "Flying, trample, indestructible, haste\nOther artifact creatures you control have flying, trample, indestructible, and haste.",
             "artFileName": "TMT_175",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_175.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_175.jpg"
         },
         {
             "cardID": "TMT-176",
@@ -1582,7 +1757,8 @@
             "cardName": "Omni-Cheese Pizza",
             "cardText": "When this artifact enters, draw a card.\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
             "artFileName": "TMT_176",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_176.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_176.jpg"
         },
         {
             "cardID": "TMT-177",
@@ -1591,7 +1767,8 @@
             "cardName": "The Ooze",
             "cardText": "Whenever a creature you control with a +1/+1 counter on it leaves the battlefield, create a Mutagen token for each +1/+1 counter on it.\n{T}: Exile target card from a graveyard. Create a Mutagen token.",
             "artFileName": "TMT_177",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_177.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_177.jpg"
         },
         {
             "cardID": "TMT-178",
@@ -1600,7 +1777,8 @@
             "cardName": "Skateboard",
             "cardText": "When this Equipment enters, tap target permanent.\nEquipped creature gets +1/+0 and has haste.\nEquip {1}",
             "artFileName": "TMT_178",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_178.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_178.jpg"
         },
         {
             "cardID": "TMT-179",
@@ -1609,7 +1787,8 @@
             "cardName": "Technodrome",
             "cardText": "Reach, trample\nThis creature can't attack or block unless its power is 6 or greater.\n{T}, Sacrifice another artifact: Draw a card. Put a +1/+1 counter on this creature.",
             "artFileName": "TMT_179",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_179.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_179.jpg"
         },
         {
             "cardID": "TMT-180",
@@ -1618,7 +1797,8 @@
             "cardName": "Turtle Blimp",
             "cardText": "Flying\nWhen this Vehicle enters, create a 2/2 red Mutant creature token.\nCrew 2",
             "artFileName": "TMT_180",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_180.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_180.jpg"
         },
         {
             "cardID": "TMT-181",
@@ -1627,7 +1807,8 @@
             "cardName": "Turtle Van",
             "cardText": "Whenever this Vehicle attacks, put a +1/+1 counter on target creature that crewed it this turn. Then if that creature is a Mutant, Ninja, or Turtle, double the number of +1/+1 counters on it.\nCrew 1",
             "artFileName": "TMT_181",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_181.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_181.jpg"
         },
         {
             "cardID": "TMT-182",
@@ -1636,7 +1817,8 @@
             "cardName": "Weather Maker",
             "cardText": "Landfall — Whenever a land you control enters, put a charge counter on this artifact.\n{T}: Add one mana of any color.\n{T}, Remove two charge counters from this artifact: Add {C}{C}.\n{T}, Remove three charge counters from this artifact: It deals 3 damage to any target.",
             "artFileName": "TMT_182",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_182.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_182.jpg"
         },
         {
             "cardID": "TMT-183",
@@ -1645,7 +1827,8 @@
             "cardName": "Dimension X",
             "cardText": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.",
             "artFileName": "TMT_183",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_183.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_183.jpg"
         },
         {
             "cardID": "TMT-184",
@@ -1654,7 +1837,8 @@
             "cardName": "Escape Tunnel",
             "cardText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",
             "artFileName": "TMT_184",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_184.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_184.jpg"
         },
         {
             "cardID": "TMT-185",
@@ -1663,7 +1847,8 @@
             "cardName": "Foot Headquarters",
             "cardText": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {B}.",
             "artFileName": "TMT_185",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_185.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_185.jpg"
         },
         {
             "cardID": "TMT-186",
@@ -1672,7 +1857,8 @@
             "cardName": "Illegitimate Business",
             "cardText": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {G}.",
             "artFileName": "TMT_186",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_186.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_186.jpg"
         },
         {
             "cardID": "TMT-187",
@@ -1681,7 +1867,8 @@
             "cardName": "Mutant Town",
             "cardText": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {U}.",
             "artFileName": "TMT_187",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_187.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_187.jpg"
         },
         {
             "cardID": "TMT-188",
@@ -1690,7 +1877,8 @@
             "cardName": "Northampton Farm",
             "cardText": "{T}: Add {C}.\n{1}, {T}: Exile target creature you own.\n{2}, {T}, Sacrifice this land: Return a creature card exiled with this land to the battlefield under your control. Return each other card exiled with this land to its owner's hand.",
             "artFileName": "TMT_188",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_188.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_188.jpg"
         },
         {
             "cardID": "TMT-189",
@@ -1699,7 +1887,8 @@
             "cardName": "TCRI Building",
             "cardText": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.",
             "artFileName": "TMT_189",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_189.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_189.jpg"
         },
         {
             "cardID": "TMT-190",
@@ -1708,7 +1897,8 @@
             "cardName": "Turtle Lair",
             "cardText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.\n{3}, {T}: Target Ninja or Turtle can't be blocked this turn.",
             "artFileName": "TMT_190",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_190.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_190.jpg"
         },
         {
             "cardID": "TMT-191",
@@ -1717,7 +1907,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "TMT_191",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_191.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_191.jpg"
         },
         {
             "cardID": "TMT-192",
@@ -1726,7 +1917,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "TMT_192",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_192.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_192.jpg"
         },
         {
             "cardID": "TMT-193",
@@ -1735,7 +1927,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "TMT_193",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_193.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_193.jpg"
         },
         {
             "cardID": "TMT-194",
@@ -1744,7 +1937,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "TMT_194",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_194.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_194.jpg"
         },
         {
             "cardID": "TMT-195",
@@ -1753,7 +1947,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "TMT_195",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_195.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TMT/TMT_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TMT/TMT_195.jpg"
         }
     ]
 }

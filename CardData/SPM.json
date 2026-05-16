@@ -7,7 +7,8 @@
             "cardName": "Anti-Venom, Horrifying Healer",
             "cardText": "When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.\nIf damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.",
             "artFileName": "SPM_001",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_001.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_001.jpg"
         },
         {
             "cardID": "SPM-002",
@@ -16,7 +17,8 @@
             "cardName": "Arachne, Psionic Weaver",
             "cardText": "Web-slinging {W}\nAs Arachne enters, look at an opponent's hand, then choose a card type other than creature.\nSpells of the chosen type cost {1} more to cast.",
             "artFileName": "SPM_002",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_002.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_002.jpg"
         },
         {
             "cardID": "SPM-003",
@@ -25,7 +27,8 @@
             "cardName": "Aunt May",
             "cardText": "Whenever another creature you control enters, you gain 1 life. If it's a Spider, put a +1/+1 counter on it.",
             "artFileName": "SPM_003",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_003.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_003.jpg"
         },
         {
             "cardID": "SPM-004",
@@ -34,7 +37,8 @@
             "cardName": "City Pigeon",
             "cardText": "Flying\nWhen this creature leaves the battlefield, create a Food token.",
             "artFileName": "SPM_004",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_004.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_004.jpg"
         },
         {
             "cardID": "SPM-005",
@@ -43,7 +47,8 @@
             "cardName": "Costume Closet",
             "cardText": "This artifact enters with two +1/+1 counters on it.\n{T}: Move a +1/+1 counter from this artifact onto target creature you control. Activate only as a sorcery.\nWhenever a modified creature you control leaves the battlefield, put a +1/+1 counter on this artifact.",
             "artFileName": "SPM_005",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_005.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_005.jpg"
         },
         {
             "cardID": "SPM-006",
@@ -52,7 +57,8 @@
             "cardName": "Daily Bugle Reporters",
             "cardText": "When this creature enters, choose one —\n• Puff Piece — Put a +1/+1 counter on each of up to two target creatures.\n• Investigative Journalism — Return target creature card with mana value 2 or less from your graveyard to your hand.",
             "artFileName": "SPM_006",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_006.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_006.jpg"
         },
         {
             "cardID": "SPM-007",
@@ -61,7 +67,8 @@
             "cardName": "Flash Thompson, Spider-Fan",
             "cardText": "Flash\nWhen Flash Thompson enters, choose one or both —\n• Heckle — Tap target creature.\n• Hero Worship — Untap target creature.",
             "artFileName": "SPM_007",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_007.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_007.jpg"
         },
         {
             "cardID": "SPM-008",
@@ -70,7 +77,8 @@
             "cardName": "Friendly Neighborhood",
             "cardText": "Enchant land\nWhen this Aura enters, create three 1/1 green and white Human Citizen creature tokens.\nEnchanted land has \"{1}, {T}: Target creature gets +1/+1 until end of turn for each creature you control. Activate only as a sorcery.\"",
             "artFileName": "SPM_008",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_008.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_008.jpg"
         },
         {
             "cardID": "SPM-009",
@@ -79,16 +87,18 @@
             "cardName": "Origin of Spider-Man",
             "cardText": "I — Create a 2/1 green Spider creature token with reach.\nII — Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.\nIII — Target creature you control gains double strike until end of turn.",
             "artFileName": "SPM_009",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_009.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_009.jpg"
         },
         {
             "cardID": "SPM-010",
             "setCode": "SPM",
             "cardNumber": 10,
-            "cardName": "Peter Parker",
+            "cardName": "Peter Parker // Amazing Spider-Man",
             "cardText": "When Peter Parker enters, create a 2/1 green Spider creature token with reach.\n{1}{G}{W}{U}: Transform Peter Parker. Activate only as a sorcery.",
             "artFileName": "SPM_010",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_010.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_010.jpg"
         },
         {
             "cardID": "SPM-011",
@@ -97,7 +107,8 @@
             "cardName": "Rent Is Due",
             "cardText": "At the beginning of your end step, you may tap two untapped creatures and/or Treasures you control. If you do, draw a card. Otherwise, sacrifice this enchantment.",
             "artFileName": "SPM_011",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_011.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_011.jpg"
         },
         {
             "cardID": "SPM-012",
@@ -106,7 +117,8 @@
             "cardName": "Selfless Police Captain",
             "cardText": "This creature enters with a +1/+1 counter on it.\nWhen this creature leaves the battlefield, put its +1/+1 counters on target creature you control.",
             "artFileName": "SPM_012",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_012.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_012.jpg"
         },
         {
             "cardID": "SPM-013",
@@ -115,7 +127,8 @@
             "cardName": "Silver Sable, Mercenary Leader",
             "cardText": "When Silver Sable enters, put a +1/+1 counter on another target creature.\nWhenever Silver Sable attacks, target modified creature you control gains lifelink until end of turn.",
             "artFileName": "SPM_013",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_013.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_013.jpg"
         },
         {
             "cardID": "SPM-014",
@@ -124,7 +137,8 @@
             "cardName": "Spectacular Spider-Man",
             "cardText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
             "artFileName": "SPM_014",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_014.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_014.jpg"
         },
         {
             "cardID": "SPM-015",
@@ -133,7 +147,8 @@
             "cardName": "Spectacular Tactics",
             "cardText": "Choose one —\n• Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.\n• Destroy target creature with power 4 or greater.",
             "artFileName": "SPM_015",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_015.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_015.jpg"
         },
         {
             "cardID": "SPM-016",
@@ -142,7 +157,8 @@
             "cardName": "Spider-Man, Web-Slinger",
             "cardText": "Web-slinging {W}",
             "artFileName": "SPM_016",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_016.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_016.jpg"
         },
         {
             "cardID": "SPM-017",
@@ -151,7 +167,8 @@
             "cardName": "Spider-UK",
             "cardText": "Web-slinging {2}{W}\nAt the beginning of your end step, if two or more creatures entered the battlefield under your control this turn, you draw a card and gain 2 life.",
             "artFileName": "SPM_017",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_017.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_017.jpg"
         },
         {
             "cardID": "SPM-018",
@@ -160,7 +177,8 @@
             "cardName": "Starling, Aerial Ally",
             "cardText": "Flying\nWhen Starling enters, another target creature you control gains flying until end of turn.",
             "artFileName": "SPM_018",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_018.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_018.jpg"
         },
         {
             "cardID": "SPM-019",
@@ -169,7 +187,8 @@
             "cardName": "Sudden Strike",
             "cardText": "Destroy target attacking or blocking creature.",
             "artFileName": "SPM_019",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_019.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_019.jpg"
         },
         {
             "cardID": "SPM-020",
@@ -178,7 +197,8 @@
             "cardName": "Thwip!",
             "cardText": "Target creature gets +2/+2 and gains flying until end of turn. If it's a Spider, you gain 2 life.",
             "artFileName": "SPM_020",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_020.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_020.jpg"
         },
         {
             "cardID": "SPM-021",
@@ -187,7 +207,8 @@
             "cardName": "Web Up",
             "cardText": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
             "artFileName": "SPM_021",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_021.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_021.jpg"
         },
         {
             "cardID": "SPM-022",
@@ -196,7 +217,8 @@
             "cardName": "Web-Shooters",
             "cardText": "Equipped creature gets +1/+1 and has reach and \"Whenever this creature attacks, tap target creature an opponent controls.\"\nEquip {2}",
             "artFileName": "SPM_022",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_022.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_022.jpg"
         },
         {
             "cardID": "SPM-023",
@@ -205,7 +227,8 @@
             "cardName": "Wild Pack Squad",
             "cardText": "At the beginning of combat on your turn, up to one target creature gains first strike and vigilance until end of turn.",
             "artFileName": "SPM_023",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_023.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_023.jpg"
         },
         {
             "cardID": "SPM-024",
@@ -214,7 +237,8 @@
             "cardName": "With Great Power . . .",
             "cardText": "Enchant creature you control\nEnchanted creature gets +2/+2 for each Aura and Equipment attached to it.\nAll damage that would be dealt to you is dealt to enchanted creature instead.",
             "artFileName": "SPM_024",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_024.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_024.jpg"
         },
         {
             "cardID": "SPM-025",
@@ -223,7 +247,8 @@
             "cardName": "Amazing Acrobatics",
             "cardText": "Choose one or both —\n• Counter target spell.\n• Tap one or two target creatures.",
             "artFileName": "SPM_025",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_025.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_025.jpg"
         },
         {
             "cardID": "SPM-026",
@@ -232,7 +257,8 @@
             "cardName": "Beetle, Legacy Criminal",
             "cardText": "Flying\n{1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.",
             "artFileName": "SPM_026",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_026.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_026.jpg"
         },
         {
             "cardID": "SPM-027",
@@ -241,7 +267,8 @@
             "cardName": "Chameleon, Master of Disguise",
             "cardText": "You may have Chameleon enter as a copy of a creature you control, except his name is Chameleon, Master of Disguise.\nMayhem {2}{U}",
             "artFileName": "SPM_027",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_027.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_027.jpg"
         },
         {
             "cardID": "SPM-028",
@@ -250,7 +277,8 @@
             "cardName": "The Clone Saga",
             "cardText": "I — Surveil 3.\nII — When you next cast a creature spell this turn, copy it, except the copy isn't legendary.\nIII — Choose a card name. Whenever a creature with the chosen name deals combat damage to a player this turn, draw a card.",
             "artFileName": "SPM_028",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_028.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_028.jpg"
         },
         {
             "cardID": "SPM-029",
@@ -259,7 +287,8 @@
             "cardName": "Doc Ock, Sinister Scientist",
             "cardText": "As long as there are eight or more cards in your graveyard, Doc Ock has base power and toughness 8/8.\nAs long as you control another Villain, Doc Ock has hexproof.",
             "artFileName": "SPM_029",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_029.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_029.jpg"
         },
         {
             "cardID": "SPM-030",
@@ -268,7 +297,8 @@
             "cardName": "Doc Ock's Henchmen",
             "cardText": "Flash\nWhenever this creature attacks, it connives.",
             "artFileName": "SPM_030",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_030.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_030.jpg"
         },
         {
             "cardID": "SPM-031",
@@ -277,7 +307,8 @@
             "cardName": "Flying Octobot",
             "cardText": "Flying\nWhenever another Villain you control enters, put a +1/+1 counter on this creature. This ability triggers only once each turn.",
             "artFileName": "SPM_031",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_031.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_031.jpg"
         },
         {
             "cardID": "SPM-032",
@@ -286,7 +317,8 @@
             "cardName": "Hide on the Ceiling",
             "cardText": "Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.",
             "artFileName": "SPM_032",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_032.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_032.jpg"
         },
         {
             "cardID": "SPM-033",
@@ -295,7 +327,8 @@
             "cardName": "Hydro-Man, Fluid Felon",
             "cardText": "Whenever you cast a blue spell, if Hydro-Man is a creature, he gets +1/+1 until end of turn.\nAt the beginning of your end step, untap Hydro-Man. Until your next turn, he becomes a land and gains \"{T}: Add {U}.\"",
             "artFileName": "SPM_033",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_033.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_033.jpg"
         },
         {
             "cardID": "SPM-034",
@@ -304,7 +337,8 @@
             "cardName": "Impostor Syndrome",
             "cardText": "Whenever a nontoken creature you control deals combat damage to a player, create a token that's a copy of it, except it isn't legendary.",
             "artFileName": "SPM_034",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_034.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_034.jpg"
         },
         {
             "cardID": "SPM-035",
@@ -313,7 +347,8 @@
             "cardName": "Lady Octopus, Inspired Inventor",
             "cardText": "Whenever you draw your first or second card each turn, put an ingenuity counter on Lady Octopus.\n{T}: You may cast an artifact spell from your hand with mana value less than or equal to the number of ingenuity counters on Lady Octopus without paying its mana cost.",
             "artFileName": "SPM_035",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_035.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_035.jpg"
         },
         {
             "cardID": "SPM-036",
@@ -322,7 +357,8 @@
             "cardName": "Madame Web, Clairvoyant",
             "cardText": "You may look at the top card of your library any time.\nYou may cast Spider spells and noncreature spells from the top of your library.\nWhenever you attack, you may mill a card.",
             "artFileName": "SPM_036",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_036.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_036.jpg"
         },
         {
             "cardID": "SPM-037",
@@ -331,7 +367,8 @@
             "cardName": "Mysterio, Master of Illusion",
             "cardText": "When Mysterio enters, create a 3/3 blue Illusion Villain creature token for each nontoken Villain you control. Exile those tokens when Mysterio leaves the battlefield.",
             "artFileName": "SPM_037",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_037.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_037.jpg"
         },
         {
             "cardID": "SPM-038",
@@ -340,16 +377,18 @@
             "cardName": "Mysterio's Phantasm",
             "cardText": "Flying, vigilance\nWhenever this creature attacks, mill a card.",
             "artFileName": "SPM_038",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_038.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_038.jpg"
         },
         {
             "cardID": "SPM-039",
             "setCode": "SPM",
             "cardNumber": 39,
-            "cardName": "Norman Osborn",
+            "cardName": "Norman Osborn // Green Goblin",
             "cardText": "Norman Osborn can't be blocked.\nWhenever Norman Osborn deals combat damage to a player, he connives.\n{1}{U}{B}{R}: Transform Norman Osborn. Activate only as a sorcery.",
             "artFileName": "SPM_039",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_039.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_039.jpg"
         },
         {
             "cardID": "SPM-040",
@@ -358,7 +397,8 @@
             "cardName": "Oscorp Research Team",
             "cardText": "{6}{U}: Draw two cards.",
             "artFileName": "SPM_040",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_040.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_040.jpg"
         },
         {
             "cardID": "SPM-041",
@@ -367,7 +407,8 @@
             "cardName": "Robotics Mastery",
             "cardText": "Flash\nEnchant creature\nWhen this Aura enters, create two 1/1 colorless Robot artifact creature tokens with flying.\nEnchanted creature gets +2/+2.",
             "artFileName": "SPM_041",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_041.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_041.jpg"
         },
         {
             "cardID": "SPM-042",
@@ -376,7 +417,8 @@
             "cardName": "School Daze",
             "cardText": "Choose one —\n• Do Homework — Draw three cards.\n• Fight Crime — Counter target spell. Draw a card.",
             "artFileName": "SPM_042",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_042.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_042.jpg"
         },
         {
             "cardID": "SPM-043",
@@ -385,7 +427,8 @@
             "cardName": "Secret Identity",
             "cardText": "Choose one —\n• Conceal — Until end of turn, target creature you control becomes a Citizen with base power and toughness 1/1 and gains hexproof.\n• Reveal — Until end of turn, target creature you control becomes a Hero with base power and toughness 3/4 and gains flying and vigilance.",
             "artFileName": "SPM_043",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_043.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_043.jpg"
         },
         {
             "cardID": "SPM-044",
@@ -394,7 +437,8 @@
             "cardName": "Spider-Byte, Web Warden",
             "cardText": "When Spider-Byte enters, return up to one target nonland permanent to its owner's hand.",
             "artFileName": "SPM_044",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_044.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_044.jpg"
         },
         {
             "cardID": "SPM-045",
@@ -403,7 +447,8 @@
             "cardName": "Spider-Man No More",
             "cardText": "Enchant creature\nEnchanted creature is a Citizen with base power and toughness 1/1. It has defender and loses all other abilities.",
             "artFileName": "SPM_045",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_045.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_045.jpg"
         },
         {
             "cardID": "SPM-046",
@@ -412,7 +457,8 @@
             "cardName": "Spider-Sense",
             "cardText": "Web-slinging {U}\nCounter target instant spell, sorcery spell, or triggered ability.",
             "artFileName": "SPM_046",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_046.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_046.jpg"
         },
         {
             "cardID": "SPM-047",
@@ -421,7 +467,8 @@
             "cardName": "Unstable Experiment",
             "cardText": "Target player draws a card, then up to one target creature you control connives.",
             "artFileName": "SPM_047",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_047.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_047.jpg"
         },
         {
             "cardID": "SPM-048",
@@ -430,7 +477,8 @@
             "cardName": "Whoosh!",
             "cardText": "Kicker {1}{U}\nReturn target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",
             "artFileName": "SPM_048",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_048.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_048.jpg"
         },
         {
             "cardID": "SPM-049",
@@ -439,7 +487,8 @@
             "cardName": "Agent Venom",
             "cardText": "Flash\nMenace\nWhenever another nontoken creature you control dies, you draw a card and lose 1 life.",
             "artFileName": "SPM_049",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_049.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_049.jpg"
         },
         {
             "cardID": "SPM-050",
@@ -448,7 +497,8 @@
             "cardName": "Alien Symbiosis",
             "cardText": "Enchant creature\nEnchanted creature gets +1/+1, has menace, and is a Symbiote in addition to its other types.\nYou may cast this card from your graveyard by discarding a card in addition to paying its other costs.",
             "artFileName": "SPM_050",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_050.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_050.jpg"
         },
         {
             "cardID": "SPM-051",
@@ -457,7 +507,8 @@
             "cardName": "Behold the Sinister Six!",
             "cardText": "Return up to six target creature cards with different names from your graveyard to the battlefield.",
             "artFileName": "SPM_051",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_051.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_051.jpg"
         },
         {
             "cardID": "SPM-052",
@@ -466,7 +517,8 @@
             "cardName": "Black Cat, Cunning Thief",
             "cardText": "When Black Cat enters, look at the top nine cards of target opponent's library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.",
             "artFileName": "SPM_052",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_052.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_052.jpg"
         },
         {
             "cardID": "SPM-053",
@@ -475,7 +527,8 @@
             "cardName": "Common Crook",
             "cardText": "When this creature dies, create a Treasure token.",
             "artFileName": "SPM_053",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_053.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_053.jpg"
         },
         {
             "cardID": "SPM-054",
@@ -484,16 +537,18 @@
             "cardName": "The Death of Gwen Stacy",
             "cardText": "I — Destroy target creature.\nII — Each player may discard a card. Each player who doesn't loses 3 life.\nIII — Exile any number of target players' graveyards.",
             "artFileName": "SPM_054",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_054.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_054.jpg"
         },
         {
             "cardID": "SPM-055",
             "setCode": "SPM",
             "cardNumber": 55,
-            "cardName": "Eddie Brock",
+            "cardName": "Eddie Brock // Venom, Lethal Protector",
             "cardText": "When Eddie Brock enters, return target creature card with mana value 1 or less from your graveyard to the battlefield.\n{3}{B}{R}{G}: Transform Eddie Brock. Activate only as a sorcery.",
             "artFileName": "SPM_055",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_055.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_055.jpg"
         },
         {
             "cardID": "SPM-056",
@@ -502,7 +557,8 @@
             "cardName": "Gwenom, Remorseless",
             "cardText": "Deathtouch, lifelink\nWhenever Gwenom attacks, until end of turn, you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",
             "artFileName": "SPM_056",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_056.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_056.jpg"
         },
         {
             "cardID": "SPM-057",
@@ -511,7 +567,8 @@
             "cardName": "Inner Demons Gangsters",
             "cardText": "Discard a card: This creature gets +1/+0 and gains menace until end of turn. Activate only as a sorcery.",
             "artFileName": "SPM_057",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_057.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_057.jpg"
         },
         {
             "cardID": "SPM-058",
@@ -520,7 +577,8 @@
             "cardName": "Merciless Enforcers",
             "cardText": "Lifelink\n{3}{B}: This creature deals 1 damage to each opponent.",
             "artFileName": "SPM_058",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_058.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_058.jpg"
         },
         {
             "cardID": "SPM-059",
@@ -529,7 +587,8 @@
             "cardName": "Morlun, Devourer of Spiders",
             "cardText": "Lifelink\nMorlun enters with X +1/+1 counters on him.\nWhen Morlun enters, he deals X damage to target opponent.",
             "artFileName": "SPM_059",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_059.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_059.jpg"
         },
         {
             "cardID": "SPM-060",
@@ -538,7 +597,8 @@
             "cardName": "Parker Luck",
             "cardText": "At the beginning of your end step, two target players each reveal the top card of their library. They each lose life equal to the mana value of the card revealed by the other player. Then they each put the card they revealed into their hand.",
             "artFileName": "SPM_060",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_060.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_060.jpg"
         },
         {
             "cardID": "SPM-061",
@@ -547,7 +607,8 @@
             "cardName": "Prison Break",
             "cardText": "Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.\nMayhem {3}{B}",
             "artFileName": "SPM_061",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_061.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_061.jpg"
         },
         {
             "cardID": "SPM-062",
@@ -556,7 +617,8 @@
             "cardName": "Risky Research",
             "cardText": "Surveil 2, then draw two cards. You lose 2 life.",
             "artFileName": "SPM_062",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_062.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_062.jpg"
         },
         {
             "cardID": "SPM-063",
@@ -565,7 +627,8 @@
             "cardName": "Sandman's Quicksand",
             "cardText": "Mayhem {3}{B}\nAll creatures get -2/-2 until end of turn. If this spell's mayhem cost was paid, creatures your opponents control get -2/-2 until end of turn instead.",
             "artFileName": "SPM_063",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_063.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_063.jpg"
         },
         {
             "cardID": "SPM-064",
@@ -574,7 +637,8 @@
             "cardName": "Scorpion, Seething Striker",
             "cardText": "Deathtouch\nAt the beginning of your end step, if a creature died this turn, target creature you control connives.",
             "artFileName": "SPM_064",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_064.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_064.jpg"
         },
         {
             "cardID": "SPM-065",
@@ -583,7 +647,8 @@
             "cardName": "Scorpion's Sting",
             "cardText": "Target creature gets -3/-3 until end of turn.",
             "artFileName": "SPM_065",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_065.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_065.jpg"
         },
         {
             "cardID": "SPM-066",
@@ -592,7 +657,8 @@
             "cardName": "The Soul Stone",
             "cardText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone.\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
             "artFileName": "SPM_066",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_066.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_066.jpg"
         },
         {
             "cardID": "SPM-067",
@@ -601,7 +667,8 @@
             "cardName": "Spider-Man Noir",
             "cardText": "Menace\nWhenever a creature you control attacks alone, put a +1/+1 counter on it. Then surveil X, where X is the number of counters on it.",
             "artFileName": "SPM_067",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_067.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_067.jpg"
         },
         {
             "cardID": "SPM-068",
@@ -610,7 +677,8 @@
             "cardName": "The Spot's Portal",
             "cardText": "Put target creature on the bottom of its owner's library. You lose 2 life unless you control a Villain.",
             "artFileName": "SPM_068",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_068.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_068.jpg"
         },
         {
             "cardID": "SPM-069",
@@ -619,7 +687,8 @@
             "cardName": "Swarm, Being of Bees",
             "cardText": "Flash\nFlying\nMayhem {B}",
             "artFileName": "SPM_069",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_069.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_069.jpg"
         },
         {
             "cardID": "SPM-070",
@@ -628,7 +697,8 @@
             "cardName": "Tombstone, Career Criminal",
             "cardText": "When Tombstone enters, return target Villain card from your graveyard to your hand.\nVillain spells you cast cost {1} less to cast.",
             "artFileName": "SPM_070",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_070.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_070.jpg"
         },
         {
             "cardID": "SPM-071",
@@ -637,7 +707,8 @@
             "cardName": "Venom, Evil Unleashed",
             "cardText": "Deathtouch\n{2}{B}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. It gains deathtouch until end of turn. Activate only as a sorcery.",
             "artFileName": "SPM_071",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_071.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_071.jpg"
         },
         {
             "cardID": "SPM-072",
@@ -646,7 +717,8 @@
             "cardName": "Venomized Cat",
             "cardText": "Deathtouch\nWhen this creature enters, mill two cards.",
             "artFileName": "SPM_072",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_072.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_072.jpg"
         },
         {
             "cardID": "SPM-073",
@@ -655,7 +727,8 @@
             "cardName": "Venom's Hunger",
             "cardText": "This spell costs {2} less to cast if you control a Villain.\nDestroy target creature. You gain 2 life.",
             "artFileName": "SPM_073",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_073.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_073.jpg"
         },
         {
             "cardID": "SPM-074",
@@ -664,7 +737,8 @@
             "cardName": "Villainous Wrath",
             "cardText": "Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.",
             "artFileName": "SPM_074",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_074.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_074.jpg"
         },
         {
             "cardID": "SPM-075",
@@ -673,7 +747,8 @@
             "cardName": "Angry Rabble",
             "cardText": "Trample\nWhenever you cast a spell with mana value 4 or greater, this creature deals 1 damage to each opponent.\n{5}{R}: Put two +1/+1 counters on this creature. Activate only as a sorcery.",
             "artFileName": "SPM_075",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_075.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_075.jpg"
         },
         {
             "cardID": "SPM-076",
@@ -682,7 +757,8 @@
             "cardName": "Electro, Assaulting Battery",
             "cardText": "Flying\nYou don't lose unspent red mana as steps and phases end.\nWhenever you cast an instant or sorcery spell, add {R}.\nWhen Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",
             "artFileName": "SPM_076",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_076.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_076.jpg"
         },
         {
             "cardID": "SPM-077",
@@ -691,16 +767,18 @@
             "cardName": "Electro's Bolt",
             "cardText": "Electro's Bolt deals 4 damage to target creature.\nMayhem {1}{R}",
             "artFileName": "SPM_077",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_077.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_077.jpg"
         },
         {
             "cardID": "SPM-078",
             "setCode": "SPM",
             "cardNumber": 78,
-            "cardName": "Gwen Stacy",
+            "cardName": "Gwen Stacy // Ghost-Spider",
             "cardText": "When Gwen Stacy enters, exile the top card of your library. You may play that card for as long as you control this creature.\n{2}{U}{R}{W}: Transform Gwen Stacy. Activate only as a sorcery.",
             "artFileName": "SPM_078",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_078.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_078.jpg"
         },
         {
             "cardID": "SPM-079",
@@ -709,7 +787,8 @@
             "cardName": "Heroes' Hangout",
             "cardText": "Choose one —\n• Date Night — Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.\n• Patrol Night — One or two target creatures each get +1/+0 and gain first strike until end of turn.",
             "artFileName": "SPM_079",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_079.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_079.jpg"
         },
         {
             "cardID": "SPM-080",
@@ -718,7 +797,8 @@
             "cardName": "Hobgoblin, Mantled Marauder",
             "cardText": "Flying, haste\nWhenever you discard a card, Hobgoblin gets +2/+0 until end of turn.",
             "artFileName": "SPM_080",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_080.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_080.jpg"
         },
         {
             "cardID": "SPM-081",
@@ -727,7 +807,8 @@
             "cardName": "J. Jonah Jameson",
             "cardText": "When J. Jonah Jameson enters, suspect up to one target creature.\nWhenever a creature you control with menace attacks, create a Treasure token.",
             "artFileName": "SPM_081",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_081.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_081.jpg"
         },
         {
             "cardID": "SPM-082",
@@ -736,7 +817,8 @@
             "cardName": "Masked Meower",
             "cardText": "Haste\nDiscard a card, Sacrifice this creature: Draw a card.",
             "artFileName": "SPM_082",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_082.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_082.jpg"
         },
         {
             "cardID": "SPM-083",
@@ -745,7 +827,8 @@
             "cardName": "Maximum Carnage",
             "cardText": "I — Until your next turn, each creature attacks each combat if able and attacks a player other than you if able.\nII — Add {R}{R}{R}.\nIII — This Saga deals 5 damage to each opponent.",
             "artFileName": "SPM_083",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_083.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_083.jpg"
         },
         {
             "cardID": "SPM-084",
@@ -754,7 +837,8 @@
             "cardName": "Molten Man, Inferno Incarnate",
             "cardText": "When Molten Man enters, search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.\nMolten Man gets +1/+1 for each Mountain you control.\nWhen Molten Man leaves the battlefield, sacrifice a land.",
             "artFileName": "SPM_084",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_084.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_084.jpg"
         },
         {
             "cardID": "SPM-085",
@@ -763,7 +847,8 @@
             "cardName": "Raging Goblinoids",
             "cardText": "Haste\nMayhem {2}{R}",
             "artFileName": "SPM_085",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_085.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_085.jpg"
         },
         {
             "cardID": "SPM-086",
@@ -772,7 +857,8 @@
             "cardName": "Romantic Rendezvous",
             "cardText": "Discard a card, then draw two cards.",
             "artFileName": "SPM_086",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_086.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_086.jpg"
         },
         {
             "cardID": "SPM-087",
@@ -781,7 +867,8 @@
             "cardName": "Shadow of the Goblin",
             "cardText": "Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.\nUndying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",
             "artFileName": "SPM_087",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_087.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_087.jpg"
         },
         {
             "cardID": "SPM-088",
@@ -790,7 +877,8 @@
             "cardName": "Shock",
             "cardText": "Shock deals 2 damage to any target.",
             "artFileName": "SPM_088",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_088.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_088.jpg"
         },
         {
             "cardID": "SPM-089",
@@ -799,7 +887,8 @@
             "cardName": "Shocker, Unshakable",
             "cardText": "During your turn, Shocker has first strike.\nVibro-Shock Gauntlets — When Shocker enters, he deals 2 damage to target creature and 2 damage to that creature's controller.",
             "artFileName": "SPM_089",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_089.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_089.jpg"
         },
         {
             "cardID": "SPM-090",
@@ -808,7 +897,8 @@
             "cardName": "Spider-Gwen, Free Spirit",
             "cardText": "Reach\nWhenever Spider-Gwen becomes tapped, you may discard a card. If you do, draw a card.",
             "artFileName": "SPM_090",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_090.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_090.jpg"
         },
         {
             "cardID": "SPM-091",
@@ -817,7 +907,8 @@
             "cardName": "Spider-Islanders",
             "cardText": "Mayhem {1}{R}",
             "artFileName": "SPM_091",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_091.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_091.jpg"
         },
         {
             "cardID": "SPM-092",
@@ -826,7 +917,8 @@
             "cardName": "Spider-Punk",
             "cardText": "Riot\nOther Spiders you control have riot.\nSpells and abilities can't be countered.\nDamage can't be prevented.",
             "artFileName": "SPM_092",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_092.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_092.jpg"
         },
         {
             "cardID": "SPM-093",
@@ -835,7 +927,8 @@
             "cardName": "Spider-Verse",
             "cardText": "The \"legend rule\" doesn't apply to Spiders you control.\nWhenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",
             "artFileName": "SPM_093",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_093.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_093.jpg"
         },
         {
             "cardID": "SPM-094",
@@ -844,7 +937,8 @@
             "cardName": "Spinneret and Spiderling",
             "cardText": "Whenever you attack with two or more Spiders, put a +1/+1 counter on Spinneret and Spiderling.\nWhenever Spinneret and Spiderling deals 4 or more damage, exile the top card of your library. Until the end of your next turn, you may play that card.",
             "artFileName": "SPM_094",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_094.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_094.jpg"
         },
         {
             "cardID": "SPM-095",
@@ -853,7 +947,8 @@
             "cardName": "Stegron the Dinosaur Man",
             "cardText": "Menace\nDinosaur Formula — {1}{R}, Discard this card: Until end of turn, target creature you control gets +3/+1 and becomes a Dinosaur in addition to its other types.",
             "artFileName": "SPM_095",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_095.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_095.jpg"
         },
         {
             "cardID": "SPM-096",
@@ -862,7 +957,8 @@
             "cardName": "Superior Foes of Spider-Man",
             "cardText": "Trample\nWhenever you cast a spell with mana value 4 or greater, you may exile the top card of your library. If you do, you may play that card until you exile another card with this creature.",
             "artFileName": "SPM_096",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_096.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_096.jpg"
         },
         {
             "cardID": "SPM-097",
@@ -871,7 +967,8 @@
             "cardName": "Taxi Driver",
             "cardText": "{1}, {T}: Target creature gains haste until end of turn.",
             "artFileName": "SPM_097",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_097.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_097.jpg"
         },
         {
             "cardID": "SPM-098",
@@ -880,7 +977,8 @@
             "cardName": "Wisecrack",
             "cardText": "Target creature deals damage equal to its power to itself. If that creature is attacking, Wisecrack deals 2 damage to that creature's controller.",
             "artFileName": "SPM_098",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_098.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_098.jpg"
         },
         {
             "cardID": "SPM-099",
@@ -889,7 +987,8 @@
             "cardName": "Damage Control Crew",
             "cardText": "When this creature enters, choose one —\n• Repair — Return target card with mana value 4 or greater from your graveyard to your hand.\n• Impound — Exile target artifact or enchantment.",
             "artFileName": "SPM_099",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_099.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_099.jpg"
         },
         {
             "cardID": "SPM-100",
@@ -898,7 +997,8 @@
             "cardName": "Ezekiel Sims, Spider-Totem",
             "cardText": "Reach\nAt the beginning of combat on your turn, target Spider you control gets +2/+2 until end of turn.",
             "artFileName": "SPM_100",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_100.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_100.jpg"
         },
         {
             "cardID": "SPM-101",
@@ -907,7 +1007,8 @@
             "cardName": "Grow Extra Arms",
             "cardText": "This spell costs {1} less to cast if it targets a Spider.\nTarget creature gets +4/+4 until end of turn.",
             "artFileName": "SPM_101",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_101.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_101.jpg"
         },
         {
             "cardID": "SPM-102",
@@ -916,7 +1017,8 @@
             "cardName": "Guy in the Chair",
             "cardText": "{T}: Add one mana of any color.\nWeb Support — {2}{G}, {T}: Put a +1/+1 counter on target Spider. Activate only as a sorcery.",
             "artFileName": "SPM_102",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_102.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_102.jpg"
         },
         {
             "cardID": "SPM-103",
@@ -925,7 +1027,8 @@
             "cardName": "Kapow!",
             "cardText": "Put a +1/+1 counter on target creature you control. It fights target creature an opponent controls.",
             "artFileName": "SPM_103",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_103.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_103.jpg"
         },
         {
             "cardID": "SPM-104",
@@ -934,7 +1037,8 @@
             "cardName": "Kraven's Cats",
             "cardText": "{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.",
             "artFileName": "SPM_104",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_104.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_104.jpg"
         },
         {
             "cardID": "SPM-105",
@@ -943,7 +1047,8 @@
             "cardName": "Kraven's Last Hunt",
             "cardText": "I — Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.\nII — Target creature you control gets +2/+2 until end of turn.\nIII — Return target creature card from your graveyard to your hand.",
             "artFileName": "SPM_105",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_105.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_105.jpg"
         },
         {
             "cardID": "SPM-106",
@@ -952,7 +1057,8 @@
             "cardName": "Lizard, Connors's Curse",
             "cardText": "Trample\nLizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",
             "artFileName": "SPM_106",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_106.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_106.jpg"
         },
         {
             "cardID": "SPM-107",
@@ -961,16 +1067,18 @@
             "cardName": "Lurking Lizards",
             "cardText": "Trample\nWhenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature.",
             "artFileName": "SPM_107",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_107.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_107.jpg"
         },
         {
             "cardID": "SPM-108",
             "setCode": "SPM",
             "cardNumber": 108,
-            "cardName": "Miles Morales",
+            "cardName": "Miles Morales // Ultimate Spider-Man",
             "cardText": "When Miles Morales enters, put a +1/+1 counter on each of up to two target creatures.\n{3}{R}{G}{W}: Transform Miles Morales. Activate only as a sorcery.",
             "artFileName": "SPM_108",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_108.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_108.jpg"
         },
         {
             "cardID": "SPM-109",
@@ -979,7 +1087,8 @@
             "cardName": "Pictures of Spider-Man",
             "cardText": "When this artifact enters, look at the top five cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.\n{1}, {T}, Sacrifice this artifact: Create a Treasure token.",
             "artFileName": "SPM_109",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_109.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_109.jpg"
         },
         {
             "cardID": "SPM-110",
@@ -988,7 +1097,8 @@
             "cardName": "Professional Wrestler",
             "cardText": "When this creature enters, create a Treasure token.\nThis creature can't be blocked by more than one creature.",
             "artFileName": "SPM_110",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_110.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_110.jpg"
         },
         {
             "cardID": "SPM-111",
@@ -997,7 +1107,8 @@
             "cardName": "Radioactive Spider",
             "cardText": "Reach, deathtouch\nFateful Bite — {2}, Sacrifice this creature: Search your library for a Spider Hero card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery.",
             "artFileName": "SPM_111",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_111.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_111.jpg"
         },
         {
             "cardID": "SPM-112",
@@ -1006,7 +1117,8 @@
             "cardName": "Sandman, Shifting Scoundrel",
             "cardText": "Sandman's power and toughness are each equal to the number of lands you control.\nSandman can't be blocked by creatures with power 2 or less.\n{3}{G}{G}: Return this card and target land card from your graveyard to the battlefield tapped.",
             "artFileName": "SPM_112",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_112.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_112.jpg"
         },
         {
             "cardID": "SPM-113",
@@ -1015,7 +1127,8 @@
             "cardName": "Scout the City",
             "cardText": "Choose one —\n• Look Around — Mill three cards. You may put a permanent card from among them into your hand. You gain 3 life.\n• Bring Down — Destroy target creature with flying.",
             "artFileName": "SPM_113",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_113.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_113.jpg"
         },
         {
             "cardID": "SPM-114",
@@ -1024,7 +1137,8 @@
             "cardName": "Spider-Ham, Peter Porker",
             "cardText": "When Spider-Ham enters, create a Food token.\nAnimal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",
             "artFileName": "SPM_114",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_114.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_114.jpg"
         },
         {
             "cardID": "SPM-115",
@@ -1033,7 +1147,8 @@
             "cardName": "Spider-Man, Brooklyn Visionary",
             "cardText": "Web-slinging {2}{G}\nWhen Spider-Man enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "artFileName": "SPM_115",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_115.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_115.jpg"
         },
         {
             "cardID": "SPM-116",
@@ -1042,7 +1157,8 @@
             "cardName": "Spider-Rex, Daring Dino",
             "cardText": "Reach, trample\nWard {2}",
             "artFileName": "SPM_116",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_116.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_116.jpg"
         },
         {
             "cardID": "SPM-117",
@@ -1051,7 +1167,8 @@
             "cardName": "Spiders-Man, Heroic Horde",
             "cardText": "Web-slinging {4}{G}{G}\nWhen Spiders-Man enters, if they were cast using web-slinging, you gain 3 life and create two 2/1 green Spider creature tokens with reach.",
             "artFileName": "SPM_117",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_117.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_117.jpg"
         },
         {
             "cardID": "SPM-118",
@@ -1060,7 +1177,8 @@
             "cardName": "Strength of Will",
             "cardText": "Until end of turn, target creature you control gains indestructible and \"Whenever this creature is dealt damage, put that many +1/+1 counters on it.\"",
             "artFileName": "SPM_118",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_118.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_118.jpg"
         },
         {
             "cardID": "SPM-119",
@@ -1069,7 +1187,8 @@
             "cardName": "Supportive Parents",
             "cardText": "Tap two untapped creatures you control: Add one mana of any color.",
             "artFileName": "SPM_119",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_119.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_119.jpg"
         },
         {
             "cardID": "SPM-120",
@@ -1078,7 +1197,8 @@
             "cardName": "Terrific Team-Up",
             "cardText": "This spell costs {2} less to cast if you control a permanent with mana value 4 or greater.\nOne or two target creatures you control each get +1/+0 until end of turn. They each deal damage equal to their power to target creature an opponent controls.",
             "artFileName": "SPM_120",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_120.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_120.jpg"
         },
         {
             "cardID": "SPM-121",
@@ -1087,7 +1207,8 @@
             "cardName": "Wall Crawl",
             "cardText": "When this enchantment enters, create a 2/1 green Spider creature token with reach, then you gain 1 life for each Spider you control.\nSpiders you control get +1/+1 and can't be blocked by creatures with defender.",
             "artFileName": "SPM_121",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_121.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_121.jpg"
         },
         {
             "cardID": "SPM-122",
@@ -1096,7 +1217,8 @@
             "cardName": "Web of Life and Destiny",
             "cardText": "Convoke\nAt the beginning of combat on your turn, look at the top five cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",
             "artFileName": "SPM_122",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_122.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_122.jpg"
         },
         {
             "cardID": "SPM-123",
@@ -1105,7 +1227,8 @@
             "cardName": "Araña, Heart of the Spider",
             "cardText": "Whenever you attack, put a +1/+1 counter on target attacking creature.\nWhenever a modified creature you control deals combat damage to a player, exile the top card of your library. You may play that card this turn.",
             "artFileName": "SPM_123",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_123.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_123.jpg"
         },
         {
             "cardID": "SPM-124",
@@ -1114,7 +1237,8 @@
             "cardName": "Biorganic Carapace",
             "cardText": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +2/+2 and has \"Whenever this creature deals combat damage to a player, draw a card for each modified creature you control.\"\nEquip {2}",
             "artFileName": "SPM_124",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_124.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_124.jpg"
         },
         {
             "cardID": "SPM-125",
@@ -1123,7 +1247,8 @@
             "cardName": "Carnage, Crimson Chaos",
             "cardText": "Trample\nWhen Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains \"This creature attacks each combat if able\" and \"When this creature deals combat damage to a player, sacrifice it.\"\nMayhem {B}{R}",
             "artFileName": "SPM_125",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_125.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_125.jpg"
         },
         {
             "cardID": "SPM-126",
@@ -1132,7 +1257,8 @@
             "cardName": "Cheering Crowd",
             "cardText": "At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.",
             "artFileName": "SPM_126",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_126.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_126.jpg"
         },
         {
             "cardID": "SPM-127",
@@ -1141,7 +1267,8 @@
             "cardName": "Cosmic Spider-Man",
             "cardText": "Flying, first strike, trample, lifelink, haste\nAt the beginning of combat on your turn, other Spiders you control gain flying, first strike, trample, lifelink, and haste until end of turn.",
             "artFileName": "SPM_127",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_127.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_127.jpg"
         },
         {
             "cardID": "SPM-128",
@@ -1150,7 +1277,8 @@
             "cardName": "Doctor Octopus, Master Planner",
             "cardText": "Other Villains you control get +2/+2.\nYour maximum hand size is eight.\nAt the beginning of your end step, if you have fewer than eight cards in hand, draw cards equal to the difference.",
             "artFileName": "SPM_128",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_128.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_128.jpg"
         },
         {
             "cardID": "SPM-129",
@@ -1159,7 +1287,8 @@
             "cardName": "Gallant Citizen",
             "cardText": "When this creature enters, draw a card.",
             "artFileName": "SPM_129",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_129.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_129.jpg"
         },
         {
             "cardID": "SPM-130",
@@ -1168,7 +1297,8 @@
             "cardName": "Green Goblin, Revenant",
             "cardText": "Flying, deathtouch\nWhenever Green Goblin attacks, discard a card. Then draw a card for each card you've discarded this turn.",
             "artFileName": "SPM_130",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_130.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_130.jpg"
         },
         {
             "cardID": "SPM-131",
@@ -1177,7 +1307,8 @@
             "cardName": "Jackal, Genius Geneticist",
             "cardText": "Trample\nWhenever you cast a creature spell with mana value equal to Jackal's power, copy that spell, except the copy isn't legendary. Then put a +1/+1 counter on Jackal.",
             "artFileName": "SPM_131",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_131.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_131.jpg"
         },
         {
             "cardID": "SPM-132",
@@ -1186,7 +1317,8 @@
             "cardName": "Kraven, Proud Predator",
             "cardText": "Vigilance\nTop of the Food Chain — Kraven's power is equal to the greatest mana value among permanents you control.",
             "artFileName": "SPM_132",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_132.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_132.jpg"
         },
         {
             "cardID": "SPM-133",
@@ -1195,7 +1327,8 @@
             "cardName": "Kraven the Hunter",
             "cardText": "Trample\nWhenever a creature an opponent controls with the greatest power among creatures that player controls dies, draw a card and put a +1/+1 counter on Kraven the Hunter.",
             "artFileName": "SPM_133",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_133.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_133.jpg"
         },
         {
             "cardID": "SPM-134",
@@ -1204,7 +1337,8 @@
             "cardName": "Mary Jane Watson",
             "cardText": "Whenever a Spider you control enters, draw a card. This ability triggers only once each turn.",
             "artFileName": "SPM_134",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_134.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_134.jpg"
         },
         {
             "cardID": "SPM-135",
@@ -1213,7 +1347,8 @@
             "cardName": "Mister Negative",
             "cardText": "Vigilance, lifelink\nDarkforce Inversion — When Mister Negative enters, you may exchange life totals with target opponent. If you lost life this way, draw that many cards.",
             "artFileName": "SPM_135",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_135.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_135.jpg"
         },
         {
             "cardID": "SPM-136",
@@ -1222,7 +1357,8 @@
             "cardName": "Mob Lookout",
             "cardText": "When this creature enters, target creature you control connives.",
             "artFileName": "SPM_136",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_136.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_136.jpg"
         },
         {
             "cardID": "SPM-137",
@@ -1231,7 +1367,8 @@
             "cardName": "Morbius the Living Vampire",
             "cardText": "Flying, vigilance, lifelink\n{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
             "artFileName": "SPM_137",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_137.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_137.jpg"
         },
         {
             "cardID": "SPM-138",
@@ -1240,7 +1377,8 @@
             "cardName": "Prowler, Clawed Thief",
             "cardText": "Menace\nWhenever another Villain you control enters, Prowler connives.",
             "artFileName": "SPM_138",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_138.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_138.jpg"
         },
         {
             "cardID": "SPM-139",
@@ -1249,7 +1387,8 @@
             "cardName": "Pumpkin Bombardment",
             "cardText": "As an additional cost to cast this spell, discard a card or pay {2}.\nPumpkin Bombardment deals 3 damage to target creature.",
             "artFileName": "SPM_139",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_139.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_139.jpg"
         },
         {
             "cardID": "SPM-140",
@@ -1258,7 +1397,8 @@
             "cardName": "Rhino, Barreling Brute",
             "cardText": "Vigilance, trample, haste\nWhenever Rhino attacks, if you've cast a spell with mana value 4 or greater this turn, draw a card.",
             "artFileName": "SPM_140",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_140.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_140.jpg"
         },
         {
             "cardID": "SPM-141",
@@ -1267,7 +1407,8 @@
             "cardName": "Rhino's Rampage",
             "cardText": "Target creature you control gets +1/+0 until end of turn. It fights target creature an opponent controls. When excess damage is dealt to the creature an opponent controls this way, destroy up to one target noncreature artifact with mana value 3 or less.",
             "artFileName": "SPM_141",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_141.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_141.jpg"
         },
         {
             "cardID": "SPM-142",
@@ -1276,7 +1417,8 @@
             "cardName": "Scarlet Spider, Ben Reilly",
             "cardText": "Web-slinging {R}{G}\nTrample\nSensational Save — If Scarlet Spider was cast using web-slinging, he enters with X +1/+1 counters on him, where X is the mana value of the returned creature.",
             "artFileName": "SPM_142",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_142.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_142.jpg"
         },
         {
             "cardID": "SPM-143",
@@ -1285,7 +1427,8 @@
             "cardName": "Scarlet Spider, Kaine",
             "cardText": "Menace\nWhen Scarlet Spider enters, you may discard a card. If you do, put a +1/+1 counter on him.\nMayhem {B/R}",
             "artFileName": "SPM_143",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_143.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_143.jpg"
         },
         {
             "cardID": "SPM-144",
@@ -1294,7 +1437,8 @@
             "cardName": "Shriek, Treblemaker",
             "cardText": "At the beginning of your first main phase, you may discard a card. When you do, target creature can't block this turn.\nSonic Blast — Whenever a creature an opponent controls dies, Shriek deals 1 damage to that player.",
             "artFileName": "SPM_144",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_144.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_144.jpg"
         },
         {
             "cardID": "SPM-145",
@@ -1303,7 +1447,8 @@
             "cardName": "Silk, Web Weaver",
             "cardText": "Web-slinging {1}{G}{W}\nWhenever you cast a creature spell, create a 1/1 green and white Human Citizen creature token.\n{3}{G}{W}: Creatures you control get +2/+2 and gain vigilance until end of turn.",
             "artFileName": "SPM_145",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_145.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_145.jpg"
         },
         {
             "cardID": "SPM-146",
@@ -1312,7 +1457,8 @@
             "cardName": "Skyward Spider",
             "cardText": "Ward {2}\nThis creature has flying as long as it's modified.",
             "artFileName": "SPM_146",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_146.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_146.jpg"
         },
         {
             "cardID": "SPM-147",
@@ -1321,7 +1467,8 @@
             "cardName": "SP//dr, Piloted by Peni",
             "cardText": "Vigilance\nWhen SP//dr enters, put a +1/+1 counter on target creature.\nWhenever a modified creature you control deals combat damage to a player, draw a card.",
             "artFileName": "SPM_147",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_147.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_147.jpg"
         },
         {
             "cardID": "SPM-148",
@@ -1330,7 +1477,8 @@
             "cardName": "Spider Manifestation",
             "cardText": "Reach\n{T}: Add {R} or {G}.\nWhenever you cast a spell with mana value 4 or greater, untap this creature.",
             "artFileName": "SPM_148",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_148.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_148.jpg"
         },
         {
             "cardID": "SPM-149",
@@ -1339,7 +1487,8 @@
             "cardName": "Spider-Girl, Legacy Hero",
             "cardText": "During your turn, Spider-Girl has flying.\nWhen Spider-Girl leaves the battlefield, create a 1/1 green and white Human Citizen creature token.",
             "artFileName": "SPM_149",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_149.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_149.jpg"
         },
         {
             "cardID": "SPM-150",
@@ -1348,7 +1497,8 @@
             "cardName": "Spider-Man 2099",
             "cardText": "From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.\nDouble strike, vigilance\nAt the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.",
             "artFileName": "SPM_150",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_150.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_150.jpg"
         },
         {
             "cardID": "SPM-151",
@@ -1357,7 +1507,8 @@
             "cardName": "Spider-Man India",
             "cardText": "Web-slinging {1}{G}{W}\nPavitr's Sevā — Whenever you cast a creature spell, put a +1/+1 counter on target creature you control. It gains flying until end of turn.",
             "artFileName": "SPM_151",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_151.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_151.jpg"
         },
         {
             "cardID": "SPM-152",
@@ -1366,7 +1517,8 @@
             "cardName": "Spider-Woman, Stunning Savior",
             "cardText": "Flying\nVenom Blast — Artifacts and creatures your opponents control enter tapped.",
             "artFileName": "SPM_152",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_152.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_152.jpg"
         },
         {
             "cardID": "SPM-153",
@@ -1375,7 +1527,8 @@
             "cardName": "The Spot, Living Portal",
             "cardText": "When The Spot enters, exile up to one target nonland permanent and up to one target nonland permanent card from a graveyard.\nWhen The Spot dies, put him on the bottom of his owner's library. If you do, return the exiled cards to their owners' hands.",
             "artFileName": "SPM_153",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_153.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_153.jpg"
         },
         {
             "cardID": "SPM-154",
@@ -1384,7 +1537,8 @@
             "cardName": "Sun-Spider, Nimble Webber",
             "cardText": "During your turn, Sun-Spider has flying.\nWhen Sun-Spider enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.",
             "artFileName": "SPM_154",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_154.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_154.jpg"
         },
         {
             "cardID": "SPM-155",
@@ -1393,7 +1547,8 @@
             "cardName": "Superior Spider-Man",
             "cardText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
             "artFileName": "SPM_155",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_155.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_155.jpg"
         },
         {
             "cardID": "SPM-156",
@@ -1402,7 +1557,8 @@
             "cardName": "Symbiote Spider-Man",
             "cardText": "Whenever this creature deals combat damage to a player, look at that many cards from the top of your library. Put one of them into your hand and the rest into your graveyard.\nFind New Host — {2}{U/B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature you control. It gains this card's other abilities. Activate only as a sorcery.",
             "artFileName": "SPM_156",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_156.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_156.jpg"
         },
         {
             "cardID": "SPM-157",
@@ -1411,7 +1567,8 @@
             "cardName": "Ultimate Green Goblin",
             "cardText": "At the beginning of your upkeep, discard a card, then create a Treasure token.\nMayhem {2}{B/R}",
             "artFileName": "SPM_157",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_157.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_157.jpg"
         },
         {
             "cardID": "SPM-158",
@@ -1420,7 +1577,8 @@
             "cardName": "Vulture, Scheming Scavenger",
             "cardText": "Flying\nWhenever Vulture attacks, other Villains you control gain flying until end of turn.",
             "artFileName": "SPM_158",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_158.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_158.jpg"
         },
         {
             "cardID": "SPM-159",
@@ -1429,7 +1587,8 @@
             "cardName": "Web-Warriors",
             "cardText": "When this creature enters, put a +1/+1 counter on each other creature you control.",
             "artFileName": "SPM_159",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_159.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_159.jpg"
         },
         {
             "cardID": "SPM-160",
@@ -1438,7 +1597,8 @@
             "cardName": "Wraith, Vicious Vigilante",
             "cardText": "Double strike\nFear Gas — Wraith can't be blocked.",
             "artFileName": "SPM_160",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_160.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_160.jpg"
         },
         {
             "cardID": "SPM-161",
@@ -1447,7 +1607,8 @@
             "cardName": "Bagel and Schmear",
             "cardText": "Share — {W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on up to one target creature. Draw a card. Activate only as a sorcery.\nNosh — {2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.",
             "artFileName": "SPM_161",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_161.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_161.jpg"
         },
         {
             "cardID": "SPM-162",
@@ -1456,7 +1617,8 @@
             "cardName": "Doc Ock's Tentacles",
             "cardText": "Whenever a creature you control with mana value 5 or greater enters, you may attach this Equipment to it.\nEquipped creature gets +4/+4.\nEquip {5}",
             "artFileName": "SPM_162",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_162.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_162.jpg"
         },
         {
             "cardID": "SPM-163",
@@ -1465,7 +1627,8 @@
             "cardName": "Eerie Gravestone",
             "cardText": "When this artifact enters, draw a card.\n{1}{B}, Sacrifice this artifact: Mill four cards. You may put a creature card from among them into your hand.",
             "artFileName": "SPM_163",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_163.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_163.jpg"
         },
         {
             "cardID": "SPM-164",
@@ -1474,7 +1637,8 @@
             "cardName": "Hot Dog Cart",
             "cardText": "When this artifact enters, create a Food token.\n{T}: Add one mana of any color.",
             "artFileName": "SPM_164",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_164.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_164.jpg"
         },
         {
             "cardID": "SPM-165",
@@ -1483,7 +1647,8 @@
             "cardName": "Interdimensional Web Watch",
             "cardText": "When this artifact enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast spells from exile.",
             "artFileName": "SPM_165",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_165.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_165.jpg"
         },
         {
             "cardID": "SPM-166",
@@ -1492,7 +1657,8 @@
             "cardName": "Iron Spider, Stark Upgrade",
             "cardText": "Vigilance\n{T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.\n{2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.",
             "artFileName": "SPM_166",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_166.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_166.jpg"
         },
         {
             "cardID": "SPM-167",
@@ -1501,7 +1667,8 @@
             "cardName": "Living Brain, Mechanical Marvel",
             "cardText": "At the beginning of combat on your turn, target non-Equipment artifact you control becomes an artifact creature with base power and toughness 3/3 until end of turn. Untap it.",
             "artFileName": "SPM_167",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_167.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_167.jpg"
         },
         {
             "cardID": "SPM-168",
@@ -1510,7 +1677,8 @@
             "cardName": "Mechanical Mobster",
             "cardText": "When this creature enters, exile up to one target card from a graveyard. Target creature you control connives.",
             "artFileName": "SPM_168",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_168.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_168.jpg"
         },
         {
             "cardID": "SPM-169",
@@ -1519,7 +1687,8 @@
             "cardName": "News Helicopter",
             "cardText": "Flying\nWhen this creature enters, create a 1/1 green and white Human Citizen creature token.",
             "artFileName": "SPM_169",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_169.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_169.jpg"
         },
         {
             "cardID": "SPM-170",
@@ -1528,7 +1697,8 @@
             "cardName": "Passenger Ferry",
             "cardText": "Whenever this Vehicle attacks, you may pay {U}. When you do, another target attacking creature can't be blocked this turn.\nCrew 2",
             "artFileName": "SPM_170",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_170.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_170.jpg"
         },
         {
             "cardID": "SPM-171",
@@ -1537,7 +1707,8 @@
             "cardName": "Peter Parker's Camera",
             "cardText": "This artifact enters with three film counters on it.\n{2}, {T}, Remove a film counter from this artifact: Copy target activated or triggered ability you control. You may choose new targets for the copy.",
             "artFileName": "SPM_171",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_171.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_171.jpg"
         },
         {
             "cardID": "SPM-172",
@@ -1546,7 +1717,8 @@
             "cardName": "Rocket-Powered Goblin Glider",
             "cardText": "When this Equipment enters, if it was cast from your graveyard, attach it to target creature you control.\nEquipped creature gets +2/+0 and has flying and haste.\nEquip {2}\nMayhem {2}",
             "artFileName": "SPM_172",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_172.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_172.jpg"
         },
         {
             "cardID": "SPM-173",
@@ -1555,7 +1727,8 @@
             "cardName": "Spider-Bot",
             "cardText": "Reach\nWhen this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",
             "artFileName": "SPM_173",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_173.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_173.jpg"
         },
         {
             "cardID": "SPM-174",
@@ -1564,7 +1737,8 @@
             "cardName": "Spider-Mobile",
             "cardText": "Trample\nWhenever this Vehicle attacks or blocks, it gets +1/+1 until end of turn for each Spider you control.\nCrew 2",
             "artFileName": "SPM_174",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_174.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_174.jpg"
         },
         {
             "cardID": "SPM-175",
@@ -1573,7 +1747,8 @@
             "cardName": "Spider-Slayer, Hatred Honed",
             "cardText": "Whenever Spider-Slayer deals damage to a Spider, destroy that creature.\n{6}, Exile this card from your graveyard: Create two tapped 1/1 colorless Robot artifact creature tokens with flying.",
             "artFileName": "SPM_175",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_175.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_175.jpg"
         },
         {
             "cardID": "SPM-176",
@@ -1582,7 +1757,8 @@
             "cardName": "Spider-Suit",
             "cardText": "Equipped creature gets +2/+2 and is a Spider Hero in addition to its other types.\nEquip {3}",
             "artFileName": "SPM_176",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_176.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_176.jpg"
         },
         {
             "cardID": "SPM-177",
@@ -1591,7 +1767,8 @@
             "cardName": "Steel Wrecking Ball",
             "cardText": "When this artifact enters, it deals 5 damage to target creature.\n{1}{R}, Discard this card: Destroy target artifact.",
             "artFileName": "SPM_177",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_177.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_177.jpg"
         },
         {
             "cardID": "SPM-178",
@@ -1600,7 +1777,8 @@
             "cardName": "Subway Train",
             "cardText": "When this Vehicle enters, you may pay {G}. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nCrew 2",
             "artFileName": "SPM_178",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_178.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_178.jpg"
         },
         {
             "cardID": "SPM-179",
@@ -1609,7 +1787,8 @@
             "cardName": "Daily Bugle Building",
             "cardText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\nSmear Campaign — {1}, {T}: Target legendary creature gains menace until end of turn. Activate only as a sorcery.",
             "artFileName": "SPM_179",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_179.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_179.jpg"
         },
         {
             "cardID": "SPM-180",
@@ -1618,7 +1797,8 @@
             "cardName": "Multiversal Passage",
             "cardText": "As this land enters, choose a basic land type. Then you may pay 2 life. If you don't, it enters tapped.\nThis land is the chosen type.",
             "artFileName": "SPM_180",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_180.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_180.jpg"
         },
         {
             "cardID": "SPM-181",
@@ -1627,7 +1807,8 @@
             "cardName": "Ominous Asylum",
             "cardText": "This land enters tapped.\n{T}: Add {B} or {R}.\n{4}, {T}: Surveil 1.",
             "artFileName": "SPM_181",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_181.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_181.jpg"
         },
         {
             "cardID": "SPM-182",
@@ -1636,7 +1817,8 @@
             "cardName": "Oscorp Industries",
             "cardText": "This land enters tapped.\nWhen this land enters from a graveyard, you lose 2 life.\n{T}: Add {U}, {B}, or {R}.\nMayhem",
             "artFileName": "SPM_182",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_182.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_182.jpg"
         },
         {
             "cardID": "SPM-183",
@@ -1645,7 +1827,8 @@
             "cardName": "Savage Mansion",
             "cardText": "This land enters tapped.\n{T}: Add {R} or {G}.\n{4}, {T}: Surveil 1.",
             "artFileName": "SPM_183",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_183.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_183.jpg"
         },
         {
             "cardID": "SPM-184",
@@ -1654,7 +1837,8 @@
             "cardName": "Sinister Hideout",
             "cardText": "This land enters tapped.\n{T}: Add {U} or {B}.\n{4}, {T}: Surveil 1.",
             "artFileName": "SPM_184",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_184.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_184.jpg"
         },
         {
             "cardID": "SPM-185",
@@ -1663,7 +1847,8 @@
             "cardName": "Suburban Sanctuary",
             "cardText": "This land enters tapped.\n{T}: Add {G} or {W}.\n{4}, {T}: Surveil 1.",
             "artFileName": "SPM_185",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_185.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_185.jpg"
         },
         {
             "cardID": "SPM-186",
@@ -1672,7 +1857,8 @@
             "cardName": "University Campus",
             "cardText": "This land enters tapped.\n{T}: Add {W} or {U}.\n{4}, {T}: Surveil 1.",
             "artFileName": "SPM_186",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_186.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_186.jpg"
         },
         {
             "cardID": "SPM-187",
@@ -1681,7 +1867,8 @@
             "cardName": "Urban Retreat",
             "cardText": "This land enters tapped.\n{T}: Add {G}, {W}, or {U}.\n{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",
             "artFileName": "SPM_187",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_187.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_187.jpg"
         },
         {
             "cardID": "SPM-188",
@@ -1690,7 +1877,8 @@
             "cardName": "Vibrant Cityscape",
             "cardText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "artFileName": "SPM_188",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_188.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_188.jpg"
         },
         {
             "cardID": "SPM-189",
@@ -1699,7 +1887,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "SPM_189",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_189.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_189.jpg"
         },
         {
             "cardID": "SPM-190",
@@ -1708,7 +1897,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "SPM_190",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_190.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_190.jpg"
         },
         {
             "cardID": "SPM-191",
@@ -1717,7 +1907,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "SPM_191",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_191.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_191.jpg"
         },
         {
             "cardID": "SPM-192",
@@ -1726,7 +1917,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "SPM_192",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_192.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_192.jpg"
         },
         {
             "cardID": "SPM-193",
@@ -1735,7 +1927,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "SPM_193",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_193.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_193.jpg"
         },
         {
             "cardID": "SPM-194",
@@ -1744,7 +1937,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "SPM_194",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_194.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_194.jpg"
         },
         {
             "cardID": "SPM-195",
@@ -1753,7 +1947,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "SPM_195",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_195.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_195.jpg"
         },
         {
             "cardID": "SPM-196",
@@ -1762,7 +1957,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "SPM_196",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_196.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_196.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_196.jpg"
         },
         {
             "cardID": "SPM-197",
@@ -1771,7 +1967,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "SPM_197",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_197.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_197.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_197.jpg"
         },
         {
             "cardID": "SPM-198",
@@ -1780,7 +1977,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "SPM_198",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_198.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/SPM/SPM_198.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/SPM/SPM_198.jpg"
         }
     ]
 }

@@ -7,7 +7,8 @@
             "cardName": "Aang's Journey",
             "cardText": "Kicker {2}\nSearch your library for a basic land card. If this spell was kicked, instead search your library for a basic land card and a Shrine card. Reveal those cards, put them into your hand, then shuffle.\nYou gain 2 life.",
             "artFileName": "TLA_001",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_001.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_001.jpg"
         },
         {
             "cardID": "TLA-002",
@@ -16,7 +17,8 @@
             "cardName": "Energybending",
             "cardText": "Lands you control gain all basic land types until end of turn.\nDraw a card.",
             "artFileName": "TLA_002",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_002.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_002.jpg"
         },
         {
             "cardID": "TLA-003",
@@ -25,7 +27,8 @@
             "cardName": "Zuko's Exile",
             "cardText": "Exile target artifact, creature, or enchantment. Its controller creates a Clue token.",
             "artFileName": "TLA_003",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_003.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_003.jpg"
         },
         {
             "cardID": "TLA-004",
@@ -34,7 +37,8 @@
             "cardName": "Aang, the Last Airbender",
             "cardText": "Flying\nWhen Aang enters, airbend up to one other target nonland permanent.\nWhenever you cast a Lesson spell, Aang gains lifelink until end of turn.",
             "artFileName": "TLA_004",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_004.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_004.jpg"
         },
         {
             "cardID": "TLA-005",
@@ -43,7 +47,8 @@
             "cardName": "Aang's Iceberg",
             "cardText": "Flash\nWhen this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.\nWaterbend {3}: Sacrifice this enchantment. If you do, scry 2.",
             "artFileName": "TLA_005",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_005.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_005.jpg"
         },
         {
             "cardID": "TLA-006",
@@ -52,7 +57,8 @@
             "cardName": "Airbender Ascension",
             "cardText": "When this enchantment enters, airbend up to one target creature.\nWhenever a creature you control enters, put a quest counter on this enchantment.\nAt the beginning of your end step, if this enchantment has four or more quest counters on it, exile up to one target creature you control, then return it to the battlefield under its owner's control.",
             "artFileName": "TLA_006",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_006.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_006.jpg"
         },
         {
             "cardID": "TLA-007",
@@ -61,7 +67,8 @@
             "cardName": "Airbender's Reversal",
             "cardText": "Choose one —\n• Destroy target attacking creature.\n• Airbend target creature you control.",
             "artFileName": "TLA_007",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_007.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_007.jpg"
         },
         {
             "cardID": "TLA-008",
@@ -70,7 +77,8 @@
             "cardName": "Airbending Lesson",
             "cardText": "Airbend target nonland permanent.\nDraw a card.",
             "artFileName": "TLA_008",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_008.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_008.jpg"
         },
         {
             "cardID": "TLA-009",
@@ -79,7 +87,8 @@
             "cardName": "Appa, Loyal Sky Bison",
             "cardText": "Flying\nWhenever Appa enters or attacks, choose one —\n• Target creature you control gains flying until end of turn.\n• Airbend another target nonland permanent you control.",
             "artFileName": "TLA_009",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_009.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_009.jpg"
         },
         {
             "cardID": "TLA-010",
@@ -88,7 +97,8 @@
             "cardName": "Appa, Steadfast Guardian",
             "cardText": "Flash\nFlying\nWhen Appa enters, airbend any number of other target nonland permanents you control.\nWhenever you cast a spell from exile, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_010",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_010.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_010.jpg"
         },
         {
             "cardID": "TLA-011",
@@ -97,7 +107,8 @@
             "cardName": "Avatar Enthusiasts",
             "cardText": "Whenever another Ally you control enters, put a +1/+1 counter on this creature.",
             "artFileName": "TLA_011",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_011.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_011.jpg"
         },
         {
             "cardID": "TLA-012",
@@ -106,7 +117,8 @@
             "cardName": "Avatar's Wrath",
             "cardText": "Choose up to one target creature, then airbend all other creatures.\nUntil your next turn, your opponents can't cast spells from anywhere other than their hands.\nExile Avatar's Wrath.",
             "artFileName": "TLA_012",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_012.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_012.jpg"
         },
         {
             "cardID": "TLA-013",
@@ -115,7 +127,8 @@
             "cardName": "Compassionate Healer",
             "cardText": "Whenever this creature becomes tapped, you gain 1 life and scry 1.",
             "artFileName": "TLA_013",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_013.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_013.jpg"
         },
         {
             "cardID": "TLA-014",
@@ -124,7 +137,8 @@
             "cardName": "Curious Farm Animals",
             "cardText": "When this creature dies, you gain 3 life.\n{2}, Sacrifice this creature: Destroy up to one target artifact or enchantment.",
             "artFileName": "TLA_014",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_014.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_014.jpg"
         },
         {
             "cardID": "TLA-015",
@@ -133,7 +147,8 @@
             "cardName": "Destined Confrontation",
             "cardText": "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.",
             "artFileName": "TLA_015",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_015.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_015.jpg"
         },
         {
             "cardID": "TLA-016",
@@ -142,7 +157,8 @@
             "cardName": "Earth Kingdom Jailer",
             "cardText": "When this creature enters, exile up to one target artifact, creature, or enchantment an opponent controls with mana value 3 or greater until this creature leaves the battlefield.",
             "artFileName": "TLA_016",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_016.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_016.jpg"
         },
         {
             "cardID": "TLA-017",
@@ -151,7 +167,8 @@
             "cardName": "Earth Kingdom Protectors",
             "cardText": "Vigilance\nSacrifice this creature: Another target Ally you control gains indestructible until end of turn.",
             "artFileName": "TLA_017",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_017.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_017.jpg"
         },
         {
             "cardID": "TLA-018",
@@ -160,7 +177,8 @@
             "cardName": "Enter the Avatar State",
             "cardText": "Until end of turn, target creature you control becomes an Avatar in addition to its other types and gains flying, first strike, lifelink, and hexproof.",
             "artFileName": "TLA_018",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_018.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_018.jpg"
         },
         {
             "cardID": "TLA-019",
@@ -169,7 +187,8 @@
             "cardName": "Fancy Footwork",
             "cardText": "Untap one or two target creatures. They each get +2/+2 until end of turn.",
             "artFileName": "TLA_019",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_019.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_019.jpg"
         },
         {
             "cardID": "TLA-020",
@@ -178,7 +197,8 @@
             "cardName": "Gather the White Lotus",
             "cardText": "Create a 1/1 white Ally creature token for each Plains you control. Scry 2.",
             "artFileName": "TLA_020",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_020.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_020.jpg"
         },
         {
             "cardID": "TLA-021",
@@ -187,7 +207,8 @@
             "cardName": "Glider Kids",
             "cardText": "Flying\nWhen this creature enters, scry 1.",
             "artFileName": "TLA_021",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_021.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_021.jpg"
         },
         {
             "cardID": "TLA-022",
@@ -196,7 +217,8 @@
             "cardName": "Glider Staff",
             "cardText": "When this Equipment enters, airbend up to one target creature.\nEquipped creature gets +1/+1 and has flying.\nEquip {2}",
             "artFileName": "TLA_022",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_022.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_022.jpg"
         },
         {
             "cardID": "TLA-023",
@@ -205,7 +227,8 @@
             "cardName": "Hakoda, Selfless Commander",
             "cardText": "Vigilance\nYou may look at the top card of your library any time.\nYou may cast Ally spells from the top of your library.\nSacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",
             "artFileName": "TLA_023",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_023.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_023.jpg"
         },
         {
             "cardID": "TLA-024",
@@ -214,7 +237,8 @@
             "cardName": "Invasion Reinforcements",
             "cardText": "Flash\nWhen this creature enters, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_024",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_024.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_024.jpg"
         },
         {
             "cardID": "TLA-025",
@@ -223,7 +247,8 @@
             "cardName": "Jeong Jeong's Deserters",
             "cardText": "When this creature enters, put a +1/+1 counter on target creature.",
             "artFileName": "TLA_025",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_025.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_025.jpg"
         },
         {
             "cardID": "TLA-026",
@@ -232,16 +257,18 @@
             "cardName": "Kyoshi Warriors",
             "cardText": "When this creature enters, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_026",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_026.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_026.jpg"
         },
         {
             "cardID": "TLA-027",
             "setCode": "TLA",
             "cardNumber": 27,
-            "cardName": "The Legend of Yangchen",
+            "cardName": "The Legend of Yangchen // Avatar Yangchen",
             "cardText": "I — Starting with you, each player chooses up to one permanent with mana value 3 or greater from among permanents your opponents control. Exile those permanents.\nII — You may have target opponent draw three cards. If you do, draw three cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_027",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_027.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_027.jpg"
         },
         {
             "cardID": "TLA-028",
@@ -250,7 +277,8 @@
             "cardName": "Master Piandao",
             "cardText": "First strike\nWhenever Master Piandao attacks, look at the top four cards of your library. You may reveal an Ally, Equipment, or Lesson card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "TLA_028",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_028.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_028.jpg"
         },
         {
             "cardID": "TLA-029",
@@ -259,7 +287,8 @@
             "cardName": "Momo, Friendly Flier",
             "cardText": "Flying\nThe first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.\nWhenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",
             "artFileName": "TLA_029",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_029.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_029.jpg"
         },
         {
             "cardID": "TLA-030",
@@ -268,7 +297,8 @@
             "cardName": "Momo, Playful Pet",
             "cardText": "Flying, vigilance\nWhen Momo leaves the battlefield, choose one —\n• Create a Food token.\n• Put a +1/+1 counter on target creature you control.\n• Scry 2.",
             "artFileName": "TLA_030",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_030.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_030.jpg"
         },
         {
             "cardID": "TLA-031",
@@ -277,7 +307,8 @@
             "cardName": "Path to Redemption",
             "cardText": "Enchant creature\nEnchanted creature can't attack or block.\n{5}, Sacrifice this Aura: Exile enchanted creature. Create a 1/1 white Ally creature token. Activate only during your turn.",
             "artFileName": "TLA_031",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_031.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_031.jpg"
         },
         {
             "cardID": "TLA-032",
@@ -286,7 +317,8 @@
             "cardName": "Rabaroo Troop",
             "cardText": "Landfall — Whenever a land you control enters, this creature gains flying until end of turn and you gain 1 life.\nPlainscycling {2}",
             "artFileName": "TLA_032",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_032.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_032.jpg"
         },
         {
             "cardID": "TLA-033",
@@ -295,7 +327,8 @@
             "cardName": "Razor Rings",
             "cardText": "Razor Rings deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.",
             "artFileName": "TLA_033",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_033.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_033.jpg"
         },
         {
             "cardID": "TLA-034",
@@ -304,7 +337,8 @@
             "cardName": "Sandbenders' Storm",
             "cardText": "Choose one —\n• Destroy target creature with power 4 or greater.\n• Earthbend 3.",
             "artFileName": "TLA_034",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_034.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_034.jpg"
         },
         {
             "cardID": "TLA-035",
@@ -313,7 +347,8 @@
             "cardName": "South Pole Voyager",
             "cardText": "Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",
             "artFileName": "TLA_035",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_035.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_035.jpg"
         },
         {
             "cardID": "TLA-036",
@@ -322,7 +357,8 @@
             "cardName": "Southern Air Temple",
             "cardText": "When Southern Air Temple enters, put X +1/+1 counters on each creature you control, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, put a +1/+1 counter on each creature you control.",
             "artFileName": "TLA_036",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_036.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_036.jpg"
         },
         {
             "cardID": "TLA-037",
@@ -331,7 +367,8 @@
             "cardName": "Suki, Courageous Rescuer",
             "cardText": "Other creatures you control get +1/+0.\nWhenever another permanent you control leaves the battlefield during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
             "artFileName": "TLA_037",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_037.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_037.jpg"
         },
         {
             "cardID": "TLA-038",
@@ -340,7 +377,8 @@
             "cardName": "Team Avatar",
             "cardText": "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.\n{2}{W}, Discard this card: It deals damage equal to the number of creatures you control to target creature.",
             "artFileName": "TLA_038",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_038.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_038.jpg"
         },
         {
             "cardID": "TLA-039",
@@ -349,7 +387,8 @@
             "cardName": "United Front",
             "cardText": "Create X 1/1 white Ally creature tokens, then put a +1/+1 counter on each creature you control.",
             "artFileName": "TLA_039",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_039.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_039.jpg"
         },
         {
             "cardID": "TLA-040",
@@ -358,7 +397,8 @@
             "cardName": "Vengeful Villagers",
             "cardText": "Whenever this creature attacks, choose target creature an opponent controls. Tap it, then you may sacrifice an artifact or creature. If you do, put a stun counter on the chosen creature.",
             "artFileName": "TLA_040",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_040.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_040.jpg"
         },
         {
             "cardID": "TLA-041",
@@ -367,7 +407,8 @@
             "cardName": "Water Tribe Captain",
             "cardText": "{5}: Creatures you control get +1/+1 until end of turn.",
             "artFileName": "TLA_041",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_041.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_041.jpg"
         },
         {
             "cardID": "TLA-042",
@@ -376,7 +417,8 @@
             "cardName": "Water Tribe Rallier",
             "cardText": "Waterbend {5}: Look at the top four cards of your library. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "TLA_042",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_042.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_042.jpg"
         },
         {
             "cardID": "TLA-043",
@@ -385,7 +427,8 @@
             "cardName": "Yip Yip!",
             "cardText": "Target creature you control gets +2/+2 until end of turn. If that creature is an Ally, it also gains flying until end of turn.",
             "artFileName": "TLA_043",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_043.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_043.jpg"
         },
         {
             "cardID": "TLA-044",
@@ -394,7 +437,8 @@
             "cardName": "Accumulate Wisdom",
             "cardText": "Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. Put each of those cards into your hand instead if there are three or more Lesson cards in your graveyard.",
             "artFileName": "TLA_044",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_044.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_044.jpg"
         },
         {
             "cardID": "TLA-045",
@@ -403,7 +447,8 @@
             "cardName": "Benevolent River Spirit",
             "cardText": "As an additional cost to cast this spell, waterbend {5}.\nFlying, ward {2}\nWhen this creature enters, scry 2.",
             "artFileName": "TLA_045",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_045.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_045.jpg"
         },
         {
             "cardID": "TLA-046",
@@ -412,7 +457,8 @@
             "cardName": "Boomerang Basics",
             "cardText": "Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.",
             "artFileName": "TLA_046",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_046.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_046.jpg"
         },
         {
             "cardID": "TLA-047",
@@ -421,7 +467,8 @@
             "cardName": "Crashing Wave",
             "cardText": "As an additional cost to cast this spell, waterbend {X}.\nTap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control.",
             "artFileName": "TLA_047",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_047.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_047.jpg"
         },
         {
             "cardID": "TLA-048",
@@ -430,7 +477,8 @@
             "cardName": "Ember Island Production",
             "cardText": "Choose one —\n• Create a token that's a copy of target creature you control, except it's not legendary and it's a 4/4 Hero in addition to its other types.\n• Create a token that's a copy of target creature an opponent controls, except it's not legendary and it's a 2/2 Coward in addition to its other types.",
             "artFileName": "TLA_048",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_048.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_048.jpg"
         },
         {
             "cardID": "TLA-049",
@@ -439,7 +487,8 @@
             "cardName": "First-Time Flyer",
             "cardText": "Flying\nThis creature gets +1/+1 as long as there's a Lesson card in your graveyard.",
             "artFileName": "TLA_049",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_049.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_049.jpg"
         },
         {
             "cardID": "TLA-050",
@@ -448,7 +497,8 @@
             "cardName": "Flexible Waterbender",
             "cardText": "Vigilance\nWaterbend {3}: This creature has base power and toughness 5/2 until end of turn.",
             "artFileName": "TLA_050",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_050.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_050.jpg"
         },
         {
             "cardID": "TLA-051",
@@ -457,7 +507,8 @@
             "cardName": "Forecasting Fortune Teller",
             "cardText": "When this creature enters, create a Clue token.",
             "artFileName": "TLA_051",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_051.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_051.jpg"
         },
         {
             "cardID": "TLA-052",
@@ -466,7 +517,8 @@
             "cardName": "Geyser Leaper",
             "cardText": "Flying\nWaterbend {4}: Draw a card, then discard a card.",
             "artFileName": "TLA_052",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_052.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_052.jpg"
         },
         {
             "cardID": "TLA-053",
@@ -475,7 +527,8 @@
             "cardName": "Giant Koi",
             "cardText": "Waterbend {3}: This creature can't be blocked this turn.\nIslandcycling {2}",
             "artFileName": "TLA_053",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_053.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_053.jpg"
         },
         {
             "cardID": "TLA-054",
@@ -484,7 +537,8 @@
             "cardName": "Gran-Gran",
             "cardText": "Whenever Gran-Gran becomes tapped, draw a card, then discard a card.\nNoncreature spells you cast cost {1} less to cast as long as there are three or more Lesson cards in your graveyard.",
             "artFileName": "TLA_054",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_054.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_054.jpg"
         },
         {
             "cardID": "TLA-055",
@@ -493,7 +547,8 @@
             "cardName": "Honest Work",
             "cardText": "Enchant creature an opponent controls\nWhen this Aura enters, tap enchanted creature and remove all counters from it.\nEnchanted creature loses all abilities and is a Citizen with base power and toughness 1/1 and \"{T}: Add {C}\" named Humble Merchant.",
             "artFileName": "TLA_055",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_055.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_055.jpg"
         },
         {
             "cardID": "TLA-056",
@@ -502,7 +557,8 @@
             "cardName": "Iguana Parrot",
             "cardText": "Flying, vigilance\nProwess",
             "artFileName": "TLA_056",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_056.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_056.jpg"
         },
         {
             "cardID": "TLA-057",
@@ -511,7 +567,8 @@
             "cardName": "Invasion Submersible",
             "cardText": "When this Vehicle enters, return up to one other target nonland permanent to its owner's hand.\nExhaust — Waterbend {3}: This Vehicle becomes an artifact creature. Put three +1/+1 counters on it.",
             "artFileName": "TLA_057",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_057.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_057.jpg"
         },
         {
             "cardID": "TLA-058",
@@ -520,7 +577,8 @@
             "cardName": "It'll Quench Ya!",
             "cardText": "Counter target spell unless its controller pays {2}.",
             "artFileName": "TLA_058",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_058.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_058.jpg"
         },
         {
             "cardID": "TLA-059",
@@ -529,7 +587,8 @@
             "cardName": "Katara, Bending Prodigy",
             "cardText": "At the beginning of your end step, if Katara is tapped, put a +1/+1 counter on her.\nWaterbend {6}: Draw a card.",
             "artFileName": "TLA_059",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_059.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_059.jpg"
         },
         {
             "cardID": "TLA-060",
@@ -538,16 +597,18 @@
             "cardName": "Knowledge Seeker",
             "cardText": "Vigilance\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.\nWhen this creature dies, create a Clue token.",
             "artFileName": "TLA_060",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_060.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_060.jpg"
         },
         {
             "cardID": "TLA-061",
             "setCode": "TLA",
             "cardNumber": 61,
-            "cardName": "The Legend of Kuruk",
+            "cardName": "The Legend of Kuruk // Avatar Kuruk",
             "cardText": "I, II — Scry 2, then draw a card.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_061",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_061.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_061.jpg"
         },
         {
             "cardID": "TLA-062",
@@ -556,7 +617,8 @@
             "cardName": "Lost Days",
             "cardText": "The owner of target creature or enchantment puts it into their library second from the top or on the bottom. You create a Clue token.",
             "artFileName": "TLA_062",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_062.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_062.jpg"
         },
         {
             "cardID": "TLA-063",
@@ -565,7 +627,8 @@
             "cardName": "Master Pakku",
             "cardText": "Prowess\nWhenever Master Pakku becomes tapped, target player mills X cards, where X is the number of Lesson cards in your graveyard.",
             "artFileName": "TLA_063",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_063.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_063.jpg"
         },
         {
             "cardID": "TLA-064",
@@ -574,7 +637,8 @@
             "cardName": "The Mechanist, Aerial Artisan",
             "cardText": "Whenever you cast a noncreature spell, create a Clue token.\n{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",
             "artFileName": "TLA_064",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_064.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_064.jpg"
         },
         {
             "cardID": "TLA-065",
@@ -583,7 +647,8 @@
             "cardName": "North Pole Patrol",
             "cardText": "{T}: Untap another target permanent you control.\nWaterbend {3}, {T}: Tap target creature an opponent controls.",
             "artFileName": "TLA_065",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_065.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_065.jpg"
         },
         {
             "cardID": "TLA-066",
@@ -592,7 +657,8 @@
             "cardName": "Octopus Form",
             "cardText": "Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.",
             "artFileName": "TLA_066",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_066.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_066.jpg"
         },
         {
             "cardID": "TLA-067",
@@ -601,7 +667,8 @@
             "cardName": "Otter-Penguin",
             "cardText": "Whenever you draw your second card each turn, this creature gets +1/+2 until end of turn and can't be blocked this turn.",
             "artFileName": "TLA_067",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_067.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_067.jpg"
         },
         {
             "cardID": "TLA-068",
@@ -610,7 +677,8 @@
             "cardName": "Rowdy Snowballers",
             "cardText": "When this creature enters, tap target creature an opponent controls and put a stun counter on it.",
             "artFileName": "TLA_068",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_068.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_068.jpg"
         },
         {
             "cardID": "TLA-069",
@@ -619,7 +687,8 @@
             "cardName": "Secret of Bloodbending",
             "cardText": "As an additional cost to cast this spell, you may waterbend {10}.\nYou control target opponent during their next combat phase. If this spell's additional cost was paid, you control that player during their next turn instead.\nExile Secret of Bloodbending.",
             "artFileName": "TLA_069",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_069.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_069.jpg"
         },
         {
             "cardID": "TLA-070",
@@ -628,7 +697,8 @@
             "cardName": "Serpent of the Pass",
             "cardText": "If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.\nThis spell costs {1} less to cast for each noncreature, nonland card in your graveyard.",
             "artFileName": "TLA_070",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_070.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_070.jpg"
         },
         {
             "cardID": "TLA-071",
@@ -637,7 +707,8 @@
             "cardName": "Sokka's Haiku",
             "cardText": "Counter target spell.\nDraw a card, then mill three cards.\nUntap target land.",
             "artFileName": "TLA_071",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_071.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_071.jpg"
         },
         {
             "cardID": "TLA-072",
@@ -646,7 +717,8 @@
             "cardName": "The Spirit Oasis",
             "cardText": "When The Spirit Oasis enters, draw a card for each Shrine you control.\nWhenever another Shrine you control enters, draw a card.",
             "artFileName": "TLA_072",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_072.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_072.jpg"
         },
         {
             "cardID": "TLA-073",
@@ -655,7 +727,8 @@
             "cardName": "Spirit Water Revival",
             "cardText": "As an additional cost to cast this spell, you may waterbend {6}.\nDraw two cards. If this spell's additional cost was paid, instead shuffle your graveyard into your library, draw seven cards, and you have no maximum hand size for the rest of the game.\nExile Spirit Water Revival.",
             "artFileName": "TLA_073",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_073.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_073.jpg"
         },
         {
             "cardID": "TLA-074",
@@ -664,7 +737,8 @@
             "cardName": "Teo, Spirited Glider",
             "cardText": "Flying\nWhenever one or more creatures you control with flying attack, draw a card, then discard a card. When you discard a nonland card this way, put a +1/+1 counter on target creature you control.",
             "artFileName": "TLA_074",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_074.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_074.jpg"
         },
         {
             "cardID": "TLA-075",
@@ -673,7 +747,8 @@
             "cardName": "Tiger-Seal",
             "cardText": "Vigilance\nAt the beginning of your upkeep, tap this creature.\nWhenever you draw your second card each turn, untap this creature.",
             "artFileName": "TLA_075",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_075.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_075.jpg"
         },
         {
             "cardID": "TLA-076",
@@ -682,7 +757,8 @@
             "cardName": "Ty Lee, Chi Blocker",
             "cardText": "Flash\nProwess\nWhen Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",
             "artFileName": "TLA_076",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_076.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_076.jpg"
         },
         {
             "cardID": "TLA-077",
@@ -691,7 +767,8 @@
             "cardName": "The Unagi of Kyoshi Island",
             "cardText": "Flash\nWard—Waterbend {4}.\nWhenever an opponent draws their second card each turn, you draw two cards.",
             "artFileName": "TLA_077",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_077.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_077.jpg"
         },
         {
             "cardID": "TLA-078",
@@ -700,7 +777,8 @@
             "cardName": "Wan Shi Tong, Librarian",
             "cardText": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.",
             "artFileName": "TLA_078",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_078.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_078.jpg"
         },
         {
             "cardID": "TLA-079",
@@ -709,7 +787,8 @@
             "cardName": "Waterbender Ascension",
             "cardText": "Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.\nWaterbend {4}: Target creature can't be blocked this turn.",
             "artFileName": "TLA_079",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_079.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_079.jpg"
         },
         {
             "cardID": "TLA-080",
@@ -718,7 +797,8 @@
             "cardName": "Waterbending Lesson",
             "cardText": "Draw three cards. Then discard a card unless you waterbend {2}.",
             "artFileName": "TLA_080",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_080.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_080.jpg"
         },
         {
             "cardID": "TLA-081",
@@ -727,7 +807,8 @@
             "cardName": "Waterbending Scroll",
             "cardText": "{6}, {T}: Draw a card. This ability costs {1} less to activate for each Island you control.",
             "artFileName": "TLA_081",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_081.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_081.jpg"
         },
         {
             "cardID": "TLA-082",
@@ -736,7 +817,8 @@
             "cardName": "Watery Grasp",
             "cardText": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWaterbend {5}: Enchanted creature's owner shuffles it into their library.",
             "artFileName": "TLA_082",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_082.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_082.jpg"
         },
         {
             "cardID": "TLA-083",
@@ -745,7 +827,8 @@
             "cardName": "Yue, the Moon Spirit",
             "cardText": "Flying, vigilance\nWaterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost.",
             "artFileName": "TLA_083",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_083.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_083.jpg"
         },
         {
             "cardID": "TLA-084",
@@ -754,7 +837,8 @@
             "cardName": "Azula Always Lies",
             "cardText": "Choose one or both —\n• Target creature gets -1/-1 until end of turn.\n• Put a +1/+1 counter on target creature.",
             "artFileName": "TLA_084",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_084.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_084.jpg"
         },
         {
             "cardID": "TLA-085",
@@ -763,7 +847,8 @@
             "cardName": "Azula, On the Hunt",
             "cardText": "Firebending 2\nWhenever Azula attacks, you lose 1 life and create a Clue token.",
             "artFileName": "TLA_085",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_085.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_085.jpg"
         },
         {
             "cardID": "TLA-086",
@@ -772,7 +857,8 @@
             "cardName": "Beetle-Headed Merchants",
             "cardText": "Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card and put a +1/+1 counter on this creature.",
             "artFileName": "TLA_086",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_086.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_086.jpg"
         },
         {
             "cardID": "TLA-087",
@@ -781,7 +867,8 @@
             "cardName": "Boiling Rock Rioter",
             "cardText": "Firebending 1\nTap an untapped Ally you control: Exile target card from a graveyard.\nWhenever this creature attacks, you may cast an Ally spell from among cards you own exiled with this creature.",
             "artFileName": "TLA_087",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_087.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_087.jpg"
         },
         {
             "cardID": "TLA-088",
@@ -790,7 +877,8 @@
             "cardName": "Buzzard-Wasp Colony",
             "cardText": "Flying\nWhen this creature enters, you may sacrifice an artifact or creature. If you do, draw a card.\nWhenever another creature you control dies, if it had counters on it, put its counters on this creature.",
             "artFileName": "TLA_088",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_088.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_088.jpg"
         },
         {
             "cardID": "TLA-089",
@@ -799,7 +887,8 @@
             "cardName": "Callous Inspector",
             "cardText": "Menace\nWhen this creature dies, it deals 1 damage to you. Create a Clue token.",
             "artFileName": "TLA_089",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_089.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_089.jpg"
         },
         {
             "cardID": "TLA-090",
@@ -808,7 +897,8 @@
             "cardName": "Canyon Crawler",
             "cardText": "Deathtouch\nWhen this creature enters, create a Food token.\nSwampcycling {2}",
             "artFileName": "TLA_090",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_090.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_090.jpg"
         },
         {
             "cardID": "TLA-091",
@@ -817,7 +907,8 @@
             "cardName": "Cat-Gator",
             "cardText": "Lifelink\nWhen this creature enters, it deals damage equal to the number of Swamps you control to any target.",
             "artFileName": "TLA_091",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_091.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_091.jpg"
         },
         {
             "cardID": "TLA-092",
@@ -826,7 +917,8 @@
             "cardName": "Corrupt Court Official",
             "cardText": "When this creature enters, target opponent discards a card.",
             "artFileName": "TLA_092",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_092.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_092.jpg"
         },
         {
             "cardID": "TLA-093",
@@ -835,7 +927,8 @@
             "cardName": "Dai Li Indoctrination",
             "cardText": "Choose one —\n• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.\n• Earthbend 2.",
             "artFileName": "TLA_093",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_093.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_093.jpg"
         },
         {
             "cardID": "TLA-094",
@@ -844,7 +937,8 @@
             "cardName": "Day of Black Sun",
             "cardText": "Each creature with mana value X or less loses all abilities until end of turn. Destroy those creatures.",
             "artFileName": "TLA_094",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_094.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_094.jpg"
         },
         {
             "cardID": "TLA-095",
@@ -853,7 +947,8 @@
             "cardName": "Deadly Precision",
             "cardText": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature.",
             "artFileName": "TLA_095",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_095.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_095.jpg"
         },
         {
             "cardID": "TLA-096",
@@ -862,7 +957,8 @@
             "cardName": "Epic Downfall",
             "cardText": "Exile target creature with mana value 3 or greater.",
             "artFileName": "TLA_096",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_096.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_096.jpg"
         },
         {
             "cardID": "TLA-097",
@@ -871,7 +967,8 @@
             "cardName": "Fatal Fissure",
             "cardText": "Choose target creature. When that creature dies this turn, you earthbend 4.",
             "artFileName": "TLA_097",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_097.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_097.jpg"
         },
         {
             "cardID": "TLA-098",
@@ -880,7 +977,8 @@
             "cardName": "The Fire Nation Drill",
             "cardText": "Trample\nWhen The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.\n{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.\nCrew 2",
             "artFileName": "TLA_098",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_098.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_098.jpg"
         },
         {
             "cardID": "TLA-099",
@@ -889,7 +987,8 @@
             "cardName": "Fire Nation Engineer",
             "cardText": "Raid — At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on another target creature or Vehicle you control.",
             "artFileName": "TLA_099",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_099.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_099.jpg"
         },
         {
             "cardID": "TLA-100",
@@ -898,7 +997,8 @@
             "cardName": "Fire Navy Trebuchet",
             "cardText": "Defender, reach\nWhenever you attack, create a 2/1 colorless Construct artifact creature token with flying named Ballistic Boulder that's tapped and attacking. Sacrifice that token at the beginning of the next end step.",
             "artFileName": "TLA_100",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_100.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_100.jpg"
         },
         {
             "cardID": "TLA-101",
@@ -907,7 +1007,8 @@
             "cardName": "Foggy Swamp Hunters",
             "cardText": "As long as you've drawn two or more cards this turn, this creature has lifelink and menace.",
             "artFileName": "TLA_101",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_101.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_101.jpg"
         },
         {
             "cardID": "TLA-102",
@@ -916,7 +1017,8 @@
             "cardName": "Foggy Swamp Visions",
             "cardText": "As an additional cost to cast this spell, waterbend {X}.\nExile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",
             "artFileName": "TLA_102",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_102.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_102.jpg"
         },
         {
             "cardID": "TLA-103",
@@ -925,7 +1027,8 @@
             "cardName": "Heartless Act",
             "cardText": "Choose one —\n• Destroy target creature with no counters on it.\n• Remove up to three counters from target creature.",
             "artFileName": "TLA_103",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_103.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_103.jpg"
         },
         {
             "cardID": "TLA-104",
@@ -934,7 +1037,8 @@
             "cardName": "Hog-Monkey",
             "cardText": "At the beginning of combat on your turn, target creature you control with a +1/+1 counter on it gains menace until end of turn.\nExhaust — {5}: Put two +1/+1 counters on this creature.",
             "artFileName": "TLA_104",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_104.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_104.jpg"
         },
         {
             "cardID": "TLA-105",
@@ -943,7 +1047,8 @@
             "cardName": "Joo Dee, One of Many",
             "cardText": "{B}, {T}: Surveil 1. Create a token that's a copy of this creature, then sacrifice an artifact or creature. Activate only as a sorcery.",
             "artFileName": "TLA_105",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_105.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_105.jpg"
         },
         {
             "cardID": "TLA-106",
@@ -952,7 +1057,8 @@
             "cardName": "June, Bounty Hunter",
             "cardText": "June can't be blocked as long as you've drawn two or more cards this turn.\n{1}, Sacrifice another creature: Create a Clue token. Activate only during your turn.",
             "artFileName": "TLA_106",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_106.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_106.jpg"
         },
         {
             "cardID": "TLA-107",
@@ -961,7 +1067,8 @@
             "cardName": "Koh, the Face Stealer",
             "cardText": "When Koh enters, exile up to one other target creature.\nWhenever another nontoken creature dies, you may exile it.\nPay 1 life: Choose a creature card exiled with Koh.\nKoh has all activated and triggered abilities of the last chosen card.",
             "artFileName": "TLA_107",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_107.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_107.jpg"
         },
         {
             "cardID": "TLA-108",
@@ -970,7 +1077,8 @@
             "cardName": "Lo and Li, Twin Tutors",
             "cardText": "When Lo and Li enter, search your library for a Lesson or Noble card, reveal it, put it into your hand, then shuffle.\nNoble creatures you control and Lesson spells you control have lifelink.",
             "artFileName": "TLA_108",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_108.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_108.jpg"
         },
         {
             "cardID": "TLA-109",
@@ -979,7 +1087,8 @@
             "cardName": "Mai, Scornful Striker",
             "cardText": "First strike\nWhenever a player casts a noncreature spell, they lose 2 life.",
             "artFileName": "TLA_109",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_109.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_109.jpg"
         },
         {
             "cardID": "TLA-110",
@@ -988,7 +1097,8 @@
             "cardName": "Merchant of Many Hats",
             "cardText": "{2}{B}: Return this card from your graveyard to your hand.",
             "artFileName": "TLA_110",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_110.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_110.jpg"
         },
         {
             "cardID": "TLA-111",
@@ -997,7 +1107,8 @@
             "cardName": "Northern Air Temple",
             "cardText": "When Northern Air Temple enters, each opponent loses X life and you gain X life, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, each opponent loses 1 life and you gain 1 life.",
             "artFileName": "TLA_111",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_111.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_111.jpg"
         },
         {
             "cardID": "TLA-112",
@@ -1006,7 +1117,8 @@
             "cardName": "Obsessive Pursuit",
             "cardText": "When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token.\nWhenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or more, that creature gains lifelink until end of turn.",
             "artFileName": "TLA_112",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_112.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_112.jpg"
         },
         {
             "cardID": "TLA-113",
@@ -1015,7 +1127,8 @@
             "cardName": "Ozai's Cruelty",
             "cardText": "Ozai's Cruelty deals 2 damage to target player. That player discards two cards.",
             "artFileName": "TLA_113",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_113.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_113.jpg"
         },
         {
             "cardID": "TLA-114",
@@ -1024,7 +1137,8 @@
             "cardName": "Phoenix Fleet Airship",
             "cardText": "Flying\nAt the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.\nAs long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.\nCrew 1",
             "artFileName": "TLA_114",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_114.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_114.jpg"
         },
         {
             "cardID": "TLA-115",
@@ -1033,7 +1147,8 @@
             "cardName": "Pirate Peddlers",
             "cardText": "Deathtouch\nWhenever you sacrifice another permanent, put a +1/+1 counter on this creature.",
             "artFileName": "TLA_115",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_115.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_115.jpg"
         },
         {
             "cardID": "TLA-116",
@@ -1042,16 +1157,18 @@
             "cardName": "Raven Eagle",
             "cardText": "Flying\nWhenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, create a Clue token.\nWhenever you draw your second card each turn, each opponent loses 1 life and you gain 1 life.",
             "artFileName": "TLA_116",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_116.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_116.jpg"
         },
         {
             "cardID": "TLA-117",
             "setCode": "TLA",
             "cardNumber": 117,
-            "cardName": "The Rise of Sozin",
+            "cardName": "The Rise of Sozin // Fire Lord Sozin",
             "cardText": "I — Destroy all creatures.\nII — Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_117",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_117.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_117.jpg"
         },
         {
             "cardID": "TLA-118",
@@ -1060,7 +1177,8 @@
             "cardName": "Ruinous Waterbending",
             "cardText": "As an additional cost to cast this spell, you may waterbend {4}.\nAll creatures get -2/-2 until end of turn. If this spell's additional cost was paid, whenever a creature dies this turn, you gain 1 life.",
             "artFileName": "TLA_118",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_118.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_118.jpg"
         },
         {
             "cardID": "TLA-119",
@@ -1069,7 +1187,8 @@
             "cardName": "Sold Out",
             "cardText": "Exile target creature. If it was dealt damage this turn, create a Clue token.",
             "artFileName": "TLA_119",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_119.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_119.jpg"
         },
         {
             "cardID": "TLA-120",
@@ -1078,7 +1197,8 @@
             "cardName": "Swampsnare Trap",
             "cardText": "This spell costs {1} less to cast if it targets a creature with flying.\nEnchant creature\nEnchanted creature gets -5/-3.",
             "artFileName": "TLA_120",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_120.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_120.jpg"
         },
         {
             "cardID": "TLA-121",
@@ -1087,7 +1207,8 @@
             "cardName": "Tundra Tank",
             "cardText": "Firebending 1\nWhen this Vehicle enters, target creature you control gains indestructible until end of turn.\nCrew 1",
             "artFileName": "TLA_121",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_121.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_121.jpg"
         },
         {
             "cardID": "TLA-122",
@@ -1096,7 +1217,8 @@
             "cardName": "Wolfbat",
             "cardText": "Flying\nWhenever you draw your second card each turn, you may pay {B}. If you do, return this card from your graveyard to the battlefield with a finality counter on it.",
             "artFileName": "TLA_122",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_122.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_122.jpg"
         },
         {
             "cardID": "TLA-123",
@@ -1105,7 +1227,8 @@
             "cardName": "Zuko's Conviction",
             "cardText": "Kicker {4}\nReturn target creature card from your graveyard to your hand. If this spell was kicked, instead put that card onto the battlefield tapped.",
             "artFileName": "TLA_123",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_123.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_123.jpg"
         },
         {
             "cardID": "TLA-124",
@@ -1114,7 +1237,8 @@
             "cardName": "Boar-q-pine",
             "cardText": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
             "artFileName": "TLA_124",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_124.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_124.jpg"
         },
         {
             "cardID": "TLA-125",
@@ -1123,7 +1247,8 @@
             "cardName": "Bumi Bash",
             "cardText": "Choose one —\n• Bumi Bash deals damage equal to the number of lands you control to target creature.\n• Destroy target land creature or nonbasic land.",
             "artFileName": "TLA_125",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_125.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_125.jpg"
         },
         {
             "cardID": "TLA-126",
@@ -1132,7 +1257,8 @@
             "cardName": "The Cave of Two Lovers",
             "cardText": "I — Create two 1/1 white Ally creature tokens.\nII — Search your library for a Mountain or Cave card, reveal it, put it into your hand, then shuffle.\nIII — Earthbend 3.",
             "artFileName": "TLA_126",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_126.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_126.jpg"
         },
         {
             "cardID": "TLA-127",
@@ -1141,7 +1267,8 @@
             "cardName": "Combustion Man",
             "cardText": "Whenever Combustion Man attacks, destroy target permanent unless its controller has Combustion Man deal damage to them equal to his power.",
             "artFileName": "TLA_127",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_127.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_127.jpg"
         },
         {
             "cardID": "TLA-128",
@@ -1150,7 +1277,8 @@
             "cardName": "Combustion Technique",
             "cardText": "Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",
             "artFileName": "TLA_128",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_128.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_128.jpg"
         },
         {
             "cardID": "TLA-129",
@@ -1159,7 +1287,8 @@
             "cardName": "Crescent Island Temple",
             "cardText": "When Crescent Island Temple enters, for each Shrine you control, create a 1/1 red Monk creature token with prowess.\nWhenever another Shrine you control enters, create a 1/1 red Monk creature token with prowess.",
             "artFileName": "TLA_129",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_129.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_129.jpg"
         },
         {
             "cardID": "TLA-130",
@@ -1168,7 +1297,8 @@
             "cardName": "Cunning Maneuver",
             "cardText": "Target creature gets +3/+1 until end of turn.\nCreate a Clue token.",
             "artFileName": "TLA_130",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_130.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_130.jpg"
         },
         {
             "cardID": "TLA-131",
@@ -1177,7 +1307,8 @@
             "cardName": "Deserter's Disciple",
             "cardText": "{T}: Another target creature you control with power 2 or less can't be blocked this turn.",
             "artFileName": "TLA_131",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_131.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_131.jpg"
         },
         {
             "cardID": "TLA-132",
@@ -1186,7 +1317,8 @@
             "cardName": "Fated Firepower",
             "cardText": "Flash\nThis enchantment enters with X fire counters on it.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",
             "artFileName": "TLA_132",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_132.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_132.jpg"
         },
         {
             "cardID": "TLA-133",
@@ -1195,7 +1327,8 @@
             "cardName": "Fire Nation Attacks",
             "cardText": "Create two 2/2 red Soldier creature tokens with firebending 1.\nFlashback {8}{R}",
             "artFileName": "TLA_133",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_133.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_133.jpg"
         },
         {
             "cardID": "TLA-134",
@@ -1204,7 +1337,8 @@
             "cardName": "Fire Nation Cadets",
             "cardText": "This creature has firebending 2 as long as there's a Lesson card in your graveyard.\n{2}: This creature gets +1/+0 until end of turn.",
             "artFileName": "TLA_134",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_134.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_134.jpg"
         },
         {
             "cardID": "TLA-135",
@@ -1213,7 +1347,8 @@
             "cardName": "Fire Nation Raider",
             "cardText": "Raid — When this creature enters, if you attacked this turn, create a Clue token.",
             "artFileName": "TLA_135",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_135.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_135.jpg"
         },
         {
             "cardID": "TLA-136",
@@ -1222,7 +1357,8 @@
             "cardName": "Fire Sages",
             "cardText": "Firebending 1\n{1}{R}{R}: Put a +1/+1 counter on this creature.",
             "artFileName": "TLA_136",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_136.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_136.jpg"
         },
         {
             "cardID": "TLA-137",
@@ -1231,7 +1367,8 @@
             "cardName": "Firebender Ascension",
             "cardText": "When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.\nWhenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.",
             "artFileName": "TLA_137",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_137.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_137.jpg"
         },
         {
             "cardID": "TLA-138",
@@ -1240,7 +1377,8 @@
             "cardName": "Firebending Lesson",
             "cardText": "Kicker {4}\nFirebending Lesson deals 2 damage to target creature. If this spell was kicked, it deals 5 damage to that creature instead.",
             "artFileName": "TLA_138",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_138.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_138.jpg"
         },
         {
             "cardID": "TLA-139",
@@ -1249,7 +1387,8 @@
             "cardName": "Firebending Student",
             "cardText": "Prowess\nFirebending X, where X is this creature's power.",
             "artFileName": "TLA_139",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_139.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_139.jpg"
         },
         {
             "cardID": "TLA-140",
@@ -1258,7 +1397,8 @@
             "cardName": "How to Start a Riot",
             "cardText": "Target creature gains menace until end of turn.\nCreatures target player controls get +2/+0 until end of turn.",
             "artFileName": "TLA_140",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_140.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_140.jpg"
         },
         {
             "cardID": "TLA-141",
@@ -1267,7 +1407,8 @@
             "cardName": "Iroh's Demonstration",
             "cardText": "Choose one —\n• Iroh's Demonstration deals 1 damage to each creature your opponents control.\n• Iroh's Demonstration deals 4 damage to target creature.",
             "artFileName": "TLA_141",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_141.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_141.jpg"
         },
         {
             "cardID": "TLA-142",
@@ -1276,7 +1417,8 @@
             "cardName": "Jeong Jeong, the Deserter",
             "cardText": "Firebending 1\nExhaust — {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy.",
             "artFileName": "TLA_142",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_142.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_142.jpg"
         },
         {
             "cardID": "TLA-143",
@@ -1285,7 +1427,8 @@
             "cardName": "Jet's Brainwashing",
             "cardText": "Kicker {3}\nTarget creature can't block this turn. If this spell was kicked, gain control of that creature until end of turn, untap it, and it gains haste until end of turn.\nCreate a Clue token.",
             "artFileName": "TLA_143",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_143.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_143.jpg"
         },
         {
             "cardID": "TLA-144",
@@ -1294,16 +1437,18 @@
             "cardName": "The Last Agni Kai",
             "cardText": "Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.\nUntil end of turn, you don't lose unspent red mana as steps and phases end.",
             "artFileName": "TLA_144",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_144.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_144.jpg"
         },
         {
             "cardID": "TLA-145",
             "setCode": "TLA",
             "cardNumber": 145,
-            "cardName": "The Legend of Roku",
+            "cardName": "The Legend of Roku // Avatar Roku",
             "cardText": "I — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nII — Add one mana of any color.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_145",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_145.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_145.jpg"
         },
         {
             "cardID": "TLA-146",
@@ -1312,7 +1457,8 @@
             "cardName": "Lightning Strike",
             "cardText": "Lightning Strike deals 3 damage to any target.",
             "artFileName": "TLA_146",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_146.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_146.jpg"
         },
         {
             "cardID": "TLA-147",
@@ -1321,7 +1467,8 @@
             "cardName": "Mai, Jaded Edge",
             "cardText": "Prowess\nExhaust — {3}: Put a double strike counter on Mai.",
             "artFileName": "TLA_147",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_147.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_147.jpg"
         },
         {
             "cardID": "TLA-148",
@@ -1330,7 +1477,8 @@
             "cardName": "Mongoose Lizard",
             "cardText": "Menace\nWhen this creature enters, it deals 1 damage to any target.\nMountaincycling {2}",
             "artFileName": "TLA_148",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_148.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_148.jpg"
         },
         {
             "cardID": "TLA-149",
@@ -1339,7 +1487,8 @@
             "cardName": "Price of Freedom",
             "cardText": "Destroy target artifact or land an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\nDraw a card.",
             "artFileName": "TLA_149",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_149.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_149.jpg"
         },
         {
             "cardID": "TLA-150",
@@ -1348,7 +1497,8 @@
             "cardName": "Ran and Shaw",
             "cardText": "Flying, firebending 2\nWhen Ran and Shaw enter, if you cast them and there are three or more Dragon and/or Lesson cards in your graveyard, create a token that's a copy of Ran and Shaw, except it's not legendary.\n{3}{R}: Dragons you control get +2/+0 until end of turn.",
             "artFileName": "TLA_150",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_150.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_150.jpg"
         },
         {
             "cardID": "TLA-151",
@@ -1357,7 +1507,8 @@
             "cardName": "Redirect Lightning",
             "cardText": "As an additional cost to cast this spell, pay 5 life or pay {2}.\nChange the target of target spell or ability with a single target.",
             "artFileName": "TLA_151",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_151.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_151.jpg"
         },
         {
             "cardID": "TLA-152",
@@ -1366,7 +1517,8 @@
             "cardName": "Rough Rhino Cavalry",
             "cardText": "Firebending 2\nExhaust — {8}: Put two +1/+1 counters on this creature. It gains trample until end of turn.",
             "artFileName": "TLA_152",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_152.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_152.jpg"
         },
         {
             "cardID": "TLA-153",
@@ -1375,7 +1527,8 @@
             "cardName": "Solstice Revelations",
             "cardText": "Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than the number of Mountains you control. If you don't cast that card this way, put it into your hand.\nFlashback {6}{R}",
             "artFileName": "TLA_153",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_153.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_153.jpg"
         },
         {
             "cardID": "TLA-154",
@@ -1384,7 +1537,8 @@
             "cardName": "Sozin's Comet",
             "cardText": "Each creature you control gains firebending 5 until end of turn.\nForetell {2}{R}",
             "artFileName": "TLA_154",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_154.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_154.jpg"
         },
         {
             "cardID": "TLA-155",
@@ -1393,7 +1547,8 @@
             "cardName": "Tiger-Dillo",
             "cardText": "This creature can't attack or block unless you control another creature with power 4 or greater.",
             "artFileName": "TLA_155",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_155.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_155.jpg"
         },
         {
             "cardID": "TLA-156",
@@ -1402,7 +1557,8 @@
             "cardName": "Treetop Freedom Fighters",
             "cardText": "Haste\nWhen this creature enters, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_156",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_156.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_156.jpg"
         },
         {
             "cardID": "TLA-157",
@@ -1411,7 +1567,8 @@
             "cardName": "Twin Blades",
             "cardText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.\nEquipped creature gets +1/+1.\nEquip {2}",
             "artFileName": "TLA_157",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_157.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_157.jpg"
         },
         {
             "cardID": "TLA-158",
@@ -1420,7 +1577,8 @@
             "cardName": "Ty Lee, Artful Acrobat",
             "cardText": "Prowess\nWhenever Ty Lee attacks, you may pay {1}. When you do, target creature can't block this turn.",
             "artFileName": "TLA_158",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_158.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_158.jpg"
         },
         {
             "cardID": "TLA-159",
@@ -1429,7 +1587,8 @@
             "cardName": "War Balloon",
             "cardText": "Flying\n{1}: Put a fire counter on this Vehicle.\nAs long as this Vehicle has three or more fire counters on it, it's an artifact creature.\nCrew 3",
             "artFileName": "TLA_159",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_159.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_159.jpg"
         },
         {
             "cardID": "TLA-160",
@@ -1438,7 +1597,8 @@
             "cardName": "Wartime Protestors",
             "cardText": "Haste\nWhenever another Ally you control enters, put a +1/+1 counter on that creature and it gains haste until end of turn.",
             "artFileName": "TLA_160",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_160.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_160.jpg"
         },
         {
             "cardID": "TLA-161",
@@ -1447,7 +1607,8 @@
             "cardName": "Yuyan Archers",
             "cardText": "Reach\nWhen this creature enters, you may discard a card. If you do, draw a card.",
             "artFileName": "TLA_161",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_161.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_161.jpg"
         },
         {
             "cardID": "TLA-162",
@@ -1456,7 +1617,8 @@
             "cardName": "Zhao, the Moon Slayer",
             "cardText": "Menace\nNonbasic lands enter tapped.\n{7}: Put a conqueror counter on Zhao.\nAs long as Zhao has a conqueror counter on him, nonbasic lands are Mountains.",
             "artFileName": "TLA_162",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_162.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_162.jpg"
         },
         {
             "cardID": "TLA-163",
@@ -1465,7 +1627,8 @@
             "cardName": "Zuko, Exiled Prince",
             "cardText": "Firebending 3\n{3}: Exile the top card of your library. You may play that card this turn.",
             "artFileName": "TLA_163",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_163.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_163.jpg"
         },
         {
             "cardID": "TLA-164",
@@ -1474,7 +1637,8 @@
             "cardName": "Allies at Last",
             "cardText": "Affinity for Allies\nUp to two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
             "artFileName": "TLA_164",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_164.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_164.jpg"
         },
         {
             "cardID": "TLA-165",
@@ -1483,7 +1647,8 @@
             "cardName": "Avatar Destiny",
             "cardText": "Enchant creature you control\nEnchanted creature gets +1/+1 for each creature card in your graveyard and is an Avatar in addition to its other types.\nWhen enchanted creature dies, mill cards equal to its power. Return this card to its owner's hand and up to one creature card milled this way to the battlefield under your control.",
             "artFileName": "TLA_165",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_165.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_165.jpg"
         },
         {
             "cardID": "TLA-166",
@@ -1492,7 +1657,8 @@
             "cardName": "Badgermole",
             "cardText": "When this creature enters, earthbend 2.\nCreatures you control with +1/+1 counters on them have trample.",
             "artFileName": "TLA_166",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_166.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_166.jpg"
         },
         {
             "cardID": "TLA-167",
@@ -1501,7 +1667,8 @@
             "cardName": "Badgermole Cub",
             "cardText": "When this creature enters, earthbend 1.\nWhenever you tap a creature for mana, add an additional {G}.",
             "artFileName": "TLA_167",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_167.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_167.jpg"
         },
         {
             "cardID": "TLA-168",
@@ -1510,7 +1677,8 @@
             "cardName": "The Boulder, Ready to Rumble",
             "cardText": "Whenever The Boulder attacks, earthbend X, where X is the number of creatures you control with power 4 or greater.",
             "artFileName": "TLA_168",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_168.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_168.jpg"
         },
         {
             "cardID": "TLA-169",
@@ -1519,7 +1687,8 @@
             "cardName": "Bumi, King of Three Trials",
             "cardText": "When Bumi enters, choose up to X, where X is the number of Lesson cards in your graveyard —\n• Put three +1/+1 counters on Bumi.\n• Target player scries 3.\n• Earthbend 3.",
             "artFileName": "TLA_169",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_169.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_169.jpg"
         },
         {
             "cardID": "TLA-170",
@@ -1528,7 +1697,8 @@
             "cardName": "Cycle of Renewal",
             "cardText": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
             "artFileName": "TLA_170",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_170.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_170.jpg"
         },
         {
             "cardID": "TLA-171",
@@ -1537,7 +1707,8 @@
             "cardName": "Diligent Zookeeper",
             "cardText": "Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",
             "artFileName": "TLA_171",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_171.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_171.jpg"
         },
         {
             "cardID": "TLA-172",
@@ -1546,7 +1717,8 @@
             "cardName": "The Earth King",
             "cardText": "When The Earth King enters, create a 4/4 green Bear creature token.\nWhenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",
             "artFileName": "TLA_172",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_172.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_172.jpg"
         },
         {
             "cardID": "TLA-173",
@@ -1555,7 +1727,8 @@
             "cardName": "Earth Kingdom General",
             "cardText": "When this creature enters, earthbend 2.\nWhenever you put one or more +1/+1 counters on a creature, you may gain that much life. Do this only once each turn.",
             "artFileName": "TLA_173",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_173.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_173.jpg"
         },
         {
             "cardID": "TLA-174",
@@ -1564,7 +1737,8 @@
             "cardName": "Earth Rumble",
             "cardText": "Earthbend 2. When you do, up to one target creature you control fights target creature an opponent controls.",
             "artFileName": "TLA_174",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_174.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_174.jpg"
         },
         {
             "cardID": "TLA-175",
@@ -1573,7 +1747,8 @@
             "cardName": "Earthbender Ascension",
             "cardText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
             "artFileName": "TLA_175",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_175.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_175.jpg"
         },
         {
             "cardID": "TLA-176",
@@ -1582,7 +1757,8 @@
             "cardName": "Earthbending Lesson",
             "cardText": "Earthbend 4.",
             "artFileName": "TLA_176",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_176.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_176.jpg"
         },
         {
             "cardID": "TLA-177",
@@ -1591,7 +1767,8 @@
             "cardName": "Earthen Ally",
             "cardText": "This creature gets +1/+0 for each color among Allies you control.\n{2}{W}{U}{B}{R}{G}: Earthbend 5.",
             "artFileName": "TLA_177",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_177.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_177.jpg"
         },
         {
             "cardID": "TLA-178",
@@ -1600,7 +1777,8 @@
             "cardName": "Elemental Teachings",
             "cardText": "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",
             "artFileName": "TLA_178",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_178.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_178.jpg"
         },
         {
             "cardID": "TLA-179",
@@ -1609,7 +1787,8 @@
             "cardName": "Flopsie, Bumi's Buddy",
             "cardText": "When Flopsie enters, put a +1/+1 counter on each creature you control.\nEach creature you control with power 4 or greater can't be blocked by more than one creature.",
             "artFileName": "TLA_179",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_179.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_179.jpg"
         },
         {
             "cardID": "TLA-180",
@@ -1618,7 +1797,8 @@
             "cardName": "Foggy Swamp Vinebender",
             "cardText": "This creature can't be blocked by creatures with power 2 or less.\nWaterbend {5}: Put a +1/+1 counter on this creature. Activate only during your turn.",
             "artFileName": "TLA_180",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_180.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_180.jpg"
         },
         {
             "cardID": "TLA-181",
@@ -1627,7 +1807,8 @@
             "cardName": "Great Divide Guide",
             "cardText": "Each land and Ally you control has \"{T}: Add one mana of any color.\"",
             "artFileName": "TLA_181",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_181.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_181.jpg"
         },
         {
             "cardID": "TLA-182",
@@ -1636,7 +1817,8 @@
             "cardName": "Haru, Hidden Talent",
             "cardText": "Whenever another Ally you control enters, earthbend 1.",
             "artFileName": "TLA_182",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_182.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_182.jpg"
         },
         {
             "cardID": "TLA-183",
@@ -1645,7 +1827,8 @@
             "cardName": "Invasion Tactics",
             "cardText": "When this enchantment enters, creatures you control get +2/+2 until end of turn.\nWhenever one or more Allies you control deal combat damage to a player, draw a card.",
             "artFileName": "TLA_183",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_183.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_183.jpg"
         },
         {
             "cardID": "TLA-184",
@@ -1654,7 +1837,8 @@
             "cardName": "Kyoshi Island Plaza",
             "cardText": "When Kyoshi Island Plaza enters, search your library for up to X basic land cards, where X is the number of Shrines you control. Put those cards onto the battlefield tapped, then shuffle.\nWhenever another Shrine you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "artFileName": "TLA_184",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_184.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_184.jpg"
         },
         {
             "cardID": "TLA-185",
@@ -1663,16 +1847,18 @@
             "cardName": "Leaves from the Vine",
             "cardText": "I — Mill three cards, then create a Food token.\nII — Put a +1/+1 counter on each of up to two target creatures you control.\nIII — Draw a card if there's a creature or Lesson card in your graveyard.",
             "artFileName": "TLA_185",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_185.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_185.jpg"
         },
         {
             "cardID": "TLA-186",
             "setCode": "TLA",
             "cardNumber": 186,
-            "cardName": "The Legend of Kyoshi",
+            "cardName": "The Legend of Kyoshi // Avatar Kyoshi",
             "cardText": "I — Draw cards equal to the greatest power among creatures you control.\nII — Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
             "artFileName": "TLA_186",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_186.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_186.jpg"
         },
         {
             "cardID": "TLA-187",
@@ -1681,7 +1867,8 @@
             "cardName": "Origin of Metalbending",
             "cardText": "Choose one —\n• Destroy target artifact or enchantment.\n• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.",
             "artFileName": "TLA_187",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_187.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_187.jpg"
         },
         {
             "cardID": "TLA-188",
@@ -1690,7 +1877,8 @@
             "cardName": "Ostrich-Horse",
             "cardText": "When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on this creature.",
             "artFileName": "TLA_188",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_188.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_188.jpg"
         },
         {
             "cardID": "TLA-189",
@@ -1699,7 +1887,8 @@
             "cardName": "Pillar Launch",
             "cardText": "Target creature gets +2/+2 and gains reach until end of turn. Untap it.",
             "artFileName": "TLA_189",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_189.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_189.jpg"
         },
         {
             "cardID": "TLA-190",
@@ -1708,7 +1897,8 @@
             "cardName": "Raucous Audience",
             "cardText": "{T}: Add {G}. If you control a creature with power 4 or greater, add {G}{G} instead.",
             "artFileName": "TLA_190",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_190.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_190.jpg"
         },
         {
             "cardID": "TLA-191",
@@ -1717,7 +1907,8 @@
             "cardName": "Rebellious Captives",
             "cardText": "Exhaust — {6}: Put two +1/+1 counters on this creature, then earthbend 2.",
             "artFileName": "TLA_191",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_191.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_191.jpg"
         },
         {
             "cardID": "TLA-192",
@@ -1726,7 +1917,8 @@
             "cardName": "Rockalanche",
             "cardText": "Earthbend X, where X is the number of Forests you control.\nFlashback {5}{G}",
             "artFileName": "TLA_192",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_192.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_192.jpg"
         },
         {
             "cardID": "TLA-193",
@@ -1735,7 +1927,8 @@
             "cardName": "Rocky Rebuke",
             "cardText": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
             "artFileName": "TLA_193",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_193.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_193.jpg"
         },
         {
             "cardID": "TLA-194",
@@ -1744,7 +1937,8 @@
             "cardName": "Saber-Tooth Moose-Lion",
             "cardText": "Reach\nForestcycling {2}",
             "artFileName": "TLA_194",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_194.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_194.jpg"
         },
         {
             "cardID": "TLA-195",
@@ -1753,7 +1947,8 @@
             "cardName": "Seismic Sense",
             "cardText": "Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "artFileName": "TLA_195",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_195.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_195.jpg"
         },
         {
             "cardID": "TLA-196",
@@ -1762,7 +1957,8 @@
             "cardName": "Shared Roots",
             "cardText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "artFileName": "TLA_196",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_196.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_196.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_196.jpg"
         },
         {
             "cardID": "TLA-197",
@@ -1771,7 +1967,8 @@
             "cardName": "Sparring Dummy",
             "cardText": "Defender\n{T}: Mill a card. You may put a land card milled this way into your hand. You gain 2 life if a Lesson card is milled this way.",
             "artFileName": "TLA_197",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_197.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_197.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_197.jpg"
         },
         {
             "cardID": "TLA-198",
@@ -1780,7 +1977,8 @@
             "cardName": "Toph, the Blind Bandit",
             "cardText": "When Toph enters, earthbend 2.\nToph's power is equal to the number of +1/+1 counters on lands you control.",
             "artFileName": "TLA_198",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_198.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_198.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_198.jpg"
         },
         {
             "cardID": "TLA-199",
@@ -1789,7 +1987,8 @@
             "cardName": "True Ancestry",
             "cardText": "Return up to one target permanent card from your graveyard to your hand.\nCreate a Clue token.",
             "artFileName": "TLA_199",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_199.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_199.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_199.jpg"
         },
         {
             "cardID": "TLA-200",
@@ -1798,7 +1997,8 @@
             "cardName": "Turtle-Duck",
             "cardText": "{3}: Until end of turn, this creature has base power 4 and gains trample.",
             "artFileName": "TLA_200",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_200.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_200.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_200.jpg"
         },
         {
             "cardID": "TLA-201",
@@ -1807,7 +2007,8 @@
             "cardName": "Unlucky Cabbage Merchant",
             "cardText": "When this creature enters, create a Food token.\nWhenever you sacrifice a Food, you may search your library for a basic land card and put it onto the battlefield tapped. If you search your library this way, put this creature on the bottom of its owner's library, then shuffle.",
             "artFileName": "TLA_201",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_201.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_201.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_201.jpg"
         },
         {
             "cardID": "TLA-202",
@@ -1816,25 +2017,28 @@
             "cardName": "Walltop Sentries",
             "cardText": "Reach, deathtouch\nWhen this creature dies, if there's a Lesson card in your graveyard, you gain 2 life.",
             "artFileName": "TLA_202",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_202.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_202.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_202.jpg"
         },
         {
             "cardID": "TLA-203",
             "setCode": "TLA",
             "cardNumber": 203,
-            "cardName": "Aang, at the Crossroads",
+            "cardName": "Aang, at the Crossroads // Aang, Destined Savior",
             "cardText": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
             "artFileName": "TLA_203",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_203.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_203.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_203.jpg"
         },
         {
             "cardID": "TLA-204",
             "setCode": "TLA",
             "cardNumber": 204,
-            "cardName": "Aang, Swift Savior",
+            "cardName": "Aang, Swift Savior // Aang and La, Ocean's Fury",
             "cardText": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell.\nWaterbend {8}: Transform Aang.",
             "artFileName": "TLA_204",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_204.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_204.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_204.jpg"
         },
         {
             "cardID": "TLA-205",
@@ -1843,7 +2047,8 @@
             "cardName": "Abandon Attachments",
             "cardText": "You may discard a card. If you do, draw two cards.",
             "artFileName": "TLA_205",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_205.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_205.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_205.jpg"
         },
         {
             "cardID": "TLA-206",
@@ -1852,16 +2057,18 @@
             "cardName": "Air Nomad Legacy",
             "cardText": "When this enchantment enters, create a Clue token.\nCreatures you control with flying get +1/+1.",
             "artFileName": "TLA_206",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_206.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_206.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_206.jpg"
         },
         {
             "cardID": "TLA-207",
             "setCode": "TLA",
             "cardNumber": 207,
-            "cardName": "Avatar Aang",
+            "cardName": "Avatar Aang // Aang, Master of Elements",
             "cardText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
             "artFileName": "TLA_207",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_207.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_207.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_207.jpg"
         },
         {
             "cardID": "TLA-208",
@@ -1870,7 +2077,8 @@
             "cardName": "Azula, Cunning Usurper",
             "cardText": "Firebending 2\nWhen Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.\nDuring your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.",
             "artFileName": "TLA_208",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_208.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_208.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_208.jpg"
         },
         {
             "cardID": "TLA-209",
@@ -1879,7 +2087,8 @@
             "cardName": "Beifong's Bounty Hunters",
             "cardText": "Whenever a nonland creature you control dies, earthbend X, where X is that creature's power.",
             "artFileName": "TLA_209",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_209.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_209.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_209.jpg"
         },
         {
             "cardID": "TLA-210",
@@ -1888,7 +2097,8 @@
             "cardName": "Bitter Work",
             "cardText": "Whenever you attack a player with one or more creatures with power 4 or greater, draw a card.\nExhaust — {4}: Earthbend 4. Activate only during your turn.",
             "artFileName": "TLA_210",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_210.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_210.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_210.jpg"
         },
         {
             "cardID": "TLA-211",
@@ -1897,7 +2107,8 @@
             "cardName": "Bumi, Unleashed",
             "cardText": "Trample\nWhen Bumi enters, earthbend 4.\nWhenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.",
             "artFileName": "TLA_211",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_211.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_211.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_211.jpg"
         },
         {
             "cardID": "TLA-212",
@@ -1906,7 +2117,8 @@
             "cardName": "Cat-Owl",
             "cardText": "Flying\nWhenever this creature attacks, untap target artifact or creature.",
             "artFileName": "TLA_212",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_212.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_212.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_212.jpg"
         },
         {
             "cardID": "TLA-213",
@@ -1915,7 +2127,8 @@
             "cardName": "Cruel Administrator",
             "cardText": "Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.\nWhenever this creature attacks, create a 2/2 red Soldier creature token with firebending 1.",
             "artFileName": "TLA_213",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_213.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_213.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_213.jpg"
         },
         {
             "cardID": "TLA-214",
@@ -1924,7 +2137,8 @@
             "cardName": "Dai Li Agents",
             "cardText": "When this creature enters, earthbend 1, then earthbend 1.\nWhenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.",
             "artFileName": "TLA_214",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_214.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_214.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_214.jpg"
         },
         {
             "cardID": "TLA-215",
@@ -1933,7 +2147,8 @@
             "cardName": "Dragonfly Swarm",
             "cardText": "Flying, ward {1}\nThis creature's power is equal to the number of noncreature, nonland cards in your graveyard.\nWhen this creature dies, if there's a Lesson card in your graveyard, draw a card.",
             "artFileName": "TLA_215",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_215.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_215.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_215.jpg"
         },
         {
             "cardID": "TLA-216",
@@ -1942,7 +2157,8 @@
             "cardName": "Earth Kingdom Soldier",
             "cardText": "Vigilance\nWhen this creature enters, put a +1/+1 counter on each of up to two target creatures you control.",
             "artFileName": "TLA_216",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_216.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_216.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_216.jpg"
         },
         {
             "cardID": "TLA-217",
@@ -1951,7 +2167,8 @@
             "cardName": "Earth King's Lieutenant",
             "cardText": "Trample\nWhen this creature enters, put a +1/+1 counter on each other Ally creature you control.\nWhenever another Ally you control enters, put a +1/+1 counter on this creature.",
             "artFileName": "TLA_217",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_217.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_217.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_217.jpg"
         },
         {
             "cardID": "TLA-218",
@@ -1960,7 +2177,8 @@
             "cardName": "Earth Rumble Wrestlers",
             "cardText": "Reach\nThis creature gets +1/+0 and has trample as long as you control a land creature or a land entered the battlefield under your control this turn.",
             "artFileName": "TLA_218",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_218.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_218.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_218.jpg"
         },
         {
             "cardID": "TLA-219",
@@ -1969,7 +2187,8 @@
             "cardName": "Earth Village Ruffians",
             "cardText": "When this creature dies, earthbend 2.",
             "artFileName": "TLA_219",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_219.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_219.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_219.jpg"
         },
         {
             "cardID": "TLA-220",
@@ -1978,7 +2197,8 @@
             "cardName": "Fire Lord Azula",
             "cardText": "Firebending 2\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy.",
             "artFileName": "TLA_220",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_220.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_220.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_220.jpg"
         },
         {
             "cardID": "TLA-221",
@@ -1987,7 +2207,8 @@
             "cardName": "Fire Lord Zuko",
             "cardText": "Firebending X, where X is Fire Lord Zuko's power.\nWhenever you cast a spell from exile and whenever a permanent you control enters from exile, put a +1/+1 counter on each creature you control.",
             "artFileName": "TLA_221",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_221.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_221.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_221.jpg"
         },
         {
             "cardID": "TLA-222",
@@ -1996,7 +2217,8 @@
             "cardName": "Foggy Swamp Spirit Keeper",
             "cardText": "Lifelink\nWhenever you draw your second card each turn, create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"",
             "artFileName": "TLA_222",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_222.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_222.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_222.jpg"
         },
         {
             "cardID": "TLA-223",
@@ -2005,7 +2227,8 @@
             "cardName": "Guru Pathik",
             "cardText": "When Guru Pathik enters, look at the top five cards of your library. You may reveal a Lesson, Saga, or Shrine card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you cast a Lesson, Saga, or Shrine spell, put a +1/+1 counter on another target creature you control.",
             "artFileName": "TLA_223",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_223.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_223.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_223.jpg"
         },
         {
             "cardID": "TLA-224",
@@ -2014,7 +2237,8 @@
             "cardName": "Hama, the Bloodbender",
             "cardText": "When Hama enters, target opponent mills three cards. Exile up to one noncreature, nonland card from that player's graveyard. For as long as you control Hama, you may cast the exiled card during your turn by waterbending {X} rather than paying its mana cost, where X is its mana value.",
             "artFileName": "TLA_224",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_224.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_224.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_224.jpg"
         },
         {
             "cardID": "TLA-225",
@@ -2023,7 +2247,8 @@
             "cardName": "Hei Bai, Spirit of Balance",
             "cardText": "Whenever Hei Bai enters or attacks, you may sacrifice another creature or artifact. If you do, put two +1/+1 counters on Hei Bai.\nWhen Hei Bai leaves the battlefield, put its counters on target creature you control.",
             "artFileName": "TLA_225",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_225.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_225.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_225.jpg"
         },
         {
             "cardID": "TLA-226",
@@ -2032,7 +2257,8 @@
             "cardName": "Hermitic Herbalist",
             "cardText": "{T}: Add one mana of any color.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast Lesson spells.",
             "artFileName": "TLA_226",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_226.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_226.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_226.jpg"
         },
         {
             "cardID": "TLA-227",
@@ -2041,7 +2267,8 @@
             "cardName": "Iroh, Grand Lotus",
             "cardText": "Firebending 2\nDuring your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.\nDuring your turn, each Lesson card in your graveyard has flashback {1}.",
             "artFileName": "TLA_227",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_227.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_227.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_227.jpg"
         },
         {
             "cardID": "TLA-228",
@@ -2050,7 +2277,8 @@
             "cardName": "Iroh, Tea Master",
             "cardText": "When Iroh enters, create a Food token.\nAt the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.",
             "artFileName": "TLA_228",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_228.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_228.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_228.jpg"
         },
         {
             "cardID": "TLA-229",
@@ -2059,7 +2287,8 @@
             "cardName": "Jet, Freedom Fighter",
             "cardText": "When Jet enters, he deals damage equal to the number of creatures you control to target creature an opponent controls.\nWhen Jet dies, put a +1/+1 counter on each of up to two target creatures.",
             "artFileName": "TLA_229",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_229.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_229.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_229.jpg"
         },
         {
             "cardID": "TLA-230",
@@ -2068,7 +2297,8 @@
             "cardName": "Katara, the Fearless",
             "cardText": "If a triggered ability of an Ally you control triggers, that ability triggers an additional time.",
             "artFileName": "TLA_230",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_230.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_230.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_230.jpg"
         },
         {
             "cardID": "TLA-231",
@@ -2077,7 +2307,8 @@
             "cardName": "Katara, Water Tribe's Hope",
             "cardText": "Vigilance\nWhen Katara enters, create a 1/1 white Ally creature token.\nWaterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn.",
             "artFileName": "TLA_231",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_231.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_231.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_231.jpg"
         },
         {
             "cardID": "TLA-232",
@@ -2086,7 +2317,8 @@
             "cardName": "The Lion-Turtle",
             "cardText": "Vigilance, reach\nWhen The Lion-Turtle enters, you gain 3 life.\nThe Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.\n{T}: Add one mana of any color.",
             "artFileName": "TLA_232",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_232.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_232.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_232.jpg"
         },
         {
             "cardID": "TLA-233",
@@ -2095,7 +2327,8 @@
             "cardName": "Long Feng, Grand Secretariat",
             "cardText": "Whenever another creature you control or a land you control is put into a graveyard from the battlefield, put a +1/+1 counter on target creature you control.",
             "artFileName": "TLA_233",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_233.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_233.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_233.jpg"
         },
         {
             "cardID": "TLA-234",
@@ -2104,7 +2337,8 @@
             "cardName": "Messenger Hawk",
             "cardText": "Flying\nWhen this creature enters, create a Clue token.\nThis creature gets +2/+0 as long as you've drawn two or more cards this turn.",
             "artFileName": "TLA_234",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_234.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_234.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_234.jpg"
         },
         {
             "cardID": "TLA-235",
@@ -2113,7 +2347,8 @@
             "cardName": "Ozai, the Phoenix King",
             "cardText": "Trample, firebending 4, haste\nIf you would lose unspent mana, that mana becomes red instead.\nOzai has flying and indestructible as long as you have six or more unspent mana.",
             "artFileName": "TLA_235",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_235.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_235.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_235.jpg"
         },
         {
             "cardID": "TLA-236",
@@ -2122,7 +2357,8 @@
             "cardName": "Platypus-Bear",
             "cardText": "Defender\nWhen this creature enters, mill two cards.\nAs long as there is a Lesson card in your graveyard, this creature can attack as though it didn't have defender.",
             "artFileName": "TLA_236",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_236.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_236.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_236.jpg"
         },
         {
             "cardID": "TLA-237",
@@ -2131,7 +2367,8 @@
             "cardName": "Pretending Poxbearers",
             "cardText": "When this creature dies, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_237",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_237.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_237.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_237.jpg"
         },
         {
             "cardID": "TLA-238",
@@ -2140,7 +2377,8 @@
             "cardName": "Professor Zei, Anthropologist",
             "cardText": "{T}, Discard a card: Draw a card.\n{1}, {T}, Sacrifice Professor Zei: Return target instant or sorcery card from your graveyard to your hand. Activate only during your turn.",
             "artFileName": "TLA_238",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_238.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_238.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_238.jpg"
         },
         {
             "cardID": "TLA-239",
@@ -2149,7 +2387,8 @@
             "cardName": "Sandbender Scavengers",
             "cardText": "Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.\nWhen this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.",
             "artFileName": "TLA_239",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_239.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_239.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_239.jpg"
         },
         {
             "cardID": "TLA-240",
@@ -2158,7 +2397,8 @@
             "cardName": "Sokka, Bold Boomeranger",
             "cardText": "When Sokka enters, discard up to two cards, then draw that many cards.\nWhenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.",
             "artFileName": "TLA_240",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_240.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_240.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_240.jpg"
         },
         {
             "cardID": "TLA-241",
@@ -2167,7 +2407,8 @@
             "cardName": "Sokka, Lateral Strategist",
             "cardText": "Vigilance\nWhenever Sokka and at least one other creature attack, draw a card.",
             "artFileName": "TLA_241",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_241.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_241.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_241.jpg"
         },
         {
             "cardID": "TLA-242",
@@ -2176,7 +2417,8 @@
             "cardName": "Sokka, Tenacious Tactician",
             "cardText": "Menace, prowess\nOther Allies you control have menace and prowess.\nWhenever you cast a noncreature spell, create a 1/1 white Ally creature token.",
             "artFileName": "TLA_242",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_242.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_242.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_242.jpg"
         },
         {
             "cardID": "TLA-243",
@@ -2185,7 +2427,8 @@
             "cardName": "Suki, Kyoshi Warrior",
             "cardText": "Suki's power is equal to the number of creatures you control.\nWhenever Suki attacks, create a 1/1 white Ally creature token that's tapped and attacking.",
             "artFileName": "TLA_243",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_243.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_243.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_243.jpg"
         },
         {
             "cardID": "TLA-244",
@@ -2194,7 +2437,8 @@
             "cardName": "Sun Warriors",
             "cardText": "Firebending X, where X is the number of creatures you control.\n{5}: Create a 1/1 white Ally creature token.",
             "artFileName": "TLA_244",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_244.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_244.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_244.jpg"
         },
         {
             "cardID": "TLA-245",
@@ -2203,7 +2447,8 @@
             "cardName": "Tolls of War",
             "cardText": "When this enchantment enters, create a Clue token.\nWhenever you sacrifice a permanent during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
             "artFileName": "TLA_245",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_245.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_245.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_245.jpg"
         },
         {
             "cardID": "TLA-246",
@@ -2212,7 +2457,8 @@
             "cardName": "Toph, Hardheaded Teacher",
             "cardText": "When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.\nWhenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land.",
             "artFileName": "TLA_246",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_246.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_246.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_246.jpg"
         },
         {
             "cardID": "TLA-247",
@@ -2221,7 +2467,8 @@
             "cardName": "Toph, the First Metalbender",
             "cardText": "Nontoken artifacts you control are lands in addition to their other types.\nAt the beginning of your end step, earthbend 2.",
             "artFileName": "TLA_247",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_247.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_247.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_247.jpg"
         },
         {
             "cardID": "TLA-248",
@@ -2230,7 +2477,8 @@
             "cardName": "Uncle Iroh",
             "cardText": "Firebending 1\nLesson spells you cast cost {1} less to cast.",
             "artFileName": "TLA_248",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_248.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_248.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_248.jpg"
         },
         {
             "cardID": "TLA-249",
@@ -2239,7 +2487,8 @@
             "cardName": "Vindictive Warden",
             "cardText": "Menace\nFirebending 1\n{3}: This creature deals 1 damage to each opponent.",
             "artFileName": "TLA_249",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_249.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_249.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_249.jpg"
         },
         {
             "cardID": "TLA-250",
@@ -2248,7 +2497,8 @@
             "cardName": "Wandering Musicians",
             "cardText": "Whenever this creature attacks, creatures you control get +1/+0 until end of turn.",
             "artFileName": "TLA_250",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_250.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_250.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_250.jpg"
         },
         {
             "cardID": "TLA-251",
@@ -2257,7 +2507,8 @@
             "cardName": "White Lotus Reinforcements",
             "cardText": "Vigilance\nOther Allies you control get +1/+1.",
             "artFileName": "TLA_251",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_251.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_251.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_251.jpg"
         },
         {
             "cardID": "TLA-252",
@@ -2266,7 +2517,8 @@
             "cardName": "Zhao, Ruthless Admiral",
             "cardText": "Firebending 2\nWhenever you sacrifice another permanent, creatures you control get +1/+0 until end of turn.",
             "artFileName": "TLA_252",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_252.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_252.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_252.jpg"
         },
         {
             "cardID": "TLA-253",
@@ -2275,7 +2527,8 @@
             "cardName": "Zuko, Conflicted",
             "cardText": "At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —\n• Draw a card.\n• Put a +1/+1 counter on Zuko.\n• Add {R}.\n• Exile Zuko, then return him to the battlefield under an opponent's control.",
             "artFileName": "TLA_253",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_253.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_253.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_253.jpg"
         },
         {
             "cardID": "TLA-254",
@@ -2284,7 +2537,8 @@
             "cardName": "Barrels of Blasting Jelly",
             "cardText": "{1}: Add one mana of any color. Activate only once each turn.\n{5}, {T}, Sacrifice this artifact: It deals 5 damage to target creature.",
             "artFileName": "TLA_254",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_254.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_254.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_254.jpg"
         },
         {
             "cardID": "TLA-255",
@@ -2293,7 +2547,8 @@
             "cardName": "Bender's Waterskin",
             "cardText": "Untap this artifact during each other player's untap step.\n{T}: Add one mana of any color.",
             "artFileName": "TLA_255",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_255.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_255.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_255.jpg"
         },
         {
             "cardID": "TLA-256",
@@ -2302,7 +2557,8 @@
             "cardName": "Fire Nation Warship",
             "cardText": "Reach\nWhen this Vehicle dies, create a Clue token.\nCrew 2",
             "artFileName": "TLA_256",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_256.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_256.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_256.jpg"
         },
         {
             "cardID": "TLA-257",
@@ -2311,7 +2567,8 @@
             "cardName": "Kyoshi Battle Fan",
             "cardText": "When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.\nEquipped creature gets +1/+0.\nEquip {2}",
             "artFileName": "TLA_257",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_257.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_257.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_257.jpg"
         },
         {
             "cardID": "TLA-258",
@@ -2320,7 +2577,8 @@
             "cardName": "Meteor Sword",
             "cardText": "When this Equipment enters, destroy target permanent.\nEquipped creature gets +3/+3.\nEquip {3}",
             "artFileName": "TLA_258",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_258.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_258.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_258.jpg"
         },
         {
             "cardID": "TLA-259",
@@ -2329,7 +2587,8 @@
             "cardName": "Planetarium of Wan Shi Tong",
             "cardText": "{1}, {T}: Scry 2.\nWhenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn.",
             "artFileName": "TLA_259",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_259.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_259.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_259.jpg"
         },
         {
             "cardID": "TLA-260",
@@ -2338,7 +2597,8 @@
             "cardName": "Trusty Boomerang",
             "cardText": "Equipped creature has \"{1}, {T}: Tap target creature. Return Trusty Boomerang to its owner's hand.\"\nEquip {1}",
             "artFileName": "TLA_260",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_260.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_260.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_260.jpg"
         },
         {
             "cardID": "TLA-261",
@@ -2347,7 +2607,8 @@
             "cardName": "The Walls of Ba Sing Se",
             "cardText": "Defender\nOther permanents you control have indestructible.",
             "artFileName": "TLA_261",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_261.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_261.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_261.jpg"
         },
         {
             "cardID": "TLA-262",
@@ -2356,7 +2617,8 @@
             "cardName": "White Lotus Tile",
             "cardText": "This artifact enters tapped.\n{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.",
             "artFileName": "TLA_262",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_262.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_262.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_262.jpg"
         },
         {
             "cardID": "TLA-263",
@@ -2365,7 +2627,8 @@
             "cardName": "Abandoned Air Temple",
             "cardText": "This land enters tapped unless you control a basic land.\n{T}: Add {W}.\n{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",
             "artFileName": "TLA_263",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_263.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_263.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_263.jpg"
         },
         {
             "cardID": "TLA-264",
@@ -2374,7 +2637,8 @@
             "cardName": "Agna Qel'a",
             "cardText": "This land enters tapped unless you control a basic land.\n{T}: Add {U}.\n{2}{U}, {T}: Draw a card, then discard a card.",
             "artFileName": "TLA_264",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_264.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_264.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_264.jpg"
         },
         {
             "cardID": "TLA-265",
@@ -2383,7 +2647,8 @@
             "cardName": "Airship Engine Room",
             "cardText": "This land enters tapped.\n{T}: Add {U} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_265",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_265.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_265.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_265.jpg"
         },
         {
             "cardID": "TLA-266",
@@ -2392,7 +2657,8 @@
             "cardName": "Ba Sing Se",
             "cardText": "This land enters tapped unless you control a basic land.\n{T}: Add {G}.\n{2}{G}, {T}: Earthbend 2. Activate only as a sorcery.",
             "artFileName": "TLA_266",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_266.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_266.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_266.jpg"
         },
         {
             "cardID": "TLA-267",
@@ -2401,7 +2667,8 @@
             "cardName": "Boiling Rock Prison",
             "cardText": "This land enters tapped.\n{T}: Add {B} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_267",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_267.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_267.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_267.jpg"
         },
         {
             "cardID": "TLA-268",
@@ -2410,7 +2677,8 @@
             "cardName": "Fire Nation Palace",
             "cardText": "This land enters tapped unless you control a basic land.\n{T}: Add {R}.\n{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn.",
             "artFileName": "TLA_268",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_268.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_268.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_268.jpg"
         },
         {
             "cardID": "TLA-269",
@@ -2419,7 +2687,8 @@
             "cardName": "Foggy Bottom Swamp",
             "cardText": "This land enters tapped.\n{T}: Add {B} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_269",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_269.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_269.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_269.jpg"
         },
         {
             "cardID": "TLA-270",
@@ -2428,7 +2697,8 @@
             "cardName": "Jasmine Dragon Tea Shop",
             "cardText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell or activate an ability of an Ally source.\n{5}, {T}: Create a 1/1 white Ally creature token.",
             "artFileName": "TLA_270",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_270.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_270.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_270.jpg"
         },
         {
             "cardID": "TLA-271",
@@ -2437,7 +2707,8 @@
             "cardName": "Kyoshi Village",
             "cardText": "This land enters tapped.\n{T}: Add {G} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_271",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_271.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_271.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_271.jpg"
         },
         {
             "cardID": "TLA-272",
@@ -2446,7 +2717,8 @@
             "cardName": "Meditation Pools",
             "cardText": "This land enters tapped.\n{T}: Add {G} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_272",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_272.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_272.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_272.jpg"
         },
         {
             "cardID": "TLA-273",
@@ -2455,7 +2727,8 @@
             "cardName": "Misty Palms Oasis",
             "cardText": "This land enters tapped.\n{T}: Add {W} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_273",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_273.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_273.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_273.jpg"
         },
         {
             "cardID": "TLA-274",
@@ -2464,7 +2737,8 @@
             "cardName": "North Pole Gates",
             "cardText": "This land enters tapped.\n{T}: Add {W} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_274",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_274.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_274.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_274.jpg"
         },
         {
             "cardID": "TLA-275",
@@ -2473,7 +2747,8 @@
             "cardName": "Omashu City",
             "cardText": "This land enters tapped.\n{T}: Add {R} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_275",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_275.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_275.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_275.jpg"
         },
         {
             "cardID": "TLA-276",
@@ -2482,7 +2757,8 @@
             "cardName": "Realm of Koh",
             "cardText": "This land enters tapped unless you control a basic land.\n{T}: Add {B}.\n{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"",
             "artFileName": "TLA_276",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_276.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_276.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_276.jpg"
         },
         {
             "cardID": "TLA-277",
@@ -2491,7 +2767,8 @@
             "cardName": "Rumble Arena",
             "cardText": "Vigilance\nWhen this land enters, scry 1.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
             "artFileName": "TLA_277",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_277.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_277.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_277.jpg"
         },
         {
             "cardID": "TLA-278",
@@ -2500,7 +2777,8 @@
             "cardName": "Secret Tunnel",
             "cardText": "This land can't be blocked.\n{T}: Add {C}.\n{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",
             "artFileName": "TLA_278",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_278.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_278.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_278.jpg"
         },
         {
             "cardID": "TLA-279",
@@ -2509,7 +2787,8 @@
             "cardName": "Serpent's Pass",
             "cardText": "This land enters tapped.\n{T}: Add {U} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_279",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_279.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_279.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_279.jpg"
         },
         {
             "cardID": "TLA-280",
@@ -2518,7 +2797,8 @@
             "cardName": "Sun-Blessed Peak",
             "cardText": "This land enters tapped.\n{T}: Add {R} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
             "artFileName": "TLA_280",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_280.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_280.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_280.jpg"
         },
         {
             "cardID": "TLA-281",
@@ -2527,7 +2807,8 @@
             "cardName": "White Lotus Hideout",
             "cardText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Lesson or Shrine spell.\n{1}, {T}: Add one mana of any color.",
             "artFileName": "TLA_281",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_281.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_281.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_281.jpg"
         },
         {
             "cardID": "TLA-282",
@@ -2536,7 +2817,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "TLA_282",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_282.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_282.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_282.jpg"
         },
         {
             "cardID": "TLA-283",
@@ -2545,7 +2827,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "TLA_283",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_283.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_283.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_283.jpg"
         },
         {
             "cardID": "TLA-284",
@@ -2554,7 +2837,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "TLA_284",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_284.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_284.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_284.jpg"
         },
         {
             "cardID": "TLA-285",
@@ -2563,7 +2847,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "TLA_285",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_285.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_285.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_285.jpg"
         },
         {
             "cardID": "TLA-286",
@@ -2572,7 +2857,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "TLA_286",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_286.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_286.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_286.jpg"
         },
         {
             "cardID": "TLA-287",
@@ -2581,7 +2867,8 @@
             "cardName": "Plains",
             "cardText": "({T}: Add {W}.)",
             "artFileName": "TLA_287",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_287.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_287.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_287.jpg"
         },
         {
             "cardID": "TLA-288",
@@ -2590,7 +2877,8 @@
             "cardName": "Island",
             "cardText": "({T}: Add {U}.)",
             "artFileName": "TLA_288",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_288.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_288.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_288.jpg"
         },
         {
             "cardID": "TLA-289",
@@ -2599,7 +2887,8 @@
             "cardName": "Swamp",
             "cardText": "({T}: Add {B}.)",
             "artFileName": "TLA_289",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_289.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_289.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_289.jpg"
         },
         {
             "cardID": "TLA-290",
@@ -2608,7 +2897,8 @@
             "cardName": "Mountain",
             "cardText": "({T}: Add {R}.)",
             "artFileName": "TLA_290",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_290.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_290.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_290.jpg"
         },
         {
             "cardID": "TLA-291",
@@ -2617,7 +2907,8 @@
             "cardName": "Forest",
             "cardText": "({T}: Add {G}.)",
             "artFileName": "TLA_291",
-            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_291.jpg"
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/TLA/TLA_291.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/TLA/TLA_291.jpg"
         }
     ]
 }
