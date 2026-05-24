@@ -1,0 +1,2764 @@
+{
+    "cards": [
+        {
+            "cardID": "EOE-001",
+            "setCode": "EOE",
+            "cardNumber": 1,
+            "cardName": "Anticausal Vestige",
+            "cardText": "When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.\nWarp {4}",
+            "artFileName": "EOE_001",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_001.jpg"
+        },
+        {
+            "cardID": "EOE-002",
+            "setCode": "EOE",
+            "cardNumber": 2,
+            "cardName": "Tezzeret, Cruel Captain",
+            "cardText": "Whenever an artifact you control enters, put a loyalty counter on Tezzeret.\n0: Untap target artifact or creature. If it's an artifact creature, put a +1/+1 counter on it.\n−3: Search your library for an artifact card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\n−7: You get an emblem with \"At the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Robot artifact creature.\"",
+            "artFileName": "EOE_002",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_002.jpg"
+        },
+        {
+            "cardID": "EOE-003",
+            "setCode": "EOE",
+            "cardNumber": 3,
+            "cardName": "All-Fates Stalker",
+            "cardText": "When this creature enters, exile up to one target non-Assassin creature until this creature leaves the battlefield.\nWarp {1}{W}",
+            "artFileName": "EOE_003",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_003.jpg"
+        },
+        {
+            "cardID": "EOE-004",
+            "setCode": "EOE",
+            "cardNumber": 4,
+            "cardName": "Astelli Reclaimer",
+            "cardText": "Flying\nWhen this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.\nWarp {2}{W}",
+            "artFileName": "EOE_004",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_004.jpg"
+        },
+        {
+            "cardID": "EOE-005",
+            "setCode": "EOE",
+            "cardNumber": 5,
+            "cardName": "Auxiliary Boosters",
+            "cardText": "When this Equipment enters, create a 2/2 colorless Robot artifact creature token and attach this Equipment to it.\nEquipped creature gets +1/+2 and has flying.\nEquip {3}",
+            "artFileName": "EOE_005",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_005.jpg"
+        },
+        {
+            "cardID": "EOE-006",
+            "setCode": "EOE",
+            "cardNumber": 6,
+            "cardName": "Banishing Light",
+            "cardText": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
+            "artFileName": "EOE_006",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_006.jpg"
+        },
+        {
+            "cardID": "EOE-007",
+            "setCode": "EOE",
+            "cardNumber": 7,
+            "cardName": "Beyond the Quiet",
+            "cardText": "Exile all creatures and Spacecraft.",
+            "artFileName": "EOE_007",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_007.jpg"
+        },
+        {
+            "cardID": "EOE-008",
+            "setCode": "EOE",
+            "cardNumber": 8,
+            "cardName": "Brightspear Zealot",
+            "cardText": "Vigilance\nThis creature gets +2/+0 as long as you've cast two or more spells this turn.",
+            "artFileName": "EOE_008",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_008.jpg"
+        },
+        {
+            "cardID": "EOE-009",
+            "setCode": "EOE",
+            "cardNumber": 9,
+            "cardName": "Cosmogrand Zenith",
+            "cardText": "Whenever you cast your second spell each turn, choose one —\n• Create two 1/1 white Human Soldier creature tokens.\n• Put a +1/+1 counter on each creature you control.",
+            "artFileName": "EOE_009",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_009.jpg"
+        },
+        {
+            "cardID": "EOE-010",
+            "setCode": "EOE",
+            "cardNumber": 10,
+            "cardName": "Dawnstrike Vanguard",
+            "cardText": "Lifelink\nAt the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on each creature you control other than this creature.",
+            "artFileName": "EOE_010",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_010.jpg"
+        },
+        {
+            "cardID": "EOE-011",
+            "setCode": "EOE",
+            "cardNumber": 11,
+            "cardName": "Dockworker Drone",
+            "cardText": "This creature enters with a +1/+1 counter on it.\nWhen this creature dies, put its counters on target creature you control.",
+            "artFileName": "EOE_011",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_011.jpg"
+        },
+        {
+            "cardID": "EOE-012",
+            "setCode": "EOE",
+            "cardNumber": 12,
+            "cardName": "Dual-Sun Adepts",
+            "cardText": "Double strike\n{5}: Creatures you control get +1/+1 until end of turn.",
+            "artFileName": "EOE_012",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_012.jpg"
+        },
+        {
+            "cardID": "EOE-013",
+            "setCode": "EOE",
+            "cardNumber": 13,
+            "cardName": "Dual-Sun Technique",
+            "cardText": "Target creature you control gains double strike until end of turn. If it has a +1/+1 counter on it, draw a card.",
+            "artFileName": "EOE_013",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_013.jpg"
+        },
+        {
+            "cardID": "EOE-014",
+            "setCode": "EOE",
+            "cardNumber": 14,
+            "cardName": "Emergency Eject",
+            "cardText": "Destroy target nonland permanent. Its controller creates a Lander token.",
+            "artFileName": "EOE_014",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_014.jpg"
+        },
+        {
+            "cardID": "EOE-015",
+            "setCode": "EOE",
+            "cardNumber": 15,
+            "cardName": "Exalted Sunborn",
+            "cardText": "Flying, lifelink\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.\nWarp {1}{W}",
+            "artFileName": "EOE_015",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_015.jpg"
+        },
+        {
+            "cardID": "EOE-016",
+            "setCode": "EOE",
+            "cardNumber": 16,
+            "cardName": "Exosuit Savior",
+            "cardText": "Flying\nWhen this creature enters, return up to one other target permanent you control to its owner's hand.",
+            "artFileName": "EOE_016",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_016.jpg"
+        },
+        {
+            "cardID": "EOE-017",
+            "setCode": "EOE",
+            "cardNumber": 17,
+            "cardName": "Flight-Deck Coordinator",
+            "cardText": "At the beginning of your end step, if you control two or more tapped creatures, you gain 2 life.",
+            "artFileName": "EOE_017",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_017.jpg"
+        },
+        {
+            "cardID": "EOE-018",
+            "setCode": "EOE",
+            "cardNumber": 18,
+            "cardName": "Focus Fire",
+            "cardText": "Focus Fire deals X damage to target attacking or blocking creature, where X is 2 plus the number of creatures and/or Spacecraft you control.",
+            "artFileName": "EOE_018",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_018.jpg"
+        },
+        {
+            "cardID": "EOE-019",
+            "setCode": "EOE",
+            "cardNumber": 19,
+            "cardName": "Haliya, Guided by Light",
+            "cardText": "Whenever Haliya or another creature or artifact you control enters, you gain 1 life.\nAt the beginning of your end step, draw a card if you've gained 3 or more life this turn.\nWarp {W}",
+            "artFileName": "EOE_019",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_019.jpg"
+        },
+        {
+            "cardID": "EOE-020",
+            "setCode": "EOE",
+            "cardNumber": 20,
+            "cardName": "Hardlight Containment",
+            "cardText": "Enchant artifact you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.\nEnchanted permanent has ward {1}.",
+            "artFileName": "EOE_020",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_020.jpg"
+        },
+        {
+            "cardID": "EOE-021",
+            "setCode": "EOE",
+            "cardNumber": 21,
+            "cardName": "Honor",
+            "cardText": "Put a +1/+1 counter on target creature.\nDraw a card.",
+            "artFileName": "EOE_021",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_021.jpg"
+        },
+        {
+            "cardID": "EOE-022",
+            "setCode": "EOE",
+            "cardNumber": 22,
+            "cardName": "Honored Knight-Captain",
+            "cardText": "When this creature enters, create a 1/1 white Human Soldier creature token.\n{4}{W}{W}, Sacrifice this creature: Search your library for an Equipment card, put it onto the battlefield, then shuffle.",
+            "artFileName": "EOE_022",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_022.jpg"
+        },
+        {
+            "cardID": "EOE-023",
+            "setCode": "EOE",
+            "cardNumber": 23,
+            "cardName": "Knight Luminary",
+            "cardText": "When this creature enters, create a 1/1 white Human Soldier creature token.\nWarp {1}{W}",
+            "artFileName": "EOE_023",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_023.jpg"
+        },
+        {
+            "cardID": "EOE-024",
+            "setCode": "EOE",
+            "cardNumber": 24,
+            "cardName": "Lightstall Inquisitor",
+            "cardText": "Vigilance\nWhen this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",
+            "artFileName": "EOE_024",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_024.jpg"
+        },
+        {
+            "cardID": "EOE-025",
+            "setCode": "EOE",
+            "cardNumber": 25,
+            "cardName": "Lumen-Class Frigate",
+            "cardText": "Station\n2+ | Other creatures you control get +1/+1.\n12+ | Flying, lifelink",
+            "artFileName": "EOE_025",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_025.jpg"
+        },
+        {
+            "cardID": "EOE-026",
+            "setCode": "EOE",
+            "cardNumber": 26,
+            "cardName": "Luxknight Breacher",
+            "cardText": "This creature enters with a +1/+1 counter on it for each other creature and/or artifact you control.",
+            "artFileName": "EOE_026",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_026.jpg"
+        },
+        {
+            "cardID": "EOE-027",
+            "setCode": "EOE",
+            "cardNumber": 27,
+            "cardName": "Pinnacle Starcage",
+            "cardText": "When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.\n{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",
+            "artFileName": "EOE_027",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_027.jpg"
+        },
+        {
+            "cardID": "EOE-028",
+            "setCode": "EOE",
+            "cardNumber": 28,
+            "cardName": "Pulsar Squadron Ace",
+            "cardText": "When this creature enters, look at the top five cards of your library. You may reveal a Spacecraft card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_028",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_028.jpg"
+        },
+        {
+            "cardID": "EOE-029",
+            "setCode": "EOE",
+            "cardNumber": 29,
+            "cardName": "Radiant Strike",
+            "cardText": "Destroy target artifact or tapped creature. You gain 3 life.",
+            "artFileName": "EOE_029",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_029.jpg"
+        },
+        {
+            "cardID": "EOE-030",
+            "setCode": "EOE",
+            "cardNumber": 30,
+            "cardName": "Rayblade Trooper",
+            "cardText": "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever a nontoken creature you control with a +1/+1 counter on it dies, create a 1/1 white Human Soldier creature token.\nWarp {1}{W}",
+            "artFileName": "EOE_030",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_030.jpg"
+        },
+        {
+            "cardID": "EOE-031",
+            "setCode": "EOE",
+            "cardNumber": 31,
+            "cardName": "Reroute Systems",
+            "cardText": "Choose one —\n• Target artifact or creature gains indestructible until end of turn.\n• Reroute Systems deals 2 damage to target tapped creature.",
+            "artFileName": "EOE_031",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_031.jpg"
+        },
+        {
+            "cardID": "EOE-032",
+            "setCode": "EOE",
+            "cardNumber": 32,
+            "cardName": "Rescue Skiff",
+            "cardText": "When this Spacecraft enters, return target creature or enchantment card from your graveyard to the battlefield.\nStation\n10+ | Flying",
+            "artFileName": "EOE_032",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_032.jpg"
+        },
+        {
+            "cardID": "EOE-033",
+            "setCode": "EOE",
+            "cardNumber": 33,
+            "cardName": "Scout for Survivors",
+            "cardText": "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them.",
+            "artFileName": "EOE_033",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_033.jpg"
+        },
+        {
+            "cardID": "EOE-034",
+            "setCode": "EOE",
+            "cardNumber": 34,
+            "cardName": "Seam Rip",
+            "cardText": "When this enchantment enters, exile target nonland permanent an opponent controls with mana value 2 or less until this enchantment leaves the battlefield.",
+            "artFileName": "EOE_034",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_034.jpg"
+        },
+        {
+            "cardID": "EOE-035",
+            "setCode": "EOE",
+            "cardNumber": 35,
+            "cardName": "The Seriema",
+            "cardText": "When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.\nStation\n7+ | Flying\nOther tapped legendary creatures you control have indestructible.",
+            "artFileName": "EOE_035",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_035.jpg"
+        },
+        {
+            "cardID": "EOE-036",
+            "setCode": "EOE",
+            "cardNumber": 36,
+            "cardName": "Squire's Lightblade",
+            "cardText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.\nEquipped creature gets +1/+0.\nEquip {3}",
+            "artFileName": "EOE_036",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_036.jpg"
+        },
+        {
+            "cardID": "EOE-037",
+            "setCode": "EOE",
+            "cardNumber": 37,
+            "cardName": "Starfield Shepherd",
+            "cardText": "Flying\nWhen this creature enters, search your library for a basic Plains card or a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nWarp {1}{W}",
+            "artFileName": "EOE_037",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_037.jpg"
+        },
+        {
+            "cardID": "EOE-038",
+            "setCode": "EOE",
+            "cardNumber": 38,
+            "cardName": "Starfighter Pilot",
+            "cardText": "Whenever this creature becomes tapped, surveil 1.",
+            "artFileName": "EOE_038",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_038.jpg"
+        },
+        {
+            "cardID": "EOE-039",
+            "setCode": "EOE",
+            "cardNumber": 39,
+            "cardName": "Starport Security",
+            "cardText": "{3}{W}, {T}: Tap another target creature. This ability costs {2} less to activate if you control a creature with a +1/+1 counter on it.",
+            "artFileName": "EOE_039",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_039.jpg"
+        },
+        {
+            "cardID": "EOE-040",
+            "setCode": "EOE",
+            "cardNumber": 40,
+            "cardName": "Sunstar Chaplain",
+            "cardText": "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on target creature you control.\n{2}, Remove a +1/+1 counter from a creature you control: Tap target artifact or creature.",
+            "artFileName": "EOE_040",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_040.jpg"
+        },
+        {
+            "cardID": "EOE-041",
+            "setCode": "EOE",
+            "cardNumber": 41,
+            "cardName": "Sunstar Expansionist",
+            "cardText": "When this creature enters, if an opponent controls more lands than you, create a Lander token.\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+            "artFileName": "EOE_041",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_041.jpg"
+        },
+        {
+            "cardID": "EOE-042",
+            "setCode": "EOE",
+            "cardNumber": 42,
+            "cardName": "Sunstar Lightsmith",
+            "cardText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature and draw a card.",
+            "artFileName": "EOE_042",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_042.jpg"
+        },
+        {
+            "cardID": "EOE-043",
+            "setCode": "EOE",
+            "cardNumber": 43,
+            "cardName": "Wedgelight Rammer",
+            "cardText": "When this Spacecraft enters, create a 2/2 colorless Robot artifact creature token.\nStation\n9+ | Flying, first strike",
+            "artFileName": "EOE_043",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_043.jpg"
+        },
+        {
+            "cardID": "EOE-044",
+            "setCode": "EOE",
+            "cardNumber": 44,
+            "cardName": "Weftblade Enhancer",
+            "cardText": "When this creature enters, put a +1/+1 counter on each of up to two target creatures.\nWarp {2}{W}",
+            "artFileName": "EOE_044",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_044.jpg"
+        },
+        {
+            "cardID": "EOE-045",
+            "setCode": "EOE",
+            "cardNumber": 45,
+            "cardName": "Zealous Display",
+            "cardText": "Creatures you control get +2/+0 until end of turn. If it's not your turn, untap those creatures.",
+            "artFileName": "EOE_045",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_045.jpg"
+        },
+        {
+            "cardID": "EOE-046",
+            "setCode": "EOE",
+            "cardNumber": 46,
+            "cardName": "Annul",
+            "cardText": "Counter target artifact or enchantment spell.",
+            "artFileName": "EOE_046",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_046.jpg"
+        },
+        {
+            "cardID": "EOE-047",
+            "setCode": "EOE",
+            "cardNumber": 47,
+            "cardName": "Atomic Microsizer",
+            "cardText": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, choose up to one target creature. That creature can't be blocked this turn and has base power and toughness 1/1 until end of turn.\nEquip {2}",
+            "artFileName": "EOE_047",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_047.jpg"
+        },
+        {
+            "cardID": "EOE-048",
+            "setCode": "EOE",
+            "cardNumber": 48,
+            "cardName": "Cerebral Download",
+            "cardText": "Surveil X, where X is the number of artifacts you control. Then draw three cards.",
+            "artFileName": "EOE_048",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_048.jpg"
+        },
+        {
+            "cardID": "EOE-049",
+            "setCode": "EOE",
+            "cardNumber": 49,
+            "cardName": "Cloudsculpt Technician",
+            "cardText": "Flying\nAs long as you control an artifact, this creature gets +1/+0.",
+            "artFileName": "EOE_049",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_049.jpg"
+        },
+        {
+            "cardID": "EOE-050",
+            "setCode": "EOE",
+            "cardNumber": 50,
+            "cardName": "Codecracker Hound",
+            "cardText": "When this creature enters, look at the top two cards of your library. Put one into your hand and the other into your graveyard.\nWarp {2}{U}",
+            "artFileName": "EOE_050",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_050.jpg"
+        },
+        {
+            "cardID": "EOE-051",
+            "setCode": "EOE",
+            "cardNumber": 51,
+            "cardName": "Consult the Star Charts",
+            "cardText": "Kicker {1}{U}\nLook at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",
+            "artFileName": "EOE_051",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_051.jpg"
+        },
+        {
+            "cardID": "EOE-052",
+            "setCode": "EOE",
+            "cardNumber": 52,
+            "cardName": "Cryogen Relic",
+            "cardText": "When this artifact enters or leaves the battlefield, draw a card.\n{1}{U}, Sacrifice this artifact: Put a stun counter on up to one target tapped creature.",
+            "artFileName": "EOE_052",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_052.jpg"
+        },
+        {
+            "cardID": "EOE-053",
+            "setCode": "EOE",
+            "cardNumber": 53,
+            "cardName": "Cryoshatter",
+            "cardText": "Enchant creature\nEnchanted creature gets -5/-0.\nWhen enchanted creature becomes tapped or is dealt damage, destroy it.",
+            "artFileName": "EOE_053",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_053.jpg"
+        },
+        {
+            "cardID": "EOE-054",
+            "setCode": "EOE",
+            "cardNumber": 54,
+            "cardName": "Desculpting Blast",
+            "cardText": "Return target nonland permanent to its owner's hand. If it was attacking, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"",
+            "artFileName": "EOE_054",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_054.jpg"
+        },
+        {
+            "cardID": "EOE-055",
+            "setCode": "EOE",
+            "cardNumber": 55,
+            "cardName": "Divert Disaster",
+            "cardText": "Counter target spell unless its controller pays {2}. If they do, you create a Lander token.",
+            "artFileName": "EOE_055",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_055.jpg"
+        },
+        {
+            "cardID": "EOE-056",
+            "setCode": "EOE",
+            "cardNumber": 56,
+            "cardName": "Emissary Escort",
+            "cardText": "This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",
+            "artFileName": "EOE_056",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_056.jpg"
+        },
+        {
+            "cardID": "EOE-057",
+            "setCode": "EOE",
+            "cardNumber": 57,
+            "cardName": "Gigastorm Titan",
+            "cardText": "This spell costs {3} less to cast if you've cast another spell this turn.",
+            "artFileName": "EOE_057",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_057.jpg"
+        },
+        {
+            "cardID": "EOE-058",
+            "setCode": "EOE",
+            "cardNumber": 58,
+            "cardName": "Illvoi Galeblade",
+            "cardText": "Flash\nFlying\n{2}, Sacrifice this creature: Draw a card.",
+            "artFileName": "EOE_058",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_058.jpg"
+        },
+        {
+            "cardID": "EOE-059",
+            "setCode": "EOE",
+            "cardNumber": 59,
+            "cardName": "Illvoi Infiltrator",
+            "cardText": "This creature can't be blocked if you've cast two or more spells this turn.\nWhenever this creature deals combat damage to a player, draw a card.",
+            "artFileName": "EOE_059",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_059.jpg"
+        },
+        {
+            "cardID": "EOE-060",
+            "setCode": "EOE",
+            "cardNumber": 60,
+            "cardName": "Illvoi Light Jammer",
+            "cardText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains hexproof until end of turn.\nEquipped creature gets +1/+2.\nEquip {3}",
+            "artFileName": "EOE_060",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_060.jpg"
+        },
+        {
+            "cardID": "EOE-061",
+            "setCode": "EOE",
+            "cardNumber": 61,
+            "cardName": "Illvoi Operative",
+            "cardText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_061",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_061.jpg"
+        },
+        {
+            "cardID": "EOE-062",
+            "setCode": "EOE",
+            "cardNumber": 62,
+            "cardName": "Lost in Space",
+            "cardText": "Target artifact or creature's owner puts it on their choice of the top or bottom of their library. Surveil 1.",
+            "artFileName": "EOE_062",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_062.jpg"
+        },
+        {
+            "cardID": "EOE-063",
+            "setCode": "EOE",
+            "cardNumber": 63,
+            "cardName": "Mechan Assembler",
+            "cardText": "Whenever another artifact you control enters, create a 2/2 colorless Robot artifact creature token. This ability triggers only once each turn.",
+            "artFileName": "EOE_063",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_063.jpg"
+        },
+        {
+            "cardID": "EOE-064",
+            "setCode": "EOE",
+            "cardNumber": 64,
+            "cardName": "Mechan Navigator",
+            "cardText": "Whenever this creature becomes tapped, draw a card, then discard a card.",
+            "artFileName": "EOE_064",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_064.jpg"
+        },
+        {
+            "cardID": "EOE-065",
+            "setCode": "EOE",
+            "cardNumber": 65,
+            "cardName": "Mechan Shieldmate",
+            "cardText": "Defender\nAs long as an artifact entered the battlefield under your control this turn, this creature can attack as though it didn't have defender.",
+            "artFileName": "EOE_065",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_065.jpg"
+        },
+        {
+            "cardID": "EOE-066",
+            "setCode": "EOE",
+            "cardNumber": 66,
+            "cardName": "Mechanozoa",
+            "cardText": "When this creature enters, tap target artifact or creature an opponent controls and put a stun counter on it.\nWarp {2}{U}",
+            "artFileName": "EOE_066",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_066.jpg"
+        },
+        {
+            "cardID": "EOE-067",
+            "setCode": "EOE",
+            "cardNumber": 67,
+            "cardName": "Mental Modulation",
+            "cardText": "This spell costs {1} less to cast during your turn.\nTap target artifact or creature.\nDraw a card.",
+            "artFileName": "EOE_067",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_067.jpg"
+        },
+        {
+            "cardID": "EOE-068",
+            "setCode": "EOE",
+            "cardNumber": 68,
+            "cardName": "Mm'menon, the Right Hand",
+            "cardText": "Flying\nYou may look at the top card of your library any time.\nYou may cast artifact spells from the top of your library.\nArtifacts you control have \"{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.\"",
+            "artFileName": "EOE_068",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_068.jpg"
+        },
+        {
+            "cardID": "EOE-069",
+            "setCode": "EOE",
+            "cardNumber": 69,
+            "cardName": "Moonlit Meditation",
+            "cardText": "Enchant artifact or creature you control\nThe first time you would create one or more tokens each turn, you may instead create that many tokens that are copies of enchanted permanent.",
+            "artFileName": "EOE_069",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_069.jpg"
+        },
+        {
+            "cardID": "EOE-070",
+            "setCode": "EOE",
+            "cardNumber": 70,
+            "cardName": "Mouth of the Storm",
+            "cardText": "Flying\nWard {2}\nWhen this creature enters, creatures your opponents control get -3/-0 until your next turn.",
+            "artFileName": "EOE_070",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_070.jpg"
+        },
+        {
+            "cardID": "EOE-071",
+            "setCode": "EOE",
+            "cardNumber": 71,
+            "cardName": "Nanoform Sentinel",
+            "cardText": "Whenever this creature becomes tapped, untap another target permanent. This ability triggers only once each turn.",
+            "artFileName": "EOE_071",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_071.jpg"
+        },
+        {
+            "cardID": "EOE-072",
+            "setCode": "EOE",
+            "cardNumber": 72,
+            "cardName": "Quantum Riddler",
+            "cardText": "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}",
+            "artFileName": "EOE_072",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_072.jpg"
+        },
+        {
+            "cardID": "EOE-073",
+            "setCode": "EOE",
+            "cardNumber": 73,
+            "cardName": "Scour for Scrap",
+            "cardText": "Choose one or both —\n• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.\n• Return target artifact card from your graveyard to your hand.",
+            "artFileName": "EOE_073",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_073.jpg"
+        },
+        {
+            "cardID": "EOE-074",
+            "setCode": "EOE",
+            "cardNumber": 74,
+            "cardName": "Selfcraft Mechan",
+            "cardText": "When this creature enters, you may sacrifice an artifact. When you do, put a +1/+1 counter on target creature and draw a card.",
+            "artFileName": "EOE_074",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_074.jpg"
+        },
+        {
+            "cardID": "EOE-075",
+            "setCode": "EOE",
+            "cardNumber": 75,
+            "cardName": "Sinister Cryologist",
+            "cardText": "When this creature enters, target creature an opponent controls gets -3/-0 until end of turn.\nWarp {U}",
+            "artFileName": "EOE_075",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_075.jpg"
+        },
+        {
+            "cardID": "EOE-076",
+            "setCode": "EOE",
+            "cardNumber": 76,
+            "cardName": "Specimen Freighter",
+            "cardText": "When this Spacecraft enters, return up to two target non-Spacecraft creatures to their owners' hands.\nStation\n9+ | Flying\nWhenever this Spacecraft attacks, defending player mills four cards.",
+            "artFileName": "EOE_076",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_076.jpg"
+        },
+        {
+            "cardID": "EOE-077",
+            "setCode": "EOE",
+            "cardNumber": 77,
+            "cardName": "Starbreach Whale",
+            "cardText": "Flying\nWhen this creature enters, surveil 2.\nWarp {1}{U}",
+            "artFileName": "EOE_077",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_077.jpg"
+        },
+        {
+            "cardID": "EOE-078",
+            "setCode": "EOE",
+            "cardNumber": 78,
+            "cardName": "Starfield Vocalist",
+            "cardText": "If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nWarp {1}{U}",
+            "artFileName": "EOE_078",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_078.jpg"
+        },
+        {
+            "cardID": "EOE-079",
+            "setCode": "EOE",
+            "cardNumber": 79,
+            "cardName": "Starwinder",
+            "cardText": "Whenever a creature you control deals combat damage to a player, you may draw that many cards.\nWarp {2}{U}{U}",
+            "artFileName": "EOE_079",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_079.jpg"
+        },
+        {
+            "cardID": "EOE-080",
+            "setCode": "EOE",
+            "cardNumber": 80,
+            "cardName": "Steelswarm Operator",
+            "cardText": "Flying\n{T}: Add {U}. Spend this mana only to cast an artifact spell.\n{T}: Add {U}{U}. Spend this mana only to activate abilities of artifact sources.",
+            "artFileName": "EOE_080",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_080.jpg"
+        },
+        {
+            "cardID": "EOE-081",
+            "setCode": "EOE",
+            "cardNumber": 81,
+            "cardName": "Synthesizer Labship",
+            "cardText": "Station\n2+ | At the beginning of combat on your turn, up to one other target artifact you control becomes an artifact creature with base power and toughness 2/2 and gains flying until end of turn.\n9+ | Flying, vigilance",
+            "artFileName": "EOE_081",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_081.jpg"
+        },
+        {
+            "cardID": "EOE-082",
+            "setCode": "EOE",
+            "cardNumber": 82,
+            "cardName": "Tractor Beam",
+            "cardText": "Enchant creature or Spacecraft\nWhen this Aura enters, tap enchanted permanent.\nYou control enchanted permanent.\nEnchanted permanent doesn't untap during its controller's untap step.",
+            "artFileName": "EOE_082",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_082.jpg"
+        },
+        {
+            "cardID": "EOE-083",
+            "setCode": "EOE",
+            "cardNumber": 83,
+            "cardName": "Unravel",
+            "cardText": "Counter target spell. If the amount of mana spent to cast that spell was less than its mana value, you draw a card.",
+            "artFileName": "EOE_083",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_083.jpg"
+        },
+        {
+            "cardID": "EOE-084",
+            "setCode": "EOE",
+            "cardNumber": 84,
+            "cardName": "Uthros Psionicist",
+            "cardText": "The second spell you cast each turn costs {2} less to cast.",
+            "artFileName": "EOE_084",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_084.jpg"
+        },
+        {
+            "cardID": "EOE-085",
+            "setCode": "EOE",
+            "cardNumber": 85,
+            "cardName": "Uthros Scanship",
+            "cardText": "When this Spacecraft enters, draw two cards, then discard a card.\nStation\n8+ | Flying",
+            "artFileName": "EOE_085",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_085.jpg"
+        },
+        {
+            "cardID": "EOE-086",
+            "setCode": "EOE",
+            "cardNumber": 86,
+            "cardName": "Weftwalking",
+            "cardText": "When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.\nThe first spell each player casts during each of their turns may be cast without paying its mana cost.",
+            "artFileName": "EOE_086",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_086.jpg"
+        },
+        {
+            "cardID": "EOE-087",
+            "setCode": "EOE",
+            "cardNumber": 87,
+            "cardName": "Alpharael, Stonechosen",
+            "cardText": "Ward—Discard a card at random.\nVoid — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",
+            "artFileName": "EOE_087",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_087.jpg"
+        },
+        {
+            "cardID": "EOE-088",
+            "setCode": "EOE",
+            "cardNumber": 88,
+            "cardName": "Archenemy's Charm",
+            "cardText": "Choose one —\n• Exile target creature or planeswalker.\n• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.\n• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",
+            "artFileName": "EOE_088",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_088.jpg"
+        },
+        {
+            "cardID": "EOE-089",
+            "setCode": "EOE",
+            "cardNumber": 89,
+            "cardName": "Beamsaw Prospector",
+            "cardText": "When this creature dies, create a Lander token.",
+            "artFileName": "EOE_089",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_089.jpg"
+        },
+        {
+            "cardID": "EOE-090",
+            "setCode": "EOE",
+            "cardNumber": 90,
+            "cardName": "Blade of the Swarm",
+            "cardText": "When this creature enters, choose one —\n• Put two +1/+1 counters on this creature.\n• Put target exiled card with warp on the bottom of its owner's library.",
+            "artFileName": "EOE_090",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_090.jpg"
+        },
+        {
+            "cardID": "EOE-091",
+            "setCode": "EOE",
+            "cardNumber": 91,
+            "cardName": "Chorale of the Void",
+            "cardText": "Enchant creature you control\nWhenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.\nVoid — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+            "artFileName": "EOE_091",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_091.jpg"
+        },
+        {
+            "cardID": "EOE-092",
+            "setCode": "EOE",
+            "cardNumber": 92,
+            "cardName": "Comet Crawler",
+            "cardText": "Lifelink\nWhenever this creature attacks, you may sacrifice another creature or artifact. If you do, this creature gets +2/+0 until end of turn.",
+            "artFileName": "EOE_092",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_092.jpg"
+        },
+        {
+            "cardID": "EOE-093",
+            "setCode": "EOE",
+            "cardNumber": 93,
+            "cardName": "Dark Endurance",
+            "cardText": "This spell costs {1} less to cast if it targets a blocking creature.\nTarget creature gets +2/+0 and gains indestructible until end of turn.",
+            "artFileName": "EOE_093",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_093.jpg"
+        },
+        {
+            "cardID": "EOE-094",
+            "setCode": "EOE",
+            "cardNumber": 94,
+            "cardName": "Decode Transmissions",
+            "cardText": "You draw two cards and lose 2 life.\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead you draw two cards and each opponent loses 2 life.",
+            "artFileName": "EOE_094",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_094.jpg"
+        },
+        {
+            "cardID": "EOE-095",
+            "setCode": "EOE",
+            "cardNumber": 95,
+            "cardName": "Depressurize",
+            "cardText": "Target creature gets -3/-0 until end of turn. Then if that creature's power is 0 or less, destroy it.",
+            "artFileName": "EOE_095",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_095.jpg"
+        },
+        {
+            "cardID": "EOE-096",
+            "setCode": "EOE",
+            "cardNumber": 96,
+            "cardName": "Dubious Delicacy",
+            "cardText": "Flash\nWhen this artifact enters, up to one target creature gets -3/-3 until end of turn.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\n{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.",
+            "artFileName": "EOE_096",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_096.jpg"
+        },
+        {
+            "cardID": "EOE-097",
+            "setCode": "EOE",
+            "cardNumber": 97,
+            "cardName": "Elegy Acolyte",
+            "cardText": "Lifelink\nWhenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_097",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_097.jpg"
+        },
+        {
+            "cardID": "EOE-098",
+            "setCode": "EOE",
+            "cardNumber": 98,
+            "cardName": "Embrace Oblivion",
+            "cardText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDestroy target creature or Spacecraft.",
+            "artFileName": "EOE_098",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_098.jpg"
+        },
+        {
+            "cardID": "EOE-099",
+            "setCode": "EOE",
+            "cardNumber": 99,
+            "cardName": "Entropic Battlecruiser",
+            "cardText": "Station\n1+ | Whenever an opponent discards a card, they lose 3 life.\n8+ | Flying, deathtouch\nWhenever this Spacecraft attacks, each opponent discards a card. Each opponent who can't loses 3 life.",
+            "artFileName": "EOE_099",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_099.jpg"
+        },
+        {
+            "cardID": "EOE-100",
+            "setCode": "EOE",
+            "cardNumber": 100,
+            "cardName": "Faller's Faithful",
+            "cardText": "When this creature enters, destroy up to one other target creature. If that creature wasn't dealt damage this turn, its controller draws two cards.",
+            "artFileName": "EOE_100",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_100.jpg"
+        },
+        {
+            "cardID": "EOE-101",
+            "setCode": "EOE",
+            "cardNumber": 101,
+            "cardName": "Fell Gravship",
+            "cardText": "When this Spacecraft enters, mill three cards, then return a creature or Spacecraft card from your graveyard to your hand.\nStation\n8+ | Flying, lifelink",
+            "artFileName": "EOE_101",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_101.jpg"
+        },
+        {
+            "cardID": "EOE-102",
+            "setCode": "EOE",
+            "cardNumber": 102,
+            "cardName": "Gravblade Heavy",
+            "cardText": "As long as you control an artifact, this creature gets +1/+0 and has deathtouch.",
+            "artFileName": "EOE_102",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_102.jpg"
+        },
+        {
+            "cardID": "EOE-103",
+            "setCode": "EOE",
+            "cardNumber": 103,
+            "cardName": "Gravkill",
+            "cardText": "Exile target creature or Spacecraft.",
+            "artFileName": "EOE_103",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_103.jpg"
+        },
+        {
+            "cardID": "EOE-104",
+            "setCode": "EOE",
+            "cardNumber": 104,
+            "cardName": "Gravpack Monoist",
+            "cardText": "Flying\nWhen this creature dies, create a tapped 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_104",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_104.jpg"
+        },
+        {
+            "cardID": "EOE-105",
+            "setCode": "EOE",
+            "cardNumber": 105,
+            "cardName": "Hullcarver",
+            "cardText": "Deathtouch",
+            "artFileName": "EOE_105",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_105.jpg"
+        },
+        {
+            "cardID": "EOE-106",
+            "setCode": "EOE",
+            "cardNumber": 106,
+            "cardName": "Hylderblade",
+            "cardText": "Equipped creature gets +3/+1.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, attach this Equipment to target creature you control.\nEquip {4}",
+            "artFileName": "EOE_106",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_106.jpg"
+        },
+        {
+            "cardID": "EOE-107",
+            "setCode": "EOE",
+            "cardNumber": 107,
+            "cardName": "Hymn of the Faller",
+            "cardText": "Surveil 1, then you draw a card and lose 1 life.\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, draw another card.",
+            "artFileName": "EOE_107",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_107.jpg"
+        },
+        {
+            "cardID": "EOE-108",
+            "setCode": "EOE",
+            "cardNumber": 108,
+            "cardName": "Insatiable Skittermaw",
+            "cardText": "Menace\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_108",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_108.jpg"
+        },
+        {
+            "cardID": "EOE-109",
+            "setCode": "EOE",
+            "cardNumber": 109,
+            "cardName": "Lightless Evangel",
+            "cardText": "Whenever you sacrifice another creature or artifact, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_109",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_109.jpg"
+        },
+        {
+            "cardID": "EOE-110",
+            "setCode": "EOE",
+            "cardNumber": 110,
+            "cardName": "Monoist Circuit-Feeder",
+            "cardText": "Flying\nWhen this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of artifacts you control.",
+            "artFileName": "EOE_110",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_110.jpg"
+        },
+        {
+            "cardID": "EOE-111",
+            "setCode": "EOE",
+            "cardNumber": 111,
+            "cardName": "Monoist Sentry",
+            "cardText": "Defender",
+            "artFileName": "EOE_111",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_111.jpg"
+        },
+        {
+            "cardID": "EOE-112",
+            "setCode": "EOE",
+            "cardNumber": 112,
+            "cardName": "Perigee Beckoner",
+            "cardText": "When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"\nWarp {1}{B}",
+            "artFileName": "EOE_112",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_112.jpg"
+        },
+        {
+            "cardID": "EOE-113",
+            "setCode": "EOE",
+            "cardNumber": 113,
+            "cardName": "Requiem Monolith",
+            "cardText": "{T}: Until end of turn, target creature gains \"Whenever this creature is dealt damage, you draw that many cards and lose that much life.\" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",
+            "artFileName": "EOE_113",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_113.jpg"
+        },
+        {
+            "cardID": "EOE-114",
+            "setCode": "EOE",
+            "cardNumber": 114,
+            "cardName": "Scrounge for Eternity",
+            "cardText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nReturn target creature or Spacecraft card with mana value 5 or less from your graveyard to the battlefield. Then create a Lander token.",
+            "artFileName": "EOE_114",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_114.jpg"
+        },
+        {
+            "cardID": "EOE-115",
+            "setCode": "EOE",
+            "cardNumber": 115,
+            "cardName": "Sothera, the Supervoid",
+            "cardText": "Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.\nAt the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",
+            "artFileName": "EOE_115",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_115.jpg"
+        },
+        {
+            "cardID": "EOE-116",
+            "setCode": "EOE",
+            "cardNumber": 116,
+            "cardName": "Sunset Saboteur",
+            "cardText": "Menace\nWard—Discard a card.\nWhenever this creature attacks, put a +1/+1 counter on target creature an opponent controls.",
+            "artFileName": "EOE_116",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_116.jpg"
+        },
+        {
+            "cardID": "EOE-117",
+            "setCode": "EOE",
+            "cardNumber": 117,
+            "cardName": "Susurian Dirgecraft",
+            "cardText": "When this Spacecraft enters, each opponent sacrifices a nontoken creature of their choice.\nStation\n7+ | Flying",
+            "artFileName": "EOE_117",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_117.jpg"
+        },
+        {
+            "cardID": "EOE-118",
+            "setCode": "EOE",
+            "cardNumber": 118,
+            "cardName": "Susurian Voidborn",
+            "cardText": "Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.\nWarp {B}",
+            "artFileName": "EOE_118",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_118.jpg"
+        },
+        {
+            "cardID": "EOE-119",
+            "setCode": "EOE",
+            "cardNumber": 119,
+            "cardName": "Swarm Culler",
+            "cardText": "Flying\nWhenever this creature becomes tapped, you may sacrifice another creature or artifact. If you do, draw a card.",
+            "artFileName": "EOE_119",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_119.jpg"
+        },
+        {
+            "cardID": "EOE-120",
+            "setCode": "EOE",
+            "cardNumber": 120,
+            "cardName": "Temporal Intervention",
+            "cardText": "Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.\nTarget opponent reveals their hand. You choose a nonland card from it. That player discards that card.",
+            "artFileName": "EOE_120",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_120.jpg"
+        },
+        {
+            "cardID": "EOE-121",
+            "setCode": "EOE",
+            "cardNumber": 121,
+            "cardName": "Timeline Culler",
+            "cardText": "Haste\nYou may cast this card from your graveyard using its warp ability.\nWarp—{B}, Pay 2 life.",
+            "artFileName": "EOE_121",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_121.jpg"
+        },
+        {
+            "cardID": "EOE-122",
+            "setCode": "EOE",
+            "cardNumber": 122,
+            "cardName": "Tragic Trajectory",
+            "cardText": "Target creature gets -2/-2 until end of turn.\nVoid — That creature gets -10/-10 until end of turn instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+            "artFileName": "EOE_122",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_122.jpg"
+        },
+        {
+            "cardID": "EOE-123",
+            "setCode": "EOE",
+            "cardNumber": 123,
+            "cardName": "Umbral Collar Zealot",
+            "cardText": "Sacrifice another creature or artifact: Surveil 1.",
+            "artFileName": "EOE_123",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_123.jpg"
+        },
+        {
+            "cardID": "EOE-124",
+            "setCode": "EOE",
+            "cardNumber": 124,
+            "cardName": "Virus Beetle",
+            "cardText": "When this creature enters, each opponent discards a card.",
+            "artFileName": "EOE_124",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_124.jpg"
+        },
+        {
+            "cardID": "EOE-125",
+            "setCode": "EOE",
+            "cardNumber": 125,
+            "cardName": "Voidforged Titan",
+            "cardText": "Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, you draw a card and lose 1 life.",
+            "artFileName": "EOE_125",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_125.jpg"
+        },
+        {
+            "cardID": "EOE-126",
+            "setCode": "EOE",
+            "cardNumber": 126,
+            "cardName": "Vote Out",
+            "cardText": "Convoke\nDestroy target creature.",
+            "artFileName": "EOE_126",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_126.jpg"
+        },
+        {
+            "cardID": "EOE-127",
+            "setCode": "EOE",
+            "cardNumber": 127,
+            "cardName": "Xu-Ifit, Osteoharmonist",
+            "cardText": "{T}: Return target creature card from your graveyard to the battlefield. It's a Skeleton in addition to its other types and has no abilities. Activate only as a sorcery.",
+            "artFileName": "EOE_127",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_127.jpg"
+        },
+        {
+            "cardID": "EOE-128",
+            "setCode": "EOE",
+            "cardNumber": 128,
+            "cardName": "Zero Point Ballad",
+            "cardText": "Destroy all creatures with toughness X or less. You lose X life. If X is 6 or more, return a creature card put into a graveyard this way to the battlefield under your control.",
+            "artFileName": "EOE_128",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_128.jpg"
+        },
+        {
+            "cardID": "EOE-129",
+            "setCode": "EOE",
+            "cardNumber": 129,
+            "cardName": "Bombard",
+            "cardText": "Bombard deals 4 damage to target creature.",
+            "artFileName": "EOE_129",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_129.jpg"
+        },
+        {
+            "cardID": "EOE-130",
+            "setCode": "EOE",
+            "cardNumber": 130,
+            "cardName": "Cut Propulsion",
+            "cardText": "Target creature deals damage to itself equal to its power. If that creature has flying, it deals twice that much damage to itself instead.",
+            "artFileName": "EOE_130",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_130.jpg"
+        },
+        {
+            "cardID": "EOE-131",
+            "setCode": "EOE",
+            "cardNumber": 131,
+            "cardName": "Debris Field Crusher",
+            "cardText": "When this Spacecraft enters, it deals 3 damage to any target.\nStation\n8+ | Flying\n{1}{R}: This Spacecraft gets +2/+0 until end of turn.",
+            "artFileName": "EOE_131",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_131.jpg"
+        },
+        {
+            "cardID": "EOE-132",
+            "setCode": "EOE",
+            "cardNumber": 132,
+            "cardName": "Devastating Onslaught",
+            "cardText": "Create X tokens that are copies of target artifact or creature you control. Those tokens gain haste until end of turn. Sacrifice them at the beginning of the next end step.",
+            "artFileName": "EOE_132",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_132.jpg"
+        },
+        {
+            "cardID": "EOE-133",
+            "setCode": "EOE",
+            "cardNumber": 133,
+            "cardName": "Drill Too Deep",
+            "cardText": "Choose one —\n• Put five charge counters on target Spacecraft or Planet you control.\n• Destroy target artifact.",
+            "artFileName": "EOE_133",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_133.jpg"
+        },
+        {
+            "cardID": "EOE-134",
+            "setCode": "EOE",
+            "cardNumber": 134,
+            "cardName": "Frontline War-Rager",
+            "cardText": "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_134",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_134.jpg"
+        },
+        {
+            "cardID": "EOE-135",
+            "setCode": "EOE",
+            "cardNumber": 135,
+            "cardName": "Full Bore",
+            "cardText": "Target creature you control gets +3/+2 until end of turn. If that creature was cast for its warp cost, it also gains trample and haste until end of turn.",
+            "artFileName": "EOE_135",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_135.jpg"
+        },
+        {
+            "cardID": "EOE-136",
+            "setCode": "EOE",
+            "cardNumber": 136,
+            "cardName": "Galvanizing Sawship",
+            "cardText": "Station\n3+ | Flying, haste",
+            "artFileName": "EOE_136",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_136.jpg"
+        },
+        {
+            "cardID": "EOE-137",
+            "setCode": "EOE",
+            "cardNumber": 137,
+            "cardName": "Invasive Maneuvers",
+            "cardText": "Invasive Maneuvers deals 3 damage to target creature. It deals 5 damage instead if you control a Spacecraft.",
+            "artFileName": "EOE_137",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_137.jpg"
+        },
+        {
+            "cardID": "EOE-138",
+            "setCode": "EOE",
+            "cardNumber": 138,
+            "cardName": "Kav Landseeker",
+            "cardText": "Menace\nWhen this creature enters, create a Lander token. At the beginning of the end step on your next turn, sacrifice that token.",
+            "artFileName": "EOE_138",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_138.jpg"
+        },
+        {
+            "cardID": "EOE-139",
+            "setCode": "EOE",
+            "cardNumber": 139,
+            "cardName": "Kavaron Harrier",
+            "cardText": "Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Robot artifact creature token that's tapped and attacking. Sacrifice that token at end of combat.",
+            "artFileName": "EOE_139",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_139.jpg"
+        },
+        {
+            "cardID": "EOE-140",
+            "setCode": "EOE",
+            "cardNumber": 140,
+            "cardName": "Kavaron Skywarden",
+            "cardText": "Reach\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_140",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_140.jpg"
+        },
+        {
+            "cardID": "EOE-141",
+            "setCode": "EOE",
+            "cardNumber": 141,
+            "cardName": "Kavaron Turbodrone",
+            "cardText": "{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery.",
+            "artFileName": "EOE_141",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_141.jpg"
+        },
+        {
+            "cardID": "EOE-142",
+            "setCode": "EOE",
+            "cardNumber": 142,
+            "cardName": "Lithobraking",
+            "cardText": "Create a Lander token. Then you may sacrifice an artifact. When you do, Lithobraking deals 2 damage to each creature.",
+            "artFileName": "EOE_142",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_142.jpg"
+        },
+        {
+            "cardID": "EOE-143",
+            "setCode": "EOE",
+            "cardNumber": 143,
+            "cardName": "Melded Moxite",
+            "cardText": "When this artifact enters, you may discard a card. If you do, draw two cards.\n{3}, Sacrifice this artifact: Create a tapped 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_143",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_143.jpg"
+        },
+        {
+            "cardID": "EOE-144",
+            "setCode": "EOE",
+            "cardNumber": 144,
+            "cardName": "Memorial Team Leader",
+            "cardText": "During your turn, other creatures you control get +1/+0.\nWarp {1}{R}",
+            "artFileName": "EOE_144",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_144.jpg"
+        },
+        {
+            "cardID": "EOE-145",
+            "setCode": "EOE",
+            "cardNumber": 145,
+            "cardName": "Memorial Vault",
+            "cardText": "{T}, Sacrifice another artifact: Exile the top X cards of your library, where X is one plus the mana value of the sacrificed artifact. You may play those cards this turn.",
+            "artFileName": "EOE_145",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_145.jpg"
+        },
+        {
+            "cardID": "EOE-146",
+            "setCode": "EOE",
+            "cardNumber": 146,
+            "cardName": "Molecular Modifier",
+            "cardText": "At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn.",
+            "artFileName": "EOE_146",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_146.jpg"
+        },
+        {
+            "cardID": "EOE-147",
+            "setCode": "EOE",
+            "cardNumber": 147,
+            "cardName": "Nebula Dragon",
+            "cardText": "Flying\nWhen this creature enters, it deals 3 damage to any target.",
+            "artFileName": "EOE_147",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_147.jpg"
+        },
+        {
+            "cardID": "EOE-148",
+            "setCode": "EOE",
+            "cardNumber": 148,
+            "cardName": "Nova Hellkite",
+            "cardText": "Flying, haste\nWhen this creature enters, it deals 1 damage to target creature an opponent controls.\nWarp {2}{R}",
+            "artFileName": "EOE_148",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_148.jpg"
+        },
+        {
+            "cardID": "EOE-149",
+            "setCode": "EOE",
+            "cardNumber": 149,
+            "cardName": "Orbital Plunge",
+            "cardText": "Orbital Plunge deals 6 damage to target creature. If excess damage was dealt this way, create a Lander token.",
+            "artFileName": "EOE_149",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_149.jpg"
+        },
+        {
+            "cardID": "EOE-150",
+            "setCode": "EOE",
+            "cardNumber": 150,
+            "cardName": "Oreplate Pangolin",
+            "cardText": "Whenever another artifact you control enters, you may pay {1}. If you do, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_150",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_150.jpg"
+        },
+        {
+            "cardID": "EOE-151",
+            "setCode": "EOE",
+            "cardNumber": 151,
+            "cardName": "Pain for All",
+            "cardText": "Enchant creature you control\nWhen this Aura enters, enchanted creature deals damage equal to its power to any other target.\nWhenever enchanted creature is dealt damage, it deals that much damage to each opponent.",
+            "artFileName": "EOE_151",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_151.jpg"
+        },
+        {
+            "cardID": "EOE-152",
+            "setCode": "EOE",
+            "cardNumber": 152,
+            "cardName": "Plasma Bolt",
+            "cardText": "Plasma Bolt deals 2 damage to any target.\nVoid — Plasma Bolt deals 3 damage instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+            "artFileName": "EOE_152",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_152.jpg"
+        },
+        {
+            "cardID": "EOE-153",
+            "setCode": "EOE",
+            "cardNumber": 153,
+            "cardName": "Possibility Technician",
+            "cardText": "Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.\nWarp {1}{R}",
+            "artFileName": "EOE_153",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_153.jpg"
+        },
+        {
+            "cardID": "EOE-154",
+            "setCode": "EOE",
+            "cardNumber": 154,
+            "cardName": "Red Tiger Mechan",
+            "cardText": "Haste\nWarp {1}{R}",
+            "artFileName": "EOE_154",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_154.jpg"
+        },
+        {
+            "cardID": "EOE-155",
+            "setCode": "EOE",
+            "cardNumber": 155,
+            "cardName": "Remnant Elemental",
+            "cardText": "Reach\nLandfall — Whenever a land you control enters, this creature gets +2/+0 until end of turn.",
+            "artFileName": "EOE_155",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_155.jpg"
+        },
+        {
+            "cardID": "EOE-156",
+            "setCode": "EOE",
+            "cardNumber": 156,
+            "cardName": "Rig for War",
+            "cardText": "Target creature gets +3/+0 and gains first strike and reach until end of turn.",
+            "artFileName": "EOE_156",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_156.jpg"
+        },
+        {
+            "cardID": "EOE-157",
+            "setCode": "EOE",
+            "cardNumber": 157,
+            "cardName": "Roving Actuator",
+            "cardText": "Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.",
+            "artFileName": "EOE_157",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_157.jpg"
+        },
+        {
+            "cardID": "EOE-158",
+            "setCode": "EOE",
+            "cardNumber": 158,
+            "cardName": "Ruinous Rampage",
+            "cardText": "Choose one —\n• Ruinous Rampage deals 3 damage to each opponent.\n• Exile all artifacts with mana value 3 or less.",
+            "artFileName": "EOE_158",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_158.jpg"
+        },
+        {
+            "cardID": "EOE-159",
+            "setCode": "EOE",
+            "cardNumber": 159,
+            "cardName": "Rust Harvester",
+            "cardText": "Menace\n{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",
+            "artFileName": "EOE_159",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_159.jpg"
+        },
+        {
+            "cardID": "EOE-160",
+            "setCode": "EOE",
+            "cardNumber": 160,
+            "cardName": "Slagdrill Scrapper",
+            "cardText": "{2}, {T}, Sacrifice another artifact or land: Draw a card.",
+            "artFileName": "EOE_160",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_160.jpg"
+        },
+        {
+            "cardID": "EOE-161",
+            "setCode": "EOE",
+            "cardNumber": 161,
+            "cardName": "Systems Override",
+            "cardText": "Gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If it's a Spacecraft, put ten charge counters on it. If you do, remove ten charge counters from it at the beginning of the next end step.",
+            "artFileName": "EOE_161",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_161.jpg"
+        },
+        {
+            "cardID": "EOE-162",
+            "setCode": "EOE",
+            "cardNumber": 162,
+            "cardName": "Tannuk, Steadfast Second",
+            "cardText": "Other creatures you control have haste.\nArtifact cards and red creature cards in your hand have warp {2}{R}.",
+            "artFileName": "EOE_162",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_162.jpg"
+        },
+        {
+            "cardID": "EOE-163",
+            "setCode": "EOE",
+            "cardNumber": 163,
+            "cardName": "Terminal Velocity",
+            "cardText": "You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, \"When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,\" and \"At the beginning of your end step, sacrifice this permanent.\"",
+            "artFileName": "EOE_163",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_163.jpg"
+        },
+        {
+            "cardID": "EOE-164",
+            "setCode": "EOE",
+            "cardNumber": 164,
+            "cardName": "Terrapact Intimidator",
+            "cardText": "When this creature enters, target opponent may have you create two Lander tokens. If they don't, put two +1/+1 counters on this creature.",
+            "artFileName": "EOE_164",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_164.jpg"
+        },
+        {
+            "cardID": "EOE-165",
+            "setCode": "EOE",
+            "cardNumber": 165,
+            "cardName": "Territorial Bruntar",
+            "cardText": "Reach\nLandfall — Whenever a land you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card this turn.",
+            "artFileName": "EOE_165",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_165.jpg"
+        },
+        {
+            "cardID": "EOE-166",
+            "setCode": "EOE",
+            "cardNumber": 166,
+            "cardName": "Vaultguard Trooper",
+            "cardText": "At the beginning of your end step, if you control two or more tapped creatures, you may discard your hand. If you do, draw two cards.",
+            "artFileName": "EOE_166",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_166.jpg"
+        },
+        {
+            "cardID": "EOE-167",
+            "setCode": "EOE",
+            "cardNumber": 167,
+            "cardName": "Warmaker Gunship",
+            "cardText": "When this Spacecraft enters, it deals damage equal to the number of artifacts you control to target creature an opponent controls.\nStation\n6+ | Flying",
+            "artFileName": "EOE_167",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_167.jpg"
+        },
+        {
+            "cardID": "EOE-168",
+            "setCode": "EOE",
+            "cardNumber": 168,
+            "cardName": "Weapons Manufacturing",
+            "cardText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+            "artFileName": "EOE_168",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_168.jpg"
+        },
+        {
+            "cardID": "EOE-169",
+            "setCode": "EOE",
+            "cardNumber": 169,
+            "cardName": "Weftstalker Ardent",
+            "cardText": "Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.\nWarp {R}",
+            "artFileName": "EOE_169",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_169.jpg"
+        },
+        {
+            "cardID": "EOE-170",
+            "setCode": "EOE",
+            "cardNumber": 170,
+            "cardName": "Zookeeper Mechan",
+            "cardText": "{T}: Add {R}.\n{6}{R}: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery.",
+            "artFileName": "EOE_170",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_170.jpg"
+        },
+        {
+            "cardID": "EOE-171",
+            "setCode": "EOE",
+            "cardNumber": 171,
+            "cardName": "Atmospheric Greenhouse",
+            "cardText": "When this Spacecraft enters, put a +1/+1 counter on each creature you control.\nStation\n8+ | Flying, trample",
+            "artFileName": "EOE_171",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_171.jpg"
+        },
+        {
+            "cardID": "EOE-172",
+            "setCode": "EOE",
+            "cardNumber": 172,
+            "cardName": "Bioengineered Future",
+            "cardText": "When this enchantment enters, create a Lander token.\nEach creature you control enters with an additional +1/+1 counter on it for each land that entered the battlefield under your control this turn.",
+            "artFileName": "EOE_172",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_172.jpg"
+        },
+        {
+            "cardID": "EOE-173",
+            "setCode": "EOE",
+            "cardNumber": 173,
+            "cardName": "Biosynthic Burst",
+            "cardText": "Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it.",
+            "artFileName": "EOE_173",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_173.jpg"
+        },
+        {
+            "cardID": "EOE-174",
+            "setCode": "EOE",
+            "cardNumber": 174,
+            "cardName": "Blooming Stinger",
+            "cardText": "Deathtouch\nWhen this creature enters, another target creature you control gains deathtouch until end of turn.",
+            "artFileName": "EOE_174",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_174.jpg"
+        },
+        {
+            "cardID": "EOE-175",
+            "setCode": "EOE",
+            "cardNumber": 175,
+            "cardName": "Broodguard Elite",
+            "cardText": "This creature enters with X +1/+1 counters on it.\nWhen this creature leaves the battlefield, put its counters on target creature you control.\nWarp {X}{G}",
+            "artFileName": "EOE_175",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_175.jpg"
+        },
+        {
+            "cardID": "EOE-176",
+            "setCode": "EOE",
+            "cardNumber": 176,
+            "cardName": "Close Encounter",
+            "cardText": "As an additional cost to cast this spell, choose a creature you control or a warped creature card you own in exile.\nClose Encounter deals damage equal to the power of the chosen creature or card to target creature.",
+            "artFileName": "EOE_176",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_176.jpg"
+        },
+        {
+            "cardID": "EOE-177",
+            "setCode": "EOE",
+            "cardNumber": 177,
+            "cardName": "Diplomatic Relations",
+            "cardText": "Target creature you control gets +1/+0 and gains vigilance until end of turn. It deals damage equal to its power to target creature an opponent controls.",
+            "artFileName": "EOE_177",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_177.jpg"
+        },
+        {
+            "cardID": "EOE-178",
+            "setCode": "EOE",
+            "cardNumber": 178,
+            "cardName": "Drix Fatemaker",
+            "cardText": "When this creature enters, put a +1/+1 counter on target creature.\nEach creature you control with a +1/+1 counter on it has trample.\nWarp {1}{G}",
+            "artFileName": "EOE_178",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_178.jpg"
+        },
+        {
+            "cardID": "EOE-179",
+            "setCode": "EOE",
+            "cardNumber": 179,
+            "cardName": "Edge Rover",
+            "cardText": "Reach\nWhen this creature dies, each player creates a Lander token.",
+            "artFileName": "EOE_179",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_179.jpg"
+        },
+        {
+            "cardID": "EOE-180",
+            "setCode": "EOE",
+            "cardNumber": 180,
+            "cardName": "Eumidian Terrabotanist",
+            "cardText": "Landfall — Whenever a land you control enters, you gain 1 life.",
+            "artFileName": "EOE_180",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_180.jpg"
+        },
+        {
+            "cardID": "EOE-181",
+            "setCode": "EOE",
+            "cardNumber": 181,
+            "cardName": "Eusocial Engineering",
+            "cardText": "Landfall — Whenever a land you control enters, create a 2/2 colorless Robot artifact creature token.\nWarp {1}{G}",
+            "artFileName": "EOE_181",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_181.jpg"
+        },
+        {
+            "cardID": "EOE-182",
+            "setCode": "EOE",
+            "cardNumber": 182,
+            "cardName": "Famished Worldsire",
+            "cardText": "Ward {3}\nDevour land 3\nWhen this creature enters, look at the top X cards of your library, where X is this creature's power. Put any number of land cards from among them onto the battlefield tapped, then shuffle.",
+            "artFileName": "EOE_182",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_182.jpg"
+        },
+        {
+            "cardID": "EOE-183",
+            "setCode": "EOE",
+            "cardNumber": 183,
+            "cardName": "Frenzied Baloth",
+            "cardText": "This spell can't be countered.\nTrample, haste\nCreature spells you control can't be countered.\nCombat damage can't be prevented.",
+            "artFileName": "EOE_183",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_183.jpg"
+        },
+        {
+            "cardID": "EOE-184",
+            "setCode": "EOE",
+            "cardNumber": 184,
+            "cardName": "Fungal Colossus",
+            "cardText": "This spell costs {X} less to cast, where X is the number of differently named lands you control.",
+            "artFileName": "EOE_184",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_184.jpg"
+        },
+        {
+            "cardID": "EOE-185",
+            "setCode": "EOE",
+            "cardNumber": 185,
+            "cardName": "Galactic Wayfarer",
+            "cardText": "When this creature enters, create a Lander token.",
+            "artFileName": "EOE_185",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_185.jpg"
+        },
+        {
+            "cardID": "EOE-186",
+            "setCode": "EOE",
+            "cardNumber": 186,
+            "cardName": "Gene Pollinator",
+            "cardText": "{T}, Tap an untapped permanent you control: Add one mana of any color.",
+            "artFileName": "EOE_186",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_186.jpg"
+        },
+        {
+            "cardID": "EOE-187",
+            "setCode": "EOE",
+            "cardNumber": 187,
+            "cardName": "Germinating Wurm",
+            "cardText": "When this creature enters, you gain 2 life.\nWarp {1}{G}",
+            "artFileName": "EOE_187",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_187.jpg"
+        },
+        {
+            "cardID": "EOE-188",
+            "setCode": "EOE",
+            "cardNumber": 188,
+            "cardName": "Glacier Godmaw",
+            "cardText": "Trample\nWhen this creature enters, create a Lander token.\nLandfall — Whenever a land you control enters, creatures you control get +1/+1 and gain vigilance and haste until end of turn.",
+            "artFileName": "EOE_188",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_188.jpg"
+        },
+        {
+            "cardID": "EOE-189",
+            "setCode": "EOE",
+            "cardNumber": 189,
+            "cardName": "Harmonious Grovestrider",
+            "cardText": "Ward {2}\nHarmonious Grovestrider's power and toughness are each equal to the number of lands you control.",
+            "artFileName": "EOE_189",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_189.jpg"
+        },
+        {
+            "cardID": "EOE-190",
+            "setCode": "EOE",
+            "cardNumber": 190,
+            "cardName": "Hemosymbic Mite",
+            "cardText": "Whenever this creature becomes tapped, another target creature you control gets +X/+X until end of turn, where X is this creature's power.",
+            "artFileName": "EOE_190",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_190.jpg"
+        },
+        {
+            "cardID": "EOE-191",
+            "setCode": "EOE",
+            "cardNumber": 191,
+            "cardName": "Icecave Crasher",
+            "cardText": "Trample\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+            "artFileName": "EOE_191",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_191.jpg"
+        },
+        {
+            "cardID": "EOE-192",
+            "setCode": "EOE",
+            "cardNumber": 192,
+            "cardName": "Icetill Explorer",
+            "cardText": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card.",
+            "artFileName": "EOE_192",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_192.jpg"
+        },
+        {
+            "cardID": "EOE-193",
+            "setCode": "EOE",
+            "cardNumber": 193,
+            "cardName": "Intrepid Tenderfoot",
+            "cardText": "{3}: Put a +1/+1 counter on this creature. Activate only as a sorcery.",
+            "artFileName": "EOE_193",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_193.jpg"
+        },
+        {
+            "cardID": "EOE-194",
+            "setCode": "EOE",
+            "cardNumber": 194,
+            "cardName": "Larval Scoutlander",
+            "cardText": "When this Spacecraft enters, you may sacrifice a land or Lander. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\nStation\n7+ | Flying",
+            "artFileName": "EOE_194",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_194.jpg"
+        },
+        {
+            "cardID": "EOE-195",
+            "setCode": "EOE",
+            "cardNumber": 195,
+            "cardName": "Lashwhip Predator",
+            "cardText": "This spell costs {2} less to cast if your opponents control three or more creatures.\nReach",
+            "artFileName": "EOE_195",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_195.jpg"
+        },
+        {
+            "cardID": "EOE-196",
+            "setCode": "EOE",
+            "cardNumber": 196,
+            "cardName": "Loading Zone",
+            "cardText": "If one or more counters would be put on a creature, Spacecraft, or Planet you control, twice that many of each of those kinds of counters are put on it instead.\nWarp {G}",
+            "artFileName": "EOE_196",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_196.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_196.jpg"
+        },
+        {
+            "cardID": "EOE-197",
+            "setCode": "EOE",
+            "cardNumber": 197,
+            "cardName": "Meltstrider Eulogist",
+            "cardText": "Whenever a creature you control with a +1/+1 counter on it dies, draw a card.",
+            "artFileName": "EOE_197",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_197.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_197.jpg"
+        },
+        {
+            "cardID": "EOE-198",
+            "setCode": "EOE",
+            "cardNumber": 198,
+            "cardName": "Meltstrider's Gear",
+            "cardText": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +2/+1 and has reach.\nEquip {5}",
+            "artFileName": "EOE_198",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_198.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_198.jpg"
+        },
+        {
+            "cardID": "EOE-199",
+            "setCode": "EOE",
+            "cardNumber": 199,
+            "cardName": "Meltstrider's Resolve",
+            "cardText": "Enchant creature you control\nWhen this Aura enters, enchanted creature fights up to one target creature an opponent controls.\nEnchanted creature gets +0/+2 and can't be blocked by more than one creature.",
+            "artFileName": "EOE_199",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_199.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_199.jpg"
+        },
+        {
+            "cardID": "EOE-200",
+            "setCode": "EOE",
+            "cardNumber": 200,
+            "cardName": "Mightform Harmonizer",
+            "cardText": "Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.\nWarp {2}{G}",
+            "artFileName": "EOE_200",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_200.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_200.jpg"
+        },
+        {
+            "cardID": "EOE-201",
+            "setCode": "EOE",
+            "cardNumber": 201,
+            "cardName": "Ouroboroid",
+            "cardText": "At the beginning of combat on your turn, put X +1/+1 counters on each creature you control, where X is this creature's power.",
+            "artFileName": "EOE_201",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_201.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_201.jpg"
+        },
+        {
+            "cardID": "EOE-202",
+            "setCode": "EOE",
+            "cardNumber": 202,
+            "cardName": "Pull Through the Weft",
+            "cardText": "Return up to two target nonland permanent cards from your graveyard to your hand, then return up to two target land cards from your graveyard to the battlefield tapped.",
+            "artFileName": "EOE_202",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_202.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_202.jpg"
+        },
+        {
+            "cardID": "EOE-203",
+            "setCode": "EOE",
+            "cardNumber": 203,
+            "cardName": "Sami's Curiosity",
+            "cardText": "You gain 2 life. Create a Lander token.",
+            "artFileName": "EOE_203",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_203.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_203.jpg"
+        },
+        {
+            "cardID": "EOE-204",
+            "setCode": "EOE",
+            "cardNumber": 204,
+            "cardName": "Seedship Agrarian",
+            "cardText": "Whenever this creature becomes tapped, create a Lander token.\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_204",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_204.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_204.jpg"
+        },
+        {
+            "cardID": "EOE-205",
+            "setCode": "EOE",
+            "cardNumber": 205,
+            "cardName": "Seedship Impact",
+            "cardText": "Destroy target artifact or enchantment. If its mana value was 2 or less, create a Lander token.",
+            "artFileName": "EOE_205",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_205.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_205.jpg"
+        },
+        {
+            "cardID": "EOE-206",
+            "setCode": "EOE",
+            "cardNumber": 206,
+            "cardName": "Shattered Wings",
+            "cardText": "Destroy target artifact, enchantment, or creature with flying. Surveil 1.",
+            "artFileName": "EOE_206",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_206.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_206.jpg"
+        },
+        {
+            "cardID": "EOE-207",
+            "setCode": "EOE",
+            "cardNumber": 207,
+            "cardName": "Skystinger",
+            "cardText": "Reach\nWhenever this creature blocks a creature with flying, this creature gets +5/+0 until end of turn.",
+            "artFileName": "EOE_207",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_207.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_207.jpg"
+        },
+        {
+            "cardID": "EOE-208",
+            "setCode": "EOE",
+            "cardNumber": 208,
+            "cardName": "Sledge-Class Seedship",
+            "cardText": "Station\n7+ | Flying\nWhenever this Spacecraft attacks, you may put a creature card from your hand onto the battlefield.",
+            "artFileName": "EOE_208",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_208.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_208.jpg"
+        },
+        {
+            "cardID": "EOE-209",
+            "setCode": "EOE",
+            "cardNumber": 209,
+            "cardName": "Tapestry Warden",
+            "cardText": "Vigilance\nEach creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.\nEach creature you control with toughness greater than its power stations permanents using its toughness rather than its power.",
+            "artFileName": "EOE_209",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_209.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_209.jpg"
+        },
+        {
+            "cardID": "EOE-210",
+            "setCode": "EOE",
+            "cardNumber": 210,
+            "cardName": "Terrasymbiosis",
+            "cardText": "Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",
+            "artFileName": "EOE_210",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_210.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_210.jpg"
+        },
+        {
+            "cardID": "EOE-211",
+            "setCode": "EOE",
+            "cardNumber": 211,
+            "cardName": "Thawbringer",
+            "cardText": "When this creature enters or dies, surveil 1.",
+            "artFileName": "EOE_211",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_211.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_211.jpg"
+        },
+        {
+            "cardID": "EOE-212",
+            "setCode": "EOE",
+            "cardNumber": 212,
+            "cardName": "Alpharael, Dreaming Acolyte",
+            "cardText": "When Alpharael enters, draw two cards. Then discard two cards unless you discard an artifact card.\nDuring your turn, Alpharael has deathtouch.",
+            "artFileName": "EOE_212",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_212.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_212.jpg"
+        },
+        {
+            "cardID": "EOE-213",
+            "setCode": "EOE",
+            "cardNumber": 213,
+            "cardName": "Biomechan Engineer",
+            "cardText": "When this creature enters, create a Lander token.\n{8}: Draw two cards and create a 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_213",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_213.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_213.jpg"
+        },
+        {
+            "cardID": "EOE-214",
+            "setCode": "EOE",
+            "cardNumber": 214,
+            "cardName": "Biotech Specialist",
+            "cardText": "When this creature enters, create a Lander token.\nWhenever you sacrifice an artifact, this creature deals 2 damage to target opponent.",
+            "artFileName": "EOE_214",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_214.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_214.jpg"
+        },
+        {
+            "cardID": "EOE-215",
+            "setCode": "EOE",
+            "cardNumber": 215,
+            "cardName": "Cosmogoyf",
+            "cardText": "Cosmogoyf's power is equal to the number of cards you own in exile and its toughness is equal to that number plus 1.",
+            "artFileName": "EOE_215",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_215.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_215.jpg"
+        },
+        {
+            "cardID": "EOE-216",
+            "setCode": "EOE",
+            "cardNumber": 216,
+            "cardName": "Dyadrine, Synthesis Amalgam",
+            "cardText": "Trample\nDyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\nWhenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_216",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_216.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_216.jpg"
+        },
+        {
+            "cardID": "EOE-217",
+            "setCode": "EOE",
+            "cardNumber": 217,
+            "cardName": "Genemorph Imago",
+            "cardText": "Flying\nLandfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.",
+            "artFileName": "EOE_217",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_217.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_217.jpg"
+        },
+        {
+            "cardID": "EOE-218",
+            "setCode": "EOE",
+            "cardNumber": 218,
+            "cardName": "Haliya, Ascendant Cadet",
+            "cardText": "Whenever Haliya enters or attacks, put a +1/+1 counter on target creature you control.\nWhenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card.",
+            "artFileName": "EOE_218",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_218.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_218.jpg"
+        },
+        {
+            "cardID": "EOE-219",
+            "setCode": "EOE",
+            "cardNumber": 219,
+            "cardName": "Infinite Guideline Station",
+            "cardText": "When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.\nStation\n12+ | Flying\nWhenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.",
+            "artFileName": "EOE_219",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_219.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_219.jpg"
+        },
+        {
+            "cardID": "EOE-220",
+            "setCode": "EOE",
+            "cardNumber": 220,
+            "cardName": "Interceptor Mechan",
+            "cardText": "Flying\nWhen this creature enters, return target artifact or creature card from your graveyard to your hand.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+            "artFileName": "EOE_220",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_220.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_220.jpg"
+        },
+        {
+            "cardID": "EOE-221",
+            "setCode": "EOE",
+            "cardNumber": 221,
+            "cardName": "Mm'menon, Uthros Exile",
+            "cardText": "Flying\nWhenever an artifact you control enters, put a +1/+1 counter on target creature.",
+            "artFileName": "EOE_221",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_221.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_221.jpg"
+        },
+        {
+            "cardID": "EOE-222",
+            "setCode": "EOE",
+            "cardNumber": 222,
+            "cardName": "Mutinous Massacre",
+            "cardText": "Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+            "artFileName": "EOE_222",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_222.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_222.jpg"
+        },
+        {
+            "cardID": "EOE-223",
+            "setCode": "EOE",
+            "cardNumber": 223,
+            "cardName": "Pinnacle Emissary",
+            "cardText": "Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"\nWarp {U/R}",
+            "artFileName": "EOE_223",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_223.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_223.jpg"
+        },
+        {
+            "cardID": "EOE-224",
+            "setCode": "EOE",
+            "cardNumber": 224,
+            "cardName": "Ragost, Deft Gastronaut",
+            "cardText": "Artifacts you control are Foods in addition to their other types and have \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\"\n{1}, {T}, Sacrifice a Food: Ragost deals 3 damage to each opponent.\nAt the beginning of each end step, if you gained life this turn, untap Ragost.",
+            "artFileName": "EOE_224",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_224.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_224.jpg"
+        },
+        {
+            "cardID": "EOE-225",
+            "setCode": "EOE",
+            "cardNumber": 225,
+            "cardName": "Sami, Ship's Engineer",
+            "cardText": "At the beginning of your end step, if you control two or more tapped creatures, create a tapped 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_225",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_225.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_225.jpg"
+        },
+        {
+            "cardID": "EOE-226",
+            "setCode": "EOE",
+            "cardNumber": 226,
+            "cardName": "Sami, Wildcat Captain",
+            "cardText": "Double strike, vigilance\nSpells you cast have affinity for artifacts.",
+            "artFileName": "EOE_226",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_226.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_226.jpg"
+        },
+        {
+            "cardID": "EOE-227",
+            "setCode": "EOE",
+            "cardNumber": 227,
+            "cardName": "Seedship Broodtender",
+            "cardText": "When this creature enters, mill three cards.\n{3}{B}{G}, Sacrifice this creature: Return target creature or Spacecraft card from your graveyard to the battlefield. Activate only as a sorcery.",
+            "artFileName": "EOE_227",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_227.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_227.jpg"
+        },
+        {
+            "cardID": "EOE-228",
+            "setCode": "EOE",
+            "cardNumber": 228,
+            "cardName": "Singularity Rupture",
+            "cardText": "Destroy all creatures, then any number of target players each mill half their library, rounded down.",
+            "artFileName": "EOE_228",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_228.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_228.jpg"
+        },
+        {
+            "cardID": "EOE-229",
+            "setCode": "EOE",
+            "cardNumber": 229,
+            "cardName": "Space-Time Anomaly",
+            "cardText": "Target player mills cards equal to your life total.",
+            "artFileName": "EOE_229",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_229.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_229.jpg"
+        },
+        {
+            "cardID": "EOE-230",
+            "setCode": "EOE",
+            "cardNumber": 230,
+            "cardName": "Station Monitor",
+            "cardText": "Whenever you cast your second spell each turn, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"",
+            "artFileName": "EOE_230",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_230.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_230.jpg"
+        },
+        {
+            "cardID": "EOE-231",
+            "setCode": "EOE",
+            "cardNumber": 231,
+            "cardName": "Syr Vondam, Sunstar Exemplar",
+            "cardText": "Vigilance, menace\nWhenever another creature you control dies or is put into exile, put a +1/+1 counter on Syr Vondam and you gain 1 life.\nWhen Syr Vondam dies or is put into exile while its power is 4 or greater, destroy up to one target nonland permanent.",
+            "artFileName": "EOE_231",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_231.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_231.jpg"
+        },
+        {
+            "cardID": "EOE-232",
+            "setCode": "EOE",
+            "cardNumber": 232,
+            "cardName": "Syr Vondam, the Lucent",
+            "cardText": "Deathtouch, lifelink\nWhenever Syr Vondam enters or attacks, other creatures you control get +1/+0 and gain deathtouch until end of turn.",
+            "artFileName": "EOE_232",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_232.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_232.jpg"
+        },
+        {
+            "cardID": "EOE-233",
+            "setCode": "EOE",
+            "cardNumber": 233,
+            "cardName": "Tannuk, Memorial Ensign",
+            "cardText": "Landfall — Whenever a land you control enters, Tannuk deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, draw a card.",
+            "artFileName": "EOE_233",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_233.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_233.jpg"
+        },
+        {
+            "cardID": "EOE-234",
+            "setCode": "EOE",
+            "cardNumber": 234,
+            "cardName": "All-Fates Scroll",
+            "cardText": "{T}: Add one mana of any color.\n{7}, {T}, Sacrifice this artifact: Draw X cards, where X is the number of differently named lands you control.",
+            "artFileName": "EOE_234",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_234.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_234.jpg"
+        },
+        {
+            "cardID": "EOE-235",
+            "setCode": "EOE",
+            "cardNumber": 235,
+            "cardName": "Bygone Colossus",
+            "cardText": "Warp {3}",
+            "artFileName": "EOE_235",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_235.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_235.jpg"
+        },
+        {
+            "cardID": "EOE-236",
+            "setCode": "EOE",
+            "cardNumber": 236,
+            "cardName": "Chrome Companion",
+            "cardText": "Whenever this creature becomes tapped, you gain 1 life.\n{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",
+            "artFileName": "EOE_236",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_236.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_236.jpg"
+        },
+        {
+            "cardID": "EOE-237",
+            "setCode": "EOE",
+            "cardNumber": 237,
+            "cardName": "Dauntless Scrapbot",
+            "cardText": "When this creature enters, exile each opponent's graveyard. Create a Lander token.",
+            "artFileName": "EOE_237",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_237.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_237.jpg"
+        },
+        {
+            "cardID": "EOE-238",
+            "setCode": "EOE",
+            "cardNumber": 238,
+            "cardName": "Dawnsire, Sunstar Dreadnought",
+            "cardText": "Station\n10+ | Whenever you attack, Dawnsire deals 100 damage to up to one target creature or planeswalker.\n20+ | Flying",
+            "artFileName": "EOE_238",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_238.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_238.jpg"
+        },
+        {
+            "cardID": "EOE-239",
+            "setCode": "EOE",
+            "cardNumber": 239,
+            "cardName": "The Dominion Bracelet",
+            "cardText": "Equipped creature gets +1/+1 and has \"{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery.\"\nEquip {1}",
+            "artFileName": "EOE_239",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_239.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_239.jpg"
+        },
+        {
+            "cardID": "EOE-240",
+            "setCode": "EOE",
+            "cardNumber": 240,
+            "cardName": "The Endstone",
+            "cardText": "Whenever you play a land or cast a spell, draw a card.\nAt the beginning of your end step, your life total becomes half your starting life total, rounded up.",
+            "artFileName": "EOE_240",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_240.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_240.jpg"
+        },
+        {
+            "cardID": "EOE-241",
+            "setCode": "EOE",
+            "cardNumber": 241,
+            "cardName": "The Eternity Elevator",
+            "cardText": "{T}: Add {C}{C}{C}.\nStation\n20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",
+            "artFileName": "EOE_241",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_241.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_241.jpg"
+        },
+        {
+            "cardID": "EOE-242",
+            "setCode": "EOE",
+            "cardNumber": 242,
+            "cardName": "Extinguisher Battleship",
+            "cardText": "When this Spacecraft enters, destroy target noncreature permanent. Then this Spacecraft deals 4 damage to each creature.\nStation\n5+ | Flying, trample",
+            "artFileName": "EOE_242",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_242.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_242.jpg"
+        },
+        {
+            "cardID": "EOE-243",
+            "setCode": "EOE",
+            "cardNumber": 243,
+            "cardName": "Nutrient Block",
+            "cardText": "Indestructible\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\nWhen this artifact is put into a graveyard from the battlefield, draw a card.",
+            "artFileName": "EOE_243",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_243.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_243.jpg"
+        },
+        {
+            "cardID": "EOE-244",
+            "setCode": "EOE",
+            "cardNumber": 244,
+            "cardName": "Pinnacle Kill-Ship",
+            "cardText": "When this Spacecraft enters, it deals 10 damage to up to one target creature.\nStation\n7+ | Flying",
+            "artFileName": "EOE_244",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_244.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_244.jpg"
+        },
+        {
+            "cardID": "EOE-245",
+            "setCode": "EOE",
+            "cardNumber": 245,
+            "cardName": "Survey Mechan",
+            "cardText": "Flying\nHexproof\n{10}, Sacrifice this creature: It deals 3 damage to any target. Target player draws three cards and gains 3 life. This ability costs {X} less to activate, where X is the number of differently named lands you control.",
+            "artFileName": "EOE_245",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_245.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_245.jpg"
+        },
+        {
+            "cardID": "EOE-246",
+            "setCode": "EOE",
+            "cardNumber": 246,
+            "cardName": "Thaumaton Torpedo",
+            "cardText": "{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if you attacked with a Spacecraft this turn.",
+            "artFileName": "EOE_246",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_246.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_246.jpg"
+        },
+        {
+            "cardID": "EOE-247",
+            "setCode": "EOE",
+            "cardNumber": 247,
+            "cardName": "Thrumming Hivepool",
+            "cardText": "Affinity for Slivers\nSlivers you control have double strike and haste.\nAt the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",
+            "artFileName": "EOE_247",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_247.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_247.jpg"
+        },
+        {
+            "cardID": "EOE-248",
+            "setCode": "EOE",
+            "cardNumber": 248,
+            "cardName": "Virulent Silencer",
+            "cardText": "Whenever a nontoken artifact creature you control deals combat damage to a player, that player gets two poison counters.",
+            "artFileName": "EOE_248",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_248.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_248.jpg"
+        },
+        {
+            "cardID": "EOE-249",
+            "setCode": "EOE",
+            "cardNumber": 249,
+            "cardName": "Wurmwall Sweeper",
+            "cardText": "When this Spacecraft enters, surveil 2.\nStation\n4+ | Flying",
+            "artFileName": "EOE_249",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_249.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_249.jpg"
+        },
+        {
+            "cardID": "EOE-250",
+            "setCode": "EOE",
+            "cardNumber": 250,
+            "cardName": "Adagia, Windswept Bastion",
+            "cardText": "This land enters tapped.\n{T}: Add {W}.\nStation\n12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",
+            "artFileName": "EOE_250",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_250.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_250.jpg"
+        },
+        {
+            "cardID": "EOE-251",
+            "setCode": "EOE",
+            "cardNumber": 251,
+            "cardName": "Breeding Pool",
+            "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
+            "artFileName": "EOE_251",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_251.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_251.jpg"
+        },
+        {
+            "cardID": "EOE-252",
+            "setCode": "EOE",
+            "cardNumber": 252,
+            "cardName": "Command Bridge",
+            "cardText": "This land enters tapped.\nWhen this land enters, sacrifice it unless you tap an untapped permanent you control.\n{T}: Add one mana of any color.",
+            "artFileName": "EOE_252",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_252.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_252.jpg"
+        },
+        {
+            "cardID": "EOE-253",
+            "setCode": "EOE",
+            "cardNumber": 253,
+            "cardName": "Evendo, Waking Haven",
+            "cardText": "This land enters tapped.\n{T}: Add {G}.\nStation\n12+ | {G}, {T}: Add {G} for each creature you control.",
+            "artFileName": "EOE_253",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_253.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_253.jpg"
+        },
+        {
+            "cardID": "EOE-254",
+            "setCode": "EOE",
+            "cardNumber": 254,
+            "cardName": "Godless Shrine",
+            "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
+            "artFileName": "EOE_254",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_254.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_254.jpg"
+        },
+        {
+            "cardID": "EOE-255",
+            "setCode": "EOE",
+            "cardNumber": 255,
+            "cardName": "Kavaron, Memorial World",
+            "cardText": "This land enters tapped.\n{T}: Add {R}.\nStation\n12+ | {1}{R}, {T}, Sacrifice a land: Create a 2/2 colorless Robot artifact creature token, then creatures you control get +1/+0 and gain haste until end of turn.",
+            "artFileName": "EOE_255",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_255.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_255.jpg"
+        },
+        {
+            "cardID": "EOE-256",
+            "setCode": "EOE",
+            "cardNumber": 256,
+            "cardName": "Sacred Foundry",
+            "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
+            "artFileName": "EOE_256",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_256.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_256.jpg"
+        },
+        {
+            "cardID": "EOE-257",
+            "setCode": "EOE",
+            "cardNumber": 257,
+            "cardName": "Secluded Starforge",
+            "cardText": "{T}: Add {C}.\n{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.\n{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",
+            "artFileName": "EOE_257",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_257.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_257.jpg"
+        },
+        {
+            "cardID": "EOE-258",
+            "setCode": "EOE",
+            "cardNumber": 258,
+            "cardName": "Stomping Ground",
+            "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
+            "artFileName": "EOE_258",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_258.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_258.jpg"
+        },
+        {
+            "cardID": "EOE-259",
+            "setCode": "EOE",
+            "cardNumber": 259,
+            "cardName": "Susur Secundi, Void Altar",
+            "cardText": "This land enters tapped.\n{T}: Add {B}.\nStation\n12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",
+            "artFileName": "EOE_259",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_259.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_259.jpg"
+        },
+        {
+            "cardID": "EOE-260",
+            "setCode": "EOE",
+            "cardNumber": 260,
+            "cardName": "Uthros, Titanic Godcore",
+            "cardText": "This land enters tapped.\n{T}: Add {U}.\nStation\n12+ | {U}, {T}: Add {U} for each artifact you control.",
+            "artFileName": "EOE_260",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_260.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_260.jpg"
+        },
+        {
+            "cardID": "EOE-261",
+            "setCode": "EOE",
+            "cardNumber": 261,
+            "cardName": "Watery Grave",
+            "cardText": "As this land enters, you may pay 2 life. If you don't, it enters tapped.",
+            "artFileName": "EOE_261",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_261.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_261.jpg"
+        },
+        {
+            "cardID": "EOE-262",
+            "setCode": "EOE",
+            "cardNumber": 262,
+            "cardName": "Plains",
+            "cardText": "({T}: Add {W}.)",
+            "artFileName": "EOE_262",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_262.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_262.jpg"
+        },
+        {
+            "cardID": "EOE-263",
+            "setCode": "EOE",
+            "cardNumber": 263,
+            "cardName": "Island",
+            "cardText": "({T}: Add {U}.)",
+            "artFileName": "EOE_263",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_263.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_263.jpg"
+        },
+        {
+            "cardID": "EOE-264",
+            "setCode": "EOE",
+            "cardNumber": 264,
+            "cardName": "Swamp",
+            "cardText": "({T}: Add {S}.)",
+            "artFileName": "EOE_264",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_264.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_264.jpg"
+        },
+        {
+            "cardID": "EOE-265",
+            "setCode": "EOE",
+            "cardNumber": 265,
+            "cardName": "Mountain",
+            "cardText": "({T}: Add {R}.)",
+            "artFileName": "EOE_265",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_265.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_265.jpg"
+        },
+        {
+            "cardID": "EOE-266",
+            "setCode": "EOE",
+            "cardNumber": 266,
+            "cardName": "Forest",
+            "cardText": "({T}: Add {G}.)",
+            "artFileName": "EOE_266",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_266.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_266.jpg"
+        },
+        {
+            "cardID": "EOE-267",
+            "setCode": "EOE",
+            "cardNumber": 267,
+            "cardName": "Plains",
+            "cardText": "({T}: Add {W}.)",
+            "artFileName": "EOE_267",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_267.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_267.jpg"
+        },
+        {
+            "cardID": "EOE-268",
+            "setCode": "EOE",
+            "cardNumber": 268,
+            "cardName": "Plains",
+            "cardText": "({T}: Add {W}.)",
+            "artFileName": "EOE_268",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_268.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_268.jpg"
+        },
+        {
+            "cardID": "EOE-269",
+            "setCode": "EOE",
+            "cardNumber": 269,
+            "cardName": "Island",
+            "cardText": "({T}: Add {U}.)",
+            "artFileName": "EOE_269",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_269.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_269.jpg"
+        },
+        {
+            "cardID": "EOE-270",
+            "setCode": "EOE",
+            "cardNumber": 270,
+            "cardName": "Island",
+            "cardText": "({T}: Add {U}.)",
+            "artFileName": "EOE_270",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_270.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_270.jpg"
+        },
+        {
+            "cardID": "EOE-271",
+            "setCode": "EOE",
+            "cardNumber": 271,
+            "cardName": "Swamp",
+            "cardText": "({T}: Add {S}.)",
+            "artFileName": "EOE_271",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_271.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_271.jpg"
+        },
+        {
+            "cardID": "EOE-272",
+            "setCode": "EOE",
+            "cardNumber": 272,
+            "cardName": "Swamp",
+            "cardText": "({T}: Add {S}.)",
+            "artFileName": "EOE_272",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_272.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_272.jpg"
+        },
+        {
+            "cardID": "EOE-273",
+            "setCode": "EOE",
+            "cardNumber": 273,
+            "cardName": "Mountain",
+            "cardText": "({T}: Add {R}.)",
+            "artFileName": "EOE_273",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_273.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_273.jpg"
+        },
+        {
+            "cardID": "EOE-274",
+            "setCode": "EOE",
+            "cardNumber": 274,
+            "cardName": "Mountain",
+            "cardText": "({T}: Add {R}.)",
+            "artFileName": "EOE_274",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_274.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_274.jpg"
+        },
+        {
+            "cardID": "EOE-275",
+            "setCode": "EOE",
+            "cardNumber": 275,
+            "cardName": "Forest",
+            "cardText": "({T}: Add {G}.)",
+            "artFileName": "EOE_275",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_275.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_275.jpg"
+        },
+        {
+            "cardID": "EOE-276",
+            "setCode": "EOE",
+            "cardNumber": 276,
+            "cardName": "Forest",
+            "cardText": "({T}: Add {G}.)",
+            "artFileName": "EOE_276",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/EOE/EOE_276.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/EOE/EOE_276.jpg"
+        }
+    ]
+}
