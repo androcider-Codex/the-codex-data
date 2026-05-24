@@ -1,0 +1,3094 @@
+{
+    "cards": [
+        {
+            "cardID": "FIN-001",
+            "setCode": "FIN",
+            "cardNumber": 1,
+            "cardName": "Summon: Bahamut",
+            "cardText": "I, II — Destroy up to one target nonland permanent.\nIII — Draw two cards.\nIV — Mega Flare — This creature deals damage equal to the total mana value of other permanents you control to each opponent.\nFlying",
+            "artFileName": "FIN_001",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_001.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_001.jpg"
+        },
+        {
+            "cardID": "FIN-002",
+            "setCode": "FIN",
+            "cardNumber": 2,
+            "cardName": "Ultima, Origin of Oblivion",
+            "cardText": "Flying\nWhenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has \"{T}: Add {C}.\"\nWhenever you tap a land for {C}, add an additional {C}.",
+            "artFileName": "FIN_002",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_002.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_002.jpg"
+        },
+        {
+            "cardID": "FIN-003",
+            "setCode": "FIN",
+            "cardNumber": 3,
+            "cardName": "Adelbert Steiner",
+            "cardText": "Lifelink\nAdelbert Steiner gets +1/+1 for each Equipment you control.",
+            "artFileName": "FIN_003",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_003.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_003.jpg"
+        },
+        {
+            "cardID": "FIN-004",
+            "setCode": "FIN",
+            "cardNumber": 4,
+            "cardName": "Aerith Gainsborough",
+            "cardText": "Lifelink\nWhenever you gain life, put a +1/+1 counter on Aerith Gainsborough.\nWhen Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",
+            "artFileName": "FIN_004",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_004.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_004.jpg"
+        },
+        {
+            "cardID": "FIN-005",
+            "setCode": "FIN",
+            "cardNumber": 5,
+            "cardName": "Aerith Rescue Mission",
+            "cardText": "Choose one —\n• Take the Elevator — Create three 1/1 colorless Hero creature tokens.\n• Take 59 Flights of Stairs — Tap up to three target creatures. Put a stun counter on one of them.",
+            "artFileName": "FIN_005",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_005.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_005.jpg"
+        },
+        {
+            "cardID": "FIN-006",
+            "setCode": "FIN",
+            "cardNumber": 6,
+            "cardName": "Ambrosia Whiteheart",
+            "cardText": "Flash\nWhen Ambrosia Whiteheart enters, you may return another permanent you control to its owner's hand.\nLandfall — Whenever a land you control enters, Ambrosia Whiteheart gets +1/+0 until end of turn.",
+            "artFileName": "FIN_006",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_006.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_006.jpg"
+        },
+        {
+            "cardID": "FIN-007",
+            "setCode": "FIN",
+            "cardNumber": 7,
+            "cardName": "Ashe, Princess of Dalmasca",
+            "cardText": "Whenever Ashe attacks, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+            "artFileName": "FIN_007",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_007.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_007.jpg"
+        },
+        {
+            "cardID": "FIN-008",
+            "setCode": "FIN",
+            "cardNumber": 8,
+            "cardName": "Auron's Inspiration",
+            "cardText": "Attacking creatures get +2/+0 until end of turn.\nFlashback {2}{W}{W}",
+            "artFileName": "FIN_008",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_008.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_008.jpg"
+        },
+        {
+            "cardID": "FIN-009",
+            "setCode": "FIN",
+            "cardNumber": 9,
+            "cardName": "Battle Menu",
+            "cardText": "Choose one —\n• Attack — Create a 2/2 white Knight creature token.\n• Ability — Target creature gets +0/+4 until end of turn.\n• Magic — Destroy target creature with power 4 or greater.\n• Item — You gain 4 life.",
+            "artFileName": "FIN_009",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_009.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_009.jpg"
+        },
+        {
+            "cardID": "FIN-010",
+            "setCode": "FIN",
+            "cardNumber": 10,
+            "cardName": "Cloud, Midgar Mercenary",
+            "cardText": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if a triggered ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time.",
+            "artFileName": "FIN_010",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_010.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_010.jpg"
+        },
+        {
+            "cardID": "FIN-011",
+            "setCode": "FIN",
+            "cardNumber": 11,
+            "cardName": "Cloudbound Moogle",
+            "cardText": "Flying\nWhen this creature enters, put a +1/+1 counter on target creature.\nPlainscycling {2}",
+            "artFileName": "FIN_011",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_011.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_011.jpg"
+        },
+        {
+            "cardID": "FIN-012",
+            "setCode": "FIN",
+            "cardNumber": 12,
+            "cardName": "Coeurl",
+            "cardText": "{1}{W}, {T}: Tap target nonenchantment creature.",
+            "artFileName": "FIN_012",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_012.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_012.jpg"
+        },
+        {
+            "cardID": "FIN-013",
+            "setCode": "FIN",
+            "cardNumber": 13,
+            "cardName": "Crystal Fragments // Summon: Alexander",
+            "cardText": "Equipped creature gets +1/+1.\n{5}{W}{W}: Exile this Equipment, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.\nEquip {1}",
+            "artFileName": "FIN_013",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_013.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_013.jpg"
+        },
+        {
+            "cardID": "FIN-014",
+            "setCode": "FIN",
+            "cardNumber": 14,
+            "cardName": "The Crystal's Chosen",
+            "cardText": "Create four 1/1 colorless Hero creature tokens. Then put a +1/+1 counter on each creature you control.",
+            "artFileName": "FIN_014",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_014.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_014.jpg"
+        },
+        {
+            "cardID": "FIN-015",
+            "setCode": "FIN",
+            "cardNumber": 15,
+            "cardName": "Delivery Moogle",
+            "cardText": "Flying\nWhen this creature enters, search your library and/or graveyard for an artifact card with mana value 2 or less, reveal it, and put it into your hand. If you search your library this way, shuffle.",
+            "artFileName": "FIN_015",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_015.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_015.jpg"
+        },
+        {
+            "cardID": "FIN-016",
+            "setCode": "FIN",
+            "cardNumber": 16,
+            "cardName": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+            "cardText": "Dragonfire Dive — During your turn, Dion and other Knights you control have flying.\nWhen Dion enters, create a 2/2 white Knight creature token.\n{4}{W}{W}, {T}: Exile Dion, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "artFileName": "FIN_016",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_016.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_016.jpg"
+        },
+        {
+            "cardID": "FIN-017",
+            "setCode": "FIN",
+            "cardNumber": 17,
+            "cardName": "Dragoon's Lance",
+            "cardText": "Job select\nEquipped creature gets +1/+0 and is a Knight in addition to its other types.\nDuring your turn, equipped creature has flying.\nGae Bolg — Equip {4}",
+            "artFileName": "FIN_017",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_017.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_017.jpg"
+        },
+        {
+            "cardID": "FIN-018",
+            "setCode": "FIN",
+            "cardNumber": 18,
+            "cardName": "Dwarven Castle Guard",
+            "cardText": "When this creature dies, create a 1/1 colorless Hero creature token.",
+            "artFileName": "FIN_018",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_018.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_018.jpg"
+        },
+        {
+            "cardID": "FIN-019",
+            "setCode": "FIN",
+            "cardNumber": 19,
+            "cardName": "Fate of the Sun-Cryst",
+            "cardText": "This spell costs {2} less to cast if it targets a tapped creature.\nDestroy target nonland permanent.",
+            "artFileName": "FIN_019",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_019.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_019.jpg"
+        },
+        {
+            "cardID": "FIN-020",
+            "setCode": "FIN",
+            "cardNumber": 20,
+            "cardName": "From Father to Son",
+            "cardText": "Search your library for a Vehicle card, reveal it, and put it into your hand. If this spell was cast from a graveyard, put that card onto the battlefield instead. Then shuffle.\nFlashback {4}{W}{W}{W}",
+            "artFileName": "FIN_020",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_020.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_020.jpg"
+        },
+        {
+            "cardID": "FIN-021",
+            "setCode": "FIN",
+            "cardNumber": 21,
+            "cardName": "G'raha Tia",
+            "cardText": "Reach\nThe Allagan Eye — Whenever one or more other creatures and/or artifacts you control die, draw a card. This ability triggers only once each turn.",
+            "artFileName": "FIN_021",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_021.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_021.jpg"
+        },
+        {
+            "cardID": "FIN-022",
+            "setCode": "FIN",
+            "cardNumber": 22,
+            "cardName": "Gaelicat",
+            "cardText": "Flying, vigilance\nAs long as you control two or more artifacts, this creature gets +2/+0.",
+            "artFileName": "FIN_022",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_022.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_022.jpg"
+        },
+        {
+            "cardID": "FIN-023",
+            "setCode": "FIN",
+            "cardNumber": 23,
+            "cardName": "Machinist's Arsenal",
+            "cardText": "Job select\nEquipped creature gets +2/+2 for each artifact you control and is an Artificer in addition to its other types.\nMachina — Equip {4}",
+            "artFileName": "FIN_023",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_023.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_023.jpg"
+        },
+        {
+            "cardID": "FIN-024",
+            "setCode": "FIN",
+            "cardNumber": 24,
+            "cardName": "Magitek Armor",
+            "cardText": "When this Vehicle enters, create a 1/1 colorless Hero creature token.\nCrew 1",
+            "artFileName": "FIN_024",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_024.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_024.jpg"
+        },
+        {
+            "cardID": "FIN-025",
+            "setCode": "FIN",
+            "cardNumber": 25,
+            "cardName": "Magitek Infantry",
+            "cardText": "This creature gets +1/+0 as long as you control another artifact.\n{2}{W}: Search your library for a card named Magitek Infantry, put it onto the battlefield tapped, then shuffle.",
+            "artFileName": "FIN_025",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_025.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_025.jpg"
+        },
+        {
+            "cardID": "FIN-026",
+            "setCode": "FIN",
+            "cardNumber": 26,
+            "cardName": "Minwu, White Mage",
+            "cardText": "Vigilance, lifelink\nWhenever you gain life, put a +1/+1 counter on each Cleric you control.",
+            "artFileName": "FIN_026",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_026.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_026.jpg"
+        },
+        {
+            "cardID": "FIN-027",
+            "setCode": "FIN",
+            "cardNumber": 27,
+            "cardName": "Moogles' Valor",
+            "cardText": "For each creature you control, create a 1/2 white Moogle creature token with lifelink. Then creatures you control gain indestructible until end of turn.",
+            "artFileName": "FIN_027",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_027.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_027.jpg"
+        },
+        {
+            "cardID": "FIN-028",
+            "setCode": "FIN",
+            "cardNumber": 28,
+            "cardName": "Paladin's Arms",
+            "cardText": "Job select\nEquipped creature gets +2/+1, has ward {1}, and is a Knight in addition to its other types.\nLightbringer and Hero's Shield — Equip {4}",
+            "artFileName": "FIN_028",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_028.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_028.jpg"
+        },
+        {
+            "cardID": "FIN-029",
+            "setCode": "FIN",
+            "cardNumber": 29,
+            "cardName": "Phoenix Down",
+            "cardText": "{1}{W}, {T}, Exile this artifact: Choose one —\n• Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.\n• Exile target Skeleton, Spirit, or Zombie.",
+            "artFileName": "FIN_029",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_029.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_029.jpg"
+        },
+        {
+            "cardID": "FIN-030",
+            "setCode": "FIN",
+            "cardNumber": 30,
+            "cardName": "Restoration Magic",
+            "cardText": "Tiered\n• Cure — {0} — Target permanent gains hexproof and indestructible until end of turn.\n• Cura — {1} — Target permanent gains hexproof and indestructible until end of turn. You gain 3 life.\n• Curaga — {3}{W} — Permanents you control gain hexproof and indestructible until end of turn. You gain 6 life.",
+            "artFileName": "FIN_030",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_030.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_030.jpg"
+        },
+        {
+            "cardID": "FIN-031",
+            "setCode": "FIN",
+            "cardNumber": 31,
+            "cardName": "Sidequest: Catch a Fish // Cooking Campsite",
+            "cardText": "At the beginning of your upkeep, look at the top card of your library. If it's an artifact or creature card, you may reveal it and put it into your hand. If you put a card into your hand this way, create a Food token and transform this enchantment.",
+            "artFileName": "FIN_031",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_031.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_031.jpg"
+        },
+        {
+            "cardID": "FIN-032",
+            "setCode": "FIN",
+            "cardNumber": 32,
+            "cardName": "Slash of Light",
+            "cardText": "Slash of Light deals damage equal to the number of creatures you control plus the number of Equipment you control to target creature.",
+            "artFileName": "FIN_032",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_032.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_032.jpg"
+        },
+        {
+            "cardID": "FIN-033",
+            "setCode": "FIN",
+            "cardNumber": 33,
+            "cardName": "Snow Villiers",
+            "cardText": "Vigilance\nSnow Villiers's power is equal to the number of creatures you control.",
+            "artFileName": "FIN_033",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_033.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_033.jpg"
+        },
+        {
+            "cardID": "FIN-034",
+            "setCode": "FIN",
+            "cardNumber": 34,
+            "cardName": "Stiltzkin, Moogle Merchant",
+            "cardText": "Lifelink\n{2}, {T}: Target opponent gains control of another target permanent you control. If they do, you draw a card.",
+            "artFileName": "FIN_034",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_034.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_034.jpg"
+        },
+        {
+            "cardID": "FIN-035",
+            "setCode": "FIN",
+            "cardNumber": 35,
+            "cardName": "Summon: Choco/Mog",
+            "cardText": "I, II, III, IV — Stampede! — Other creatures you control get +1/+0 until end of turn.",
+            "artFileName": "FIN_035",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_035.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_035.jpg"
+        },
+        {
+            "cardID": "FIN-036",
+            "setCode": "FIN",
+            "cardNumber": 36,
+            "cardName": "Summon: Knights of Round",
+            "cardText": "I, II, III, IV — Create three 2/2 white Knight creature tokens.\nV — Ultimate End — Other creatures you control get +2/+2 until end of turn. Put an indestructible counter on each of them.\nIndestructible",
+            "artFileName": "FIN_036",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_036.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_036.jpg"
+        },
+        {
+            "cardID": "FIN-037",
+            "setCode": "FIN",
+            "cardNumber": 37,
+            "cardName": "Summon: Primal Garuda",
+            "cardText": "I — Aerial Blast — This creature deals 4 damage to target tapped creature an opponent controls.\nII, III — Slipstream — Another target creature you control gets +1/+0 and gains flying until end of turn.\nFlying",
+            "artFileName": "FIN_037",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_037.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_037.jpg"
+        },
+        {
+            "cardID": "FIN-038",
+            "setCode": "FIN",
+            "cardNumber": 38,
+            "cardName": "Ultima",
+            "cardText": "Destroy all artifacts and creatures. End the turn.",
+            "artFileName": "FIN_038",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_038.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_038.jpg"
+        },
+        {
+            "cardID": "FIN-039",
+            "setCode": "FIN",
+            "cardNumber": 39,
+            "cardName": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+            "cardText": "Whenever you cast a legendary spell, draw a card. This ability triggers only once each turn.\nHero's Sundering — {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.",
+            "artFileName": "FIN_039",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_039.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_039.jpg"
+        },
+        {
+            "cardID": "FIN-040",
+            "setCode": "FIN",
+            "cardNumber": 40,
+            "cardName": "Weapons Vendor",
+            "cardText": "When this creature enters, draw a card.\nAt the beginning of combat on your turn, if you control an Equipment, you may pay {1}. When you do, attach target Equipment you control to target creature you control.",
+            "artFileName": "FIN_040",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_040.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_040.jpg"
+        },
+        {
+            "cardID": "FIN-041",
+            "setCode": "FIN",
+            "cardNumber": 41,
+            "cardName": "White Auracite",
+            "cardText": "When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.\n{T}: Add {W}.",
+            "artFileName": "FIN_041",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_041.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_041.jpg"
+        },
+        {
+            "cardID": "FIN-042",
+            "setCode": "FIN",
+            "cardNumber": 42,
+            "cardName": "White Mage's Staff",
+            "cardText": "Job select\nEquipped creature gets +1/+1, has \"Whenever this creature attacks, you gain 1 life,\" and is a Cleric in addition to its other types.\nEquip {3}",
+            "artFileName": "FIN_042",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_042.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_042.jpg"
+        },
+        {
+            "cardID": "FIN-043",
+            "setCode": "FIN",
+            "cardNumber": 43,
+            "cardName": "The Wind Crystal",
+            "cardText": "White spells you cast cost {1} less to cast.\nIf you would gain life, you gain twice that much life instead.\n{4}{W}{W}, {T}: Creatures you control gain flying and lifelink until end of turn.",
+            "artFileName": "FIN_043",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_043.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_043.jpg"
+        },
+        {
+            "cardID": "FIN-044",
+            "setCode": "FIN",
+            "cardNumber": 44,
+            "cardName": "You're Not Alone",
+            "cardText": "Target creature gets +2/+2 until end of turn. If you control three or more creatures, it gets +4/+4 until end of turn instead.",
+            "artFileName": "FIN_044",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_044.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_044.jpg"
+        },
+        {
+            "cardID": "FIN-045",
+            "setCode": "FIN",
+            "cardNumber": 45,
+            "cardName": "Zack Fair",
+            "cardText": "Zack Fair enters with a +1/+1 counter on it.\n{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",
+            "artFileName": "FIN_045",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_045.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_045.jpg"
+        },
+        {
+            "cardID": "FIN-046",
+            "setCode": "FIN",
+            "cardNumber": 46,
+            "cardName": "Astrologian's Planisphere",
+            "cardText": "Job select\nEquipped creature is a Wizard in addition to its other types and has \"Whenever you cast a noncreature spell and whenever you draw your third card each turn, put a +1/+1 counter on this creature.\"\nDiana — Equip {2}",
+            "artFileName": "FIN_046",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_046.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_046.jpg"
+        },
+        {
+            "cardID": "FIN-047",
+            "setCode": "FIN",
+            "cardNumber": 47,
+            "cardName": "Cargo Ship",
+            "cardText": "Flying, vigilance\n{T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.\nCrew 1",
+            "artFileName": "FIN_047",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_047.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_047.jpg"
+        },
+        {
+            "cardID": "FIN-048",
+            "setCode": "FIN",
+            "cardNumber": 48,
+            "cardName": "Combat Tutorial",
+            "cardText": "Target player draws two cards. Put a +1/+1 counter on up to one target creature you control.",
+            "artFileName": "FIN_048",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_048.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_048.jpg"
+        },
+        {
+            "cardID": "FIN-049",
+            "setCode": "FIN",
+            "cardNumber": 49,
+            "cardName": "Dragoon's Wyvern",
+            "cardText": "Flying\nWhen this creature enters, create a 1/1 colorless Hero creature token.",
+            "artFileName": "FIN_049",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_049.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_049.jpg"
+        },
+        {
+            "cardID": "FIN-050",
+            "setCode": "FIN",
+            "cardNumber": 50,
+            "cardName": "Dreams of Laguna",
+            "cardText": "Surveil 1, then draw a card.\nFlashback {3}{U}",
+            "artFileName": "FIN_050",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_050.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_050.jpg"
+        },
+        {
+            "cardID": "FIN-051",
+            "setCode": "FIN",
+            "cardNumber": 51,
+            "cardName": "Edgar, King of Figaro",
+            "cardText": "When Edgar enters, draw a card for each artifact you control.\nTwo-Headed Coin — The first time you flip one or more coins each turn, those coins come up heads and you win those flips.",
+            "artFileName": "FIN_051",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_051.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_051.jpg"
+        },
+        {
+            "cardID": "FIN-052",
+            "setCode": "FIN",
+            "cardNumber": 52,
+            "cardName": "Eject",
+            "cardText": "This spell can't be countered.\nReturn target nonland permanent to its owner's hand.\nDraw a card.",
+            "artFileName": "FIN_052",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_052.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_052.jpg"
+        },
+        {
+            "cardID": "FIN-053",
+            "setCode": "FIN",
+            "cardNumber": 53,
+            "cardName": "Ether",
+            "cardText": "{T}, Exile this artifact: Add {U}. When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+            "artFileName": "FIN_053",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_053.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_053.jpg"
+        },
+        {
+            "cardID": "FIN-054",
+            "setCode": "FIN",
+            "cardNumber": 54,
+            "cardName": "Gogo, Master of Mimicry",
+            "cardText": "{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0.",
+            "artFileName": "FIN_054",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_054.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_054.jpg"
+        },
+        {
+            "cardID": "FIN-055",
+            "setCode": "FIN",
+            "cardNumber": 55,
+            "cardName": "Ice Flan",
+            "cardText": "When this creature enters, tap target artifact or creature an opponent controls. Put a stun counter on it.\nIslandcycling {2}",
+            "artFileName": "FIN_055",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_055.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_055.jpg"
+        },
+        {
+            "cardID": "FIN-056",
+            "setCode": "FIN",
+            "cardNumber": 56,
+            "cardName": "Ice Magic",
+            "cardText": "Tiered\n• Blizzard — {0} — Return target creature to its owner's hand.\n• Blizzara — {2} — Target creature's owner puts it on their choice of the top or bottom of their library.\n• Blizzaga — {5}{U} — Target creature's owner shuffles it into their library.",
+            "artFileName": "FIN_056",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_056.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_056.jpg"
+        },
+        {
+            "cardID": "FIN-057",
+            "setCode": "FIN",
+            "cardNumber": 57,
+            "cardName": "Il Mheg Pixie",
+            "cardText": "Flying\nWhenever this creature attacks, surveil 1.",
+            "artFileName": "FIN_057",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_057.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_057.jpg"
+        },
+        {
+            "cardID": "FIN-058",
+            "setCode": "FIN",
+            "cardNumber": 58,
+            "cardName": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+            "cardText": "When Jill enters, return up to one other target nonland permanent to its owner's hand.\n{3}{U}{U}, {T}: Exile Jill, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "artFileName": "FIN_058",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_058.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_058.jpg"
+        },
+        {
+            "cardID": "FIN-059",
+            "setCode": "FIN",
+            "cardNumber": 59,
+            "cardName": "Louisoix's Sacrifice",
+            "cardText": "As an additional cost to cast this spell, sacrifice a legendary creature or pay {2}.\nCounter target activated ability, triggered ability, or noncreature spell.",
+            "artFileName": "FIN_059",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_059.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_059.jpg"
+        },
+        {
+            "cardID": "FIN-060",
+            "setCode": "FIN",
+            "cardNumber": 60,
+            "cardName": "The Lunar Whale",
+            "cardText": "Flying\nYou may look at the top card of your library any time.\nAs long as The Lunar Whale attacked this turn, you may play the top card of your library.\nCrew 1",
+            "artFileName": "FIN_060",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_060.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_060.jpg"
+        },
+        {
+            "cardID": "FIN-061",
+            "setCode": "FIN",
+            "cardNumber": 61,
+            "cardName": "Magic Damper",
+            "cardText": "Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.",
+            "artFileName": "FIN_061",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_061.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_061.jpg"
+        },
+        {
+            "cardID": "FIN-062",
+            "setCode": "FIN",
+            "cardNumber": 62,
+            "cardName": "Matoya, Archon Elder",
+            "cardText": "Whenever you scry or surveil, draw a card.",
+            "artFileName": "FIN_062",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_062.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_062.jpg"
+        },
+        {
+            "cardID": "FIN-063",
+            "setCode": "FIN",
+            "cardNumber": 63,
+            "cardName": "Memories Returning",
+            "cardText": "Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.\nFlashback {7}{U}{U}",
+            "artFileName": "FIN_063",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_063.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_063.jpg"
+        },
+        {
+            "cardID": "FIN-064",
+            "setCode": "FIN",
+            "cardNumber": 64,
+            "cardName": "The Prima Vista",
+            "cardText": "Flying\nWhenever you cast a noncreature spell, if at least four mana was spent to cast it, The Prima Vista becomes an artifact creature until end of turn.\nCrew 2",
+            "artFileName": "FIN_064",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_064.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_064.jpg"
+        },
+        {
+            "cardID": "FIN-065",
+            "setCode": "FIN",
+            "cardNumber": 65,
+            "cardName": "Qiqirn Merchant",
+            "cardText": "{1}, {T}: Draw a card, then discard a card.\n{7}, {T}, Sacrifice this creature: Draw three cards. This ability costs {1} less to activate for each Town you control.",
+            "artFileName": "FIN_065",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_065.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_065.jpg"
+        },
+        {
+            "cardID": "FIN-066",
+            "setCode": "FIN",
+            "cardNumber": 66,
+            "cardName": "Quistis Trepe",
+            "cardText": "Blue Magic — When Quistis Trepe enters, you may cast target instant or sorcery card from a graveyard, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",
+            "artFileName": "FIN_066",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_066.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_066.jpg"
+        },
+        {
+            "cardID": "FIN-067",
+            "setCode": "FIN",
+            "cardNumber": 67,
+            "cardName": "Relm's Sketching",
+            "cardText": "Create a token that's a copy of target artifact, creature, or land.",
+            "artFileName": "FIN_067",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_067.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_067.jpg"
+        },
+        {
+            "cardID": "FIN-068",
+            "setCode": "FIN",
+            "cardNumber": 68,
+            "cardName": "Retrieve the Esper",
+            "cardText": "Create a 3/3 blue Robot Warrior artifact creature token. Then if this spell was cast from a graveyard, put two +1/+1 counters on that token.\nFlashback {5}{U}",
+            "artFileName": "FIN_068",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_068.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_068.jpg"
+        },
+        {
+            "cardID": "FIN-069",
+            "setCode": "FIN",
+            "cardNumber": 69,
+            "cardName": "Rook Turret",
+            "cardText": "Flying\nWhenever another artifact you control enters, you may draw a card. If you do, discard a card.",
+            "artFileName": "FIN_069",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_069.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_069.jpg"
+        },
+        {
+            "cardID": "FIN-070",
+            "setCode": "FIN",
+            "cardNumber": 70,
+            "cardName": "Sage's Nouliths",
+            "cardText": "Job select\nEquipped creature gets +1/+0, has \"Whenever this creature attacks, untap target attacking creature,\" and is a Cleric in addition to its other types.\nHagneia — Equip {3}",
+            "artFileName": "FIN_070",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_070.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_070.jpg"
+        },
+        {
+            "cardID": "FIN-071",
+            "setCode": "FIN",
+            "cardNumber": 71,
+            "cardName": "Sahagin",
+            "cardText": "Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature and it can't be blocked this turn.",
+            "artFileName": "FIN_071",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_071.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_071.jpg"
+        },
+        {
+            "cardID": "FIN-072",
+            "setCode": "FIN",
+            "cardNumber": 72,
+            "cardName": "Scorpion Sentinel",
+            "cardText": "As long as you control seven or more lands, this creature gets +3/+0.",
+            "artFileName": "FIN_072",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_072.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_072.jpg"
+        },
+        {
+            "cardID": "FIN-073",
+            "setCode": "FIN",
+            "cardNumber": 73,
+            "cardName": "Sidequest: Card Collection // Magicked Card",
+            "cardText": "When this enchantment enters, draw three cards, then discard two cards.\nAt the beginning of your end step, if eight or more cards are in your graveyard, transform this enchantment.",
+            "artFileName": "FIN_073",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_073.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_073.jpg"
+        },
+        {
+            "cardID": "FIN-074",
+            "setCode": "FIN",
+            "cardNumber": 74,
+            "cardName": "Sleep Magic",
+            "cardText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature is dealt damage, sacrifice this Aura.",
+            "artFileName": "FIN_074",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_074.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_074.jpg"
+        },
+        {
+            "cardID": "FIN-075",
+            "setCode": "FIN",
+            "cardNumber": 75,
+            "cardName": "Stolen Uniform",
+            "cardText": "Choose target creature you control and target Equipment. Gain control of that Equipment until end of turn. Attach it to the chosen creature. When you lose control of that Equipment this turn, if it's attached to a creature you control, unattach it.",
+            "artFileName": "FIN_075",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_075.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_075.jpg"
+        },
+        {
+            "cardID": "FIN-076",
+            "setCode": "FIN",
+            "cardNumber": 76,
+            "cardName": "Stuck in Summoner's Sanctum",
+            "cardText": "Flash\nEnchant artifact or creature\nWhen this Aura enters, tap enchanted permanent.\nEnchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.",
+            "artFileName": "FIN_076",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_076.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_076.jpg"
+        },
+        {
+            "cardID": "FIN-077",
+            "setCode": "FIN",
+            "cardNumber": 77,
+            "cardName": "Summon: Leviathan",
+            "cardText": "I — Return each creature that isn't a Kraken, Leviathan, Merfolk, Octopus, or Serpent to its owner's hand.\nII, III — Until end of turn, whenever a Kraken, Leviathan, Merfolk, Octopus, or Serpent attacks, draw a card.\nWard {2}",
+            "artFileName": "FIN_077",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_077.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_077.jpg"
+        },
+        {
+            "cardID": "FIN-078",
+            "setCode": "FIN",
+            "cardNumber": 78,
+            "cardName": "Summon: Shiva",
+            "cardText": "I, II — Heavenly Strike — Tap target creature an opponent controls. Put a stun counter on it.\nIII — Diamond Dust — Draw a card for each tapped creature your opponents control.",
+            "artFileName": "FIN_078",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_078.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_078.jpg"
+        },
+        {
+            "cardID": "FIN-079",
+            "setCode": "FIN",
+            "cardNumber": 79,
+            "cardName": "Swallowed by Leviathan",
+            "cardText": "Choose target spell. Surveil 2, then counter the chosen spell unless its controller pays {1} for each card in your graveyard.",
+            "artFileName": "FIN_079",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_079.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_079.jpg"
+        },
+        {
+            "cardID": "FIN-080",
+            "setCode": "FIN",
+            "cardNumber": 80,
+            "cardName": "Syncopate",
+            "cardText": "Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+            "artFileName": "FIN_080",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_080.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_080.jpg"
+        },
+        {
+            "cardID": "FIN-081",
+            "setCode": "FIN",
+            "cardNumber": 81,
+            "cardName": "Thief's Knife",
+            "cardText": "Job select\nEquipped creature gets +1/+1, has \"Whenever this creature deals combat damage to a player, draw a card,\" and is a Rogue in addition to its other types.\nEquip {4}",
+            "artFileName": "FIN_081",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_081.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_081.jpg"
+        },
+        {
+            "cardID": "FIN-082",
+            "setCode": "FIN",
+            "cardNumber": 82,
+            "cardName": "Travel the Overworld",
+            "cardText": "Affinity for Towns\nDraw four cards.",
+            "artFileName": "FIN_082",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_082.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_082.jpg"
+        },
+        {
+            "cardID": "FIN-083",
+            "setCode": "FIN",
+            "cardNumber": 83,
+            "cardName": "Ultros, Obnoxious Octopus",
+            "cardText": "Whenever you cast a noncreature spell, if at least four mana was spent to cast it, tap target creature an opponent controls and put a stun counter on it.\nWhenever you cast a noncreature spell, if at least eight mana was spent to cast it, put eight +1/+1 counters on Ultros.",
+            "artFileName": "FIN_083",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_083.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_083.jpg"
+        },
+        {
+            "cardID": "FIN-084",
+            "setCode": "FIN",
+            "cardNumber": 84,
+            "cardName": "Valkyrie Aerial Unit",
+            "cardText": "Affinity for artifacts\nFlying\nWhen this creature enters, surveil 2.",
+            "artFileName": "FIN_084",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_084.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_084.jpg"
+        },
+        {
+            "cardID": "FIN-085",
+            "setCode": "FIN",
+            "cardNumber": 85,
+            "cardName": "The Water Crystal",
+            "cardText": "Blue spells you cast cost {1} less to cast.\nIf an opponent would mill one or more cards, they mill that many cards plus four instead.\n{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand.",
+            "artFileName": "FIN_085",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_085.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_085.jpg"
+        },
+        {
+            "cardID": "FIN-086",
+            "setCode": "FIN",
+            "cardNumber": 86,
+            "cardName": "Y'shtola Rhul",
+            "cardText": "At the beginning of your end step, exile target creature you control, then return it to the battlefield under its owner's control. Then if it's the first end step of the turn, there is an additional end step after this step.",
+            "artFileName": "FIN_086",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_086.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_086.jpg"
+        },
+        {
+            "cardID": "FIN-087",
+            "setCode": "FIN",
+            "cardNumber": 87,
+            "cardName": "Ahriman",
+            "cardText": "Flying, deathtouch\n{3}, Sacrifice another creature or artifact: Draw a card.",
+            "artFileName": "FIN_087",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_087.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_087.jpg"
+        },
+        {
+            "cardID": "FIN-088",
+            "setCode": "FIN",
+            "cardNumber": 88,
+            "cardName": "Al Bhed Salvagers",
+            "cardText": "Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.",
+            "artFileName": "FIN_088",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_088.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_088.jpg"
+        },
+        {
+            "cardID": "FIN-089",
+            "setCode": "FIN",
+            "cardNumber": 89,
+            "cardName": "Ardyn, the Usurper",
+            "cardText": "Demons you control have menace, lifelink, and haste.\nStarscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",
+            "artFileName": "FIN_089",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_089.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_089.jpg"
+        },
+        {
+            "cardID": "FIN-090",
+            "setCode": "FIN",
+            "cardNumber": 90,
+            "cardName": "Black Mage's Rod",
+            "cardText": "Job select\nEquipped creature gets +1/+0, has \"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent,\" and is a Wizard in addition to its other types.\nEquip {3}",
+            "artFileName": "FIN_090",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_090.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_090.jpg"
+        },
+        {
+            "cardID": "FIN-091",
+            "setCode": "FIN",
+            "cardNumber": 91,
+            "cardName": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+            "cardText": "Deathtouch\nDarkness — Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.",
+            "artFileName": "FIN_091",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_091.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_091.jpg"
+        },
+        {
+            "cardID": "FIN-092",
+            "setCode": "FIN",
+            "cardNumber": 92,
+            "cardName": "Circle of Power",
+            "cardText": "You draw two cards and you lose 2 life. Create a 0/1 black Wizard creature token with \"Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.\"\nWizards you control get +1/+0 and gain lifelink until end of turn.",
+            "artFileName": "FIN_092",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_092.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_092.jpg"
+        },
+        {
+            "cardID": "FIN-093",
+            "setCode": "FIN",
+            "cardNumber": 93,
+            "cardName": "Cornered by Black Mages",
+            "cardText": "Target opponent sacrifices a creature of their choice.\nCreate a 0/1 black Wizard creature token with \"Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.\"",
+            "artFileName": "FIN_093",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_093.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_093.jpg"
+        },
+        {
+            "cardID": "FIN-094",
+            "setCode": "FIN",
+            "cardNumber": 94,
+            "cardName": "Dark Confidant",
+            "cardText": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+            "artFileName": "FIN_094",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_094.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_094.jpg"
+        },
+        {
+            "cardID": "FIN-095",
+            "setCode": "FIN",
+            "cardNumber": 95,
+            "cardName": "Dark Knight's Greatsword",
+            "cardText": "Job select\nEquipped creature gets +3/+0 and is a Knight in addition to its other types.\nChaosbringer — Equip—Pay 3 life. Activate only once each turn.",
+            "artFileName": "FIN_095",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_095.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_095.jpg"
+        },
+        {
+            "cardID": "FIN-096",
+            "setCode": "FIN",
+            "cardNumber": 96,
+            "cardName": "The Darkness Crystal",
+            "cardText": "Black spells you cast cost {1} less to cast.\nIf a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.\n{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",
+            "artFileName": "FIN_096",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_096.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_096.jpg"
+        },
+        {
+            "cardID": "FIN-097",
+            "setCode": "FIN",
+            "cardNumber": 97,
+            "cardName": "Demon Wall",
+            "cardText": "Defender\nMenace\nAs long as this creature has a counter on it, it can attack as though it didn't have defender.\n{5}{B}: Put two +1/+1 counters on this creature.",
+            "artFileName": "FIN_097",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_097.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_097.jpg"
+        },
+        {
+            "cardID": "FIN-098",
+            "setCode": "FIN",
+            "cardNumber": 98,
+            "cardName": "Evil Reawakened",
+            "cardText": "Return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.",
+            "artFileName": "FIN_098",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_098.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_098.jpg"
+        },
+        {
+            "cardID": "FIN-099",
+            "setCode": "FIN",
+            "cardNumber": 99,
+            "cardName": "Fang, Fearless l'Cie",
+            "cardText": "Whenever one or more cards leave your graveyard, you draw a card and you lose 1 life. This ability triggers only once each turn.",
+            "artFileName": "FIN_099",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_099.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_099.jpg"
+        },
+        {
+            "cardID": "FIN-100",
+            "setCode": "FIN",
+            "cardNumber": 100,
+            "cardName": "Fight On!",
+            "cardText": "Return up to two target creature cards from your graveyard to your hand.",
+            "artFileName": "FIN_100",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_100.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_100.jpg"
+        },
+        {
+            "cardID": "FIN-101",
+            "setCode": "FIN",
+            "cardNumber": 101,
+            "cardName": "The Final Days",
+            "cardText": "Create two tapped 2/2 black Horror creature tokens. If this spell was cast from a graveyard, instead create X of those tokens, where X is the number of creature cards in your graveyard.\nFlashback {4}{B}{B}",
+            "artFileName": "FIN_101",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_101.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_101.jpg"
+        },
+        {
+            "cardID": "FIN-102",
+            "setCode": "FIN",
+            "cardNumber": 102,
+            "cardName": "Gaius van Baelsar",
+            "cardText": "When Gaius van Baelsar enters, choose one —\n• Each player sacrifices a creature token of their choice.\n• Each player sacrifices a nontoken creature of their choice.\n• Each player sacrifices an enchantment of their choice.",
+            "artFileName": "FIN_102",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_102.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_102.jpg"
+        },
+        {
+            "cardID": "FIN-103",
+            "setCode": "FIN",
+            "cardNumber": 103,
+            "cardName": "Hecteyes",
+            "cardText": "When this creature enters, each opponent discards a card.",
+            "artFileName": "FIN_103",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_103.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_103.jpg"
+        },
+        {
+            "cardID": "FIN-104",
+            "setCode": "FIN",
+            "cardNumber": 104,
+            "cardName": "Jecht, Reluctant Guardian // Braska's Final Aeon",
+            "cardText": "Menace\nWhenever Jecht deals combat damage to a player, you may exile it, then return it to the battlefield transformed under its owner's control.",
+            "artFileName": "FIN_104",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_104.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_104.jpg"
+        },
+        {
+            "cardID": "FIN-105",
+            "setCode": "FIN",
+            "cardNumber": 105,
+            "cardName": "Kain, Traitorous Dragoon",
+            "cardText": "Jump — During your turn, Kain has flying.\nWhenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",
+            "artFileName": "FIN_105",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_105.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_105.jpg"
+        },
+        {
+            "cardID": "FIN-106",
+            "setCode": "FIN",
+            "cardNumber": 106,
+            "cardName": "Malboro",
+            "cardText": "Bad Breath — When this creature enters, each opponent discards a card, loses 2 life, and exiles the top three cards of their library.\nSwampcycling {2}",
+            "artFileName": "FIN_106",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_106.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_106.jpg"
+        },
+        {
+            "cardID": "FIN-107",
+            "setCode": "FIN",
+            "cardNumber": 107,
+            "cardName": "Namazu Trader",
+            "cardText": "When this creature enters, you lose 1 life and create a Treasure token.\nWhenever this creature attacks, you may sacrifice another creature or artifact. If you do, surveil 2.",
+            "artFileName": "FIN_107",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_107.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_107.jpg"
+        },
+        {
+            "cardID": "FIN-108",
+            "setCode": "FIN",
+            "cardNumber": 108,
+            "cardName": "Ninja's Blades",
+            "cardText": "Job select\nEquipped creature gets +1/+1, is a Ninja in addition to its other types, and has \"Whenever this creature deals combat damage to a player, draw a card, then discard a card. That player loses life equal to the discarded card's mana value.\"\nMutsunokami — Equip {2}",
+            "artFileName": "FIN_108",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_108.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_108.jpg"
+        },
+        {
+            "cardID": "FIN-109",
+            "setCode": "FIN",
+            "cardNumber": 109,
+            "cardName": "Overkill",
+            "cardText": "Target creature gets -0/-9999 until end of turn.",
+            "artFileName": "FIN_109",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_109.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_109.jpg"
+        },
+        {
+            "cardID": "FIN-110",
+            "setCode": "FIN",
+            "cardNumber": 110,
+            "cardName": "Phantom Train",
+            "cardText": "Trample\nSacrifice another artifact or creature: Put a +1/+1 counter on this Vehicle. It becomes a Spirit artifact creature in addition to its other types until end of turn.",
+            "artFileName": "FIN_110",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_110.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_110.jpg"
+        },
+        {
+            "cardID": "FIN-111",
+            "setCode": "FIN",
+            "cardNumber": 111,
+            "cardName": "Poison the Waters",
+            "cardText": "Choose one —\n• All creatures get -1/-1 until end of turn.\n• Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.",
+            "artFileName": "FIN_111",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_111.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_111.jpg"
+        },
+        {
+            "cardID": "FIN-112",
+            "setCode": "FIN",
+            "cardNumber": 112,
+            "cardName": "Qutrub Forayer",
+            "cardText": "When this creature enters, choose one —\n• Destroy target creature that was dealt damage this turn.\n• Exile up to two target cards from a single graveyard.",
+            "artFileName": "FIN_112",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_112.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_112.jpg"
+        },
+        {
+            "cardID": "FIN-113",
+            "setCode": "FIN",
+            "cardNumber": 113,
+            "cardName": "Reno and Rude",
+            "cardText": "Menace\nWhenever Reno and Rude deals combat damage to a player, exile the top card of that player's library. Then you may sacrifice another creature or artifact. If you do, you may play the exiled card this turn, and mana of any type can be spent to cast it.",
+            "artFileName": "FIN_113",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_113.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_113.jpg"
+        },
+        {
+            "cardID": "FIN-114",
+            "setCode": "FIN",
+            "cardNumber": 114,
+            "cardName": "Resentful Revelation",
+            "cardText": "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.\nFlashback {6}{B}",
+            "artFileName": "FIN_114",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_114.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_114.jpg"
+        },
+        {
+            "cardID": "FIN-115",
+            "setCode": "FIN",
+            "cardNumber": 115,
+            "cardName": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+            "cardText": "Whenever Sephiroth enters or attacks, you may sacrifice another creature. If you do, draw a card.\nWhenever another creature dies, target opponent loses 1 life and you gain 1 life. If this is the fourth time this ability has resolved this turn, transform Sephiroth.",
+            "artFileName": "FIN_115",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_115.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_115.jpg"
+        },
+        {
+            "cardID": "FIN-116",
+            "setCode": "FIN",
+            "cardNumber": 116,
+            "cardName": "Sephiroth's Intervention",
+            "cardText": "Destroy target creature. You gain 2 life.",
+            "artFileName": "FIN_116",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_116.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_116.jpg"
+        },
+        {
+            "cardID": "FIN-117",
+            "setCode": "FIN",
+            "cardNumber": 117,
+            "cardName": "Shambling Cie'th",
+            "cardText": "This creature enters tapped.\nWhenever you cast a noncreature spell, you may pay {B}. If you do, return this card from your graveyard to your hand.",
+            "artFileName": "FIN_117",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_117.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_117.jpg"
+        },
+        {
+            "cardID": "FIN-118",
+            "setCode": "FIN",
+            "cardNumber": 118,
+            "cardName": "Shinra Reinforcements",
+            "cardText": "When this creature enters, mill three cards and you gain 3 life.",
+            "artFileName": "FIN_118",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_118.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_118.jpg"
+        },
+        {
+            "cardID": "FIN-119",
+            "setCode": "FIN",
+            "cardNumber": 119,
+            "cardName": "Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark",
+            "cardText": "When this enchantment enters, destroy up to one target creature.\nAt the beginning of your end step, if a creature died under an opponent's control this turn, create a Treasure token. Then if you control three or more Treasures, transform this enchantment.",
+            "artFileName": "FIN_119",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_119.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_119.jpg"
+        },
+        {
+            "cardID": "FIN-120",
+            "setCode": "FIN",
+            "cardNumber": 120,
+            "cardName": "Summon: Anima",
+            "cardText": "I, II, III — Pain — You draw a card and you lose 1 life.\nIV — Oblivion — Each opponent sacrifices a creature of their choice and loses 3 life.\nMenace",
+            "artFileName": "FIN_120",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_120.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_120.jpg"
+        },
+        {
+            "cardID": "FIN-121",
+            "setCode": "FIN",
+            "cardNumber": 121,
+            "cardName": "Summon: Primal Odin",
+            "cardText": "I — Gungnir — Destroy target creature an opponent controls.\nII — Zantetsuken — This creature gains \"Whenever this creature deals combat damage to a player, that player loses the game.\"\nIII — Hall of Sorrow — Draw two cards. Each player loses 2 life.",
+            "artFileName": "FIN_121",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_121.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_121.jpg"
+        },
+        {
+            "cardID": "FIN-122",
+            "setCode": "FIN",
+            "cardNumber": 122,
+            "cardName": "Tonberry",
+            "cardText": "This creature enters tapped with a stun counter on it.\nChef's Knife — During your turn, this creature has first strike and deathtouch.",
+            "artFileName": "FIN_122",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_122.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_122.jpg"
+        },
+        {
+            "cardID": "FIN-123",
+            "setCode": "FIN",
+            "cardNumber": 123,
+            "cardName": "Undercity Dire Rat",
+            "cardText": "Rat Tail — When this creature dies, create a Treasure token.",
+            "artFileName": "FIN_123",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_123.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_123.jpg"
+        },
+        {
+            "cardID": "FIN-124",
+            "setCode": "FIN",
+            "cardNumber": 124,
+            "cardName": "Vayne's Treachery",
+            "cardText": "Kicker—Sacrifice an artifact or creature.\nTarget creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.",
+            "artFileName": "FIN_124",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_124.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_124.jpg"
+        },
+        {
+            "cardID": "FIN-125",
+            "setCode": "FIN",
+            "cardNumber": 125,
+            "cardName": "Vincent Valentine // Galian Beast",
+            "cardText": "Whenever a creature an opponent controls dies, put a number of +1/+1 counters on Vincent Valentine equal to that creature's power.\nWhenever Vincent Valentine attacks, you may transform it.",
+            "artFileName": "FIN_125",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_125.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_125.jpg"
+        },
+        {
+            "cardID": "FIN-126",
+            "setCode": "FIN",
+            "cardNumber": 126,
+            "cardName": "Vincent's Limit Break",
+            "cardText": "Tiered\nUntil end of turn, target creature you control gains \"When this creature dies, return it to the battlefield tapped under its owner's control\" and has the chosen base power and toughness.\n• Galian Beast — {0} — 3/2.\n• Death Gigas — {1} — 5/2.\n• Hellmasker — {3} — 7/2.",
+            "artFileName": "FIN_126",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_126.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_126.jpg"
+        },
+        {
+            "cardID": "FIN-127",
+            "setCode": "FIN",
+            "cardNumber": 127,
+            "cardName": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+            "cardText": "My First Friend — When Zenos yae Galvus enters, choose a creature an opponent controls. Until end of turn, creatures other than Zenos yae Galvus and the chosen creature get -2/-2.\nWhen the chosen creature leaves the battlefield, transform Zenos yae Galvus.",
+            "artFileName": "FIN_127",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_127.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_127.jpg"
+        },
+        {
+            "cardID": "FIN-128",
+            "setCode": "FIN",
+            "cardNumber": 128,
+            "cardName": "Zodiark, Umbral God",
+            "cardText": "Indestructible\nWhen Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.\nWhenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.",
+            "artFileName": "FIN_128",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_128.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_128.jpg"
+        },
+        {
+            "cardID": "FIN-129",
+            "setCode": "FIN",
+            "cardNumber": 129,
+            "cardName": "Barret Wallace",
+            "cardText": "Reach\nWhenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.",
+            "artFileName": "FIN_129",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_129.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_129.jpg"
+        },
+        {
+            "cardID": "FIN-130",
+            "setCode": "FIN",
+            "cardNumber": 130,
+            "cardName": "Blazing Bomb",
+            "cardText": "Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature.\nBlow Up — {T}, Sacrifice this creature: It deals damage equal to its power to target creature. Activate only as a sorcery.",
+            "artFileName": "FIN_130",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_130.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_130.jpg"
+        },
+        {
+            "cardID": "FIN-131",
+            "setCode": "FIN",
+            "cardNumber": 131,
+            "cardName": "Call the Mountain Chocobo",
+            "cardText": "Search your library for a Mountain card, reveal it, put it into your hand, then shuffle. Create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"\nFlashback {5}{R}",
+            "artFileName": "FIN_131",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_131.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_131.jpg"
+        },
+        {
+            "cardID": "FIN-132",
+            "setCode": "FIN",
+            "cardNumber": 132,
+            "cardName": "Choco-Comet",
+            "cardText": "Choco-Comet deals X damage to any target.\nCreate a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"",
+            "artFileName": "FIN_132",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_132.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_132.jpg"
+        },
+        {
+            "cardID": "FIN-133",
+            "setCode": "FIN",
+            "cardNumber": 133,
+            "cardName": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+            "cardText": "When Clive enters, you may discard your hand, then draw cards equal to your devotion to red.\n{4}{R}{R}, {T}: Exile Clive, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "artFileName": "FIN_133",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_133.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_133.jpg"
+        },
+        {
+            "cardID": "FIN-134",
+            "setCode": "FIN",
+            "cardNumber": 134,
+            "cardName": "Coral Sword",
+            "cardText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.\nEquipped creature gets +1/+0.\nEquip {1}",
+            "artFileName": "FIN_134",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_134.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_134.jpg"
+        },
+        {
+            "cardID": "FIN-135",
+            "setCode": "FIN",
+            "cardNumber": 135,
+            "cardName": "The Fire Crystal",
+            "cardText": "Red spells you cast cost {1} less to cast.\nCreatures you control have haste.\n{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step.",
+            "artFileName": "FIN_135",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_135.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_135.jpg"
+        },
+        {
+            "cardID": "FIN-136",
+            "setCode": "FIN",
+            "cardNumber": 136,
+            "cardName": "Fire Magic",
+            "cardText": "Tiered\n• Fire — {0} — Fire Magic deals 1 damage to each creature.\n• Fira — {2} — Fire Magic deals 2 damage to each creature.\n• Firaga — {5} — Fire Magic deals 3 damage to each creature.",
+            "artFileName": "FIN_136",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_136.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_136.jpg"
+        },
+        {
+            "cardID": "FIN-137",
+            "setCode": "FIN",
+            "cardNumber": 137,
+            "cardName": "Firion, Wild Rose Warrior",
+            "cardText": "Equipped creatures you control have haste.\nWhenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has \"This Equipment's equip abilities cost {2} less to activate.\" Sacrifice that token at the beginning of the next upkeep.",
+            "artFileName": "FIN_137",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_137.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_137.jpg"
+        },
+        {
+            "cardID": "FIN-138",
+            "setCode": "FIN",
+            "cardNumber": 138,
+            "cardName": "Freya Crescent",
+            "cardText": "Jump — During your turn, Freya Crescent has flying.\n{T}: Add {R}. Spend this mana only to cast an Equipment spell or activate an equip ability.",
+            "artFileName": "FIN_138",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_138.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_138.jpg"
+        },
+        {
+            "cardID": "FIN-139",
+            "setCode": "FIN",
+            "cardNumber": 139,
+            "cardName": "Gilgamesh, Master-at-Arms",
+            "cardText": "Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",
+            "artFileName": "FIN_139",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_139.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_139.jpg"
+        },
+        {
+            "cardID": "FIN-140",
+            "setCode": "FIN",
+            "cardNumber": 140,
+            "cardName": "Haste Magic",
+            "cardText": "Target creature gets +3/+1 and gains haste until end of turn. Exile the top card of your library. You may play it until your next end step.",
+            "artFileName": "FIN_140",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_140.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_140.jpg"
+        },
+        {
+            "cardID": "FIN-141",
+            "setCode": "FIN",
+            "cardNumber": 141,
+            "cardName": "Hill Gigas",
+            "cardText": "Trample, haste\nMountaincycling {2}",
+            "artFileName": "FIN_141",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_141.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_141.jpg"
+        },
+        {
+            "cardID": "FIN-142",
+            "setCode": "FIN",
+            "cardNumber": 142,
+            "cardName": "Item Shopkeep",
+            "cardText": "Whenever you attack, target attacking equipped creature gains menace until end of turn.",
+            "artFileName": "FIN_142",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_142.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_142.jpg"
+        },
+        {
+            "cardID": "FIN-143",
+            "setCode": "FIN",
+            "cardNumber": 143,
+            "cardName": "Laughing Mad",
+            "cardText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.\nFlashback {3}{R}",
+            "artFileName": "FIN_143",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_143.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_143.jpg"
+        },
+        {
+            "cardID": "FIN-144",
+            "setCode": "FIN",
+            "cardNumber": 144,
+            "cardName": "Light of Judgment",
+            "cardText": "Light of Judgment deals 6 damage to target creature. Destroy up to one Equipment attached to that creature.",
+            "artFileName": "FIN_144",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_144.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_144.jpg"
+        },
+        {
+            "cardID": "FIN-145",
+            "setCode": "FIN",
+            "cardNumber": 145,
+            "cardName": "Mysidian Elder",
+            "cardText": "When this creature enters, create a 0/1 black Wizard creature token with \"Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.\"",
+            "artFileName": "FIN_145",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_145.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_145.jpg"
+        },
+        {
+            "cardID": "FIN-146",
+            "setCode": "FIN",
+            "cardNumber": 146,
+            "cardName": "Nibelheim Aflame",
+            "cardText": "Choose target creature you control. It deals damage equal to its power to each other creature. If this spell was cast from a graveyard, discard your hand and draw four cards.\nFlashback {5}{R}{R}",
+            "artFileName": "FIN_146",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_146.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_146.jpg"
+        },
+        {
+            "cardID": "FIN-147",
+            "setCode": "FIN",
+            "cardNumber": 147,
+            "cardName": "Opera Love Song",
+            "cardText": "Choose one —\n• Exile the top two cards of your library. You may play those cards until your next end step.\n• One or two target creatures each get +2/+0 until end of turn.",
+            "artFileName": "FIN_147",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_147.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_147.jpg"
+        },
+        {
+            "cardID": "FIN-148",
+            "setCode": "FIN",
+            "cardNumber": 148,
+            "cardName": "Prompto Argentum",
+            "cardText": "Haste\nSelfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",
+            "artFileName": "FIN_148",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_148.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_148.jpg"
+        },
+        {
+            "cardID": "FIN-149",
+            "setCode": "FIN",
+            "cardNumber": 149,
+            "cardName": "Queen Brahne",
+            "cardText": "Prowess\nWhenever Queen Brahne attacks, create a 0/1 black Wizard creature token with \"Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.\"",
+            "artFileName": "FIN_149",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_149.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_149.jpg"
+        },
+        {
+            "cardID": "FIN-150",
+            "setCode": "FIN",
+            "cardNumber": 150,
+            "cardName": "Random Encounter",
+            "cardText": "Shuffle your library, then mill four cards. Put each creature card milled this way onto the battlefield. They gain haste. At the beginning of the next end step, return those creatures to their owner's hand.\nFlashback {6}{R}{R}",
+            "artFileName": "FIN_150",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_150.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_150.jpg"
+        },
+        {
+            "cardID": "FIN-151",
+            "setCode": "FIN",
+            "cardNumber": 151,
+            "cardName": "Raubahn, Bull of Ala Mhigo",
+            "cardText": "Ward—Pay life equal to Raubahn's power.\nWhenever Raubahn attacks, attach up to one target Equipment you control to target attacking creature.",
+            "artFileName": "FIN_151",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_151.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_151.jpg"
+        },
+        {
+            "cardID": "FIN-152",
+            "setCode": "FIN",
+            "cardNumber": 152,
+            "cardName": "Red Mage's Rapier",
+            "cardText": "Job select\nEquipped creature has \"Whenever you cast a noncreature spell, this creature gets +2/+0 until end of turn\" and is a Wizard in addition to its other types.\nEquip {3}",
+            "artFileName": "FIN_152",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_152.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_152.jpg"
+        },
+        {
+            "cardID": "FIN-153",
+            "setCode": "FIN",
+            "cardNumber": 153,
+            "cardName": "Sabotender",
+            "cardText": "Reach\nLandfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",
+            "artFileName": "FIN_153",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_153.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_153.jpg"
+        },
+        {
+            "cardID": "FIN-154",
+            "setCode": "FIN",
+            "cardNumber": 154,
+            "cardName": "Samurai's Katana",
+            "cardText": "Job select\nEquipped creature gets +2/+2, has trample and haste, and is a Samurai in addition to its other types.\nMurasame — Equip {5}",
+            "artFileName": "FIN_154",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_154.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_154.jpg"
+        },
+        {
+            "cardID": "FIN-155",
+            "setCode": "FIN",
+            "cardNumber": 155,
+            "cardName": "Sandworm",
+            "cardText": "Haste\nWhen this creature enters, destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+            "artFileName": "FIN_155",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_155.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_155.jpg"
+        },
+        {
+            "cardID": "FIN-156",
+            "setCode": "FIN",
+            "cardNumber": 156,
+            "cardName": "Seifer Almasy",
+            "cardText": "Whenever a creature you control attacks alone, it gains double strike until end of turn.\nFire Cross — Whenever Seifer Almasy deals combat damage to a player, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",
+            "artFileName": "FIN_156",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_156.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_156.jpg"
+        },
+        {
+            "cardID": "FIN-157",
+            "setCode": "FIN",
+            "cardNumber": 157,
+            "cardName": "Self-Destruct",
+            "cardText": "Target creature you control deals X damage to any other target and X damage to itself, where X is its power.",
+            "artFileName": "FIN_157",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_157.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_157.jpg"
+        },
+        {
+            "cardID": "FIN-158",
+            "setCode": "FIN",
+            "cardNumber": 158,
+            "cardName": "Sidequest: Play Blitzball // World Champion, Celestial Weapon",
+            "cardText": "At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.\nAt the end of combat on your turn, if a player was dealt 6 or more combat damage this turn, transform this enchantment, then attach it to a creature you control.",
+            "artFileName": "FIN_158",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_158.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_158.jpg"
+        },
+        {
+            "cardID": "FIN-159",
+            "setCode": "FIN",
+            "cardNumber": 159,
+            "cardName": "Sorceress's Schemes",
+            "cardText": "Return target instant or sorcery card from your graveyard or exiled card with flashback you own to your hand. Add {R}.\nFlashback {4}{R}",
+            "artFileName": "FIN_159",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_159.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_159.jpg"
+        },
+        {
+            "cardID": "FIN-160",
+            "setCode": "FIN",
+            "cardNumber": 160,
+            "cardName": "Summon: Brynhildr",
+            "cardText": "I — Chain — Exile the top card of your library. During any turn you put a lore counter on this Saga, you may play that card.\nII, III — Gestalt Mode — When you next cast a creature spell this turn, it gains haste until end of turn.",
+            "artFileName": "FIN_160",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_160.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_160.jpg"
+        },
+        {
+            "cardID": "FIN-161",
+            "setCode": "FIN",
+            "cardNumber": 161,
+            "cardName": "Summon: Esper Ramuh",
+            "cardText": "I — Judgment Bolt — This creature deals damage equal to the number of noncreature, nonland cards in your graveyard to target creature an opponent controls.\nII, III — Wizards you control get +1/+0 until end of turn.",
+            "artFileName": "FIN_161",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_161.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_161.jpg"
+        },
+        {
+            "cardID": "FIN-162",
+            "setCode": "FIN",
+            "cardNumber": 162,
+            "cardName": "Summon: G.F. Cerberus",
+            "cardText": "I — Surveil 1.\nII — Double — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.\nIII — Triple — When you next cast an instant or sorcery spell this turn, copy it twice. You may choose new targets for the copies.",
+            "artFileName": "FIN_162",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_162.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_162.jpg"
+        },
+        {
+            "cardID": "FIN-163",
+            "setCode": "FIN",
+            "cardNumber": 163,
+            "cardName": "Summon: G.F. Ifrit",
+            "cardText": "I, II — You may discard a card. If you do, draw a card.\nIII, IV — Add {R}.",
+            "artFileName": "FIN_163",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_163.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_163.jpg"
+        },
+        {
+            "cardID": "FIN-164",
+            "setCode": "FIN",
+            "cardNumber": 164,
+            "cardName": "Suplex",
+            "cardText": "Choose one —\n• Suplex deals 3 damage to target creature. If that creature would die this turn, exile it instead.\n• Exile target artifact.",
+            "artFileName": "FIN_164",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_164.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_164.jpg"
+        },
+        {
+            "cardID": "FIN-165",
+            "setCode": "FIN",
+            "cardNumber": 165,
+            "cardName": "Thunder Magic",
+            "cardText": "Tiered\n• Thunder — {0} — Thunder Magic deals 2 damage to target creature.\n• Thundara — {3} — Thunder Magic deals 4 damage to target creature.\n• Thundaga — {5}{R} — Thunder Magic deals 8 damage to target creature.",
+            "artFileName": "FIN_165",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_165.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_165.jpg"
+        },
+        {
+            "cardID": "FIN-166",
+            "setCode": "FIN",
+            "cardNumber": 166,
+            "cardName": "Triple Triad",
+            "cardText": "At the beginning of your upkeep, each player exiles the top card of their library. Until end of turn, you may play the card you own exiled this way and each other card exiled this way with lesser mana value than it without paying their mana costs.",
+            "artFileName": "FIN_166",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_166.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_166.jpg"
+        },
+        {
+            "cardID": "FIN-167",
+            "setCode": "FIN",
+            "cardNumber": 167,
+            "cardName": "Unexpected Request",
+            "cardText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. You may attach an Equipment you control to that creature. If you do, unattach it at the beginning of the next end step.",
+            "artFileName": "FIN_167",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_167.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_167.jpg"
+        },
+        {
+            "cardID": "FIN-168",
+            "setCode": "FIN",
+            "cardNumber": 168,
+            "cardName": "Vaan, Street Thief",
+            "cardText": "Whenever one or more Scouts, Pirates, and/or Rogues you control deal combat damage to a player, exile the top card of that player's library. You may cast it. If you don't, create a Treasure token.\nWhenever you cast a spell you don't own, put a +1/+1 counter on each Scout, Pirate, and Rogue you control.",
+            "artFileName": "FIN_168",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_168.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_168.jpg"
+        },
+        {
+            "cardID": "FIN-169",
+            "setCode": "FIN",
+            "cardNumber": 169,
+            "cardName": "Warrior's Sword",
+            "cardText": "Job select\nEquipped creature gets +3/+2 and is a Warrior in addition to its other types.\nEquip {5}",
+            "artFileName": "FIN_169",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_169.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_169.jpg"
+        },
+        {
+            "cardID": "FIN-170",
+            "setCode": "FIN",
+            "cardNumber": 170,
+            "cardName": "Zell Dincht",
+            "cardText": "You may play an additional land on each of your turns.\nZell Dincht gets +1/+0 for each land you control.\nAt the beginning of your end step, return a land you control to its owner's hand.",
+            "artFileName": "FIN_170",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_170.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_170.jpg"
+        },
+        {
+            "cardID": "FIN-171",
+            "setCode": "FIN",
+            "cardNumber": 171,
+            "cardName": "Airship Crash",
+            "cardText": "Destroy target artifact, enchantment, or creature with flying.\nCycling {2}",
+            "artFileName": "FIN_171",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_171.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_171.jpg"
+        },
+        {
+            "cardID": "FIN-172",
+            "setCode": "FIN",
+            "cardNumber": 172,
+            "cardName": "Ancient Adamantoise",
+            "cardText": "Vigilance, ward {3}\nDamage isn't removed from this creature during cleanup steps.\nAll damage that would be dealt to you and other permanents you control is dealt to this creature instead.\nWhen this creature dies, exile it and create ten tapped Treasure tokens.",
+            "artFileName": "FIN_172",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_172.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_172.jpg"
+        },
+        {
+            "cardID": "FIN-173",
+            "setCode": "FIN",
+            "cardNumber": 173,
+            "cardName": "Balamb T-Rexaur",
+            "cardText": "Trample\nWhen this creature enters, you gain 3 life.\nForestcycling {2}",
+            "artFileName": "FIN_173",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_173.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_173.jpg"
+        },
+        {
+            "cardID": "FIN-174",
+            "setCode": "FIN",
+            "cardNumber": 174,
+            "cardName": "Bard's Bow",
+            "cardText": "Job select\nEquipped creature gets +2/+2, has reach, and is a Bard in addition to its other types.\nPerseus's Bow — Equip {6}",
+            "artFileName": "FIN_174",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_174.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_174.jpg"
+        },
+        {
+            "cardID": "FIN-175",
+            "setCode": "FIN",
+            "cardNumber": 175,
+            "cardName": "Bartz and Boko",
+            "cardText": "Affinity for Birds\nWhen Bartz and Boko enters, each other Bird you control deals damage equal to its power to target creature an opponent controls.",
+            "artFileName": "FIN_175",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_175.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_175.jpg"
+        },
+        {
+            "cardID": "FIN-176",
+            "setCode": "FIN",
+            "cardNumber": 176,
+            "cardName": "Blitzball Shot",
+            "cardText": "Target creature gets +3/+3 and gains trample until end of turn.",
+            "artFileName": "FIN_176",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_176.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_176.jpg"
+        },
+        {
+            "cardID": "FIN-177",
+            "setCode": "FIN",
+            "cardNumber": 177,
+            "cardName": "Cactuar",
+            "cardText": "Trample\nAt the beginning of your end step, if this creature didn't enter the battlefield this turn, return it to its owner's hand.",
+            "artFileName": "FIN_177",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_177.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_177.jpg"
+        },
+        {
+            "cardID": "FIN-178",
+            "setCode": "FIN",
+            "cardNumber": 178,
+            "cardName": "Chocobo Kick",
+            "cardText": "Kicker—Return a land you control to its owner's hand.\nTarget creature you control deals damage equal to its power to target creature an opponent controls. If this spell was kicked, the creature you control deals twice that much damage instead.",
+            "artFileName": "FIN_178",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_178.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_178.jpg"
+        },
+        {
+            "cardID": "FIN-179",
+            "setCode": "FIN",
+            "cardNumber": 179,
+            "cardName": "Chocobo Racetrack",
+            "cardText": "Landfall — Whenever a land you control enters, create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"",
+            "artFileName": "FIN_179",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_179.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_179.jpg"
+        },
+        {
+            "cardID": "FIN-180",
+            "setCode": "FIN",
+            "cardNumber": 180,
+            "cardName": "Clash of the Eikons",
+            "cardText": "Choose one or more —\n• Target creature you control fights target creature an opponent controls.\n• Remove a lore counter from target Saga you control.\n• Put a lore counter on target Saga you control.",
+            "artFileName": "FIN_180",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_180.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_180.jpg"
+        },
+        {
+            "cardID": "FIN-181",
+            "setCode": "FIN",
+            "cardNumber": 181,
+            "cardName": "Coliseum Behemoth",
+            "cardText": "Trample\nWhen this creature enters, choose one —\n• Destroy target artifact or enchantment.\n• Draw a card.",
+            "artFileName": "FIN_181",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_181.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_181.jpg"
+        },
+        {
+            "cardID": "FIN-182",
+            "setCode": "FIN",
+            "cardNumber": 182,
+            "cardName": "Commune with Beavers",
+            "cardText": "Look at the top three cards of your library. You may reveal an artifact, creature, or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+            "artFileName": "FIN_182",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_182.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_182.jpg"
+        },
+        {
+            "cardID": "FIN-183",
+            "setCode": "FIN",
+            "cardNumber": 183,
+            "cardName": "Diamond Weapon",
+            "cardText": "This spell costs {1} less to cast for each permanent card in your graveyard.\nReach\nImmune — Prevent all combat damage that would be dealt to Diamond Weapon.",
+            "artFileName": "FIN_183",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_183.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_183.jpg"
+        },
+        {
+            "cardID": "FIN-184",
+            "setCode": "FIN",
+            "cardNumber": 184,
+            "cardName": "The Earth Crystal",
+            "cardText": "Green spells you cast cost {1} less to cast.\nIf one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead.\n{4}{G}{G}, {T}: Distribute two +1/+1 counters among one or two target creatures you control.",
+            "artFileName": "FIN_184",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_184.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_184.jpg"
+        },
+        {
+            "cardID": "FIN-185",
+            "setCode": "FIN",
+            "cardNumber": 185,
+            "cardName": "Esper Origins // Summon: Esper Maduin",
+            "cardText": "Surveil 2. You gain 2 life. If this spell was cast from a graveyard, exile it, then put it onto the battlefield transformed under its owner's control with a finality counter on it.\nFlashback {3}{G}",
+            "artFileName": "FIN_185",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_185.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_185.jpg"
+        },
+        {
+            "cardID": "FIN-186",
+            "setCode": "FIN",
+            "cardNumber": 186,
+            "cardName": "Galuf's Final Act",
+            "cardText": "Until end of turn, target creature gets +1/+0 and gains \"When this creature dies, put a number of +1/+1 counters equal to its power on up to one target creature.\"",
+            "artFileName": "FIN_186",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_186.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_186.jpg"
+        },
+        {
+            "cardID": "FIN-187",
+            "setCode": "FIN",
+            "cardNumber": 187,
+            "cardName": "Gigantoad",
+            "cardText": "As long as you control seven or more lands, this creature gets +2/+2.",
+            "artFileName": "FIN_187",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_187.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_187.jpg"
+        },
+        {
+            "cardID": "FIN-188",
+            "setCode": "FIN",
+            "cardNumber": 188,
+            "cardName": "Goobbue Gardener",
+            "cardText": "{T}: Add {G}.",
+            "artFileName": "FIN_188",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_188.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_188.jpg"
+        },
+        {
+            "cardID": "FIN-189",
+            "setCode": "FIN",
+            "cardNumber": 189,
+            "cardName": "Gran Pulse Ochu",
+            "cardText": "Deathtouch\n{8}: Until end of turn, this creature gets +1/+1 for each permanent card in your graveyard.",
+            "artFileName": "FIN_189",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_189.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_189.jpg"
+        },
+        {
+            "cardID": "FIN-190",
+            "setCode": "FIN",
+            "cardNumber": 190,
+            "cardName": "Gysahl Greens",
+            "cardText": "Create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"\nFlashback {6}{G}",
+            "artFileName": "FIN_190",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_190.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_190.jpg"
+        },
+        {
+            "cardID": "FIN-191",
+            "setCode": "FIN",
+            "cardNumber": 191,
+            "cardName": "Jumbo Cactuar",
+            "cardText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+            "artFileName": "FIN_191",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_191.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_191.jpg"
+        },
+        {
+            "cardID": "FIN-192",
+            "setCode": "FIN",
+            "cardNumber": 192,
+            "cardName": "Loporrit Scout",
+            "cardText": "Whenever another creature you control enters, this creature gets +1/+1 until end of turn.",
+            "artFileName": "FIN_192",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_192.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_192.jpg"
+        },
+        {
+            "cardID": "FIN-193",
+            "setCode": "FIN",
+            "cardNumber": 193,
+            "cardName": "Prishe's Wanderings",
+            "cardText": "Search your library for a basic land card or Town card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put a +1/+1 counter on target creature you control.",
+            "artFileName": "FIN_193",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_193.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_193.jpg"
+        },
+        {
+            "cardID": "FIN-194",
+            "setCode": "FIN",
+            "cardNumber": 194,
+            "cardName": "Quina, Qu Gourmet",
+            "cardText": "If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.\n{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.",
+            "artFileName": "FIN_194",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_194.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_194.jpg"
+        },
+        {
+            "cardID": "FIN-195",
+            "setCode": "FIN",
+            "cardNumber": 195,
+            "cardName": "Reach the Horizon",
+            "cardText": "Search your library for up to two basic land cards and/or Town cards with different names, put them onto the battlefield tapped, then shuffle.",
+            "artFileName": "FIN_195",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_195.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_195.jpg"
+        },
+        {
+            "cardID": "FIN-196",
+            "setCode": "FIN",
+            "cardNumber": 196,
+            "cardName": "A Realm Reborn",
+            "cardText": "Other permanents you control have \"{T}: Add one mana of any color.\"",
+            "artFileName": "FIN_196",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_196.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_196.jpg"
+        },
+        {
+            "cardID": "FIN-197",
+            "setCode": "FIN",
+            "cardNumber": 197,
+            "cardName": "Ride the Shoopuf",
+            "cardText": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.\n{5}{G}{G}: This enchantment becomes a 7/7 Beast creature in addition to its other types.",
+            "artFileName": "FIN_197",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_197.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_197.jpg"
+        },
+        {
+            "cardID": "FIN-198",
+            "setCode": "FIN",
+            "cardNumber": 198,
+            "cardName": "Rydia's Return",
+            "cardText": "Choose one —\n• Creatures you control get +3/+3 until end of turn.\n• Return up to two target permanent cards from your graveyard to your hand.",
+            "artFileName": "FIN_198",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_198.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_198.jpg"
+        },
+        {
+            "cardID": "FIN-199",
+            "setCode": "FIN",
+            "cardNumber": 199,
+            "cardName": "Sazh Katzroy",
+            "cardText": "When Sazh Katzroy enters, you may search your library for a Bird or basic land card, reveal it, put it into your hand, then shuffle.\nWhenever Sazh Katzroy attacks, put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.",
+            "artFileName": "FIN_199",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_199.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_199.jpg"
+        },
+        {
+            "cardID": "FIN-200",
+            "setCode": "FIN",
+            "cardNumber": 200,
+            "cardName": "Sazh's Chocobo",
+            "cardText": "Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",
+            "artFileName": "FIN_200",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_200.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_200.jpg"
+        },
+        {
+            "cardID": "FIN-201",
+            "setCode": "FIN",
+            "cardNumber": 201,
+            "cardName": "Sidequest: Raise a Chocobo // Black Chocobo",
+            "cardText": "When this enchantment enters, create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"\nAt the beginning of your first main phase, if you control four or more Birds, transform this enchantment.",
+            "artFileName": "FIN_201",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_201.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_201.jpg"
+        },
+        {
+            "cardID": "FIN-202",
+            "setCode": "FIN",
+            "cardNumber": 202,
+            "cardName": "Summon: Fat Chocobo",
+            "cardText": "I — Wark — Create a 2/2 green Bird creature token with \"Whenever a land you control enters, this token gets +1/+0 until end of turn.\"\nII, III, IV — Kerplunk — Creatures you control gain trample until end of turn.",
+            "artFileName": "FIN_202",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_202.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_202.jpg"
+        },
+        {
+            "cardID": "FIN-203",
+            "setCode": "FIN",
+            "cardNumber": 203,
+            "cardName": "Summon: Fenrir",
+            "cardText": "I — Crescent Fang — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nII — Heavenward Howl — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.\nIII — Ecliptic Growl — Draw a card if you control the creature with the greatest power or tied for the greatest power.",
+            "artFileName": "FIN_203",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_203.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_203.jpg"
+        },
+        {
+            "cardID": "FIN-204",
+            "setCode": "FIN",
+            "cardNumber": 204,
+            "cardName": "Summon: Titan",
+            "cardText": "I — Mill five cards.\nII — Return all land cards from your graveyard to the battlefield tapped.\nIII — Until end of turn, another target creature you control gains trample and gets +X/+X, where X is the number of lands you control.\nReach, trample",
+            "artFileName": "FIN_204",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_204.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_204.jpg"
+        },
+        {
+            "cardID": "FIN-205",
+            "setCode": "FIN",
+            "cardNumber": 205,
+            "cardName": "Summoner's Grimoire",
+            "cardText": "Job select\nEquipped creature is a Shaman in addition to its other types and has \"Whenever this creature attacks, you may put a creature card from your hand onto the battlefield. If that card is an enchantment card, it enters tapped and attacking.\"\nAbraxas — Equip {3}",
+            "artFileName": "FIN_205",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_205.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_205.jpg"
+        },
+        {
+            "cardID": "FIN-206",
+            "setCode": "FIN",
+            "cardNumber": 206,
+            "cardName": "Tifa Lockhart",
+            "cardText": "Trample\nLandfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",
+            "artFileName": "FIN_206",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_206.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_206.jpg"
+        },
+        {
+            "cardID": "FIN-207",
+            "setCode": "FIN",
+            "cardNumber": 207,
+            "cardName": "Tifa's Limit Break",
+            "cardText": "Tiered\n• Somersault — {0} — Target creature gets +2/+2 until end of turn.\n• Meteor Strikes — {2} — Double target creature's power and toughness until end of turn.\n• Final Heaven — {6}{G} — Triple target creature's power and toughness until end of turn.",
+            "artFileName": "FIN_207",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_207.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_207.jpg"
+        },
+        {
+            "cardID": "FIN-208",
+            "setCode": "FIN",
+            "cardNumber": 208,
+            "cardName": "Torgal, A Fine Hound",
+            "cardText": "Whenever you cast your first Human creature spell each turn, that creature enters with an additional +1/+1 counter on it for each Dog and/or Wolf you control.\n{T}: Add one mana of any color.",
+            "artFileName": "FIN_208",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_208.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_208.jpg"
+        },
+        {
+            "cardID": "FIN-209",
+            "setCode": "FIN",
+            "cardNumber": 209,
+            "cardName": "Town Greeter",
+            "cardText": "When this creature enters, mill four cards. You may put a land card from among them into your hand. If you put a Town card into your hand this way, you gain 2 life.",
+            "artFileName": "FIN_209",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_209.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_209.jpg"
+        },
+        {
+            "cardID": "FIN-210",
+            "setCode": "FIN",
+            "cardNumber": 210,
+            "cardName": "Traveling Chocobo",
+            "cardText": "You may look at the top card of your library any time.\nYou may play lands and cast Bird spells from the top of your library.\nIf a land or Bird you control entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+            "artFileName": "FIN_210",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_210.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_210.jpg"
+        },
+        {
+            "cardID": "FIN-211",
+            "setCode": "FIN",
+            "cardNumber": 211,
+            "cardName": "Vanille, Cheerful l'Cie",
+            "cardText": "When Vanille enters, mill two cards, then return a permanent card from your graveyard to your hand.\nAt the beginning of your first main phase, if you both own and control Vanille and a creature named Fang, Fearless l'Cie, you may pay {3}{B}{G}. If you do, exile them, then meld them into Ragnarok, Divine Deliverance.",
+            "artFileName": "FIN_211",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_211.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_211.jpg"
+        },
+        {
+            "cardID": "FIN-212",
+            "setCode": "FIN",
+            "cardNumber": 212,
+            "cardName": "Absolute Virtue",
+            "cardText": "This spell can't be countered.\nFlying\nYou have protection from each of your opponents.",
+            "artFileName": "FIN_212",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_212.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_212.jpg"
+        },
+        {
+            "cardID": "FIN-213",
+            "setCode": "FIN",
+            "cardNumber": 213,
+            "cardName": "Balthier and Fran",
+            "cardText": "Reach\nVehicles you control get +1/+1 and have vigilance and reach.\nWhenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.",
+            "artFileName": "FIN_213",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_213.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_213.jpg"
+        },
+        {
+            "cardID": "FIN-214",
+            "setCode": "FIN",
+            "cardNumber": 214,
+            "cardName": "Black Waltz No. 3",
+            "cardText": "Flying, deathtouch\nWhenever you cast a noncreature spell, Black Waltz No. 3 deals 2 damage to each opponent.",
+            "artFileName": "FIN_214",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_214.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_214.jpg"
+        },
+        {
+            "cardID": "FIN-215",
+            "setCode": "FIN",
+            "cardNumber": 215,
+            "cardName": "Choco, Seeker of Paradise",
+            "cardText": "Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.\nLandfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.",
+            "artFileName": "FIN_215",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_215.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_215.jpg"
+        },
+        {
+            "cardID": "FIN-216",
+            "setCode": "FIN",
+            "cardNumber": 216,
+            "cardName": "Cid, Timeless Artificer",
+            "cardText": "Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.\nA deck can have any number of cards named Cid, Timeless Artificer.\nCycling {W}{U}",
+            "artFileName": "FIN_216",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_216.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_216.jpg"
+        },
+        {
+            "cardID": "FIN-217",
+            "setCode": "FIN",
+            "cardNumber": 217,
+            "cardName": "Cloud of Darkness",
+            "cardText": "Flying\nParticle Beam — When Cloud of Darkness enters, target creature an opponent controls gets -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",
+            "artFileName": "FIN_217",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_217.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_217.jpg"
+        },
+        {
+            "cardID": "FIN-218",
+            "setCode": "FIN",
+            "cardNumber": 218,
+            "cardName": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+            "cardText": "Vigilance\nWhenever Emet-Selch enters or attacks, draw a card, then discard a card.\nAt the beginning of your upkeep, if there are fourteen or more cards in your graveyard, you may transform Emet-Selch.",
+            "artFileName": "FIN_218",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_218.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_218.jpg"
+        },
+        {
+            "cardID": "FIN-219",
+            "setCode": "FIN",
+            "cardNumber": 219,
+            "cardName": "The Emperor of Palamecia // The Lord Master of Hell",
+            "cardText": "{T}: Add {U} or {R}. Spend this mana only to cast a noncreature spell.\nWhenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on The Emperor of Palamecia. Then if it has three or more +1/+1 counters on it, transform it.",
+            "artFileName": "FIN_219",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_219.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_219.jpg"
+        },
+        {
+            "cardID": "FIN-220",
+            "setCode": "FIN",
+            "cardNumber": 220,
+            "cardName": "Exdeath, Void Warlock // Neo Exdeath, Dimension's End",
+            "cardText": "When Exdeath enters, you gain 3 life.\nAt the beginning of your end step, if there are six or more permanent cards in your graveyard, transform Exdeath.",
+            "artFileName": "FIN_220",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_220.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_220.jpg"
+        },
+        {
+            "cardID": "FIN-221",
+            "setCode": "FIN",
+            "cardNumber": 221,
+            "cardName": "Garland, Knight of Cornelia // Chaos, the Endless",
+            "cardText": "Whenever you cast a noncreature spell, surveil 1.\n{3}{B}{B}{R}{R}: Return this card from your graveyard to the battlefield transformed. Activate only as a sorcery.",
+            "artFileName": "FIN_221",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_221.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_221.jpg"
+        },
+        {
+            "cardID": "FIN-222",
+            "setCode": "FIN",
+            "cardNumber": 222,
+            "cardName": "Garnet, Princess of Alexandria",
+            "cardText": "Lifelink\nWhenever Garnet attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Garnet for each lore counter removed this way.",
+            "artFileName": "FIN_222",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_222.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_222.jpg"
+        },
+        {
+            "cardID": "FIN-223",
+            "setCode": "FIN",
+            "cardNumber": 223,
+            "cardName": "Giott, King of the Dwarves",
+            "cardText": "Double strike\nWhenever Giott or another Dwarf you control enters and whenever an Equipment you control enters, you may discard a card. If you do, draw a card.",
+            "artFileName": "FIN_223",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_223.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_223.jpg"
+        },
+        {
+            "cardID": "FIN-224",
+            "setCode": "FIN",
+            "cardNumber": 224,
+            "cardName": "Gladiolus Amicitia",
+            "cardText": "When Gladiolus Amicitia enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, another target creature you control gets +2/+2 and gains trample until end of turn.",
+            "artFileName": "FIN_224",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_224.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_224.jpg"
+        },
+        {
+            "cardID": "FIN-225",
+            "setCode": "FIN",
+            "cardNumber": 225,
+            "cardName": "Golbez, Crystal Collector",
+            "cardText": "Whenever an artifact you control enters, surveil 1.\nAt the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.",
+            "artFileName": "FIN_225",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_225.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_225.jpg"
+        },
+        {
+            "cardID": "FIN-226",
+            "setCode": "FIN",
+            "cardNumber": 226,
+            "cardName": "Hope Estheim",
+            "cardText": "Lifelink\nAt the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.",
+            "artFileName": "FIN_226",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_226.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_226.jpg"
+        },
+        {
+            "cardID": "FIN-227",
+            "setCode": "FIN",
+            "cardNumber": 227,
+            "cardName": "Ignis Scientia",
+            "cardText": "When Ignis Scientia enters, look at the top six cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.\nI've Come Up with a New Recipe! — {1}{G}{U}, {T}: Exile target card from a graveyard. If a creature card was exiled this way, create a Food token.",
+            "artFileName": "FIN_227",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_227.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_227.jpg"
+        },
+        {
+            "cardID": "FIN-228",
+            "setCode": "FIN",
+            "cardNumber": 228,
+            "cardName": "Jenova, Ancient Calamity",
+            "cardText": "At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.\nWhenever a Mutant you control dies during your turn, you draw cards equal to its power.",
+            "artFileName": "FIN_228",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_228.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_228.jpg"
+        },
+        {
+            "cardID": "FIN-229",
+            "setCode": "FIN",
+            "cardNumber": 229,
+            "cardName": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+            "cardText": "When Joshua enters, discard up to two cards, then draw that many cards.\n{3}{R}{W}, {T}: Exile Joshua, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "artFileName": "FIN_229",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_229.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_229.jpg"
+        },
+        {
+            "cardID": "FIN-230",
+            "setCode": "FIN",
+            "cardNumber": 230,
+            "cardName": "Judge Magister Gabranth",
+            "cardText": "Menace\nWhenever another creature or artifact you control dies, put a +1/+1 counter on Judge Magister Gabranth.",
+            "artFileName": "FIN_230",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_230.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_230.jpg"
+        },
+        {
+            "cardID": "FIN-231",
+            "setCode": "FIN",
+            "cardNumber": 231,
+            "cardName": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+            "cardText": "Whenever Kefka enters or attacks, each player discards a card. Then you draw a card for each card type among cards discarded this way.\n{8}: Each opponent sacrifices a permanent of their choice. Transform Kefka. Activate only as a sorcery.",
+            "artFileName": "FIN_231",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_231.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_231.jpg"
+        },
+        {
+            "cardID": "FIN-232",
+            "setCode": "FIN",
+            "cardNumber": 232,
+            "cardName": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
+            "cardText": "At the beginning of your end step, create a tapped 0/1 black Wizard creature token with \"Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.\" Then if you control four or more Wizards, transform Kuja.",
+            "artFileName": "FIN_232",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_232.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_232.jpg"
+        },
+        {
+            "cardID": "FIN-233",
+            "setCode": "FIN",
+            "cardNumber": 233,
+            "cardName": "Lightning, Army of One",
+            "cardText": "First strike, trample, lifelink\nStagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.",
+            "artFileName": "FIN_233",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_233.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_233.jpg"
+        },
+        {
+            "cardID": "FIN-234",
+            "setCode": "FIN",
+            "cardNumber": 234,
+            "cardName": "Locke Cole",
+            "cardText": "Deathtouch, lifelink\nWhenever Locke Cole deals combat damage to a player, draw a card, then discard a card.",
+            "artFileName": "FIN_234",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_234.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_234.jpg"
+        },
+        {
+            "cardID": "FIN-235",
+            "setCode": "FIN",
+            "cardNumber": 235,
+            "cardName": "Noctis, Prince of Lucis",
+            "cardText": "Lifelink\nYou may cast artifact spells from your graveyard by paying 3 life in addition to paying their other costs. If you cast a spell this way, that artifact enters with a finality counter on it.",
+            "artFileName": "FIN_235",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_235.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_235.jpg"
+        },
+        {
+            "cardID": "FIN-236",
+            "setCode": "FIN",
+            "cardNumber": 236,
+            "cardName": "Omega, Heartless Evolution",
+            "cardText": "Wave Cannon — When Omega enters, for each opponent, tap up to one target nonland permanent that opponent controls. Put X stun counters on each of those permanents and you gain X life, where X is the number of nonbasic lands you control.",
+            "artFileName": "FIN_236",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_236.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_236.jpg"
+        },
+        {
+            "cardID": "FIN-237",
+            "setCode": "FIN",
+            "cardNumber": 237,
+            "cardName": "Rinoa Heartilly",
+            "cardText": "When Rinoa Heartilly enters, create Angelo, a legendary 1/1 green and white Dog creature token.\nAngelo Cannon — Whenever Rinoa Heartilly attacks, another target creature you control gets +1/+1 until end of turn for each creature you control.",
+            "artFileName": "FIN_237",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_237.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_237.jpg"
+        },
+        {
+            "cardID": "FIN-238",
+            "setCode": "FIN",
+            "cardNumber": 238,
+            "cardName": "Rufus Shinra",
+            "cardText": "Whenever Rufus Shinra attacks, if you don't control a creature named Darkstar, create Darkstar, a legendary 2/2 white and black Dog creature token.",
+            "artFileName": "FIN_238",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_238.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_238.jpg"
+        },
+        {
+            "cardID": "FIN-239",
+            "setCode": "FIN",
+            "cardNumber": 239,
+            "cardName": "Rydia, Summoner of Mist",
+            "cardText": "Landfall — Whenever a land you control enters, you may discard a card. If you do, draw a card.\nSummon — {X}, {T}: Return target Saga card with mana value X from your graveyard to the battlefield with a finality counter on it. It gains haste until end of turn. Activate only as a sorcery.",
+            "artFileName": "FIN_239",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_239.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_239.jpg"
+        },
+        {
+            "cardID": "FIN-240",
+            "setCode": "FIN",
+            "cardNumber": 240,
+            "cardName": "Serah Farron // Crystallized Serah",
+            "cardText": "The first legendary creature spell you cast each turn costs {2} less to cast.\nAt the beginning of combat on your turn, if you control two or more other legendary creatures, you may transform Serah Farron.",
+            "artFileName": "FIN_240",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_240.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_240.jpg"
+        },
+        {
+            "cardID": "FIN-241",
+            "setCode": "FIN",
+            "cardNumber": 241,
+            "cardName": "Shantotto, Tactician Magician",
+            "cardText": "Whenever you cast a noncreature spell, Shantotto gets +X/+0 until end of turn, where X is the amount of mana spent to cast that spell. If X is 4 or more, draw a card.",
+            "artFileName": "FIN_241",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_241.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_241.jpg"
+        },
+        {
+            "cardID": "FIN-242",
+            "setCode": "FIN",
+            "cardNumber": 242,
+            "cardName": "Sin, Spira's Punishment",
+            "cardText": "Flying\nWhenever Sin enters or attacks, exile a permanent card from your graveyard at random, then create a tapped token that's a copy of that card. If the exiled card is a land card, repeat this process.",
+            "artFileName": "FIN_242",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_242.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_242.jpg"
+        },
+        {
+            "cardID": "FIN-243",
+            "setCode": "FIN",
+            "cardNumber": 243,
+            "cardName": "Squall, SeeD Mercenary",
+            "cardText": "Rough Divide — Whenever a creature you control attacks alone, it gains double strike until end of turn.\nWhenever Squall deals combat damage to a player, return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+            "artFileName": "FIN_243",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_243.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_243.jpg"
+        },
+        {
+            "cardID": "FIN-244",
+            "setCode": "FIN",
+            "cardNumber": 244,
+            "cardName": "Tellah, Great Sage",
+            "cardText": "Whenever you cast a noncreature spell, create a 1/1 colorless Hero creature token. If four or more mana was spent to cast that spell, draw two cards. If eight or more mana was spent to cast that spell, sacrifice Tellah and it deals that much damage to each opponent.",
+            "artFileName": "FIN_244",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_244.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_244.jpg"
+        },
+        {
+            "cardID": "FIN-245",
+            "setCode": "FIN",
+            "cardNumber": 245,
+            "cardName": "Terra, Magical Adept // Esper Terra",
+            "cardText": "When Terra enters, mill five cards. Put up to one enchantment card milled this way into your hand.\nTrance — {4}{R}{G}, {T}: Exile Terra, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "artFileName": "FIN_245",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_245.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_245.jpg"
+        },
+        {
+            "cardID": "FIN-246",
+            "setCode": "FIN",
+            "cardNumber": 246,
+            "cardName": "Tidus, Blitzball Star",
+            "cardText": "Whenever an artifact you control enters, put a +1/+1 counter on Tidus.\nWhenever Tidus attacks, tap target creature an opponent controls.",
+            "artFileName": "FIN_246",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_246.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_246.jpg"
+        },
+        {
+            "cardID": "FIN-247",
+            "setCode": "FIN",
+            "cardNumber": 247,
+            "cardName": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+            "cardText": "Whenever Ultimecia enters or attacks, surveil 2.\nAt the beginning of your end step, you may pay {4}{U}{U}{B}{B} and exile eight cards from your graveyard. If you do, transform Ultimecia.",
+            "artFileName": "FIN_247",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_247.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_247.jpg"
+        },
+        {
+            "cardID": "FIN-248",
+            "setCode": "FIN",
+            "cardNumber": 248,
+            "cardName": "Vivi Ornitier",
+            "cardText": "{0}: Add X mana in any combination of {U} and/or {R}, where X is Vivi Ornitier's power. Activate only during your turn and only once each turn.\nWhenever you cast a noncreature spell, put a +1/+1 counter on Vivi Ornitier and it deals 1 damage to each opponent.",
+            "artFileName": "FIN_248",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_248.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_248.jpg"
+        },
+        {
+            "cardID": "FIN-249",
+            "setCode": "FIN",
+            "cardNumber": 249,
+            "cardName": "The Wandering Minstrel",
+            "cardText": "Lands you control enter untapped.\nThe Minstrel's Ballad — At the beginning of combat on your turn, if you control five or more Towns, create a 2/2 Elemental creature token that's all colors.\n{3}{W}{U}{B}{R}{G}: Other creatures you control get +X/+X until end of turn, where X is the number of Towns you control.",
+            "artFileName": "FIN_249",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_249.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_249.jpg"
+        },
+        {
+            "cardID": "FIN-250",
+            "setCode": "FIN",
+            "cardNumber": 250,
+            "cardName": "Yuna, Hope of Spira",
+            "cardText": "During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.\nAt the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it.",
+            "artFileName": "FIN_250",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_250.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_250.jpg"
+        },
+        {
+            "cardID": "FIN-251",
+            "setCode": "FIN",
+            "cardNumber": 251,
+            "cardName": "Zidane, Tantalus Thief",
+            "cardText": "When Zidane enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains lifelink and haste until end of turn.\nWhenever an opponent gains control of a permanent from you, you create a Treasure token.",
+            "artFileName": "FIN_251",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_251.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_251.jpg"
+        },
+        {
+            "cardID": "FIN-252",
+            "setCode": "FIN",
+            "cardNumber": 252,
+            "cardName": "Adventurer's Airship",
+            "cardText": "Flying\nWhenever this Vehicle attacks, draw a card, then discard a card.\nCrew 2",
+            "artFileName": "FIN_252",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_252.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_252.jpg"
+        },
+        {
+            "cardID": "FIN-253",
+            "setCode": "FIN",
+            "cardNumber": 253,
+            "cardName": "Aettir and Priwen",
+            "cardText": "Equipped creature has base power and toughness X/X, where X is your life total.\nEquip {5}",
+            "artFileName": "FIN_253",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_253.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_253.jpg"
+        },
+        {
+            "cardID": "FIN-254",
+            "setCode": "FIN",
+            "cardNumber": 254,
+            "cardName": "Blitzball",
+            "cardText": "{T}: Add one mana of any color.\nGOOOOAAAALLL! — {T}, Sacrifice this artifact: Draw two cards. Activate only if an opponent was dealt combat damage by a legendary creature this turn.",
+            "artFileName": "FIN_254",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_254.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_254.jpg"
+        },
+        {
+            "cardID": "FIN-255",
+            "setCode": "FIN",
+            "cardNumber": 255,
+            "cardName": "Buster Sword",
+            "cardText": "Equipped creature gets +3/+2.\nWhenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {2}",
+            "artFileName": "FIN_255",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_255.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_255.jpg"
+        },
+        {
+            "cardID": "FIN-256",
+            "setCode": "FIN",
+            "cardNumber": 256,
+            "cardName": "Elixir",
+            "cardText": "This artifact enters tapped.\n{5}, {T}, Exile this artifact: Shuffle all nonland cards from your graveyard into your library. You gain life equal to the number of cards shuffled into your library this way.",
+            "artFileName": "FIN_256",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_256.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_256.jpg"
+        },
+        {
+            "cardID": "FIN-257",
+            "setCode": "FIN",
+            "cardNumber": 257,
+            "cardName": "Excalibur II",
+            "cardText": "Whenever you gain life, put a charge counter on Excalibur II.\nEquipped creature gets +1/+1 for each charge counter on Excalibur II.\nEquip {3}",
+            "artFileName": "FIN_257",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_257.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_257.jpg"
+        },
+        {
+            "cardID": "FIN-258",
+            "setCode": "FIN",
+            "cardNumber": 258,
+            "cardName": "Genji Glove",
+            "cardText": "Equipped creature has double strike.\nWhenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.\nEquip {3}",
+            "artFileName": "FIN_258",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_258.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_258.jpg"
+        },
+        {
+            "cardID": "FIN-259",
+            "setCode": "FIN",
+            "cardNumber": 259,
+            "cardName": "Instant Ramen",
+            "cardText": "Flash\nWhen this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "artFileName": "FIN_259",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_259.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_259.jpg"
+        },
+        {
+            "cardID": "FIN-260",
+            "setCode": "FIN",
+            "cardNumber": 260,
+            "cardName": "Iron Giant",
+            "cardText": "Vigilance, reach, trample",
+            "artFileName": "FIN_260",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_260.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_260.jpg"
+        },
+        {
+            "cardID": "FIN-261",
+            "setCode": "FIN",
+            "cardNumber": 261,
+            "cardName": "Lion Heart",
+            "cardText": "When this Equipment enters, it deals 2 damage to any target.\nEquipped creature gets +2/+1.\nEquip {2}",
+            "artFileName": "FIN_261",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_261.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_261.jpg"
+        },
+        {
+            "cardID": "FIN-262",
+            "setCode": "FIN",
+            "cardNumber": 262,
+            "cardName": "Lunatic Pandora",
+            "cardText": "{2}, {T}: Surveil 1.\n{6}, {T}, Sacrifice Lunatic Pandora: Destroy target nonland permanent.",
+            "artFileName": "FIN_262",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_262.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_262.jpg"
+        },
+        {
+            "cardID": "FIN-263",
+            "setCode": "FIN",
+            "cardNumber": 263,
+            "cardName": "Magic Pot",
+            "cardText": "When this creature dies, create a Treasure token.\n{2}, {T}: Exile target card from a graveyard.",
+            "artFileName": "FIN_263",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_263.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_263.jpg"
+        },
+        {
+            "cardID": "FIN-264",
+            "setCode": "FIN",
+            "cardNumber": 264,
+            "cardName": "The Masamune",
+            "cardText": "As long as equipped creature is attacking, it has first strike and must be blocked if able.\nEquipped creature has \"If a creature dying causes a triggered ability of this creature or an emblem you own to trigger, that ability triggers an additional time.\"\nEquip {2}",
+            "artFileName": "FIN_264",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_264.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_264.jpg"
+        },
+        {
+            "cardID": "FIN-265",
+            "setCode": "FIN",
+            "cardNumber": 265,
+            "cardName": "Monk's Fist",
+            "cardText": "Job select\nEquipped creature gets +1/+0 and is a Monk in addition to its other types.\nEquip {2}",
+            "artFileName": "FIN_265",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_265.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_265.jpg"
+        },
+        {
+            "cardID": "FIN-266",
+            "setCode": "FIN",
+            "cardNumber": 266,
+            "cardName": "PuPu UFO",
+            "cardText": "Flying\n{T}: You may put a land card from your hand onto the battlefield.\n{3}: Until end of turn, this creature's base power becomes equal to the number of Towns you control.",
+            "artFileName": "FIN_266",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_266.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_266.jpg"
+        },
+        {
+            "cardID": "FIN-267",
+            "setCode": "FIN",
+            "cardNumber": 267,
+            "cardName": "The Regalia",
+            "cardText": "Haste\nWhenever The Regalia attacks, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.\nCrew 1",
+            "artFileName": "FIN_267",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_267.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_267.jpg"
+        },
+        {
+            "cardID": "FIN-268",
+            "setCode": "FIN",
+            "cardNumber": 268,
+            "cardName": "Relentless X-ATM092",
+            "cardText": "This creature can't be blocked except by three or more creatures.\n{8}: Return this card from your graveyard to the battlefield tapped with a finality counter on it.",
+            "artFileName": "FIN_268",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_268.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_268.jpg"
+        },
+        {
+            "cardID": "FIN-269",
+            "setCode": "FIN",
+            "cardNumber": 269,
+            "cardName": "Ring of the Lucii",
+            "cardText": "{T}: Add {C}{C}.\n{2}, {T}, Pay 1 life: Tap target nonland permanent.",
+            "artFileName": "FIN_269",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_269.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_269.jpg"
+        },
+        {
+            "cardID": "FIN-270",
+            "setCode": "FIN",
+            "cardNumber": 270,
+            "cardName": "World Map",
+            "cardText": "{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{3}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+            "artFileName": "FIN_270",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_270.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_270.jpg"
+        },
+        {
+            "cardID": "FIN-271",
+            "setCode": "FIN",
+            "cardNumber": 271,
+            "cardName": "Adventurer's Inn",
+            "cardText": "When this land enters, you gain 2 life.\n{T}: Add {C}.",
+            "artFileName": "FIN_271",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_271.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_271.jpg"
+        },
+        {
+            "cardID": "FIN-272",
+            "setCode": "FIN",
+            "cardNumber": 272,
+            "cardName": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+            "cardText": "This land enters tapped.\n{T}: Add {G} or {U}.\n{5}{G}{U}, {T}: Transform this land. This ability costs {1} less to activate for each other Town you control.",
+            "artFileName": "FIN_272",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_272.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_272.jpg"
+        },
+        {
+            "cardID": "FIN-273",
+            "setCode": "FIN",
+            "cardNumber": 273,
+            "cardName": "Baron, Airship Kingdom",
+            "cardText": "This land enters tapped.\n{T}: Add {U} or {R}.",
+            "artFileName": "FIN_273",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_273.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_273.jpg"
+        },
+        {
+            "cardID": "FIN-274",
+            "setCode": "FIN",
+            "cardNumber": 274,
+            "cardName": "Capital City",
+            "cardText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\nCycling {2}",
+            "artFileName": "FIN_274",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_274.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_274.jpg"
+        },
+        {
+            "cardID": "FIN-275",
+            "setCode": "FIN",
+            "cardNumber": 275,
+            "cardName": "Clive's Hideaway",
+            "cardText": "Hideaway 4\n{T}: Add {C}.\n{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures.",
+            "artFileName": "FIN_275",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_275.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_275.jpg"
+        },
+        {
+            "cardID": "FIN-276",
+            "setCode": "FIN",
+            "cardNumber": 276,
+            "cardName": "Crossroads Village",
+            "cardText": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color.",
+            "artFileName": "FIN_276",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_276.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_276.jpg"
+        },
+        {
+            "cardID": "FIN-277",
+            "setCode": "FIN",
+            "cardNumber": 277,
+            "cardName": "Eden, Seat of the Sanctum",
+            "cardText": "{T}: Add {C}.\n{5}, {T}: Mill two cards. Then you may sacrifice this land. When you do, return another target permanent card from your graveyard to your hand.",
+            "artFileName": "FIN_277",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_277.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_277.jpg"
+        },
+        {
+            "cardID": "FIN-278",
+            "setCode": "FIN",
+            "cardNumber": 278,
+            "cardName": "Gohn, Town of Ruin",
+            "cardText": "This land enters tapped.\n{T}: Add {B} or {G}.",
+            "artFileName": "FIN_278",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_278.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_278.jpg"
+        },
+        {
+            "cardID": "FIN-279",
+            "setCode": "FIN",
+            "cardNumber": 279,
+            "cardName": "The Gold Saucer",
+            "cardText": "{T}: Add {C}.\n{2}, {T}: Flip a coin. If you win the flip, create a Treasure token.\n{3}, {T}, Sacrifice two artifacts: Draw a card.",
+            "artFileName": "FIN_279",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_279.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_279.jpg"
+        },
+        {
+            "cardID": "FIN-280",
+            "setCode": "FIN",
+            "cardNumber": 280,
+            "cardName": "Gongaga, Reactor Town",
+            "cardText": "This land enters tapped.\n{T}: Add {R} or {G}.",
+            "artFileName": "FIN_280",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_280.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_280.jpg"
+        },
+        {
+            "cardID": "FIN-281",
+            "setCode": "FIN",
+            "cardNumber": 281,
+            "cardName": "Guadosalam, Farplane Gateway",
+            "cardText": "This land enters tapped.\n{T}: Add {G} or {U}.",
+            "artFileName": "FIN_281",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_281.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_281.jpg"
+        },
+        {
+            "cardID": "FIN-282",
+            "setCode": "FIN",
+            "cardNumber": 282,
+            "cardName": "Insomnia, Crown City",
+            "cardText": "This land enters tapped.\n{T}: Add {W} or {B}.",
+            "artFileName": "FIN_282",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_282.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_282.jpg"
+        },
+        {
+            "cardID": "FIN-283",
+            "setCode": "FIN",
+            "cardNumber": 283,
+            "cardName": "Ishgard, the Holy See // Faith & Grief",
+            "cardText": "This land enters tapped.\n{T}: Add {W}.",
+            "artFileName": "FIN_283",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_283.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_283.jpg"
+        },
+        {
+            "cardID": "FIN-284",
+            "setCode": "FIN",
+            "cardNumber": 284,
+            "cardName": "Jidoor, Aristocratic Capital // Overture",
+            "cardText": "This land enters tapped.\n{T}: Add {U}.",
+            "artFileName": "FIN_284",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_284.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_284.jpg"
+        },
+        {
+            "cardID": "FIN-285",
+            "setCode": "FIN",
+            "cardNumber": 285,
+            "cardName": "Lindblum, Industrial Regency // Mage Siege",
+            "cardText": "This land enters tapped.\n{T}: Add {R}.",
+            "artFileName": "FIN_285",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_285.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_285.jpg"
+        },
+        {
+            "cardID": "FIN-286",
+            "setCode": "FIN",
+            "cardNumber": 286,
+            "cardName": "Midgar, City of Mako // Reactor Raid",
+            "cardText": "This land enters tapped.\n{T}: Add {B}.",
+            "artFileName": "FIN_286",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_286.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_286.jpg"
+        },
+        {
+            "cardID": "FIN-287",
+            "setCode": "FIN",
+            "cardNumber": 287,
+            "cardName": "Rabanastre, Royal City",
+            "cardText": "This land enters tapped.\n{T}: Add {R} or {W}.",
+            "artFileName": "FIN_287",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_287.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_287.jpg"
+        },
+        {
+            "cardID": "FIN-288",
+            "setCode": "FIN",
+            "cardNumber": 288,
+            "cardName": "Sharlayan, Nation of Scholars",
+            "cardText": "This land enters tapped.\n{T}: Add {W} or {U}.",
+            "artFileName": "FIN_288",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_288.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_288.jpg"
+        },
+        {
+            "cardID": "FIN-289",
+            "setCode": "FIN",
+            "cardNumber": 289,
+            "cardName": "Starting Town",
+            "cardText": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color.",
+            "artFileName": "FIN_289",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_289.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_289.jpg"
+        },
+        {
+            "cardID": "FIN-290",
+            "setCode": "FIN",
+            "cardNumber": 290,
+            "cardName": "Treno, Dark City",
+            "cardText": "This land enters tapped.\n{T}: Add {U} or {B}.",
+            "artFileName": "FIN_290",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_290.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_290.jpg"
+        },
+        {
+            "cardID": "FIN-291",
+            "setCode": "FIN",
+            "cardNumber": 291,
+            "cardName": "Vector, Imperial Capital",
+            "cardText": "This land enters tapped.\n{T}: Add {B} or {R}.",
+            "artFileName": "FIN_291",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_291.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_291.jpg"
+        },
+        {
+            "cardID": "FIN-292",
+            "setCode": "FIN",
+            "cardNumber": 292,
+            "cardName": "Windurst, Federation Center",
+            "cardText": "This land enters tapped.\n{T}: Add {G} or {W}.",
+            "artFileName": "FIN_292",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_292.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_292.jpg"
+        },
+        {
+            "cardID": "FIN-293",
+            "setCode": "FIN",
+            "cardNumber": 293,
+            "cardName": "Zanarkand, Ancient Metropolis // Lasting Fayth",
+            "cardText": "This land enters tapped.\n{T}: Add {G}.",
+            "artFileName": "FIN_293",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_293.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_293.jpg"
+        },
+        {
+            "cardID": "FIN-294",
+            "setCode": "FIN",
+            "cardNumber": 294,
+            "cardName": "Plains",
+            "cardText": "{T}: Add {W}",
+            "artFileName": "FIN_294",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_294.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_294.jpg"
+        },
+        {
+            "cardID": "FIN-295",
+            "setCode": "FIN",
+            "cardNumber": 295,
+            "cardName": "Plains",
+            "cardText": "{T}: Add {W}",
+            "artFileName": "FIN_295",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_295.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_295.jpg"
+        },
+        {
+            "cardID": "FIN-296",
+            "setCode": "FIN",
+            "cardNumber": 296,
+            "cardName": "Plains",
+            "cardText": "{T}: Add {W}",
+            "artFileName": "FIN_296",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_296.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_296.jpg"
+        },
+        {
+            "cardID": "FIN-297",
+            "setCode": "FIN",
+            "cardNumber": 297,
+            "cardName": "Island",
+            "cardText": "{T}: Add {U}",
+            "artFileName": "FIN_297",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_297.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_297.jpg"
+        },
+        {
+            "cardID": "FIN-298",
+            "setCode": "FIN",
+            "cardNumber": 298,
+            "cardName": "Island",
+            "cardText": "{T}: Add {U}",
+            "artFileName": "FIN_298",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_298.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_298.jpg"
+        },
+        {
+            "cardID": "FIN-299",
+            "setCode": "FIN",
+            "cardNumber": 299,
+            "cardName": "Island",
+            "cardText": "{T}: Add {U}",
+            "artFileName": "FIN_299",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_299.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_299.jpg"
+        },
+        {
+            "cardID": "FIN-300",
+            "setCode": "FIN",
+            "cardNumber": 300,
+            "cardName": "Swamp",
+            "cardText": "{T}: Add {S}",
+            "artFileName": "FIN_300",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_300.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_300.jpg"
+        },
+        {
+            "cardID": "FIN-301",
+            "setCode": "FIN",
+            "cardNumber": 301,
+            "cardName": "Swamp",
+            "cardText": "{T}: Add {S}",
+            "artFileName": "FIN_301",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_301.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_301.jpg"
+        },
+        {
+            "cardID": "FIN-302",
+            "setCode": "FIN",
+            "cardNumber": 302,
+            "cardName": "Swamp",
+            "cardText": "{T}: Add {S}",
+            "artFileName": "FIN_302",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_302.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_302.jpg"
+        },
+        {
+            "cardID": "FIN-303",
+            "setCode": "FIN",
+            "cardNumber": 303,
+            "cardName": "Mountain",
+            "cardText": "{T}: Add {R}",
+            "artFileName": "FIN_303",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_303.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_303.jpg"
+        },
+        {
+            "cardID": "FIN-304",
+            "setCode": "FIN",
+            "cardNumber": 304,
+            "cardName": "Mountain",
+            "cardText": "{T}: Add {R}",
+            "artFileName": "FIN_304",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_304.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_304.jpg"
+        },
+        {
+            "cardID": "FIN-305",
+            "setCode": "FIN",
+            "cardNumber": 305,
+            "cardName": "Mountain",
+            "cardText": "{T}: Add {R}",
+            "artFileName": "FIN_305",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_305.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_305.jpg"
+        },
+        {
+            "cardID": "FIN-306",
+            "setCode": "FIN",
+            "cardNumber": 306,
+            "cardName": "Forest",
+            "cardText": "{T}: Add {F}",
+            "artFileName": "FIN_306",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_306.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_306.jpg"
+        },
+        {
+            "cardID": "FIN-307",
+            "setCode": "FIN",
+            "cardNumber": 307,
+            "cardName": "Forest",
+            "cardText": "{T}: Add {F}",
+            "artFileName": "FIN_307",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_307.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_307.jpg"
+        },
+        {
+            "cardID": "FIN-308",
+            "setCode": "FIN",
+            "cardNumber": 308,
+            "cardName": "Forest",
+            "cardText": "{T}: Add {F}",
+            "artFileName": "FIN_308",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_308.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_308.jpg"
+        },
+        {
+            "cardID": "FIN-309",
+            "setCode": "FIN",
+            "cardNumber": 309,
+            "cardName": "Wastes",
+            "cardText": "{T}: Add {C}.",
+            "artFileName": "FIN_309",
+            "artUrl": "https://the-codex-data.pages.dev/CardArt/FIN/FIN_309.jpg",
+            "fullCardUrl": "https://the-codex-data.pages.dev/FullCards/FIN/FIN_309.jpg"
+        }
+    ]
+}
